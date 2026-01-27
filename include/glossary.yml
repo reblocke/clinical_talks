@@ -1,0 +1,10 @@
+package: |
+  A curated collection of functions designed to accomplish related tasks. Programming languages come pre-installed with basic packages, but you’ll often download additional packages to access specialized functions. Each language provides straightforward ways to locate and install new packages.
+arguments: |
+  Inputs provided to a function so it can perform its task. For instance, a function calculating a mean needs a dataset, while logistic regression requires data, the outcome variable, and predictor variables.
+function: |
+  A reusable piece of code that performs a specific task. Examples include calculating the mean of a dataset or running logistic regression.
+IDE: |
+  Integrated Development Environment, a program that allows for writing, running, and debugging code within a single program.
+Explainable programming: |
+  Writing analytic code in a clear, structured, and understandable way so that readers (including reviewers, collaborators, and future researchers) can easily follow and replicate the steps of your analysis. In quantitative disciplines such as mathematics and computer science, providing such code is already standard practice. Medicine is beginning to adopt this approach, recognizing its importance for transparency and reproducibility.

@@ -1,0 +1,158 @@
+Codex Implementation Ticket: Populate Clinical Talks from archive/ materials
+
+Title: Build “Clinical Talks” topic-based chapters & pages by ingesting archive/ materials
+
+Background / Context
+	•	The source repo intro_clin_research is a Quarto-based book/site (e.g., _quarto.yml, multiple .qmd chapters, _freeze/, and an archive/ folder).  ￼
+	•	The target repo clinical_talks is the new home for a topic-oriented “Clinical Talks” book; it currently appears minimally scaffolded on GitHub.  ￼
+	•	Locally, both repos include an archive/ folder containing the raw materials that should drive the book’s content organization.
+
+Objective
+
+Create a first-pass topic-based chapter organization and generate pages for each topic by using files in clinical_talks/archive/, with these rules:
+	•	Markdown sources: keep content extremely close to original; allow light editing for signposting, structure, and prose continuity.
+	•	Similar/overlapping markdown: merge into one canonical page while preserving all details.
+	•	Slides/PDFs/other binaries: create a topic page that links to the original asset (and optionally embeds a PDF preview if feasible), without inventing content.
+
+Scope (in)
+	1.	Inventory archive/ and build a content manifest (what exists, type, guessed topic, destination page).
+	2.	Propose and implement a chapter taxonomy based on existing materials (directory names, filenames, headings).
+	3.	Create one topic page per topic, populated from:
+	•	Markdown → content imported + lightly edited for readability
+	•	PowerPoints/PDFs → “wrapper” pages linking to the originals + brief, non-hallucinated metadata
+	4.	Update Quarto navigation (sidebar/navbar/book chapters) to reflect new organization.
+	5.	Add lightweight tooling to make this repeatable (a script and/or a manifest file), so later prompts can refine the structure and cross-linking.
+
+Non-goals (explicitly out)
+	•	No deep rewriting, new clinical claims, or “filling in” missing medical detail beyond what exists in archive/.
+	•	No aggressive refactors that change meaning or remove nuance from source markdown.
+	•	No heavy conversion of PPTX → reconstructed lecture notes unless speaker notes exist and can be extracted reliably.
+	•	No external web research or new citations added unless already present in the archive.
+
+⸻
+
+Implementation Plan (Codex should follow)
+
+Phase 0 — Preflight & Safety
+	1.	Work in the target repo:
+	•	cd "/Users/blocke/Box Sync/Residency Personal Files/Scholarly Work/Locke Research Projects/clinical_talks"
+	2.	Ensure there is an archive/ folder. If absent, do not invent content; stop and report what’s missing.
+	3.	Identify whether this repo is Quarto-based:
+	•	If _quarto.yml exists, read it and preserve its overall style (website vs book, output dir, sidebar config).
+	•	If missing, create a Quarto scaffold consistent with the “port structure” outcome (do minimal, but enough to render pages).
+
+Phase 1 — Inventory & Manifest
+
+Create a machine-readable manifest of archive materials.
+
+Deliverable: scripts/build_manifest.py (or .R) + generated content/manifest.yml (or .json/.csv).
+
+Manifest fields (minimum):
+	•	source_path (relative path under archive/)
+	•	ext (file extension)
+	•	kind (markdown, slides, pdf, doc, image, other)
+	•	guessed_topic (string)
+	•	guessed_section (string; chapter/category)
+	•	dest_page (relative .qmd path to create)
+	•	title (best-effort from filename or first H1; for binaries: filename-derived)
+	•	notes (e.g., “duplicate candidate with X”, “contains speaker notes”)
+
+Heuristics:
+	•	Topic inference should prefer:
+	1.	directory names, 2) filename stem, 3) first H1 heading (markdown only), 4) top-level headings.
+	•	Normalize names into kebab-case file paths, Title Case titles.
+
+Phase 2 — Chapter Taxonomy (Topic Organization)
+
+Using the manifest, create a small number of top-level sections (chapters) based on clustering:
+	•	Start from existing archive/ directory structure (often already meaningful).
+	•	Merge tiny categories into “Other / Misc” rather than creating many shallow chapters.
+	•	Prefer 6–12 top-level sections maximum for usability.
+
+Deliverable:
+	•	content/_toc.yml or content/chapters.yml (choose a format that matches Quarto configuration), AND
+	•	updates to _quarto.yml to wire in the new structure.
+
+Phase 3 — Generate Topic Pages
+
+Create pages under a consistent directory, e.g.:
+	•	talks/<section>/<topic>.qmd
+	•	plus section landing pages: talks/<section>/index.qmd
+
+3A. Markdown → Canonical .qmd
+For each markdown-ish source (.md, .qmd, .Rmd):
+	1.	Create/append into the destination .qmd page.
+	2.	Preserve original wording and ordering as much as possible.
+	3.	Add only minimal editorial structure:
+	•	A short “What this covers” intro (1–3 bullets) derived only from headings / explicit statements.
+	•	Add signposting headings like “Key points”, “Common pitfalls”, “Checklist” only if they can be populated by rearranging existing text (no invention).
+	4.	Fix obvious rendering issues (broken relative links, malformed headings, duplicate H1).
+	5.	Add a “Source materials” block at bottom listing the included archive files.
+
+Merging duplicates/similar pages
+	•	Detect likely duplicates by:
+	•	identical/similar filename stems, OR
+	•	high overlap in H1/H2 headings, OR
+	•	near-identical first 200–500 words.
+	•	When merging:
+	•	Keep all unique details.
+	•	If content overlaps, keep the clearest version and include deltas as subsections.
+	•	Do not paraphrase highly technical content unless necessary for formatting; prefer verbatim.
+
+3B. Slides/PDFs → Wrapper pages
+For .pptx, .pdf:
+	1.	Do not attempt lossy “transcription” by default.
+	2.	Create a wrapper .qmd page with:
+	•	Title (from filename)
+	•	A short “Summary” section with placeholders unless extractable metadata exists (e.g., slide titles or speaker notes)
+	•	A prominent link to the asset (relative link within repo)
+	•	Optional: if PDF, embed preview (Quarto supports HTML embedding; do only if it renders cleanly)
+	•	“Source materials” block
+
+If PPTX speaker notes are present and extractable reliably, Codex may:
+	•	extract notes into a “Speaker notes” section (clearly labeled as extracted notes)
+	•	otherwise leave as TODO.
+
+Phase 4 — Navigation + Indexing
+	1.	Update the Quarto navigation so a reader can reach every topic page:
+	•	If “book” project: ensure chapters are in book: chapters:
+	•	If “website” project: ensure sidebar includes section indexes + topic pages
+	2.	Create/refresh the root landing page (index.qmd) to reflect “Clinical Talks” and link to the new sections.
+
+Phase 5 — Build & QA
+
+Run:
+	•	quarto render (or the project’s existing build command)
+	•	validate:
+	•	no broken internal links to assets
+	•	no duplicate output paths
+	•	pages render without YAML/front-matter errors
+	•	navigation matches the new taxonomy
+
+Phase 6 — Commits
+
+Prefer multiple commits:
+	1.	manifest + tooling
+	2.	navigation/toc + section index pages
+	3.	generated topic pages (can be squashed if too many)
+
+⸻
+
+Acceptance Criteria
+	•	A generated manifest exists (and is reproducible by running a script/command).
+	•	A clear topic-based chapter structure exists, reflected in Quarto config.
+	•	Every eligible archive item is either:
+	•	included into a canonical topic page (markdown), or
+	•	linked from a wrapper page (pptx/pdf/etc), or
+	•	explicitly listed as “unassigned” in the manifest with a reason.
+	•	Similar markdown sources are merged thoughtfully; no meaningful detail is dropped.
+	•	All created pages include a “Source materials” section linking back to the original archive files.
+	•	The site/book renders successfully.
+
+⸻
+
+Notes / Guardrails for Codex
+	•	Prefer conservative editing: formatting + signposting > paraphrase.
+	•	Do not add medical/clinical content not present in the archive.
+	•	Keep archive/ as the “raw source of truth”; do not delete or overwrite originals.
+	•	If file sizes are large (e.g., PPTX/PDF), consider whether Git LFS is needed; do not silently introduce LFS unless repo already uses it—flag it in output.

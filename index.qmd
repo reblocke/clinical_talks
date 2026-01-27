@@ -1,0 +1,30 @@
+---
+title: Clinical Talks
+---
+
+Welcome to **Clinical Talks**, a resident-facing collection of concise clinical topic outlines.
+Content is intentionally lightweight while we port and curate the archive materials.
+
+## What this is
+Clinical Talks is a living set of short, high-yield talk pages meant to support bedside teaching,
+pre-round review, and rapid refreshers for common inpatient topics. TODO: Expand the project overview.
+
+## Intended audience
+- Internal medicine residents and fellows.
+- Subspecialty trainees looking for quick refreshers.
+- TODO: Clarify broader audiences as needed.
+
+## How to use this site
+1. Pick a topic from the sidebar.
+2. Scan the learning objectives and bottom line.
+3. Review the approach and red flags before rounds.
+4. TODO: Add guidance for contributing updates.
+
+## How this site is organized
+- Each topic lives in `talks/` and follows a standard outline.
+- Raw source materials (slides, notes, PDFs) live in `archive/` and are linked from each talk.
+- TODO: Add a taxonomy once topics are curated.
+
+## Disclaimer
+This resource is for education only and does not constitute medical advice.
+Always follow local guidelines and consult supervising clinicians. TODO: Expand as needed.

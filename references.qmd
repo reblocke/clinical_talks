@@ -1,0 +1,7 @@
+# References {.unnumbered}
+
+This appendix will collect references that are cited across talk pages.
+TODO: Add citations as content is migrated into individual talks.
+
+::: {#refs}
+:::
