@@ -1,0 +1,231 @@
+Codex Implementation Ticket: Port intro_clin_research Quarto-book scaffold to clinical_talks and retitle to “Clinical Talks”
+
+Summary
+
+Create a Quarto book scaffold in clinical_talks by porting the existing Quarto structure (config, folders, styling, conventions) from intro_clin_research, while replacing the chapter list so that each page corresponds to a clinical talk topic. Populate each talk page as a stub (template + TODO sections). Use the archive/ folder in clinical_talks as the source-of-truth to infer talk topics and link to source materials.
+
+This ticket is structure-only; substantive content migration/writing will happen in a later prompt.
+
+The source repo currently contains a Quarto book project with multiple .qmd chapters and supporting folders like _extensions/, include/, images/, docs/, and _freeze/.  ￼
+The target repo currently has only minimal files (e.g., .gitattributes, LICENSE, README.md).  ￼
+
+⸻
+
+Repositories
+
+Source repo (GitHub):  https://github.com/reblocke/intro_clin_research
+Target repo (GitHub):  https://github.com/reblocke/clinical_talks
+
+Source local path:
+  /Users/blocke/Box Sync/Residency Personal Files/Scholarly Work/Locke Research Projects/intro_clin_research
+
+Target local path:
+  /Users/blocke/Box Sync/Residency Personal Files/Scholarly Work/Locke Research Projects/clinical_talks
+
+
+⸻
+
+Goals
+	•	Retitle the project to “Clinical Talks” everywhere it matters (Quarto config, site title, README).
+	•	Port the structural scaffold from intro_clin_research to clinical_talks:
+	•	Quarto book wiring (_quarto.yml, chapter organization, includes/extensions, styling assets).
+	•	Consistent conventions for images, includes, references, and rendering output.
+	•	Replace “chapters” with “talk topic pages”:
+	•	Create one .qmd per talk topic.
+	•	Minimal stub content (section headers + TODOs).
+	•	Use archive/ in clinical_talks to drive page creation:
+	•	Each talk page should link to its corresponding source material(s) under archive/.
+	•	Enable GitHub Pages publishing in a simple, reproducible way (see “Publishing approach” below).
+
+⸻
+
+Non-goals
+	•	Writing full clinical content.
+	•	Converting slides into prose.
+	•	Curating citations/references beyond placeholders.
+	•	Reorganizing/rewriting the archive/ content (except possibly to create a stable, talk-per-folder structure if it’s currently messy).
+
+⸻
+
+Publishing approach
+
+Use Quarto’s simplest GitHub Pages approach: render to docs/ and commit docs/ (plus add .nojekyll). This is explicitly supported by Quarto’s documentation.  ￼
+
+Note: If you prefer a cleaner git history (no rendered output committed), we can switch later to the “publish to gh-pages branch via GitHub Actions” approach. Quarto provides an official workflow for that.  ￼
+
+⸻
+
+Implementation Plan (Codex Runbook)
+
+0) Branching and safety
+	•	In clinical_talks, create a feature branch:
+	•	codex/port-quarto-scaffold
+	•	Do not modify intro_clin_research except to read/copy from it.
+	•	Ensure no PHI/PII exists in clinical_talks/archive/ before publishing anything (quick scan; do not attempt “clever” detection—just flag obvious risks).
+
+⸻
+
+1) Copy the Quarto scaffold (structure, not content)
+
+From intro_clin_research → clinical_talks, copy the structural pieces required to build/render a Quarto book, including (as applicable):
+
+Copy / recreate (preferred)
+	•	_quarto.yml (then edit heavily—see next section)
+	•	_extensions/ (the source repo uses Quarto extensions, e.g., quarto-ext/fontawesome).  ￼
+	•	include/ (custom includes, partials, CSL, etc., if present).  ￼
+	•	images/ (or at minimum any shared branding/cover assets).  ￼
+	•	references.qmd (keep as an appendix placeholder)  ￼
+	•	README.md (rewrite for clinical_talks)
+	•	.gitignore (merge intelligently with existing)
+	•	Optional (keep only if you want RStudio ergonomics consistent with the source):
+	•	clinical_talks.Rproj (create new, do not keep the old name)
+	•	.Rprofile, .Rbuildignore only if still relevant to the workflow
+
+Do NOT copy
+	•	docs/ from the source repo (it is rendered output; we will render fresh in the target)
+	•	_freeze/ from the source repo (render fresh; only commit after first render if using freeze)
+	•	Any OS/editor artifacts:
+	•	.DS_Store, .Rhistory, etc. (these appear in the source repo but should not be ported as “best practice”).  ￼
+
+⸻
+
+2) Rebuild _quarto.yml for “Clinical Talks”
+
+Edit the copied _quarto.yml so it is correct for clinical_talks:
+	•	Set book/project metadata:
+	•	Title: Clinical Talks
+	•	Repo URL: reblocke/clinical_talks
+	•	Site URL: expected to be https://reblocke.github.io/clinical_talks/ (standard GH Pages convention)
+	•	Configure output directory for GitHub Pages:
+	•	project: output-dir: docs (Quarto “Render to docs” method).  ￼
+	•	Add .nojekyll at repo root.  ￼
+	•	Add freeze to support reproducible rendering without CI execution (recommended even if you don’t have much code):
+	•	execute: freeze: auto (Quarto recommends checking _freeze/ into version control when used).  ￼
+	•	Replace the chapter list with talk topic pages:
+	•	Remove research-focused chapters (e.g., project selection, stats foundations, regression, etc.) and replace with talk .qmds.
+
+Expected source chapters (for reference only): the source book includes items like “How to Select a Project”, “Statistical Software”, “Data”, “Basics of Study Design”, etc.  ￼
+Target chapters: index.qmd + talk topic pages + (optional) appendices like references.qmd.
+
+⸻
+
+3) Create a talk-page layout and generate stub pages from archive/
+
+Create a stable structure to support “one page per topic area.”
+
+Directory convention
+	•	Create talks/ directory in the repo root:
+	•	talks/ holds Quarto pages (.qmd) only
+	•	archive/ holds raw source materials (slides, notes, PDFs, etc.)
+
+Talk discovery rule (must be deterministic)
+	•	If archive/ contains top-level folders: treat each folder as one talk topic.
+	•	Else (flat archive): treat each file as a candidate talk if it matches:
+	•	*.pptx, *.pdf, *.md, *.qmd, *.docx (adjust as needed)
+	•	Ignore hidden/system files.
+
+For each discovered talk topic
+	•	Create a slugified filename: talks/<slug>.qmd
+	•	Create a stub page with:
+	•	YAML front matter: title, optionally subtitle, and set draft: true (so it’s visually “in progress”)
+	•	Standard talk outline headings, e.g.:
+	•	Clinical question / why this matters
+	•	Key points
+	•	Approach / algorithm
+	•	Evidence / guidelines (TODO)
+	•	Pitfalls / pearls
+	•	References (TODO)
+	•	A “Source materials” section linking to the relevant archive/... files.
+
+Add pages to the book ToC
+	•	Add all generated talks/*.qmd into _quarto.yml book: chapters: in a stable order:
+	•	Alphabetical by slug, or
+	•	If archive folders have dates, sort by date.
+
+⸻
+
+4) Create index.qmd tailored to “Clinical Talks”
+	•	Replace the intro_clin_research “Overview” content with a minimal landing page:
+	•	What this is (a book of clinical talks)
+	•	Intended audience (residents, etc.)
+	•	How to use (read before rounds; quick reference)
+	•	Disclaimer (educational; not medical advice)
+	•	A short “How this site is organized” section pointing to the talk pages
+
+(Keep the content brief; placeholders are fine.)
+
+⸻
+
+5) References appendix (placeholder)
+	•	Keep references.qmd (appendix) but rewrite it to match the new project:
+	•	Explain how references will be managed (eventually via bibliography: in front matter + .bib)
+	•	If the source project uses a references.bib or CSL in include/, copy it; otherwise create a placeholder references.bib with 1–2 dummy entries.
+
+⸻
+
+6) Update README.md for target repo
+
+Rewrite README.md so it is accurate for clinical_talks:
+	•	Project description: “Clinical Talks”
+	•	Local preview:
+	•	quarto preview
+	•	Render for publishing:
+	•	quarto render (HTML)
+	•	GitHub Pages note:
+	•	“This repo publishes from docs/ on main”
+	•	Contribution/editing notes (optional)
+
+⸻
+
+7) Rendering and verification
+	•	Run locally from repo root:
+	•	quarto render (or quarto render --to html if the config includes PDF/EPUB and you want to avoid TeX)
+	•	Verify:
+	•	docs/index.html exists
+	•	Site title shows “Clinical Talks”
+	•	Sidebar/ToC lists talk pages
+	•	Each talk page loads and links to archive artifacts correctly
+	•	Commit rendered output:
+	•	git add docs .nojekyll _freeze (if freeze produces _freeze/)
+	•	git commit -m "Scaffold Quarto book for Clinical Talks"
+
+Quarto explicitly documents output-dir: docs, committing docs/, and adding .nojekyll for GitHub Pages.  ￼
+
+⸻
+
+Acceptance Criteria
+	•	clinical_talks contains a functional Quarto book scaffold analogous to intro_clin_research’s structure (extensions/includes/images conventions are carried over).  ￼
+	•	_quarto.yml title is Clinical Talks and chapter list is talk-topic pages, not research-training chapters.
+	•	talks/ directory exists with at least one stub talk page (or one per archive item discovered).
+	•	quarto render succeeds and produces a navigable HTML site under docs/.
+	•	.nojekyll exists at repo root.  ￼
+	•	README describes how to preview/render and how publishing works.
+	•	No OS/editor junk files are added (e.g., .DS_Store, .Rhistory).
+
+⸻
+
+Deliverables (in PR)
+	•	Structural port + rewritten config + talk stubs + working render output:
+	•	_quarto.yml
+	•	index.qmd
+	•	talks/*.qmd (generated stubs)
+	•	references.qmd (+ optional references.bib)
+	•	_extensions/, include/, images/ as needed
+	•	.nojekyll
+	•	docs/ (rendered output)
+	•	Updated README.md
+	•	Updated .gitignore
+
+⸻
+
+Notes for Codex
+	•	Prefer small, logically separated commits:
+	1.	copy scaffold
+	2.	rewrite _quarto.yml + retitle
+	3.	generate talk stubs from archive/
+	4.	render + publish output (docs/, _freeze/)
+	5.	README cleanup
+	•	Do not attempt to “fill in” medical content—leave TODO markers.
+	•	If clinical_talks/archive/ is not present in the checked-out repo, create it (empty) and still generate 1–2 placeholder talk pages so the ToC is not empty.
+
+⸻
