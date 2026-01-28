@@ -1,0 +1,20 @@
+I got the following error when I executed 'quarto preview': 
+
+"""quarto preview
+ERROR: Include directive failed.
+  in file /Users/blocke/Box Sync/Residency Personal Files/Scholarly Work/Locke Research Projects/clinical_talks/talks/airway-ventilation/ards.qmd, 
+  could not find file /Users/blocke/Box Sync/Residency Personal Files/Scholarly Work/Locke Research Projects/clinical_talks/talks/airway-ventilation/archive/Clinical Practice Notes/ards.md.
+
+Stack trace:
+    at retrieveInclude (file:///Applications/quarto/bin/quarto.js:39122:19)
+    at standaloneInclude (file:///Applications/quarto/bin/quarto.js:39158:11)
+    at processMarkdownIncludes (file:///Applications/quarto/bin/quarto.js:39388:38)
+    at expandIncludes (file:///Applications/quarto/bin/quarto.js:39414:11)
+    at eventLoopTick (ext:core/01_core.js:175:7)
+    at async projectResolveFullMarkdownForFile (file:///Applications/quarto/bin/quarto.js:40439:25)
+    at async fileExecutionEngine (file:///Applications/quarto/bin/quarto.js:42204:26)
+    at async findInputs (file:///Applications/quarto/bin/quarto.js:100749:36)
+    at async findInputs (file:///Applications/quarto/bin/quarto.js:100745:17)
+    at async findChapters (file:///Applications/quarto/bin/quarto.js:100778:13)""" 
+
+    WHat is causing it? what needs to be done/fixed?
