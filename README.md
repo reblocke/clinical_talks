@@ -1,6 +1,9 @@
 # Clinical Talks
 
-Resident-facing clinical talk outlines built with Quarto.
+Trainee-facing clinical talk outlines built with Quarto.
+
+[https://reblocke.github.io/clinical_talks/]
+
 
 ## Preview locally
 1. Install Quarto (https://quarto.org/).
