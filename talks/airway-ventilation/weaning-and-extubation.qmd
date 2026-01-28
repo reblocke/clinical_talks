@@ -48,7 +48,7 @@ draft: true
 ## Source notes
 
 ### Weaning And Extubation
-{{< include "../../archive/Clinical Practice Notes/weaning-and-extubation.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/weaning-and-extubation.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/weaning-and-extubation.md](../../archive/Clinical%20Practice%20Notes/weaning-and-extubation.md)

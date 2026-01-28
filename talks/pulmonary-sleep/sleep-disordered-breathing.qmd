@@ -44,7 +44,7 @@ draft: true
 ## Source notes
 
 ### Sleep Disordered Breathing
-{{< include "../../archive/Clinical Practice Notes/sleep-disordered-breathing.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/sleep-disordered-breathing.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/sleep-disordered-breathing.md](../../archive/Clinical%20Practice%20Notes/sleep-disordered-breathing.md)

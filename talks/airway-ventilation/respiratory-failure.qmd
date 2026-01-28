@@ -39,7 +39,7 @@ draft: true
 ## Source notes
 
 ### Respiratory Failure
-{{< include "../../archive/Clinical Practice Notes/respiratory-failure.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/respiratory-failure.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/respiratory-failure.md](../../archive/Clinical%20Practice%20Notes/respiratory-failure.md)

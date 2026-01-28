@@ -43,7 +43,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Eosinophilic Lung Disease
-{{< include "../../archive/Clinical Practice Notes/eosinophilic-lung-disease.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/eosinophilic-lung-disease.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/eosinophilic-lung-disease.md](../../archive/Clinical%20Practice%20Notes/eosinophilic-lung-disease.md)

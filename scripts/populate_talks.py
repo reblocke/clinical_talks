@@ -326,7 +326,9 @@ def build_markdown_page(
     lines.append("")
     lines.append("## Source notes")
     for source in source_paths:
-        include_path = relpath_for_source(dest_path, archive_dir, source)
+        include_path = relpath_for_source(
+            dest_path, archive_dir.parent / "include" / "source-notes", source
+        )
         lines.extend(
             [
                 "",

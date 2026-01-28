@@ -41,7 +41,7 @@ draft: true
 ## Source notes
 
 ### Goals Of Care
-{{< include "../../archive/Clinical Practice Notes/goals-of-care.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/goals-of-care.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/goals-of-care.md](../../archive/Clinical%20Practice%20Notes/goals-of-care.md)

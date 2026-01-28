@@ -41,7 +41,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Metabolism
-{{< include "../../archive/Clinical Practice Notes/metabolism.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/metabolism.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/metabolism.md](../../archive/Clinical%20Practice%20Notes/metabolism.md)

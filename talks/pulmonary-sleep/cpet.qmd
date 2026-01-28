@@ -47,7 +47,7 @@ draft: true
 ## Source notes
 
 ### CPET
-{{< include "../../archive/Clinical Practice Notes/cpet.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/cpet.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/cpet.md](../../archive/Clinical%20Practice%20Notes/cpet.md)

@@ -39,7 +39,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Obstetrical Critical Care
-{{< include "../../archive/Clinical Practice Notes/obstetrical-critical-care.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/obstetrical-critical-care.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/obstetrical-critical-care.md](../../archive/Clinical%20Practice%20Notes/obstetrical-critical-care.md)

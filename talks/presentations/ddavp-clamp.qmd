@@ -205,6 +205,9 @@ draft: true
 - Not paying attention to the UOP to tell when ADH turned off
 - Not paying attention to their solute inputs (esp if not clamping)
 ### Slide 19
+- Has there been a change?
+- https://reblocke.github.io/sodiumchange/
+### Slide 20
 - Does anything matter? 2 recent studies:
 - EHRs of 5 Toronto Hospitals
 - Inclusion: Inpt, 1st Na <130. 2010—2020. N22858
@@ -213,7 +216,7 @@ draft: true
 - Results: Mean Na 125. 17.7% over-corrected
 - 30% got CT, 6.6% got MRI
 - Devastating+Rare Hard to know
-### Slide 20
+### Slide 21
 - Does anything matter? 2 recent studies:
 - EHRs of BWH+MGH 1993-2018
 - Inclusion: Inpt, 1st Na <120. N3274
@@ -221,7 +224,7 @@ draft: true
 - Outcome: CPM (NLP of MRI report), LOS, Mortality
 - Results: Mean Na 116.
 - Where did correction → CPM come from?
-### Slide 21
+### Slide 22
 - Hyponatremia: summary
 - It is possible we are entirely mistaken about the cause of CPM / ODS
 - We know very little for certain, other than it is rare.
@@ -231,7 +234,7 @@ draft: true
 - Tools for fellows: UOP, response to solutes, clinical circumstance, cycling the labs prn
 - Reactive managementOK if mild, limited GFR/ADH suppression, Hypervolemia
 - Otherwise, commit to DDAVP + Hypertonic saline proactively
-### Slide 22
+### Slide 23
 - Key References
 - https://www.coreimpodcast.com/2021/02/10/5-pearls-on-hyponatremia-episode-1/
 - Desmopressin to Prevent Rapid Sodium Correction in Severe Hyponatremia: A Systematic Review: DOI: 10.1016/j.amjmed.2015.04.040

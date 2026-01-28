@@ -1,30 +1,51 @@
 # Clinical Talks
 
-Trainee-facing clinical talk outlines built with Quarto.
+Resident-facing clinical talk pages built with Quarto.
 
-[https://reblocke.github.io/clinical_talks/]
+Site: https://reblocke.github.io/clinical_talks/
 
+## Repo layout (current)
+- `index.qmd`: landing page
+- `_quarto.yml`: site config + navigation
+- `talks/`: one `.qmd` per talk (generated + editable)
+- `archive/`: raw source notes (do not modify)
+- `include/source-notes/`: normalized markdown copies of `archive/` used for rendering
+- `content/manifest.yml`: inventory of archive files → talk pages
+- `content/chapters.yml`: derived nav structure
+- `docs/`: rendered site output (GitHub Pages)
 
 ## Preview locally
-1. Install Quarto (https://quarto.org/).
-2. Run `quarto preview` from the repo root.
+1. Install Quarto: https://quarto.org/
+2. From repo root, run:
+   - `quarto preview`
 
 ## Render for publishing
-- Run `quarto render` to build the HTML book into `docs/`.
-- GitHub Pages is configured to publish from `docs/` on `main`.
-- Keep `.nojekyll` at the repo root when publishing.
+- `quarto render` builds the site into `docs/`.
+- GitHub Pages publishes from `docs/` on `main`.
+- Keep `.nojekyll` at the repo root.
 
-## Add a new talk page
-1. Add source material under `archive/` (markdown notes, slides, PDFs).
-2. Regenerate the manifest with `python3 scripts/build_manifest.py`.
-3. Regenerate pages + navigation with `python3 scripts/generate_talks.py`.
-4. Review the generated page in `talks/<section>/<slug>.qmd` for accuracy.
+## Generate / update talk pages
+When you add or change source material in `archive/`:
+1. Rebuild the manifest:
+   - `python3 scripts/build_manifest.py`
+2. Regenerate talk pages + navigation:
+   - `python3 scripts/generate_talks.py`
+3. Normalize archive markdown (fix heading spacing, etc.):
+   - `python3 scripts/normalize_archive_markdown.py`
+4. Populate talk pages with draft content:
+   - `python3 scripts/populate_talks.py`
 
-## Archive manifest + tooling
-- `content/manifest.yml` inventories archive materials and their destination pages.
-- `content/chapters.yml` mirrors the current book structure for review.
-- `scripts/build_manifest.py` and `scripts/generate_talks.py` keep the site reproducible.
+Notes:
+- Talk pages remain editable; re-running scripts will overwrite generated sections.
+- Source notes at the bottom of each talk are included from `include/source-notes/`.
+
+## Scripts (summary)
+- `scripts/build_manifest.py`: index archive files into `content/manifest.yml`
+- `scripts/generate_talks.py`: create talk pages + update navigation
+- `scripts/normalize_archive_markdown.py`: clean heading formatting (without touching `archive/`)
+- `scripts/populate_talks.py`: draft talk content from archive notes and PPTX slide text
 
 ## Source materials
 Raw notes, slides, and PDFs live in `archive/`. Treat these as source-of-truth inputs and
-avoid rewriting or deleting them during the initial port.
+avoid rewriting or deleting them. The site renders normalized copies from
+`include/source-notes/` to keep headings Quarto-friendly.

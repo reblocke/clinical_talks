@@ -109,7 +109,7 @@ def build_markdown_page(
     ]
 
     for source in source_paths:
-        include_path = f"archive/{source}"
+        include_path = f"include/source-notes/{source}"
         lines.extend(
             [
                 "",

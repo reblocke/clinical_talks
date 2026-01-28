@@ -41,7 +41,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### CTEPH
-{{< include "../../archive/Clinical Practice Notes/cteph.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/cteph.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/cteph.md](../../archive/Clinical%20Practice%20Notes/cteph.md)

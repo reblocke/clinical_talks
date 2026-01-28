@@ -52,7 +52,7 @@ draft: true
 ## Source notes
 
 ### VTE
-{{< include "../../archive/Clinical Practice Notes/vte.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/vte.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/vte.md](../../archive/Clinical%20Practice%20Notes/vte.md)

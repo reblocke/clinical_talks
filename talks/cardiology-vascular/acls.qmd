@@ -43,7 +43,7 @@ draft: true
 ## Source notes
 
 ### ACLS
-{{< include "../../archive/Clinical Practice Notes/acls.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/acls.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/acls.md](../../archive/Clinical%20Practice%20Notes/acls.md)

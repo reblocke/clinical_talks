@@ -42,7 +42,7 @@ draft: true
 ## Source notes
 
 ### Alcohol Withdrawal
-{{< include "../../archive/Clinical Practice Notes/alcohol-withdrawal.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/alcohol-withdrawal.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/alcohol-withdrawal.md](../../archive/Clinical%20Practice%20Notes/alcohol-withdrawal.md)

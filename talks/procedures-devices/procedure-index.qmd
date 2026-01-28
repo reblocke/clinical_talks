@@ -44,7 +44,7 @@ draft: true
 ## Source notes
 
 ### Procedure Index
-{{< include "../../archive/procedure-index.md" >}}
+{{< include "../../include/source-notes/procedure-index.md" >}}
 
 ## Source materials
 - [procedure-index.md](../../archive/procedure-index.md)

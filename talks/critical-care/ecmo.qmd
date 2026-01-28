@@ -43,7 +43,7 @@ draft: true
 ## Source notes
 
 ### ECMO
-{{< include "../../archive/Clinical Practice Notes/ecmo.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/ecmo.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ecmo.md](../../archive/Clinical%20Practice%20Notes/ecmo.md)

@@ -540,7 +540,12 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#mrsa-nasal-swab-1" id="toc-mrsa-nasal-swab-1" class="nav-link" data-scroll-target="#mrsa-nasal-swab-1"><span class="header-section-number">74</span> MRSA Nasal Swab</a>
   <ul class="collapse">
-  <li><a href="#source-materials" id="toc-source-materials" class="nav-link" data-scroll-target="#source-materials"><span class="header-section-number">74.1</span> Source materials</a></li>
+  <li><a href="#va-dataset" id="toc-va-dataset" class="nav-link" data-scroll-target="#va-dataset"><span class="header-section-number">74.1</span> VA dataset</a>
+  <ul class="collapse">
+  <li><a href="#pneumonia" id="toc-pneumonia" class="nav-link" data-scroll-target="#pneumonia"><span class="header-section-number">74.1.1</span> Pneumonia</a></li>
+  <li><a href="#other-infections" id="toc-other-infections" class="nav-link" data-scroll-target="#other-infections"><span class="header-section-number">74.1.2</span> Other infections</a></li>
+  </ul></li>
+  <li><a href="#source-materials" id="toc-source-materials" class="nav-link" data-scroll-target="#source-materials"><span class="header-section-number">74.2</span> Source materials</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -636,10 +641,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="mrsa-nasal-swab-1" class="level1" data-number="74">
 <h1 data-number="74"><span class="header-section-number">74</span> MRSA Nasal Swab</h1>
-<p>##VA dataset CID 2019 DOI: 2020;71(5):1142–8</p>
+<section id="va-dataset" class="level2" data-number="74.1">
+<h2 data-number="74.1" class="anchored" data-anchor-id="va-dataset"><span class="header-section-number">74.1</span> VA dataset</h2>
+<p>CID 2019 DOI: 2020;71(5):1142–8</p>
 <p>All patients 18+ screened with MRSA nasal swab at admission - 245,000 patients. Positive MRSA Nares in 22%.</p>
 <p>They looked at the subsequent likelihood of cultures being positive for various pathogens at various sites. Note: this does not establish true infection vs colonization: reference standard is just subsequent culture.</p>
-<p>###Pneumonia</p>
+<section id="pneumonia" class="level3" data-number="74.1.1">
+<h3 data-number="74.1.1" class="anchored" data-anchor-id="pneumonia"><span class="header-section-number">74.1.1</span> Pneumonia</h3>
 <p>Model: 100ish people with pneumonia. 12 have MRSA PNa. 88 do not</p>
 <ul>
 <li>People with MRSA pneumonia: 9 test positive, 3 test negative</li>
@@ -664,8 +672,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>However, this tells you information in ALL comers (in a hypothetical person) - but does not allow you to tailor the information to a clinical situation.</p>
 <p>E.g. we know that cavitary pneumonias are MRSA in ____, and that empyemas are MRSA in 15% - how can we utilize this information?</p>
-<section id="likelihood-ratios" class="level4" data-number="74.0.0.1">
-<h4 data-number="74.0.0.1" class="anchored" data-anchor-id="likelihood-ratios"><span class="header-section-number">74.0.0.1</span> Likelihood Ratios</h4>
+<section id="likelihood-ratios" class="level4" data-number="74.1.1.1">
+<h4 data-number="74.1.1.1" class="anchored" data-anchor-id="likelihood-ratios"><span class="header-section-number">74.1.1.1</span> Likelihood Ratios</h4>
 <ul>
 <li><p>Pretest ODDS (P / 1-P)</p></li>
 <li><p>Pretest odds * LR = post-test odds</p></li>
@@ -686,13 +694,16 @@ ul.task-list li input[type="checkbox"] {
 <p>0.136 * .3 (negative test) =&gt; 4% chance of MRSA PNa after negative chance (=NPV of 96%)</p>
 <p>0.136 * 3.9 (positive test -&gt; 0.53 odds = ~35% chance of PNa (=PPV 35%)</p>
 </section>
-<section id="application" class="level4" data-number="74.0.0.2">
-<h4 data-number="74.0.0.2" class="anchored" data-anchor-id="application"><span class="header-section-number">74.0.0.2</span> Application</h4>
+<section id="application" class="level4" data-number="74.1.1.2">
+<h4 data-number="74.1.1.2" class="anchored" data-anchor-id="application"><span class="header-section-number">74.1.1.2</span> Application</h4>
 <p>Where this gets powerful is when we change the pre-test odds</p>
 <p>Pretest odds of MRSA in empyema? 20%</p>
 <p>Necrotizing pneunonia after viral infection? 50%</p>
 <p>https://calculator.testingwisely.com/playground/5/76.2/80.3/positive</p>
-<p>###Other infections</p>
+</section>
+</section>
+<section id="other-infections" class="level3" data-number="74.1.2">
+<h3 data-number="74.1.2" class="anchored" data-anchor-id="other-infections"><span class="header-section-number">74.1.2</span> Other infections</h3>
 <ul>
 <li>ENT: -LR 0.28</li>
 <li>PNa: -LR 0.31</li>
@@ -703,8 +714,9 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Utility is based in pre-test odds!</p>
 </section>
-<section id="source-materials" class="level2" data-number="74.1">
-<h2 data-number="74.1" class="anchored" data-anchor-id="source-materials"><span class="header-section-number">74.1</span> Source materials</h2>
+</section>
+<section id="source-materials" class="level2" data-number="74.2">
+<h2 data-number="74.2" class="anchored" data-anchor-id="source-materials"><span class="header-section-number">74.2</span> Source materials</h2>
 <ul>
 <li><a href="../../archive/Clinical Practice Notes/mrsa-nasal-swab.md">Clinical Practice Notes/mrsa-nasal-swab.md</a></li>
 </ul>

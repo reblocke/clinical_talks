@@ -47,7 +47,7 @@ draft: true
 ## Source notes
 
 ### Fungal Infections
-{{< include "../../archive/Clinical Practice Notes/fungal-infections.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/fungal-infections.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/fungal-infections.md](../../archive/Clinical%20Practice%20Notes/fungal-infections.md)

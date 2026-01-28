@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Oxygen Delivery
-{{< include "../../archive/Clinical Practice Notes/oxygen-delivery.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/oxygen-delivery.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/oxygen-delivery.md](../../archive/Clinical%20Practice%20Notes/oxygen-delivery.md)

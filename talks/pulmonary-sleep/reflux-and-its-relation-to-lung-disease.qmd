@@ -42,7 +42,7 @@ draft: true
 ## Source notes
 
 ### Reflux And Its Relation To Lung Disease
-{{< include "../../archive/Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md](../../archive/Clinical%20Practice%20Notes/reflux-and-its-relation-to-lung-disease.md)

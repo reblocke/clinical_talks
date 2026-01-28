@@ -53,7 +53,7 @@ draft: true
 ## Source notes
 
 ### Pulmonary Function Testing
-{{< include "../../archive/Clinical Practice Notes/pulmonary-function-testing.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/pulmonary-function-testing.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pulmonary-function-testing.md](../../archive/Clinical%20Practice%20Notes/pulmonary-function-testing.md)

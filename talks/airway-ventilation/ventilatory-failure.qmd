@@ -45,7 +45,7 @@ draft: true
 ## Source notes
 
 ### Ventilatory Failure
-{{< include "../../archive/Clinical Practice Notes/ventilatory-failure.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/ventilatory-failure.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ventilatory-failure.md](../../archive/Clinical%20Practice%20Notes/ventilatory-failure.md)

@@ -40,7 +40,7 @@ draft: true
 ## Source notes
 
 ### Aspiration And Dysphagia
-{{< include "../../archive/Clinical Practice Notes/aspiration-and-dysphagia.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/aspiration-and-dysphagia.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/aspiration-and-dysphagia.md](../../archive/Clinical%20Practice%20Notes/aspiration-and-dysphagia.md)

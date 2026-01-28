@@ -43,7 +43,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pneumoconioses And Occupational Lung Disease
-{{< include "../../archive/Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md](../../archive/Clinical%20Practice%20Notes/pneumoconioses-and-occupational-lung-disease.md)

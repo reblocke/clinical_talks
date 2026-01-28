@@ -44,7 +44,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pulmonary Hypertension
-{{< include "../../archive/Clinical Practice Notes/pulmonary-hypertension.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/pulmonary-hypertension.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pulmonary-hypertension.md](../../archive/Clinical%20Practice%20Notes/pulmonary-hypertension.md)

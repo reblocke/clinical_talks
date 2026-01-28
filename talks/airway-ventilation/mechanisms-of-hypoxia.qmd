@@ -48,7 +48,7 @@ draft: true
 ## Source notes
 
 ### Mechanisms Of Hypoxia
-{{< include "../../archive/Clinical Practice Notes/mechanisms-of-hypoxia.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/mechanisms-of-hypoxia.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/mechanisms-of-hypoxia.md](../../archive/Clinical%20Practice%20Notes/mechanisms-of-hypoxia.md)

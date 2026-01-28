@@ -48,7 +48,7 @@ draft: true
 ## Source notes
 
 ### ARDS
-{{< include "../../archive/Clinical Practice Notes/ards.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/ards.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ards.md](../../archive/Clinical%20Practice%20Notes/ards.md)

@@ -36,7 +36,7 @@ draft: true
 ## Source notes
 
 ### Index
-{{< include "../../archive/index.md" >}}
+{{< include "../../include/source-notes/index.md" >}}
 
 ## Source materials
 - [index.md](../../archive/index.md)

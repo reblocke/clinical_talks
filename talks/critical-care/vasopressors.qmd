@@ -41,7 +41,7 @@ draft: true
 ## Source notes
 
 ### Vasopressors
-{{< include "../../archive/Clinical Practice Notes/vasopressors.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/vasopressors.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/vasopressors.md](../../archive/Clinical%20Practice%20Notes/vasopressors.md)

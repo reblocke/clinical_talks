@@ -41,7 +41,7 @@ draft: true
 ## Source notes
 
 ### Ultrasound
-{{< include "../../archive/Clinical Practice Notes/ultrasound.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/ultrasound.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ultrasound.md](../../archive/Clinical%20Practice%20Notes/ultrasound.md)

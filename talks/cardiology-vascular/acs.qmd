@@ -46,7 +46,7 @@ draft: true
 ## Source notes
 
 ### ACS
-{{< include "../../archive/Clinical Practice Notes/acs.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/acs.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/acs.md](../../archive/Clinical%20Practice%20Notes/acs.md)

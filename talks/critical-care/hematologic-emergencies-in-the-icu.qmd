@@ -44,7 +44,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Hematologic Emergencies In The ICU
-{{< include "../../archive/Clinical Practice Notes/hematologic-emergencies-in-the-icu.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/hematologic-emergencies-in-the-icu.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/hematologic-emergencies-in-the-icu.md](../../archive/Clinical%20Practice%20Notes/hematologic-emergencies-in-the-icu.md)

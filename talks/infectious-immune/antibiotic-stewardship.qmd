@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Antibiotic Stewardship
-{{< include "../../archive/Clinical Practice Notes/antibiotic-stewardship.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/antibiotic-stewardship.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/antibiotic-stewardship.md](../../archive/Clinical%20Practice%20Notes/antibiotic-stewardship.md)

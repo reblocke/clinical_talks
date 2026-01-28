@@ -52,7 +52,7 @@ draft: true
 ## Source notes
 
 ### Line Complications
-{{< include "../../archive/Clinical Practice Notes/line-complications.md" >}}
+{{< include "../../include/source-notes/Clinical Practice Notes/line-complications.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/line-complications.md](../../archive/Clinical%20Practice%20Notes/line-complications.md)
