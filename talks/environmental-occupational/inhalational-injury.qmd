@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Inhalational Injury
-{{< include "archive/Clinical Practice Notes/inhalational-injury.md" >}}
+{{< include "../../archive/Clinical Practice Notes/inhalational-injury.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/inhalational-injury.md](archive/Clinical%20Practice%20Notes/inhalational-injury.md)

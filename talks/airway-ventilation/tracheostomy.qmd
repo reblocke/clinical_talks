@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Tracheostomy
-{{< include "archive/Clinical Practice Notes/tracheostomy.md" >}}
+{{< include "../../archive/Clinical Practice Notes/tracheostomy.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/tracheostomy.md](archive/Clinical%20Practice%20Notes/tracheostomy.md)

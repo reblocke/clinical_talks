@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### CPET
-{{< include "archive/Clinical Practice Notes/cpet.md" >}}
+{{< include "../../archive/Clinical Practice Notes/cpet.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/cpet.md](archive/Clinical%20Practice%20Notes/cpet.md)

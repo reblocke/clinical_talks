@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Index
-{{< include "archive/index.md" >}}
+{{< include "../../archive/index.md" >}}
 
 ## Source materials
 - [index.md](archive/index.md)

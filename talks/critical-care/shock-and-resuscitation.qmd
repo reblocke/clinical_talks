@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Shock And Resuscitation
-{{< include "archive/Clinical Practice Notes/shock-and-resuscitation.md" >}}
+{{< include "../../archive/Clinical Practice Notes/shock-and-resuscitation.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/shock-and-resuscitation.md](archive/Clinical%20Practice%20Notes/shock-and-resuscitation.md)

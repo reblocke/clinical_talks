@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Patient Ventilator Interactions
-{{< include "archive/Clinical Practice Notes/patient-ventilator-interactions.md" >}}
+{{< include "../../archive/Clinical Practice Notes/patient-ventilator-interactions.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/patient-ventilator-interactions.md](archive/Clinical%20Practice%20Notes/patient-ventilator-interactions.md)

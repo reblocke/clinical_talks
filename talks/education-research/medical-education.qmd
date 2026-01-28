@@ -36,7 +36,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Medical Education
-{{< include "archive/medical-education.md" >}}
+{{< include "../../archive/medical-education.md" >}}
 
 ## Source materials
 - [medical-education.md](archive/medical-education.md)

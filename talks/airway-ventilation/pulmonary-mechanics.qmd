@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pulmonary Mechanics
-{{< include "archive/Clinical Practice Notes/pulmonary-mechanics.md" >}}
+{{< include "../../archive/Clinical Practice Notes/pulmonary-mechanics.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pulmonary-mechanics.md](archive/Clinical%20Practice%20Notes/pulmonary-mechanics.md)

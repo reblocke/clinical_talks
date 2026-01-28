@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Lactic Acidosis
-{{< include "archive/Clinical Practice Notes/lactic-acidosis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/lactic-acidosis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/lactic-acidosis.md](archive/Clinical%20Practice%20Notes/lactic-acidosis.md)

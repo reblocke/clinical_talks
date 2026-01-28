@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Air Pollution
-{{< include "archive/Clinical Practice Notes/air-pollution.md" >}}
+{{< include "../../archive/Clinical Practice Notes/air-pollution.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/air-pollution.md](archive/Clinical%20Practice%20Notes/air-pollution.md)

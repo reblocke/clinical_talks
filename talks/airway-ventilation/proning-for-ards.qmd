@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Proning For ARDS
-{{< include "archive/Clinical Practice Notes/proning-for-ards.md" >}}
+{{< include "../../archive/Clinical Practice Notes/proning-for-ards.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/proning-for-ards.md](archive/Clinical%20Practice%20Notes/proning-for-ards.md)

@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pacemakers
-{{< include "archive/Clinical Practice Notes/pacemakers.md" >}}
+{{< include "../../archive/Clinical Practice Notes/pacemakers.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pacemakers.md](archive/Clinical%20Practice%20Notes/pacemakers.md)

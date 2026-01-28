@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Toxicology
-{{< include "archive/Clinical Practice Notes/toxicology.md" >}}
+{{< include "../../archive/Clinical Practice Notes/toxicology.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/toxicology.md](archive/Clinical%20Practice%20Notes/toxicology.md)

@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Chest Tubes
-{{< include "archive/Clinical Practice Notes/chest-tubes.md" >}}
+{{< include "../../archive/Clinical Practice Notes/chest-tubes.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/chest-tubes.md](archive/Clinical%20Practice%20Notes/chest-tubes.md)

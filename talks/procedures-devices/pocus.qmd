@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pocus
-{{< include "archive/Clinical Practice Notes/pocus.md" >}}
+{{< include "../../archive/Clinical Practice Notes/pocus.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pocus.md](archive/Clinical%20Practice%20Notes/pocus.md)

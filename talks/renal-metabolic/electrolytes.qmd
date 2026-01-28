@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Electrolytes
-{{< include "archive/Clinical Practice Notes/electrolytes.md" >}}
+{{< include "../../archive/Clinical Practice Notes/electrolytes.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/electrolytes.md](archive/Clinical%20Practice%20Notes/electrolytes.md)

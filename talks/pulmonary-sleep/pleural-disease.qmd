@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pleural Disease
-{{< include "archive/Clinical Practice Notes/pleural-disease.md" >}}
+{{< include "../../archive/Clinical Practice Notes/pleural-disease.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pleural-disease.md](archive/Clinical%20Practice%20Notes/pleural-disease.md)

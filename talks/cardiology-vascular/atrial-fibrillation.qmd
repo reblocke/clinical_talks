@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Atrial Fibrillation
-{{< include "archive/Clinical Practice Notes/atrial-fibrillation.md" >}}
+{{< include "../../archive/Clinical Practice Notes/atrial-fibrillation.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/atrial-fibrillation.md](archive/Clinical%20Practice%20Notes/atrial-fibrillation.md)

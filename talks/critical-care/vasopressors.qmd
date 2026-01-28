@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Vasopressors
-{{< include "archive/Clinical Practice Notes/vasopressors.md" >}}
+{{< include "../../archive/Clinical Practice Notes/vasopressors.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/vasopressors.md](archive/Clinical%20Practice%20Notes/vasopressors.md)

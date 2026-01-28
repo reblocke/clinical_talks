@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Lung Cancer Screening And Diagnosis
-{{< include "archive/Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md](archive/Clinical%20Practice%20Notes/lung-cancer-screening-and-diagnosis.md)

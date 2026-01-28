@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Lung Transplant
-{{< include "archive/Clinical Practice Notes/lung-transplant.md" >}}
+{{< include "../../archive/Clinical Practice Notes/lung-transplant.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/lung-transplant.md](archive/Clinical%20Practice%20Notes/lung-transplant.md)

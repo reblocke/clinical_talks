@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Procedure Index
-{{< include "archive/procedure-index.md" >}}
+{{< include "../../archive/procedure-index.md" >}}
 
 ## Source materials
 - [procedure-index.md](archive/procedure-index.md)

@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### ILD
-{{< include "archive/Clinical Practice Notes/ild.md" >}}
+{{< include "../../archive/Clinical Practice Notes/ild.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ild.md](archive/Clinical%20Practice%20Notes/ild.md)

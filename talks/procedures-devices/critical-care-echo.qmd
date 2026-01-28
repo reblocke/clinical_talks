@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Critical Care Echo
-{{< include "archive/Clinical Practice Notes/critical-care-echo.md" >}}
+{{< include "../../archive/Clinical Practice Notes/critical-care-echo.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/critical-care-echo.md](archive/Clinical%20Practice%20Notes/critical-care-echo.md)

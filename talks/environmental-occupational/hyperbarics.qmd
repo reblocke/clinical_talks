@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Hyperbarics
-{{< include "archive/Clinical Practice Notes/hyperbarics.md" >}}
+{{< include "../../archive/Clinical Practice Notes/hyperbarics.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/hyperbarics.md](archive/Clinical%20Practice%20Notes/hyperbarics.md)

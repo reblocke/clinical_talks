@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Intubation
-{{< include "archive/Clinical Practice Notes/intubation.md" >}}
+{{< include "../../archive/Clinical Practice Notes/intubation.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/intubation.md](archive/Clinical%20Practice%20Notes/intubation.md)

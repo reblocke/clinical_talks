@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Bronchoscopy
-{{< include "archive/Clinical Practice Notes/bronchoscopy.md" >}}
+{{< include "../../archive/Clinical Practice Notes/bronchoscopy.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/bronchoscopy.md](archive/Clinical%20Practice%20Notes/bronchoscopy.md)

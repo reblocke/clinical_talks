@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Sarcoidosis
-{{< include "archive/Clinical Practice Notes/sarcoidosis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/sarcoidosis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/sarcoidosis.md](archive/Clinical%20Practice%20Notes/sarcoidosis.md)

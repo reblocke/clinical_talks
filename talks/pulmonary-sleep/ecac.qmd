@@ -36,7 +36,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### ECAC
-{{< include "archive/Clinical Practice Notes/ecac.md" >}}
+{{< include "../../archive/Clinical Practice Notes/ecac.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ecac.md](archive/Clinical%20Practice%20Notes/ecac.md)

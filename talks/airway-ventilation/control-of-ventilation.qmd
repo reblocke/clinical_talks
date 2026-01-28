@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Control Of Ventilation
-{{< include "archive/Clinical Practice Notes/control-of-ventilation.md" >}}
+{{< include "../../archive/Clinical Practice Notes/control-of-ventilation.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/control-of-ventilation.md](archive/Clinical%20Practice%20Notes/control-of-ventilation.md)

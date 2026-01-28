@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### BMP Masterclass
-{{< include "archive/Clinical Practice Notes/bmp-masterclass.md" >}}
+{{< include "../../archive/Clinical Practice Notes/bmp-masterclass.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/bmp-masterclass.md](archive/Clinical%20Practice%20Notes/bmp-masterclass.md)

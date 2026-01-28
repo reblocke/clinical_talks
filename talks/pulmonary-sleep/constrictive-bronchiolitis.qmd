@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Constrictive Bronchiolitis
-{{< include "archive/Clinical Practice Notes/constrictive-bronchiolitis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/constrictive-bronchiolitis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/constrictive-bronchiolitis.md](archive/Clinical%20Practice%20Notes/constrictive-bronchiolitis.md)

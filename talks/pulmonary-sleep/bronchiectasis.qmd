@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Bronchiectasis
-{{< include "archive/Clinical Practice Notes/bronchiectasis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/bronchiectasis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/bronchiectasis.md](archive/Clinical%20Practice%20Notes/bronchiectasis.md)

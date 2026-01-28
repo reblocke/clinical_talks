@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Sedation And Analgesia In The ICU
-{{< include "archive/Clinical Practice Notes/sedation-and-analgesia-in-the-icu.md" >}}
+{{< include "../../archive/Clinical Practice Notes/sedation-and-analgesia-in-the-icu.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/sedation-and-analgesia-in-the-icu.md](archive/Clinical%20Practice%20Notes/sedation-and-analgesia-in-the-icu.md)

@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Line Complications
-{{< include "archive/Clinical Practice Notes/line-complications.md" >}}
+{{< include "../../archive/Clinical Practice Notes/line-complications.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/line-complications.md](archive/Clinical%20Practice%20Notes/line-complications.md)

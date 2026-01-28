@@ -1,0 +1,305 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clinical Talks",
+    "section": "",
+    "text": "0.1 What this is\nWelcome to Clinical Talks, a resident-facing collection of concise clinical topic outlines. Content is intentionally lightweight while we port and curate the archive materials.\nClinical Talks is a living set of short, high-yield talk pages meant to support bedside teaching, pre-round review, and rapid refreshers for common inpatient topics. TODO: Expand the project overview.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Clinical Talks</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#intended-audience",
+    "href": "index.html#intended-audience",
+    "title": "Clinical Talks",
+    "section": "0.2 Intended audience",
+    "text": "0.2 Intended audience\n\nInternal medicine residents and fellows.\nSubspecialty trainees looking for quick refreshers.\nTODO: Clarify broader audiences as needed.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Clinical Talks</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-site",
+    "href": "index.html#how-to-use-this-site",
+    "title": "Clinical Talks",
+    "section": "0.3 How to use this site",
+    "text": "0.3 How to use this site\n\nPick a topic from the sidebar.\nScan the learning objectives and bottom line.\nReview the approach and red flags before rounds.\nTODO: Add guidance for contributing updates.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Clinical Talks</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-this-site-is-organized",
+    "href": "index.html#how-this-site-is-organized",
+    "title": "Clinical Talks",
+    "section": "0.4 How this site is organized",
+    "text": "0.4 How this site is organized\n\nEach topic lives in talks/ and follows a standard outline.\nRaw source materials (slides, notes, PDFs) live in archive/ and are linked from each talk.\nTopics are grouped into sections to keep navigation focused:\n\nAirway & Ventilation\nPulmonary & Sleep\nCritical Care\nCardiology & Vascular\nRenal & Metabolic\nInfectious & Immune\nProcedures & Devices\nEnvironmental & Occupational\nEducation & Research\nPresentations\nMiscellaneous\nTODO: Refine taxonomy as new talks are curated.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Clinical Talks</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "Clinical Talks",
+    "section": "0.5 Disclaimer",
+    "text": "0.5 Disclaimer\nThis resource is for education only and does not constitute medical advice. Always follow local guidelines and consult supervising clinicians. TODO: Expand as needed.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Clinical Talks</span>"
+    ]
+  },
+  {
+    "objectID": "talks/airway-ventilation/index.html",
+    "href": "talks/airway-ventilation/index.html",
+    "title": "2  Airway & Ventilation",
+    "section": "",
+    "text": "2.1 Topics",
+    "crumbs": [
+      "Airway & Ventilation",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Airway & Ventilation</span>"
+    ]
+  },
+  {
+    "objectID": "talks/airway-ventilation/index.html#topics",
+    "href": "talks/airway-ventilation/index.html#topics",
+    "title": "2  Airway & Ventilation",
+    "section": "",
+    "text": "ARDS\nBasic Ventilator Chalk Talk\nControl Of Ventilation\nIntubation\nMechanisms Of Hypoxia\nOxygen Delivery\nPatient Ventilator Interactions\nProning For ARDS\nPulmonary Mechanics\nRespiratory Failure\nTracheostomy\nVentilator Management\nVentilatory Failure\nWeaning And Extubation",
+    "crumbs": [
+      "Airway & Ventilation",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Airway & Ventilation</span>"
+    ]
+  },
+  {
+    "objectID": "talks/pulmonary-sleep/index.html",
+    "href": "talks/pulmonary-sleep/index.html",
+    "title": "17  Pulmonary & Sleep",
+    "section": "",
+    "text": "17.1 Topics",
+    "crumbs": [
+      "Pulmonary & Sleep",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Pulmonary & Sleep</span>"
+    ]
+  },
+  {
+    "objectID": "talks/pulmonary-sleep/index.html#topics",
+    "href": "talks/pulmonary-sleep/index.html#topics",
+    "title": "17  Pulmonary & Sleep",
+    "section": "",
+    "text": "Asthma\nBronchiectasis\nConstrictive Bronchiolitis\nCOPD\nCPET\nCTEPH\nECAC\nEosinophilic Lung Disease\nHypersensitivity Pneumonitis\nILD\nLung Cancer Screening And Diagnosis\nLung Transplant\nPleural Disease\nPulmonary Function Testing\nPulmonary Hypertension\nPulmonary Medicine Index\nReflux And Its Relation To Lung Disease\nSarcoidosis\nSleep Disordered Breathing",
+    "crumbs": [
+      "Pulmonary & Sleep",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Pulmonary & Sleep</span>"
+    ]
+  },
+  {
+    "objectID": "talks/critical-care/index.html",
+    "href": "talks/critical-care/index.html",
+    "title": "37  Critical Care",
+    "section": "",
+    "text": "37.1 Topics",
+    "crumbs": [
+      "Critical Care",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Critical Care</span>"
+    ]
+  },
+  {
+    "objectID": "talks/critical-care/index.html#topics",
+    "href": "talks/critical-care/index.html#topics",
+    "title": "37  Critical Care",
+    "section": "",
+    "text": "Acute Pancreatitis\nAlcohol Withdrawal\nAspiration And Dysphagia\nCardiogenic Shock\nCirrhosis In The ICU\nECMO\nFamily Updates In The ICU\nGoals Of Care\nHematologic Emergencies In The ICU\nHyperglycemic Crises\nLactic Acidosis\nObstetrical Critical Care\nSedation And Analgesia In The ICU\nShock And Resuscitation\nToxicology\nVasopressors",
+    "crumbs": [
+      "Critical Care",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Critical Care</span>"
+    ]
+  },
+  {
+    "objectID": "talks/cardiology-vascular/index.html",
+    "href": "talks/cardiology-vascular/index.html",
+    "title": "54  Cardiology & Vascular",
+    "section": "",
+    "text": "54.1 Topics",
+    "crumbs": [
+      "Cardiology & Vascular",
+      "<span class='chapter-number'>54</span>  <span class='chapter-title'>Cardiology & Vascular</span>"
+    ]
+  },
+  {
+    "objectID": "talks/cardiology-vascular/index.html#topics",
+    "href": "talks/cardiology-vascular/index.html#topics",
+    "title": "54  Cardiology & Vascular",
+    "section": "",
+    "text": "ACLS\nACS\nAtrial Fibrillation\nFick Equation And Pa Catheter Principles\nPacemakers\nVTE",
+    "crumbs": [
+      "Cardiology & Vascular",
+      "<span class='chapter-number'>54</span>  <span class='chapter-title'>Cardiology & Vascular</span>"
+    ]
+  },
+  {
+    "objectID": "talks/renal-metabolic/index.html",
+    "href": "talks/renal-metabolic/index.html",
+    "title": "61  Renal & Metabolic",
+    "section": "",
+    "text": "61.1 Topics",
+    "crumbs": [
+      "Renal & Metabolic",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Renal & Metabolic</span>"
+    ]
+  },
+  {
+    "objectID": "talks/renal-metabolic/index.html#topics",
+    "href": "talks/renal-metabolic/index.html#topics",
+    "title": "61  Renal & Metabolic",
+    "section": "",
+    "text": "Acid Base\nAKI In The ICU\nBMP Masterclass\nDiuresis And Sodium Balance In The ICU\nElectrolytes\nMetabolism\nRenal Replacement Therapy",
+    "crumbs": [
+      "Renal & Metabolic",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Renal & Metabolic</span>"
+    ]
+  },
+  {
+    "objectID": "talks/infectious-immune/index.html",
+    "href": "talks/infectious-immune/index.html",
+    "title": "69  Infectious & Immune",
+    "section": "",
+    "text": "69.1 Topics",
+    "crumbs": [
+      "Infectious & Immune",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Infectious & Immune</span>"
+    ]
+  },
+  {
+    "objectID": "talks/infectious-immune/index.html#topics",
+    "href": "talks/infectious-immune/index.html#topics",
+    "title": "69  Infectious & Immune",
+    "section": "",
+    "text": "Anaphylaxis And Angioedema\nAntibiotic Stewardship\nFungal Infections\nMRSA Nasal Swab\nPneumonia",
+    "crumbs": [
+      "Infectious & Immune",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Infectious & Immune</span>"
+    ]
+  },
+  {
+    "objectID": "talks/procedures-devices/index.html",
+    "href": "talks/procedures-devices/index.html",
+    "title": "75  Procedures & Devices",
+    "section": "",
+    "text": "75.1 Topics",
+    "crumbs": [
+      "Procedures & Devices",
+      "<span class='chapter-number'>75</span>  <span class='chapter-title'>Procedures & Devices</span>"
+    ]
+  },
+  {
+    "objectID": "talks/procedures-devices/index.html#topics",
+    "href": "talks/procedures-devices/index.html#topics",
+    "title": "75  Procedures & Devices",
+    "section": "",
+    "text": "Arterial Line\nBronchoscopy\nCentral Venous Catheters\nChest Tubes\nCritical Care Echo\nLine Complications\nPocus\nProcedure Index\nUltrasound",
+    "crumbs": [
+      "Procedures & Devices",
+      "<span class='chapter-number'>75</span>  <span class='chapter-title'>Procedures & Devices</span>"
+    ]
+  },
+  {
+    "objectID": "talks/environmental-occupational/index.html",
+    "href": "talks/environmental-occupational/index.html",
+    "title": "85  Environmental & Occupational",
+    "section": "",
+    "text": "85.1 Topics",
+    "crumbs": [
+      "Environmental & Occupational",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Environmental & Occupational</span>"
+    ]
+  },
+  {
+    "objectID": "talks/environmental-occupational/index.html#topics",
+    "href": "talks/environmental-occupational/index.html#topics",
+    "title": "85  Environmental & Occupational",
+    "section": "",
+    "text": "Air Pollution\nBreath Hold Diving\nHyperbarics\nInhalational Injury\nPneumoconioses And Occupational Lung Disease",
+    "crumbs": [
+      "Environmental & Occupational",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>Environmental & Occupational</span>"
+    ]
+  },
+  {
+    "objectID": "talks/education-research/index.html",
+    "href": "talks/education-research/index.html",
+    "title": "91  Education & Research",
+    "section": "",
+    "text": "91.1 Topics",
+    "crumbs": [
+      "Education & Research",
+      "<span class='chapter-number'>91</span>  <span class='chapter-title'>Education & Research</span>"
+    ]
+  },
+  {
+    "objectID": "talks/education-research/index.html#topics",
+    "href": "talks/education-research/index.html#topics",
+    "title": "91  Education & Research",
+    "section": "",
+    "text": "Archive Index\nMedical Education",
+    "crumbs": [
+      "Education & Research",
+      "<span class='chapter-number'>91</span>  <span class='chapter-title'>Education & Research</span>"
+    ]
+  },
+  {
+    "objectID": "talks/presentations/index.html",
+    "href": "talks/presentations/index.html",
+    "title": "94  Presentations",
+    "section": "",
+    "text": "94.1 Topics",
+    "crumbs": [
+      "Presentations",
+      "<span class='chapter-number'>94</span>  <span class='chapter-title'>Presentations</span>"
+    ]
+  },
+  {
+    "objectID": "talks/presentations/index.html#topics",
+    "href": "talks/presentations/index.html#topics",
+    "title": "94  Presentations",
+    "section": "",
+    "text": "Aarc 2012 Tcco2 Guideline\nAarc Coding Guidelines Procedures\nAcg 2024 Acute Pancreatitis Guideline\nAcute Liver Failure\nAdler Et Al 2017 Comorbidities And Subgroups Of Patients Surviving Severe Acute Hypercapnic Respiratory Failure In The (1)\nAdler Et Al. 2017 Comorbidities And Subgroups Of Patients Surviving Severe Acute Hypercapnic Respiratory Failure In Th\nAI For Housestaff\nAjrccm 100 Year Anniversary.homeward Bound A Centenary Of Home Mechanical Ventilation\nAjrccm 2017 Comorbidities Surving Hypercapnia\nAjrccm 2021 Aus Pop Prev Hypercapnia\nAjrccm 2021 Compensated Hypercapnia Morbidity\nAjrccm 2024 Home Niv At Hospital Discharge\nAmia Diagnostic Modeling For Hypercapnia\nAnn Ats 2013 Can You Sustain What You Need\nAnnals Ats 2020 Ohs In Bariatric Surg Cohort\nAnnats 2014 What Does Weight Have To Do With It\nAnnats 2015 Var In Home Vent Practice Aus Vs Bc\nAnnats Telemonitoring Home Ventilation\nAnnats Telemonitoring Home Ventilation Supplement\nAnnrevmed Niv In Nmd\nAspire Presentation\nAspre Presention 1 Scratch Pad\nAspre Presention 1 Slides\nAts 2019 Ohs Guidelines\nAts Mini RIP\nBilling Code Definitions\nBl Sleep Jc Sept 2022\nBl Sleep Jc Sept 2022.pptx After Ks\nBmj Orr 2024 Hypercap Rf Prognosis\nBoared Review Locke\nBrinkman Carbovisor\nBts 2016 Guideline Acute Hypercapnia\nCao Et Al 2024 Roadmap For Advancing A New Subspecialty In Pulmonary Medicine Devoted To Chronic Respiratory Failure\nCarbon Dioxide Intoxication The Clinical Syndrome, Its Etiology And Management With Particular Reference To The Use Of Mechanical Respirators\nCcjm 2025 Glp1ra And Pancreatitis\nCcm 2024 Long Term Mortality Rate ICU Patients\nCell 2018 Neural Control Of Breathing And Co2 Homeostasis\nCentral Line Training 2022 Bl Edits\nChest 2013 Is Elevated Hco3 Part Of Ohs\nChest 2018 Initiating Home Vent And Advanced Settings\nChest 2022 Inpatient Sleep Medicine\nChest 2024 Niv For COPD How I Do It\nChung Thesis Epidemiology Of Hypercapnic Respiratory Failure\nComp Phys 2014 Hypovent Piper\nComp Phys Bio 2017 Ph Co2 Reg Evolutionary Importance\nCrd 2024 Hx Of Home Vent\nCrd 22 0131 Proof\nCtsi Translational Research Trainee Symposium Talk\nDdavp Clamp\nDeterminants Of Co2 Tension Javaheri\nEffect Of Cpap On Recurrence Of Afib Hunt Et Al\nEjim 2025 Acute Pancreatitis\nErj 2025 Nasal Masks For Niv\nErr 2023 Qol In Home Ventilation\nErs 2017 Central Disturbances During Sleep\nErs 2022 Drive To Breath Niv And COPD\nExp Rev Resp 2023 Ev For Niv\nFront Med 2022 Monitoring Niv\nGastroenterology 2024 Pancreatitis Review\nGraphs For Hypercapnia Hypoxemia\nGuyton Asthma Pp\nHypercapnia Computable Phenotype Design\nHypercapnia Diagnostic Modeling Revised\nHypercapnia Jan Trip\nHypercapnia Jan Trip.pptx\nHypercapnia Megadeck\nHypercapnia Pathophysiology\nHypercapnia Poster\nHypercapnia Sleep Gr\nHypercapnia Update Jan 2023\nIcslaba Prn And Maintenance\nIjcp 2022 Hypercapnia Review\nIjerph 2022 OSA And Chronic Respiratory Diseases\nIM Noon Conf Respiratory Failure\nIn Defense Of Metaanalysis\nJ Phys 2017 Lung Effects Of Hypercapnia\nJan 6 Research Meeting\nJcm 2025 Pancreatitis Complication Management\nJean Louis Pépin Et Al. 2012 Obesity Hypoventilation Syndrome An Underdiagnosed And Undertreated Condition\nJhm 2025 Twdfnr Abg For Hypercapnia\nJour Resp Review 2022 Mask Systematic Review\nJune 2023 RIP\nK23 RIP\nKs Sleep Jc Sept 2022.pptx After Ks\nLancet 2020 Apec Trial Pancreatitis\nLancet 2020 Apec Trial Pancreatitis Supp\nLancet Resp 2016 Preventing Resp Failure In Obese\nLocke Aug 19 2024 Srma Project Advice\nLocke Aug 19 2024 Srma Project Advice.pptx\nLocke Aug 2024 Srma Project Advice\nLocke Ctsi Translational Research Trainee Symposium Talk\nLocke Disease Definitions\nLocke Fall 2021 RIP\nLocke Fellow Research\nLocke IM Noon Conf Respiratory Failure\nLocke Irr 2021 RRT And Code Presentation\nLocke Irr 2022 RRT And Code Presentation\nLocke Loop Diur Hypercapnia\nLocke Msci\nLocke On Diuresis PGR\nLocke On Salt PGR\nLocke Pancreatitis TCC\nLocke Patient Preference Scenarios\nLocke Pccgr\nLocke PGR\nLocke PGR Co2 Covid ARDS\nLocke PGR HFPEF\nLocke PGR Hypercapnia\nLocke PGR Randomness &amp; Diagnostics\nLocke Pleural Fibrosis PGR\nLocke Respirolysis\nLocke Respirolysis And Air Hunger\nLocke RIP\nLocke Sleep Apnea For Puln Fellows\nLocke Summer Bootcamp H2o And Na\nLocke Vent Dyssynchrony\nLocke Where To Put That Line\nMeservey Et Al. 2020 Risk Of Readmission And Mortality Following Hospitalization With Hypercapnic Respiratory Failure\nMm Bl\nNejm 2014 Python Trial Feeding Pancreatitis\nNejm 2014 Python Trial Feeding Pancreatitis Corr\nNejm 2014 Python Trial Feeding Pancreatitis Supp\nNejm 2021 Pointer Trial\nNejm 2021 Pointer Trial Corr\nNejm 2021 Pointer Trial Editorial\nNejm 2021 Pointer Trial Supp\nNejm 2022 Waterfall Editorial\nNejm 2022 Waterfall Trial Pancreatitis\nNejm 2022 Waterfall Trial Pancreatitis Corr\nNejm 2022 Waterfall Trial Pancreatitis Supp\nNowbar Et Al. 2004 Obesity Associated Hypoventilation In Hospitalized Patients Prevalence, Effects, And Outcome.\nOaem 2019 Hypercap Cohort 1yr Mort\nOSA &amp; Hypoventilation Lit Review\nOSA And Sarcoidosis Lit Review\nOSA As A Risk Factor For Stroke And Death Yaggi Et Al Nejm 2005\nOSA Asthma Lit Review\nOSA Bronchiect Tbm EDAC Lit Review\nOSA In Hypercap Rf\nOSA VTE &amp; Lung Ca Evidence\nOverlap Syndrome Evidence Review\nPartial Verification Blurg (incomplete)\nPe In ICU\nPGR\nPGR Beyond Se And Sp\nPGR Chf And The Lungs\nPGR Extreme Physiology\nPGR Instruments And Mendel\nPGR Llms\nPGR Sims\nPh Journal Club Sept 2022\nProspective Study Of OSA And Incident Cad And Hf Gottlieb 2010\nR Phys Neuro 2013 Unanswered Q’s Resp Control\nRc 2023 Lower Paco2 In Chr Hypercap Mortality\nReducing Cv Risk Through Treatment Of OSA Two Methodological Approaches Am Heart J 2016\nRenal Replacement Therapy Resp Acidosis\nResp Care 2012 Overview Of Hmv In Us\nResp Care 2024 What Are We Aiming For?\nRespirology 2022 Causes Of Hypercapnic Respiratory Failure &amp; In‐hospital Mortality\nRIP\nRIP Hypercapnia\nRIP Hypercapnia 2\nSb261 Most Expensive Hospital Conditions 2017\nSDB And Cardiovascular Disease Cross Sectional Results With Shhs Shahar Et Al\nSDB And Mortality A Prospective Cohort Study Plos Medicine 2009\nSleep Apnea For Pulm Fellows\nSleep Gr Hypercapnia\nSleep Gr Hypercapnia Slides\nSleep Jc Sept 2022\nSpiro COPD Noon Conf 2025\nThorax 2023 Effect Of Niv On Sleep\nUeg 2025 Pancreatits Review\nUspstf Lung Cancer Screening Update\nVonderbank Et Al. 2020 Hypercapnia At Hospital Admission As A Predictor O\nVr ICU Feasibility Overview\nWhen Does Hypoxemia Become Apparent\nWhen To Stop Proning",
+    "crumbs": [
+      "Presentations",
+      "<span class='chapter-number'>94</span>  <span class='chapter-title'>Presentations</span>"
+    ]
+  },
+  {
+    "objectID": "talks/miscellaneous/index.html",
+    "href": "talks/miscellaneous/index.html",
+    "title": "271  Miscellaneous",
+    "section": "",
+    "text": "271.1 Topics",
+    "crumbs": [
+      "Miscellaneous",
+      "<span class='chapter-number'>271</span>  <span class='chapter-title'>Miscellaneous</span>"
+    ]
+  },
+  {
+    "objectID": "talks/miscellaneous/index.html#topics",
+    "href": "talks/miscellaneous/index.html#topics",
+    "title": "271  Miscellaneous",
+    "section": "",
+    "text": "CXR",
+    "crumbs": [
+      "Miscellaneous",
+      "<span class='chapter-number'>271</span>  <span class='chapter-title'>Miscellaneous</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "This appendix will collect references that are cited across talk pages. TODO: Add citations as content is migrated into individual talks.",
+    "crumbs": [
+      "Appendices",
+      "References"
+    ]
+  }
+]

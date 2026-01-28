@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Ultrasound
-{{< include "archive/Clinical Practice Notes/ultrasound.md" >}}
+{{< include "../../archive/Clinical Practice Notes/ultrasound.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ultrasound.md](archive/Clinical%20Practice%20Notes/ultrasound.md)

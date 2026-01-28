@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Central Venous Catheters
-{{< include "archive/Clinical Practice Notes/central-venous-catheters.md" >}}
+{{< include "../../archive/Clinical Practice Notes/central-venous-catheters.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/central-venous-catheters.md](archive/Clinical%20Practice%20Notes/central-venous-catheters.md)

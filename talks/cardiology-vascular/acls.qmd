@@ -36,7 +36,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### ACLS
-{{< include "archive/Clinical Practice Notes/acls.md" >}}
+{{< include "../../archive/Clinical Practice Notes/acls.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/acls.md](archive/Clinical%20Practice%20Notes/acls.md)

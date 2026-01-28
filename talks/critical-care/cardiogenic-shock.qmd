@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Cardiogenic Shock
-{{< include "archive/Clinical Practice Notes/cardiogenic-shock.md" >}}
+{{< include "../../archive/Clinical Practice Notes/cardiogenic-shock.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/cardiogenic-shock.md](archive/Clinical%20Practice%20Notes/cardiogenic-shock.md)

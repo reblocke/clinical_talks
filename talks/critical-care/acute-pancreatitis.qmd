@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Acute Pancreatitis
-{{< include "archive/Clinical Practice Notes/acute-pancreatitis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/acute-pancreatitis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/acute-pancreatitis.md](archive/Clinical%20Practice%20Notes/acute-pancreatitis.md)

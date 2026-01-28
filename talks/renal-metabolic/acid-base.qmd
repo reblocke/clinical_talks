@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Acid Base
-{{< include "archive/Clinical Practice Notes/acid-base.md" >}}
+{{< include "../../archive/Clinical Practice Notes/acid-base.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/acid-base.md](archive/Clinical%20Practice%20Notes/acid-base.md)

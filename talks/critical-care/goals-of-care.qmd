@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Goals Of Care
-{{< include "archive/Clinical Practice Notes/goals-of-care.md" >}}
+{{< include "../../archive/Clinical Practice Notes/goals-of-care.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/goals-of-care.md](archive/Clinical%20Practice%20Notes/goals-of-care.md)

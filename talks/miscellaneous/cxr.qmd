@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### CXR
-{{< include "archive/Clinical Practice Notes/cxr.md" >}}
+{{< include "../../archive/Clinical Practice Notes/cxr.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/cxr.md](archive/Clinical%20Practice%20Notes/cxr.md)

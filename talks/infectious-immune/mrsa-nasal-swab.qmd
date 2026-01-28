@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### MRSA Nasal Swab
-{{< include "archive/Clinical Practice Notes/mrsa-nasal-swab.md" >}}
+{{< include "../../archive/Clinical Practice Notes/mrsa-nasal-swab.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/mrsa-nasal-swab.md](archive/Clinical%20Practice%20Notes/mrsa-nasal-swab.md)

@@ -1,0 +1,1535 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.34">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="A resident-facing collection of clinical talk stubs and quick-reference notes.">
+
+<title>5&nbsp; Control Of Ventilation – Clinical Talks</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../talks/airway-ventilation/intubation.html" rel="next">
+<link href="../../talks/airway-ventilation/basic-ventilator-chalk-talk.html" rel="prev">
+<link href="../../images/logos/logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7ad8df1012cc34949a7a0ac4d54234c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-4025c78eb06e3211cf54df66d954ffce.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7ad8df1012cc34949a7a0ac4d54234c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-ebfd620605111665806f6e901e0d6613.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-c8e9aa0560542bf150c16170b15c6ab1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-ebfd620605111665806f6e901e0d6613.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<meta name="quarto:status" content="draft">
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+<link rel="stylesheet" href="../../include/booktem.css">
+<link rel="stylesheet" href="../../include/webex.css">
+<link rel="stylesheet" href="../../include/glossary.css">
+<link rel="stylesheet" href="../../include/style.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Draft</div>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../talks/airway-ventilation/index.html">Airway &amp; Ventilation</a></li><li class="breadcrumb-item"><a href="../../talks/airway-ventilation/control-of-ventilation.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Control Of Ventilation</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../../">Clinical Talks</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/reblocke/clinical_talks" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
+              <i class="bi bi-linkedin pe-1"></i>
+            LinkedIn
+            </a>
+          </li>
+      </ul>
+    </div>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Clinical Talks</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Airway &amp; Ventilation</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/airway-ventilation/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Airway &amp; Ventilation</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Pulmonary &amp; Sleep</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/pulmonary-sleep/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Pulmonary &amp; Sleep</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Critical Care</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/critical-care/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Critical Care</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Cardiology &amp; Vascular</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/cardiology-vascular/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">54</span>&nbsp; <span class="chapter-title">Cardiology &amp; Vascular</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Renal &amp; Metabolic</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/renal-metabolic/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Renal &amp; Metabolic</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Infectious &amp; Immune</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/infectious-immune/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">69</span>&nbsp; <span class="chapter-title">Infectious &amp; Immune</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
+ <span class="menu-text">Procedures &amp; Devices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/procedures-devices/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">75</span>&nbsp; <span class="chapter-title">Procedures &amp; Devices</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
+ <span class="menu-text">Environmental &amp; Occupational</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/environmental-occupational/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">85</span>&nbsp; <span class="chapter-title">Environmental &amp; Occupational</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true">
+ <span class="menu-text">Education &amp; Research</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/education-research/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">91</span>&nbsp; <span class="chapter-title">Education &amp; Research</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true">
+ <span class="menu-text">Presentations</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/presentations/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">94</span>&nbsp; <span class="chapter-title">Presentations</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="true">
+ <span class="menu-text">Miscellaneous</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../talks/miscellaneous/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">271</span>&nbsp; <span class="chapter-title">Miscellaneous</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#what-this-covers" id="toc-what-this-covers" class="nav-link active" data-scroll-target="#what-this-covers"><span class="header-section-number">5.1</span> What this covers</a></li>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives"><span class="header-section-number">5.2</span> Learning objectives</a></li>
+  <li><a href="#bottom-line-summary" id="toc-bottom-line-summary" class="nav-link" data-scroll-target="#bottom-line-summary"><span class="header-section-number">5.3</span> Bottom line / summary</a></li>
+  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach"><span class="header-section-number">5.4</span> Approach</a></li>
+  <li><a href="#red-flags-when-to-escalate" id="toc-red-flags-when-to-escalate" class="nav-link" data-scroll-target="#red-flags-when-to-escalate"><span class="header-section-number">5.5</span> Red flags / when to escalate</a></li>
+  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls"><span class="header-section-number">5.6</span> Common pitfalls</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">5.7</span> References</a></li>
+  <li><a href="#source-notes" id="toc-source-notes" class="nav-link" data-scroll-target="#source-notes"><span class="header-section-number">5.8</span> Source notes</a>
+  <ul class="collapse">
+  <li><a href="#control-of-ventilation" id="toc-control-of-ventilation" class="nav-link" data-scroll-target="#control-of-ventilation"><span class="header-section-number">5.8.1</span> Control Of Ventilation</a></li>
+  </ul></li>
+  <li><a href="#control-of-ventilation-1" id="toc-control-of-ventilation-1" class="nav-link" data-scroll-target="#control-of-ventilation-1"><span class="header-section-number">6</span> Control of Ventilation</a>
+  <ul class="collapse">
+  <li><a href="#analogy-to-creatinine-clearance" id="toc-analogy-to-creatinine-clearance" class="nav-link" data-scroll-target="#analogy-to-creatinine-clearance"><span class="header-section-number">6.1</span> Analogy to Creatinine Clearance</a></li>
+  <li><a href="#hypoventilation" id="toc-hypoventilation" class="nav-link" data-scroll-target="#hypoventilation"><span class="header-section-number">6.2</span> Hypoventilation</a></li>
+  <li><a href="#exercise" id="toc-exercise" class="nav-link" data-scroll-target="#exercise"><span class="header-section-number">6.3</span> Exercise</a>
+  <ul class="collapse">
+  <li><a href="#changes-in-chf" id="toc-changes-in-chf" class="nav-link" data-scroll-target="#changes-in-chf"><span class="header-section-number">6.3.1</span> Changes In CHF:</a></li>
+  <li><a href="#mechanisms-of-hypercapnia-or-under-ventilation-for-demand" id="toc-mechanisms-of-hypercapnia-or-under-ventilation-for-demand" class="nav-link" data-scroll-target="#mechanisms-of-hypercapnia-or-under-ventilation-for-demand"><span class="header-section-number">6.3.2</span> Mechanisms of hypercapnia (or under ventilation for demand)</a></li>
+  <li><a href="#oxygen-in-sdb" id="toc-oxygen-in-sdb" class="nav-link" data-scroll-target="#oxygen-in-sdb"><span class="header-section-number">6.3.3</span> Oxygen in SDB</a></li>
+  <li><a href="#central-apneas" id="toc-central-apneas" class="nav-link" data-scroll-target="#central-apneas"><span class="header-section-number">6.3.4</span> Central Apneas</a></li>
+  <li><a href="#ventilation-in-chronic-lung-disease" id="toc-ventilation-in-chronic-lung-disease" class="nav-link" data-scroll-target="#ventilation-in-chronic-lung-disease"><span class="header-section-number">6.3.5</span> Ventilation in chronic lung disease</a></li>
+  <li><a href="#ventilation-in-copd" id="toc-ventilation-in-copd" class="nav-link" data-scroll-target="#ventilation-in-copd"><span class="header-section-number">6.3.6</span> Ventilation in COPD</a></li>
+  </ul></li>
+  <li><a href="#source-materials" id="toc-source-materials" class="nav-link" data-scroll-target="#source-materials"><span class="header-section-number">6.4</span> Source materials</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../talks/airway-ventilation/index.html">Airway &amp; Ventilation</a></li><li class="breadcrumb-item"><a href="../../talks/airway-ventilation/control-of-ventilation.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Control Of Ventilation</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Control Of Ventilation</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="what-this-covers" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="what-this-covers"><span class="header-section-number">5.1</span> What this covers</h2>
+<ul>
+<li>Analogy to Creatinine Clearance</li>
+<li>Hypoventilation</li>
+<li>Exercise</li>
+</ul>
+</section>
+<section id="learning-objectives" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="learning-objectives"><span class="header-section-number">5.2</span> Learning objectives</h2>
+<ul>
+<li>TODO: Define the core learning goals for this topic.</li>
+<li>TODO: Identify 3–7 key takeaways for residents.</li>
+<li>TODO: Clarify what decisions this talk supports.</li>
+</ul>
+</section>
+<section id="bottom-line-summary" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="bottom-line-summary"><span class="header-section-number">5.3</span> Bottom line / summary</h2>
+<ul>
+<li>TODO: Summarize the highest-yield point.</li>
+<li>TODO: Summarize the second-highest-yield point.</li>
+<li>TODO: Summarize the third-highest-yield point.</li>
+<li>TODO: Summarize the fourth-highest-yield point.</li>
+<li>TODO: Summarize the fifth-highest-yield point.</li>
+</ul>
+</section>
+<section id="approach" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="approach"><span class="header-section-number">5.4</span> Approach</h2>
+<ol type="1">
+<li>TODO: Outline the initial assessment or decision point.</li>
+<li>TODO: Outline the next diagnostic or management step.</li>
+<li>TODO: Outline follow-up or escalation criteria.</li>
+</ol>
+</section>
+<section id="red-flags-when-to-escalate" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="red-flags-when-to-escalate"><span class="header-section-number">5.5</span> Red flags / when to escalate</h2>
+<ul>
+<li>TODO: List red flags that require urgent escalation.</li>
+</ul>
+</section>
+<section id="common-pitfalls" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="common-pitfalls"><span class="header-section-number">5.6</span> Common pitfalls</h2>
+<ul>
+<li>TODO: Capture common errors or missed steps.</li>
+</ul>
+</section>
+<section id="references" class="level2" data-number="5.7">
+<h2 data-number="5.7" class="anchored" data-anchor-id="references"><span class="header-section-number">5.7</span> References</h2>
+<p>TODO: Add landmark references or guideline citations.</p>
+</section>
+<section id="source-notes" class="level2" data-number="5.8">
+<h2 data-number="5.8" class="anchored" data-anchor-id="source-notes"><span class="header-section-number">5.8</span> Source notes</h2>
+<section id="control-of-ventilation" class="level3" data-number="5.8.1">
+<h3 data-number="5.8.1" class="anchored" data-anchor-id="control-of-ventilation"><span class="header-section-number">5.8.1</span> Control Of Ventilation</h3>
+</section>
+</section>
+<section id="control-of-ventilation-1" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Control of Ventilation</h1>
+<p>Source: DOI: 10.1183/09031936.00048514</p>
+<p>3 components:</p>
+<ol type="1">
+<li>central medullary rhythm/pattern generator and integrator (brainstem) - primarily in the pre-Botzinger complex and pontine raphe. Bilateral (thus, not destroyed by acute ischemic stroke in the absence of catastrophe)</li>
+<li>Sensory inputs Chemoreceptors - carotid body (peripheral - sense a variety of stimuli such as O2 levels) and medulla (central - H+, linear increase in VA to increase in H+ in CSF - whose changes are moderate by active H+ transport at the BBB). Stimulation of the peripheral chemoreceptors increases the slope of the central H+ receptors (meaning, a given increase in H+ will result in a larger increase in ventilation). Note: carotid BODY (chemoreceptor) =/= carotid sinuses (baroreceptors, blood pressure)</li>
+<li>precise synchronous distribution of motor output to the respiratory musculature of the upper airway as well as the chest and abdominal walls (via C3-4-5, phrenic keeps the diaphragm alive).</li>
+</ol>
+<p>[ ] Deranged physiology slides?</p>
+<p>Application: Bilateral denervation of the carotid bodies leads to ABSENCE of hypoxemia drive to breath AND blunting of H+ response to breathe.</p>
+<p>(Dahan A, Nieuwenhuijs D, Teppema L. Plasticity of central chemoreceptors: effect of bilateral carotid body resection on central CO2 sensitivity. PLoS Med 2007; 4: e239.</p>
+<p>Rodman JR, Curran AK, Henderson KS, et al.&nbsp;Carotid body denervation in dogs: eupnea and the ventilatory response to hyperoxic hypercapnia. J Appl Physiol 2001; 91: 328–335.)</p>
+<p>Conversely, adaptation to elevation (lower inspired o2 -&gt; thus we increase VA to lower co2 and allow for more O2) requires the carotid bodies to be functioning.</p>
+<p>Carotid body doesn’t increase VA slope in response to hypoxemia unitl PaO2 &lt;55-60 mmHg. Consequence (and question): anemia, CO inhalation do NOT cause hyperventilation.</p>
+<p>Plasticity occurs in several circumstances: e.g.&nbsp;hypoxemia will lead to an increase in O2 sensitivity at peripheral chemoreceptors that persists for several days after normoxia is restored.</p>
+<p>Long term facilitation occurs after intermittent hypoxemia -&gt; carotid sensitization -&gt; sustained adrenergic activity (may be responsible for some of the daytime changes seen in obstructive sleep apnea) ==&gt; possible mechanism for why things like RAAS blockade or hyperaldosteronism may be linked to OSA</p>
+<section id="analogy-to-creatinine-clearance" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="analogy-to-creatinine-clearance"><span class="header-section-number">6.1</span> Analogy to Creatinine Clearance</h2>
+<p>Urine volume : VE (exhaled volume) U_cr : FExhaled CO2</p>
+<p>VE = Vd + Va VCO2 = VE * FECO2 = FACO2 * VA PACO2 = FACO2 * (Barometric pressure - 47) PACO2 = PaCO2 (not diffusion limited)</p>
+<p>‘Kinetics’ will be the same, but faster. Implication, similar to sCr 5 not being much diff than 6, 70 not much different than 80 as PaCO2</p>
+</section>
+<section id="hypoventilation" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="hypoventilation"><span class="header-section-number">6.2</span> Hypoventilation</h2>
+<p>Important to note than PaCO2 over 44 mmHg is not synonymous with hypoventilation - as it could also be due to increased VCO2 (from exercise, increased work of breathing, weight gain, hyperthermia, carbohydrate utilization, hyperthyroidism, etc.)</p>
+<p>(Also the issue of metabolic acid-base disorder and compensation)</p>
+</section>
+<section id="exercise" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="exercise"><span class="header-section-number">6.3</span> Exercise</h2>
+<p>Why do we live at the set point of pH Co2 HCO3 combination that we live at? (Roughly 40 at sea level) If we lived at a higher CO2 (and higher bicarb, but same pH) set point - we’d have to ventilate less to maintain steady state. This would seemingly increase our exercise capacity before reaching ventilatory limitation???</p>
+<p>(We can actually do this some in COPD and it works - by using intrathecal fentanyl)</p>
+<p>However, based on Dalton’s law, a high PaCO2 imposes a low PaO2. Thus, perhaps the degree of N2 in the air (and thus, the pO2) provides the limit - the lower the CO2 set-point, the more O2 we have available but the higher work of breathing.</p>
+<p>(Relatedly, the pH 7.4 in the blood seems to correspond ~6.8 intracellular pH, which is also the pKA of H2O - perhaps maximizes enzyme function?)</p>
+<p>So, ought we to change this in patients on a ventilator, where we can drastically increase the O2 concentration (via nitrogen washout?)</p>
+<p>[ ] this ought to be calculable (optimized for 100% fio2 instead of 21% fio2) –&gt; ought to be able to make a nomogram of fio2 to optimal pCO2</p>
+<p>Isocapneic hyperpnea: very precise regulation of Va compared to VCO2 at various work rates (and among individuals with very different body size; and, unlike O2, it does not change with age). Interestingly, this can still be achieved after denervation of carotid bodies (at least at moderate work rates) - suggesting the primary mechanism involve sensors in the lungs and central control.</p>
+<ol type="1">
+<li>Anticipatory, feed forward mechanism: allows increase in VA to occur prior to drop in pH (increase in CO2).</li>
+<li>Muscles provide feedback (blocking muscle afferents with curare lowers Va similar to drop from intrathecal fentanyl - interestingly this blockage can improve exercise performance in those with COPD)</li>
+</ol>
+<p>With age or COPD, decreased elastic recoil and increased deadspace ventilation leads to expiratory flow limitation at lower work rates. The body defends CO2 during exercise despite these, so folks with increased VEVCO2 just ventilate more - major contribution to dyspnea on exertion.</p>
+<p>Implication: Why does O2 help exercise tolerance in COPD? It’s NOT due to reduction of hypoxia at the muscles, but instead due to decreasing the chemoreceptor slope and thus decreasing the drive to breath. It follows, then, that exertion hypoxemia is not the actual reason to do O2 with exertion, but in fact severe ventilatory limitation should trigger this.</p>
+<p>(Does that mean that patients exercising with oxygen have higher CO2 levels? Yes Does reduce VE - O’Donnell DE, D’Arsigny C, Webb KA. Effects of hyperoxia on ventilatory limitation during exercise in advanced chronic obstructive pulmonary disease. Am J Respir Crit Care Med 2001; 163: 892–898.)</p>
+<p><strong><em>Could you use opiates to do the same thing?</em></strong></p>
+<section id="changes-in-chf" class="level3" data-number="6.3.1">
+<h3 data-number="6.3.1" class="anchored" data-anchor-id="changes-in-chf"><span class="header-section-number">6.3.1</span> Changes In CHF:</h3>
+<ol type="1">
+<li>Peripheral chemoreceptors are unregulated (thought related to ‘stagnant hypoxia’ at the carotid bodies - low shear stress, blood flow, and CO) and thus they are hypersensitive (both increased loop gain - CSR and periodic breathing in exercise - and baseline hyperventilate). 2. Transient Pulm HTN in exercise can also stimulate C fibers.</li>
+</ol>
+<p>Changes in sleep disordered breathing -&gt; High chemosensitivity, daytime sympathetic tone.</p>
+<p>OSA &lt;-&gt; CSA overlap may be more murky, as decrease in ventilator drive will sometimes lead to an obstruction. Overlap can occur if: 1. High loop gain 2. Sensitive arousal threshold 3. Sluggish responsiveness of upper airway dilator muscles to chemoreceptor stimuli.</p>
+<p>Loop gain: made of controller (chemo-sensitive) gain and plant gain. (Think of ‘gain’ as ‘sensitivity’)</p>
+<p>Chemosensory gain is slope of ventilatory response to hypercapnia and hypocapnia (change in VE / change in PaCO2) aka the ventilatory response to CO2</p>
+<p>Plant gain is magnitude of reduction in PaCO2 resulting from a given change in ventilation aka the CO2 response to a change in ventilation.</p>
+<p>A related concept: Feedback gain - the speed of the feedback back to the controller.</p>
+<p>Applications? Ways to improve loop gain? Supplemental oxygen or acetazolamide (or, you could increase the inspired CO2 fraction to reduce plant gain)</p>
+<p>Clinical application has been hampered by limited ways to identify loop gain (or low arousal thresholds) to target them for treatment.</p>
+<p>Remaining questions: why are we evolved to the CO2/HCO3 levels we are? (You could achieve the same pH with any ratio - higher CO2 would mean less need for ventilation and higher performance). –&gt; perhaps the limit via Dalton’s law (increase CO2 -&gt; decrease O2) <strong><em>YES, see above</em></strong></p>
+<p>Why hypercapnia during exacerbations? (Even if chronically with hypocapnia due to V/Q mismatch and compensatory hyperventilation)</p>
+<p>Because pulmonary edema = stiffer lungs = lower FRC = rapid shallow breathing with relative increase in deadspace fraction.</p>
+<p>###OHS</p>
+<p>Of note, OHS develops in many people without restriction (right?) And requires an additional impairment beyond mechanical restriction (e.g.&nbsp;a set-point reseting of central chemoreceptors) that is not entirely well understood (and possibly hormonally mediated?)</p>
+<p>ERS guidelines - now have some wording to indicate stages in the pathophysiology of obesity hypoventilation</p>
+<p>Stages: Ventilation impairment in certain situations (exercise, sleep, increased metabolic load). More widespread transcutaneous capnography could allow for this. Of note, it is thought that increased bicarbonate levels during the day might reflect this ‘loading’ at night</p>
+<ol type="1">
+<li>Intermittent Nocturnal Hypoventilation with morning=evening, with normal bicarbonate (&lt;27) during the day (Obesity related sleep hypoventilation)</li>
+<li>Intermittent Nocturnal Hypoventilation with morning worse than evening, with abnormal bicarbonate (27+) during the day (Obesity related sleep hypoventilation)</li>
+<li>Hypoventilation during the day (CO2 &gt; 45)</li>
+<li>Hypoventilation during the day with cardiometabolic comorbidities</li>
+</ol>
+<p>REM sleep hypoventilation is the first to develop, as ventilation in this stage of sleep is dependent on only the diaphragm and the central drive to breath.</p>
+<p>Normally, PaCO2 increases 4-6 mmHg</p>
+<p>It is notable, however, that because of the reciprocal relationship between PO2 and PCO2 (Dalton’s law) that larger changes in PaCO2 (and O2) will result from small changes in ventilation)</p>
+<p>[ ] application to acute on chronic hypercapneic respiratory failure</p>
+</section>
+<section id="mechanisms-of-hypercapnia-or-under-ventilation-for-demand" class="level3" data-number="6.3.2">
+<h3 data-number="6.3.2" class="anchored" data-anchor-id="mechanisms-of-hypercapnia-or-under-ventilation-for-demand"><span class="header-section-number">6.3.2</span> Mechanisms of hypercapnia (or under ventilation for demand)</h3>
+<p>PaCO2 = k * V_CO2 / (RR * [ 1 - Vd/Vt])</p>
+<p>Perturbing any of the R sided variables can lead to an increase in CO2:</p>
+<ol type="1">
+<li>Drop in ventilation (including alveolar, but no change in deadspace ratio) - ie. after opiate</li>
+<li>V/Q mismatch impairing CO2 clearance, in the absence of an increase in overall ventilation to compensate</li>
+<li>Diminished Vt (thus increased Vd/Vt) with RR being unable to increase enough (this is the case in COPD)</li>
+<li>Increased CO2 production without increase in alveolar ventilation</li>
+</ol>
+<p>This can be caused by pathophysiology in:</p>
+<ol type="1">
+<li>chemoreflex system (metabolic alkalosis, respiratory depressants)</li>
+<li>Neuromuscular system</li>
+<li>Ventilatory apparatus (airways, lung parenchyma, and chest wall) - asthma, ARDS, kyphoscoliosis</li>
+</ol>
+<p>Hypercapnia in OHS is, tentatively, due to increased VCO2 (not ventilation)</p>
+<p>Though interestingly, obese patients have improvement during exercise due to improved V/Q matching - might they have an exacerbated worsening of V/Q matching when supine?</p>
+<p>hypercapnic ventilatory response (HCVR)</p>
+<p>Citation 8 [ ] pending request</p>
+<p>If it’s mechanics, how come only 50% of those BMI 50+ manifest symptoms? Not all mechanical. Also, obesity has only mild affect on lung mechanics (except ERV)</p>
+<p>Jones RL, Nzekwu MM. The effects of body mass index on lung volumes. Chest 2006;130:827–833.</p>
+<p>Normally - tight coupling between vCO2 and alveolar ventilation - comes unhooked in OHS due to..</p>
+<ul>
+<li>inter-apneic periods insufficient to unload the large amount of CO2 produced and retained during apneic periods? (Ayappa I, Berger KI, Norman RG, Oppenheimer BW, Rapoport DM,Goldring RM. Hypercapnia and ventilatory periodicity in obstructive sleep apnea syndrome. Am J Respir Crit Care Med. 2002;166(8):1112-1115.)</li>
+<li>impaired sensitivity to CO2 (Perhaps hormonally mediated - Leptin is a powerful stimulant of ventilation and in OHS - resistance to this may decrease control). Leptin resistance is more common in folks with OHS, and leptin levels fall after [ ] are there many patients who might have obesity hypoventilation syndrome in my cohort?</li>
+</ul>
+<p>Is it “can’t breathe”, or “won’t breathe”? Eucapneic obese increase CNS drive to breathe to overcome increased work of breathing (response to CPAP also argues against this. No compelling data the BiPAP &gt; CPAP, though this would be expected if primarily mechanical). Ventilatory response to hypoxia and hypercapnia are blunted.</p>
+<p>==&gt; patients with obesity have an increased central respiratory drive to breath when compared to normal weight patients (compensating for increased ventilatory requirements, increased work of breathing due to mass of movement, and muscle weakness)</p>
+<p>Inadequate central respiratory drive = Ondine’s curse -&gt; mutation in PHOX2b gene. Rare</p>
+<p>Chest wall restriction (via VC), BMI, and severity of OSA are all independent predictors. Bicarb over 27. ERS suggests screening with “FVC &lt;50% and venous bicarbonate &gt;27 mmol (A).”</p>
+<p>“OHS patients showed an increased carbon dioxide production andreduced ventilatory responses to carbon dioxide, which could be part of the diagnostic work-up [333–336]. Increased daytime bicarbonate (cut-off level &gt;27 mmol·L−1) despite normal pH documents chronic hypercapnia during sleep [337–339]”</p>
+<p>Increases in PaCO2 or capillary PCO2, or marked elevations of transcutaneous PCO2 (as compared to baseline) during REM sleep indicate OHS (early stage)</p>
+<p><strong><em>what would you adapt this to at SLC?</em></strong></p>
+<p>The pathology is a failure of the normal compensation mechanisms.</p>
+<p>Vs Combination OSA/COPD?</p>
+<p>Differentiate from ‘pure’ COPD hypercapnia - which the following applies to: Evidence suggests that nocturnal NIV in stable hypercapnic COPD may improve survival and QoL andthat inspiratory pressures need to be adjusted to levels high enough to improve ventilation</p>
+<p>Post hypercapnia admissions (or AHRF) - no benefit to prolonged use of NIV</p>
+<section id="acute-decompensation-of-ohs" class="level4" data-number="6.3.2.1">
+<h4 data-number="6.3.2.1" class="anchored" data-anchor-id="acute-decompensation-of-ohs"><span class="header-section-number">6.3.2.1</span> Acute Decompensation of OHS</h4>
+<p>Either diagnosed at:</p>
+<ol type="1">
+<li>30-70% diagnosed during respiratory decompensation, often not at the first one. (Reportedly, affects 50% of hospitalized patients with BMI over 50)</li>
+</ol>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 5%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>9, 26, 29, 60, 69</td>
+</tr>
+<tr class="even">
+<td>9. Nowbar S, Burkart KM, Gonzales R, et al.&nbsp;Obesity-associatedhypoventilation in hospitalized patients: prevalence, effects, andoutcome. Am J Med. 2004;116(1):1-7.</td>
+</tr>
+<tr class="odd">
+<td>26. Marik PE, Desai H. Characteristics of patients with the “malignantobesity hypoventilation syndrome” admitted to an ICU. J IntensiveCare Med. 2013;28(2):124-130.</td>
+</tr>
+<tr class="even">
+<td>29. Castro-Añón O, Pérez de Llano LA, De la Fuente Sánchez S, et al.Obesity-hypoventilation syndrome: increased risk of death oversleep apnea syndrome. PLoS One. 2015;10(2):e0117808.</td>
+</tr>
+<tr class="odd">
+<td>60. Priou P, Hamel J-F, Person C, et al.&nbsp;Long-term outcome ofnoninvasive positive pressure ventilation for obesity hypoventilationsyndrome. Chest. 2010;138(1):84-90.</td>
+</tr>
+<tr class="even">
+<td>69. Pérez de Llano LA, Golpe R, Ortiz Piquer M, et al.&nbsp;Short-term andlong-term effects of nasal intermittent positive pressure ventilationin patients with obesity-hypoventilation syndrome. Chest. 2005;128(2):587-594.</td>
+</tr>
+</tbody>
+</table>
+<ol start="2" type="1">
+<li>Or at the time of escalation outpatient care to a pulmonologist or sleep medicine physician</li>
+</ol>
+<p>Most often use BiLevel - with an outcome of pH or CO2 improvement. This is delayed as a result of diuretics (cl- rich) - but does that matter? (Or is decongestion ultimately helpful)</p>
+<p>“NIV should be applied as much as tolerated during the first 24 h of admission and once the respiratory acidosis has resolved, weaned during the daytime can commence with continued nocturnal NIV.”</p>
+<p>[ ] use of diuretics as a treatment here? OHS and fluid retention. “Fluid retention and centralisation have been shown to be underlying mechanisms for the elevated occurrence of OSA in ESRD [158, 159].”</p>
+<p>158 Elias RM, Chan CT, Paul N, et al.&nbsp;Relationship of pharyngeal water content and jugular volume with severity ofobstructive sleep apnea in renal failure. Nephrol Dial Transplant 2013; 28: 937–944.159 Beecroft JM, Duffin J, Pierratos A, et al.&nbsp;Decreased chemosensitivity and improvement of sleep apnea bynocturnal hemodialysis. Sleep Med 2009; 10: 47–54.</p>
+<p>Roughly half of patients with OHS have pHTN</p>
+<p>Progesterone in women (may worsen OSA with fluid retention + clots, but stimulates ventilation) or acetazolamide (works in short term)</p>
+</section>
+</section>
+<section id="oxygen-in-sdb" class="level3" data-number="6.3.3">
+<h3 data-number="6.3.3" class="anchored" data-anchor-id="oxygen-in-sdb"><span class="header-section-number">6.3.3</span> Oxygen in SDB</h3>
+<p>In OHS: supplemental oxygen will increase CO2 and decrease pH</p>
+<p>58-59 Hollier CA, Harmer AR, Maxwell LJ, et al.&nbsp;Moderate concentrations of supplemental oxygen worsen hypercapnia - https://thorax.bmj.com/content/69/4/346in obesity hypoventilation syndrome: a randomised crossover study. Thorax 2014; 69: 346–353.</p>
+<p>https://www.sciencedirect.com/science/article/abs/pii/S0012369211602250</p>
+<p>ERS: Monotherapy with oxygen reduces ventilation and increases hypercapnia. Oxygen should only be applied as an adjunct to NIV</p>
+</section>
+<section id="central-apneas" class="level3" data-number="6.3.4">
+<h3 data-number="6.3.4" class="anchored" data-anchor-id="central-apneas"><span class="header-section-number">6.3.4</span> Central Apneas</h3>
+<p>Can be related to unstable breathing caused by high loop gain or decrease central neuron output (e.g.&nbsp;narcotics, one of the few circumstances this occurs - ‘ataxic breathing’. This is separate from the decreased response to hypercapnia caused by opiates).</p>
+<p>Apneic threshold = pco2 below which breath stops. CO2 sensitivity is increased in hypoxia =&gt; lowers the set point pCO2 [???] =&gt; set point and apneic threshold are closer. Higher in NREM.</p>
+<p>Application: in UT, lower oxygen levels = set point is closer to apneic threshold = we get more Central Apneas.</p>
+<p>High-altitude periodic breathing (HAPB) - CSA is observed &gt;1600m, and by 6850m everyone gets it (and sometimes, very high). May be improved by acetazolamide</p>
+<p>[ ] does going to altitude provoke complex apneas?</p>
+<p>CSA from HF - HFrEF (21-37%), HFpEF (18-30%, increasing with worse diastolic dsfxn). It’s clinical impact is unclear - higher rate of VT and associated with higher mortality, but unclear if this is mediated by the apneas.</p>
+<p>Treatment -&gt; things that lower the PCWP will lower the rate of CSAs. Oxygen lowers AHI (though this might be partly by masking hypopnea). CanPAP suggested improvement in some surrogate markers, but not survival, with CPAP. Serve-HF showed increased mortality in patients LVEF &lt;45% treated with ASV</p>
+<p>Stroke-CSA: regularly found immediately after stroke, but declines 3-6 months after recovery. Only a minority of patients are able tolerate PAP [ ] research idea - how many patients with stroke are left on PAP.<br>
+—also, update manuscript</p>
+<p>ILD: Hypoxia =&gt; hyperventilation as compensation. Close to apneic threshold. Conversely, many patients are hypercapneic at night - this is predicted by degree of hypoxemia during the day (but not exercise desaturation). This area has not been well described.</p>
+<p>Application:</p>
+<p>Central Apneas during pressure support? [ ] SCCM guidelines - PS</p>
+<p>Treatment emergent and persistent CSA: Post-hyperventilation apnea?*** Revisit pathology here***</p>
+<p>ERS terminology: treatment-persistent CSA for patients with CSA newly developing under treatment with CPAP or BPAP and persisting under continuous use</p>
+<p>OSA+Central disturbances = combination of OSA with any phenotype of central disturbances or hypoventilation as “co-existing OSA and CSA (or CSB or hypoventilation) [ ] revisit manuscript here</p>
+<p>do not use the diagnosis of treatment-emergent CSA for CSA in patients with underlyingcardiovascular, endocrine, renal or neurological diseases, or for pre-existing CSA prior to initiation of PAPand transient CSA</p>
+<p>Why is Acetazolamide potentially useful in terminating Central Apneas? 2 reasons explained here: doi:10.5664/jcsm.9116</p>
+<ol type="1">
+<li><p>Normal Co2 level during sleep - Apnea threshold (generally 33-35 mmHg paco2) = the Co2 reserve. Central Apneas occur in settings where this threshold is small: Heart failure/ILD, Altitude. Acetazolamide lowers Normal CO2 level during sleep, but it lowers the Apnea threshold by even more - thus increasing the CO2 reserve.</p></li>
+<li><p>Acetazolamide decreases plant gain (the afferent limb of the loop gain response -&gt; less overall loop gain for the same controller gain)</p></li>
+</ol>
+</section>
+<section id="ventilation-in-chronic-lung-disease" class="level3" data-number="6.3.5">
+<h3 data-number="6.3.5" class="anchored" data-anchor-id="ventilation-in-chronic-lung-disease"><span class="header-section-number">6.3.5</span> Ventilation in chronic lung disease</h3>
+<p>V/Q matching worsens - physiologic deadspace increases, and overall ventilation must increase to maintain homeostasis. This is mediated by central chemoreceptors</p>
+<p>However, PaCO2 is usually low - why?</p>
+<p>The response to hypoxemia, mediated by the peripheral chemoreceptors =&gt; increases the gain of changes in CO2 -&gt; relative hyperventilation.</p>
+<p>In ILD particularly, this leads to rapid shallow breathing a result of changed lung mechanics (decreased FRC due to stiffer lungs)</p>
+<p>Implication: The same PaO2 indicates significantly worsened lung pathophysiology in a patient who has CO2 20 than CO2 40.</p>
+</section>
+<section id="ventilation-in-copd" class="level3" data-number="6.3.6">
+<h3 data-number="6.3.6" class="anchored" data-anchor-id="ventilation-in-copd"><span class="header-section-number">6.3.6</span> Ventilation in COPD</h3>
+<section id="sleep" class="level4" data-number="6.3.6.1">
+<h4 data-number="6.3.6.1" class="anchored" data-anchor-id="sleep"><span class="header-section-number">6.3.6.1</span> Sleep</h4>
+<p>OSA-COPD Overlap syndrome (OVS) research priorities:</p>
+<p>During sleep, there is a loss of the wakefulness drive to breath and an increase in airway resistance due to some collapse of the upper airway. The normal response to an increase in resistive loads is to increase the RR and decrease respiratory time, but this can worsen dynamic hyperinflation in patients with COPD. Leads to less restful sleep / sleep architecture, and an inability to maintain adequate ventilation (sleep related hypoventilation)</p>
+<p>Non-REM: increased upper airway resistance, impaired load compensiation(?), blunted chemosensitivity REM: upper airway collapse and skeletal muscle atonia.</p>
+<p>Together =&gt; a large portion of patients become hypoxemia at night even when they are not hypoxemia in the day.</p>
+<ul>
+<li>This may predispose to developing daytime hypercapnia with more mild obstruction</li>
+<li>it is not known what the prognostic significance of nocturnal hypoxemia (e.g.&nbsp;REM nocturnal hypoxemia is). -sleep disordered breathing in COPD is better thought of as a variety of related conditions that may or may not be present: OSA, CSA, worsening airflow obstruction, hypoventilation, oxygen desaturation, and sleep fragmentation.</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="source-materials" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="source-materials"><span class="header-section-number">6.4</span> Source materials</h2>
+<ul>
+<li><a href="archive/Clinical Practice Notes/control-of-ventilation.md">Clinical Practice Notes/control-of-ventilation.md</a></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script>
+
+/* update total correct if #webex-total_correct exists */
+update_total_correct = function() {
+  console.log("webex: update total_correct");
+
+  var t = document.getElementsByClassName("webex-total_correct");
+  for (var i = 0; i < t.length; i++) {
+    p = t[i].parentElement;
+    var correct = p.getElementsByClassName("webex-correct").length;
+    var solvemes = p.getElementsByClassName("webex-solveme").length;
+    var radiogroups = p.getElementsByClassName("webex-radiogroup").length;
+    var selects = p.getElementsByClassName("webex-select").length;
+
+    t[i].innerHTML = correct + " of " + (solvemes + radiogroups + selects) + " correct";
+  }
+}
+
+/* webex-solution button toggling function */
+b_func = function() {
+  console.log("webex: toggle hide");
+
+  var cl = this.parentElement.classList;
+  if (cl.contains('open')) {
+    cl.remove("open");
+  } else {
+    cl.add("open");
+  }
+}
+
+/* check answers */
+check_func = function() {
+  console.log("webex: check answers");
+
+  var cl = this.parentElement.classList;
+  if (cl.contains('unchecked')) {
+    cl.remove("unchecked");
+    this.innerHTML = "Hide Answers";
+  } else {
+    cl.add("unchecked");
+    this.innerHTML = "Show Answers";
+  }
+}
+
+/* function for checking solveme answers */
+solveme_func = function(e) {
+  console.log("webex: check solveme");
+
+  var real_answers = JSON.parse(this.dataset.answer);
+  var my_answer = this.value;
+  var cl = this.classList;
+  if (cl.contains("ignorecase")) {
+    my_answer = my_answer.toLowerCase();
+  }
+  if (cl.contains("nospaces")) {
+    my_answer = my_answer.replace(/ /g, "")
+  }
+
+  if (my_answer == "") {
+    cl.remove("webex-correct");
+    cl.remove("webex-incorrect");
+  } else if (real_answers.includes(my_answer)) {
+    cl.add("webex-correct");
+    cl.remove("webex-incorrect");
+  } else {
+    cl.add("webex-incorrect");
+    cl.remove("webex-correct");
+  }
+
+  // match numeric answers within a specified tolerance
+  if(this.dataset.tol > 0){
+    var tol = JSON.parse(this.dataset.tol);
+    var matches = real_answers.map(x => Math.abs(x - my_answer) < tol)
+    if (matches.reduce((a, b) => a + b, 0) > 0) {
+      cl.add("webex-correct");
+    } else {
+      cl.remove("webex-correct");
+    }
+  }
+
+  // added regex bit
+  if (cl.contains("regex")){
+    answer_regex = RegExp(real_answers.join("|"))
+    if (answer_regex.test(my_answer)) {
+      cl.add("webex-correct");
+    }
+  }
+
+  update_total_correct();
+}
+
+/* function for checking select answers */
+select_func = function(e) {
+  console.log("webex: check select");
+
+  var cl = this.classList
+
+  /* add style */
+  cl.remove("webex-incorrect");
+  cl.remove("webex-correct");
+  if (this.value == "answer") {
+    cl.add("webex-correct");
+  } else if (this.value != "blank") {
+    cl.add("webex-incorrect");
+  }
+
+  update_total_correct();
+}
+
+/* function for checking radiogroups answers */
+radiogroups_func = function(e) {
+  console.log("webex: check radiogroups");
+
+  var checked_button = document.querySelector('input[name=' + this.id + ']:checked');
+  var cl = checked_button.parentElement.classList;
+  var labels = checked_button.parentElement.parentElement.children;
+
+  /* get rid of styles */
+  for (i = 0; i < labels.length; i++) {
+    labels[i].classList.remove("webex-incorrect");
+    labels[i].classList.remove("webex-correct");
+  }
+
+  /* add style */
+  if (checked_button.value == "answer") {
+    cl.add("webex-correct");
+  } else {
+    cl.add("webex-incorrect");
+  }
+
+  update_total_correct();
+}
+
+window.onload = function() {
+  console.log("webex onload");
+  /* set up solution buttons */
+  var buttons = document.getElementsByTagName("button");
+
+  for (var i = 0; i < buttons.length; i++) {
+    if (buttons[i].parentElement.classList.contains('webex-solution')) {
+      buttons[i].onclick = b_func;
+    }
+  }
+
+  var check_sections = document.getElementsByClassName("webex-check");
+  console.log("check:", check_sections.length);
+  for (var i = 0; i < check_sections.length; i++) {
+    check_sections[i].classList.add("unchecked");
+
+    let btn = document.createElement("button");
+    btn.innerHTML = "Show Answers";
+    btn.classList.add("webex-check-button");
+    btn.onclick = check_func;
+    check_sections[i].appendChild(btn);
+
+    let spn = document.createElement("span");
+    spn.classList.add("webex-total_correct");
+    check_sections[i].appendChild(spn);
+  }
+
+  /* set up webex-solveme inputs */
+  var solveme = document.getElementsByClassName("webex-solveme");
+
+  for (var i = 0; i < solveme.length; i++) {
+    /* make sure input boxes don't auto-anything */
+    solveme[i].setAttribute("autocomplete","off");
+    solveme[i].setAttribute("autocorrect", "off");
+    solveme[i].setAttribute("autocapitalize", "off");
+    solveme[i].setAttribute("spellcheck", "false");
+    solveme[i].value = "";
+
+    /* adjust answer for ignorecase or nospaces */
+    var cl = solveme[i].classList;
+    var real_answer = solveme[i].dataset.answer;
+    if (cl.contains("ignorecase")) {
+      real_answer = real_answer.toLowerCase();
+    }
+    if (cl.contains("nospaces")) {
+      real_answer = real_answer.replace(/ /g, "");
+    }
+    solveme[i].dataset.answer = real_answer;
+
+    /* attach checking function */
+    solveme[i].onkeyup = solveme_func;
+    solveme[i].onchange = solveme_func;
+
+    solveme[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
+  }
+
+  /* set up radiogroups */
+  var radiogroups = document.getElementsByClassName("webex-radiogroup");
+  for (var i = 0; i < radiogroups.length; i++) {
+    radiogroups[i].onchange = radiogroups_func;
+  }
+
+  /* set up selects */
+  var selects = document.getElementsByClassName("webex-select");
+  for (var i = 0; i < selects.length; i++) {
+    selects[i].onchange = select_func;
+    selects[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
+  }
+
+  update_total_correct();
+}
+
+</script>
+<script>
+// open rdrr links externally ----
+
+var exlinks = document.querySelectorAll("a[href^='https://rdrr.io']");
+var exlink_func = function(){
+  window.open(this.href);
+  return false;
+};
+for (var i = 0; i < exlinks.length; i++) {
+    exlinks[i].addEventListener('click', exlink_func, false);
+}
+
+// visible second sidebar in mobile ----
+
+function move_sidebar() {
+  var toc = document.getElementById("TOC");
+  var small_sidebar = document.querySelector("#quarto-sidebar .sidebar-menu-container");
+  var right_sidebar = document.getElementById("quarto-margin-sidebar");
+
+  if (window.innerWidth < 768) {
+    small_sidebar.append(toc);
+  } else {
+    right_sidebar.append(toc);
+  }
+}
+move_sidebar();
+window.onresize = move_sidebar;
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/reblocke\.github\.io\/clinical_talks\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../talks/airway-ventilation/basic-ventilator-chalk-talk.html" class="pagination-link" aria-label="Basic Ventilator Chalk Talk">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Basic Ventilator Chalk Talk</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../talks/airway-ventilation/intubation.html" class="pagination-link" aria-label="Intubation">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Intubation</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>CC-BY-SA-4.0 (2025) Brian Locke, MD MSc</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

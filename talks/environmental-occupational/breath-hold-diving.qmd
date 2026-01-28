@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Breath Hold Diving
-{{< include "archive/Clinical Practice Notes/breath-hold-diving.md" >}}
+{{< include "../../archive/Clinical Practice Notes/breath-hold-diving.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/breath-hold-diving.md](archive/Clinical%20Practice%20Notes/breath-hold-diving.md)

@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Anaphylaxis And Angioedema
-{{< include "archive/Clinical Practice Notes/anaphylaxis-and-angioedema.md" >}}
+{{< include "../../archive/Clinical Practice Notes/anaphylaxis-and-angioedema.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/anaphylaxis-and-angioedema.md](archive/Clinical%20Practice%20Notes/anaphylaxis-and-angioedema.md)

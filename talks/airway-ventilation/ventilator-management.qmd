@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Ventilator Management
-{{< include "archive/Clinical Practice Notes/ventilator-management.md" >}}
+{{< include "../../archive/Clinical Practice Notes/ventilator-management.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/ventilator-management.md](archive/Clinical%20Practice%20Notes/ventilator-management.md)

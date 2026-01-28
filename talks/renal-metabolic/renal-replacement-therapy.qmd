@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Renal Replacement Therapy
-{{< include "archive/Clinical Practice Notes/renal-replacement-therapy.md" >}}
+{{< include "../../archive/Clinical Practice Notes/renal-replacement-therapy.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/renal-replacement-therapy.md](archive/Clinical%20Practice%20Notes/renal-replacement-therapy.md)

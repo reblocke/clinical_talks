@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Pneumonia
-{{< include "archive/Clinical Practice Notes/pneumonia.md" >}}
+{{< include "../../archive/Clinical Practice Notes/pneumonia.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/pneumonia.md](archive/Clinical%20Practice%20Notes/pneumonia.md)

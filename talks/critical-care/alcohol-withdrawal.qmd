@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Alcohol Withdrawal
-{{< include "archive/Clinical Practice Notes/alcohol-withdrawal.md" >}}
+{{< include "../../archive/Clinical Practice Notes/alcohol-withdrawal.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/alcohol-withdrawal.md](archive/Clinical%20Practice%20Notes/alcohol-withdrawal.md)

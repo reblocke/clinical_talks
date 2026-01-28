@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Basic Ventilator Chalk Talk
-{{< include "archive/Clinical Practice Notes/basic-ventilator-chalk-talk.md" >}}
+{{< include "../../archive/Clinical Practice Notes/basic-ventilator-chalk-talk.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/basic-ventilator-chalk-talk.md](archive/Clinical%20Practice%20Notes/basic-ventilator-chalk-talk.md)

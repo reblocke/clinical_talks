@@ -35,7 +35,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### Hypersensitivity Pneumonitis
-{{< include "archive/Clinical Practice Notes/hypersensitivity-pneumonitis.md" >}}
+{{< include "../../archive/Clinical Practice Notes/hypersensitivity-pneumonitis.md" >}}
 
 ## Source materials
 - [Clinical Practice Notes/hypersensitivity-pneumonitis.md](archive/Clinical%20Practice%20Notes/hypersensitivity-pneumonitis.md)
