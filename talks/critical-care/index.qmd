@@ -1,0 +1,21 @@
+---
+title: Critical Care
+---
+
+## Topics
+- [Acute Pancreatitis](acute-pancreatitis.qmd)
+- [Alcohol Withdrawal](alcohol-withdrawal.qmd)
+- [Aspiration And Dysphagia](aspiration-and-dysphagia.qmd)
+- [Cardiogenic Shock](cardiogenic-shock.qmd)
+- [Cirrhosis In The ICU](cirrhosis-in-the-icu.qmd)
+- [ECMO](ecmo.qmd)
+- [Family Updates In The ICU](family-updates-in-the-icu.qmd)
+- [Goals Of Care](goals-of-care.qmd)
+- [Hematologic Emergencies In The ICU](hematologic-emergencies-in-the-icu.qmd)
+- [Hyperglycemic Crises](hyperglycemic-crises.qmd)
+- [Lactic Acidosis](lactic-acidosis.qmd)
+- [Obstetrical Critical Care](obstetrical-critical-care.qmd)
+- [Sedation And Analgesia In The ICU](sedation-and-analgesia-in-the-icu.qmd)
+- [Shock And Resuscitation](shock-and-resuscitation.qmd)
+- [Toxicology](toxicology.qmd)
+- [Vasopressors](vasopressors.qmd)

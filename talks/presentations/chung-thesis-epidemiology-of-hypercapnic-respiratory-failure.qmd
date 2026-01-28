@@ -1,15 +1,15 @@
 ---
-title: Presentations
+title: Chung Thesis Epidemiology Of Hypercapnic Respiratory Failure
 draft: true
 ---
 
+## Summary
+TODO: Summarize the slide/PDF content once curated.
+
 ## Learning objectives
-- TODO: Define the core learning goals for this topic collection.
+- TODO: Define the core learning goals for this topic.
 - TODO: Identify 3–7 key takeaways for residents.
 - TODO: Clarify what decisions this talk supports.
-
-## Clinical question / why this matters
-TODO: Summarize the clinical question and why it matters.
 
 ## Bottom line / summary
 - TODO: Summarize the highest-yield point.
@@ -29,11 +29,11 @@ TODO: Summarize the clinical question and why it matters.
 ## Common pitfalls
 - TODO: Capture common errors or missed steps.
 
-## Evidence / guidelines
-TODO: Add guideline or evidence anchors.
-
 ## References
 TODO: Add landmark references or guideline citations.
 
+## Slides and assets
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)
+
 ## Source materials
-- [Archive folder](https://github.com/reblocke/clinical_talks/tree/main/archive/Presentations/) (TODO: curate specific files from this folder.)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)

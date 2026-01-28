@@ -23,7 +23,19 @@ pre-round review, and rapid refreshers for common inpatient topics. TODO: Expand
 ## How this site is organized
 - Each topic lives in `talks/` and follows a standard outline.
 - Raw source materials (slides, notes, PDFs) live in `archive/` and are linked from each talk.
-- TODO: Add a taxonomy once topics are curated.
+- Topics are grouped into sections to keep navigation focused:
+  - [Airway & Ventilation](talks/airway-ventilation/index.qmd)
+  - [Pulmonary & Sleep](talks/pulmonary-sleep/index.qmd)
+  - [Critical Care](talks/critical-care/index.qmd)
+  - [Cardiology & Vascular](talks/cardiology-vascular/index.qmd)
+  - [Renal & Metabolic](talks/renal-metabolic/index.qmd)
+  - [Infectious & Immune](talks/infectious-immune/index.qmd)
+  - [Procedures & Devices](talks/procedures-devices/index.qmd)
+  - [Environmental & Occupational](talks/environmental-occupational/index.qmd)
+  - [Education & Research](talks/education-research/index.qmd)
+  - [Presentations](talks/presentations/index.qmd)
+  - [Miscellaneous](talks/miscellaneous/index.qmd)
+  - TODO: Refine taxonomy as new talks are curated.
 
 ## Disclaimer
 This resource is for education only and does not constitute medical advice.

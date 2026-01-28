@@ -1,15 +1,17 @@
 ---
-title: Clinical Practice Notes
+title: Fick Equation And Pa Catheter Principles
 draft: true
 ---
 
+## What this covers
+- Direct Fick
+- Indirect Fick
+- Thermodilution
+
 ## Learning objectives
-- TODO: Define the core learning goals for this topic collection.
+- TODO: Define the core learning goals for this topic.
 - TODO: Identify 3–7 key takeaways for residents.
 - TODO: Clarify what decisions this talk supports.
-
-## Clinical question / why this matters
-TODO: Summarize the clinical question and why it matters.
 
 ## Bottom line / summary
 - TODO: Summarize the highest-yield point.
@@ -29,11 +31,13 @@ TODO: Summarize the clinical question and why it matters.
 ## Common pitfalls
 - TODO: Capture common errors or missed steps.
 
-## Evidence / guidelines
-TODO: Add guideline or evidence anchors.
-
 ## References
 TODO: Add landmark references or guideline citations.
 
+## Source notes
+
+### Fick Equation And Pa Catheter Principles
+{{< include "archive/Clinical Practice Notes/fick-equation-and-pa-catheter-principles.md" >}}
+
 ## Source materials
-- [Archive folder](https://github.com/reblocke/clinical_talks/tree/main/archive/Clinical%20Practice%20Notes/) (TODO: curate specific files from this folder.)
+- [Clinical Practice Notes/fick-equation-and-pa-catheter-principles.md](archive/Clinical%20Practice%20Notes/fick-equation-and-pa-catheter-principles.md)

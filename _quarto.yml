@@ -2,6 +2,8 @@ lang: en
 project:
   type: book
   output-dir: docs
+  resources:
+  - archive/**
 execute:
   freeze: auto
 book:
@@ -55,10 +57,299 @@ book:
   page-footer: CC-BY-SA-4.0 (2025) Brian Locke, MD MSc
   chapters:
   - index.qmd
-  - part: Talk Topics
+  - part: Airway & Ventilation
     chapters:
-    - talks/clinical-practice-notes.qmd
-    - talks/presentations.qmd
+    - talks/airway-ventilation/index.qmd
+    - talks/airway-ventilation/ards.qmd
+    - talks/airway-ventilation/basic-ventilator-chalk-talk.qmd
+    - talks/airway-ventilation/control-of-ventilation.qmd
+    - talks/airway-ventilation/intubation.qmd
+    - talks/airway-ventilation/mechanisms-of-hypoxia.qmd
+    - talks/airway-ventilation/oxygen-delivery.qmd
+    - talks/airway-ventilation/patient-ventilator-interactions.qmd
+    - talks/airway-ventilation/proning-for-ards.qmd
+    - talks/airway-ventilation/pulmonary-mechanics.qmd
+    - talks/airway-ventilation/respiratory-failure.qmd
+    - talks/airway-ventilation/tracheostomy.qmd
+    - talks/airway-ventilation/ventilator-management.qmd
+    - talks/airway-ventilation/ventilatory-failure.qmd
+    - talks/airway-ventilation/weaning-and-extubation.qmd
+  - part: Pulmonary & Sleep
+    chapters:
+    - talks/pulmonary-sleep/index.qmd
+    - talks/pulmonary-sleep/asthma.qmd
+    - talks/pulmonary-sleep/bronchiectasis.qmd
+    - talks/pulmonary-sleep/constrictive-bronchiolitis.qmd
+    - talks/pulmonary-sleep/copd.qmd
+    - talks/pulmonary-sleep/cpet.qmd
+    - talks/pulmonary-sleep/cteph.qmd
+    - talks/pulmonary-sleep/ecac.qmd
+    - talks/pulmonary-sleep/eosinophilic-lung-disease.qmd
+    - talks/pulmonary-sleep/hypersensitivity-pneumonitis.qmd
+    - talks/pulmonary-sleep/ild.qmd
+    - talks/pulmonary-sleep/lung-cancer-screening-and-diagnosis.qmd
+    - talks/pulmonary-sleep/lung-transplant.qmd
+    - talks/pulmonary-sleep/pleural-disease.qmd
+    - talks/pulmonary-sleep/pulmonary-function-testing.qmd
+    - talks/pulmonary-sleep/pulmonary-hypertension.qmd
+    - talks/pulmonary-sleep/pulmonary-medicine-index.qmd
+    - talks/pulmonary-sleep/reflux-and-its-relation-to-lung-disease.qmd
+    - talks/pulmonary-sleep/sarcoidosis.qmd
+    - talks/pulmonary-sleep/sleep-disordered-breathing.qmd
+  - part: Critical Care
+    chapters:
+    - talks/critical-care/index.qmd
+    - talks/critical-care/acute-pancreatitis.qmd
+    - talks/critical-care/alcohol-withdrawal.qmd
+    - talks/critical-care/aspiration-and-dysphagia.qmd
+    - talks/critical-care/cardiogenic-shock.qmd
+    - talks/critical-care/cirrhosis-in-the-icu.qmd
+    - talks/critical-care/ecmo.qmd
+    - talks/critical-care/family-updates-in-the-icu.qmd
+    - talks/critical-care/goals-of-care.qmd
+    - talks/critical-care/hematologic-emergencies-in-the-icu.qmd
+    - talks/critical-care/hyperglycemic-crises.qmd
+    - talks/critical-care/lactic-acidosis.qmd
+    - talks/critical-care/obstetrical-critical-care.qmd
+    - talks/critical-care/sedation-and-analgesia-in-the-icu.qmd
+    - talks/critical-care/shock-and-resuscitation.qmd
+    - talks/critical-care/toxicology.qmd
+    - talks/critical-care/vasopressors.qmd
+  - part: Cardiology & Vascular
+    chapters:
+    - talks/cardiology-vascular/index.qmd
+    - talks/cardiology-vascular/acls.qmd
+    - talks/cardiology-vascular/acs.qmd
+    - talks/cardiology-vascular/atrial-fibrillation.qmd
+    - talks/cardiology-vascular/fick-equation-and-pa-catheter-principles.qmd
+    - talks/cardiology-vascular/pacemakers.qmd
+    - talks/cardiology-vascular/vte.qmd
+  - part: Renal & Metabolic
+    chapters:
+    - talks/renal-metabolic/index.qmd
+    - talks/renal-metabolic/acid-base.qmd
+    - talks/renal-metabolic/aki-in-the-icu.qmd
+    - talks/renal-metabolic/bmp-masterclass.qmd
+    - talks/renal-metabolic/diuresis-and-sodium-balance-in-the-icu.qmd
+    - talks/renal-metabolic/electrolytes.qmd
+    - talks/renal-metabolic/metabolism.qmd
+    - talks/renal-metabolic/renal-replacement-therapy.qmd
+  - part: Infectious & Immune
+    chapters:
+    - talks/infectious-immune/index.qmd
+    - talks/infectious-immune/anaphylaxis-and-angioedema.qmd
+    - talks/infectious-immune/antibiotic-stewardship.qmd
+    - talks/infectious-immune/fungal-infections.qmd
+    - talks/infectious-immune/mrsa-nasal-swab.qmd
+    - talks/infectious-immune/pneumonia.qmd
+  - part: Procedures & Devices
+    chapters:
+    - talks/procedures-devices/index.qmd
+    - talks/procedures-devices/arterial-line.qmd
+    - talks/procedures-devices/bronchoscopy.qmd
+    - talks/procedures-devices/central-venous-catheters.qmd
+    - talks/procedures-devices/chest-tubes.qmd
+    - talks/procedures-devices/critical-care-echo.qmd
+    - talks/procedures-devices/line-complications.qmd
+    - talks/procedures-devices/pocus.qmd
+    - talks/procedures-devices/procedure-index.qmd
+    - talks/procedures-devices/ultrasound.qmd
+  - part: Environmental & Occupational
+    chapters:
+    - talks/environmental-occupational/index.qmd
+    - talks/environmental-occupational/air-pollution.qmd
+    - talks/environmental-occupational/breath-hold-diving.qmd
+    - talks/environmental-occupational/hyperbarics.qmd
+    - talks/environmental-occupational/inhalational-injury.qmd
+    - talks/environmental-occupational/pneumoconioses-and-occupational-lung-disease.qmd
+  - part: Education & Research
+    chapters:
+    - talks/education-research/index.qmd
+    - talks/education-research/archive-index.qmd
+    - talks/education-research/medical-education.qmd
+  - part: Presentations
+    chapters:
+    - talks/presentations/index.qmd
+    - talks/presentations/aarc-2012-tcco2-guideline.qmd
+    - talks/presentations/aarc-coding-guidelines-procedures.qmd
+    - talks/presentations/acg-2024-acute-pancreatitis-guideline.qmd
+    - talks/presentations/acute-liver-failure.qmd
+    - talks/presentations/adler-et-al-2017-comorbidities-and-subgroups-of-patients-surviving-severe-acute-hypercapnic-respiratory-failure-in-the-1.qmd
+    - talks/presentations/adler-et-al-2017-comorbidities-and-subgroups-of-patients-surviving-severe-acute-hypercapnic-respiratory-failure-in-th.qmd
+    - talks/presentations/ai-for-housestaff.qmd
+    - talks/presentations/ajrccm-100-year-anniversary-homeward-bound-a-centenary-of-home-mechanical-ventilation.qmd
+    - talks/presentations/ajrccm-2017-comorbidities-surving-hypercapnia.qmd
+    - talks/presentations/ajrccm-2021-aus-pop-prev-hypercapnia.qmd
+    - talks/presentations/ajrccm-2021-compensated-hypercapnia-morbidity.qmd
+    - talks/presentations/ajrccm-2024-home-niv-at-hospital-discharge.qmd
+    - talks/presentations/amia-diagnostic-modeling-for-hypercapnia.qmd
+    - talks/presentations/ann-ats-2013-can-you-sustain-what-you-need.qmd
+    - talks/presentations/annals-ats-2020-ohs-in-bariatric-surg-cohort.qmd
+    - talks/presentations/annats-2014-what-does-weight-have-to-do-with-it.qmd
+    - talks/presentations/annats-2015-var-in-home-vent-practice-aus-vs-bc.qmd
+    - talks/presentations/annats-telemonitoring-home-ventilation.qmd
+    - talks/presentations/annats-telemonitoring-home-ventilation-supplement.qmd
+    - talks/presentations/annrevmed-niv-in-nmd.qmd
+    - talks/presentations/aspire-presentation.qmd
+    - talks/presentations/aspre-presention-1-scratch-pad.qmd
+    - talks/presentations/aspre-presention-1-slides.qmd
+    - talks/presentations/ats-2019-ohs-guidelines.qmd
+    - talks/presentations/ats-mini-rip.qmd
+    - talks/presentations/billing-code-definitions.qmd
+    - talks/presentations/bl-sleep-jc-sept-2022.qmd
+    - talks/presentations/bl-sleep-jc-sept-2022-pptx-after-ks.qmd
+    - talks/presentations/bmj-orr-2024-hypercap-rf-prognosis.qmd
+    - talks/presentations/boared-review-locke.qmd
+    - talks/presentations/brinkman-carbovisor.qmd
+    - talks/presentations/bts-2016-guideline-acute-hypercapnia.qmd
+    - talks/presentations/cao-et-al-2024-roadmap-for-advancing-a-new-subspecialty-in-pulmonary-medicine-devoted-to-chronic-respiratory-failure.qmd
+    - talks/presentations/carbon-dioxide-intoxication-the-clinical-syndrome-its-etiology-and-management-with-particular-reference-to-the-use-of-mechanical-respirators.qmd
+    - talks/presentations/ccjm-2025-glp1ra-and-pancreatitis.qmd
+    - talks/presentations/ccm-2024-long-term-mortality-rate-icu-patients.qmd
+    - talks/presentations/cell-2018-neural-control-of-breathing-and-co2-homeostasis.qmd
+    - talks/presentations/central-line-training-2022-bl-edits.qmd
+    - talks/presentations/chest-2013-is-elevated-hco3-part-of-ohs.qmd
+    - talks/presentations/chest-2018-initiating-home-vent-and-advanced-settings.qmd
+    - talks/presentations/chest-2022-inpatient-sleep-medicine.qmd
+    - talks/presentations/chest-2024-niv-for-copd-how-i-do-it.qmd
+    - talks/presentations/chung-thesis-epidemiology-of-hypercapnic-respiratory-failure.qmd
+    - talks/presentations/comp-phys-2014-hypovent-piper.qmd
+    - talks/presentations/comp-phys-bio-2017-ph-co2-reg-evolutionary-importance.qmd
+    - talks/presentations/crd-2024-hx-of-home-vent.qmd
+    - talks/presentations/crd-22-0131-proof.qmd
+    - talks/presentations/ctsi-translational-research-trainee-symposium-talk.qmd
+    - talks/presentations/ddavp-clamp.qmd
+    - talks/presentations/determinants-of-co2-tension-javaheri.qmd
+    - talks/presentations/effect-of-cpap-on-recurrence-of-afib-hunt-et-al.qmd
+    - talks/presentations/ejim-2025-acute-pancreatitis.qmd
+    - talks/presentations/erj-2025-nasal-masks-for-niv.qmd
+    - talks/presentations/err-2023-qol-in-home-ventilation.qmd
+    - talks/presentations/ers-2017-central-disturbances-during-sleep.qmd
+    - talks/presentations/ers-2022-drive-to-breath-niv-and-copd.qmd
+    - talks/presentations/exp-rev-resp-2023-ev-for-niv.qmd
+    - talks/presentations/front-med-2022-monitoring-niv.qmd
+    - talks/presentations/gastroenterology-2024-pancreatitis-review.qmd
+    - talks/presentations/graphs-for-hypercapnia-hypoxemia.qmd
+    - talks/presentations/guyton-asthma-pp.qmd
+    - talks/presentations/hypercapnia-computable-phenotype-design.qmd
+    - talks/presentations/hypercapnia-diagnostic-modeling-revised.qmd
+    - talks/presentations/hypercapnia-jan-trip.qmd
+    - talks/presentations/hypercapnia-jan-trip-pptx.qmd
+    - talks/presentations/hypercapnia-megadeck.qmd
+    - talks/presentations/hypercapnia-pathophysiology.qmd
+    - talks/presentations/hypercapnia-poster.qmd
+    - talks/presentations/hypercapnia-sleep-gr.qmd
+    - talks/presentations/hypercapnia-update-jan-2023.qmd
+    - talks/presentations/icslaba-prn-and-maintenance.qmd
+    - talks/presentations/ijcp-2022-hypercapnia-review.qmd
+    - talks/presentations/ijerph-2022-osa-and-chronic-respiratory-diseases.qmd
+    - talks/presentations/im-noon-conf-respiratory-failure.qmd
+    - talks/presentations/in-defense-of-metaanalysis.qmd
+    - talks/presentations/j-phys-2017-lung-effects-of-hypercapnia.qmd
+    - talks/presentations/jan-6-research-meeting.qmd
+    - talks/presentations/jcm-2025-pancreatitis-complication-management.qmd
+    - talks/presentations/jean-louis-p-pin-et-al-2012-obesity-hypoventilation-syndrome-an-underdiagnosed-and-undertreated-condition.qmd
+    - talks/presentations/jhm-2025-twdfnr-abg-for-hypercapnia.qmd
+    - talks/presentations/jour-resp-review-2022-mask-systematic-review.qmd
+    - talks/presentations/june-2023-rip.qmd
+    - talks/presentations/k23-rip.qmd
+    - talks/presentations/ks-sleep-jc-sept-2022-pptx-after-ks.qmd
+    - talks/presentations/lancet-2020-apec-trial-pancreatitis.qmd
+    - talks/presentations/lancet-2020-apec-trial-pancreatitis-supp.qmd
+    - talks/presentations/lancet-resp-2016-preventing-resp-failure-in-obese.qmd
+    - talks/presentations/locke-aug-19-2024-srma-project-advice.qmd
+    - talks/presentations/locke-aug-19-2024-srma-project-advice-pptx.qmd
+    - talks/presentations/locke-aug-2024-srma-project-advice.qmd
+    - talks/presentations/locke-ctsi-translational-research-trainee-symposium-talk.qmd
+    - talks/presentations/locke-disease-definitions.qmd
+    - talks/presentations/locke-fall-2021-rip.qmd
+    - talks/presentations/locke-fellow-research.qmd
+    - talks/presentations/locke-im-noon-conf-respiratory-failure.qmd
+    - talks/presentations/locke-irr-2021-rrt-and-code-presentation.qmd
+    - talks/presentations/locke-irr-2022-rrt-and-code-presentation.qmd
+    - talks/presentations/locke-loop-diur-hypercapnia.qmd
+    - talks/presentations/locke-msci.qmd
+    - talks/presentations/locke-on-diuresis-pgr.qmd
+    - talks/presentations/locke-on-salt-pgr.qmd
+    - talks/presentations/locke-pancreatitis-tcc.qmd
+    - talks/presentations/locke-patient-preference-scenarios.qmd
+    - talks/presentations/locke-pccgr.qmd
+    - talks/presentations/locke-pgr.qmd
+    - talks/presentations/locke-pgr-co2-covid-ards.qmd
+    - talks/presentations/locke-pgr-hfpef.qmd
+    - talks/presentations/locke-pgr-hypercapnia.qmd
+    - talks/presentations/locke-pgr-randomness-diagnostics.qmd
+    - talks/presentations/locke-pleural-fibrosis-pgr.qmd
+    - talks/presentations/locke-respirolysis.qmd
+    - talks/presentations/locke-respirolysis-and-air-hunger.qmd
+    - talks/presentations/locke-rip.qmd
+    - talks/presentations/locke-sleep-apnea-for-puln-fellows.qmd
+    - talks/presentations/locke-summer-bootcamp-h2o-and-na.qmd
+    - talks/presentations/locke-vent-dyssynchrony.qmd
+    - talks/presentations/locke-where-to-put-that-line.qmd
+    - talks/presentations/meservey-et-al-2020-risk-of-readmission-and-mortality-following-hospitalization-with-hypercapnic-respiratory-failure.qmd
+    - talks/presentations/mm-bl.qmd
+    - talks/presentations/nejm-2014-python-trial-feeding-pancreatitis.qmd
+    - talks/presentations/nejm-2014-python-trial-feeding-pancreatitis-corr.qmd
+    - talks/presentations/nejm-2014-python-trial-feeding-pancreatitis-supp.qmd
+    - talks/presentations/nejm-2021-pointer-trial.qmd
+    - talks/presentations/nejm-2021-pointer-trial-corr.qmd
+    - talks/presentations/nejm-2021-pointer-trial-editorial.qmd
+    - talks/presentations/nejm-2021-pointer-trial-supp.qmd
+    - talks/presentations/nejm-2022-waterfall-editorial.qmd
+    - talks/presentations/nejm-2022-waterfall-trial-pancreatitis.qmd
+    - talks/presentations/nejm-2022-waterfall-trial-pancreatitis-corr.qmd
+    - talks/presentations/nejm-2022-waterfall-trial-pancreatitis-supp.qmd
+    - talks/presentations/nowbar-et-al-2004-obesity-associated-hypoventilation-in-hospitalized-patients-prevalence-effects-and-outcome.qmd
+    - talks/presentations/oaem-2019-hypercap-cohort-1yr-mort.qmd
+    - talks/presentations/osa-hypoventilation-lit-review.qmd
+    - talks/presentations/osa-and-sarcoidosis-lit-review.qmd
+    - talks/presentations/osa-as-a-risk-factor-for-stroke-and-death-yaggi-et-al-nejm-2005.qmd
+    - talks/presentations/osa-asthma-lit-review.qmd
+    - talks/presentations/osa-bronchiect-tbm-edac-lit-review.qmd
+    - talks/presentations/osa-in-hypercap-rf.qmd
+    - talks/presentations/osa-vte-lung-ca-evidence.qmd
+    - talks/presentations/overlap-syndrome-evidence-review.qmd
+    - talks/presentations/partial-verification-blurg-incomplete.qmd
+    - talks/presentations/pe-in-icu.qmd
+    - talks/presentations/pgr.qmd
+    - talks/presentations/pgr-beyond-se-and-sp.qmd
+    - talks/presentations/pgr-chf-and-the-lungs.qmd
+    - talks/presentations/pgr-extreme-physiology.qmd
+    - talks/presentations/pgr-instruments-and-mendel.qmd
+    - talks/presentations/pgr-llms.qmd
+    - talks/presentations/pgr-sims.qmd
+    - talks/presentations/ph-journal-club-sept-2022.qmd
+    - talks/presentations/prospective-study-of-osa-and-incident-cad-and-hf-gottlieb-2010.qmd
+    - talks/presentations/r-phys-neuro-2013-unanswered-q-s-resp-control.qmd
+    - talks/presentations/rc-2023-lower-paco2-in-chr-hypercap-mortality.qmd
+    - talks/presentations/reducing-cv-risk-through-treatment-of-osa-two-methodological-approaches-am-heart-j-2016.qmd
+    - talks/presentations/renal-replacement-therapy-resp-acidosis.qmd
+    - talks/presentations/resp-care-2012-overview-of-hmv-in-us.qmd
+    - talks/presentations/resp-care-2024-what-are-we-aiming-for.qmd
+    - talks/presentations/respirology-2022-causes-of-hypercapnic-respiratory-failure-in-hospital-mortality.qmd
+    - talks/presentations/rip.qmd
+    - talks/presentations/rip-hypercapnia.qmd
+    - talks/presentations/rip-hypercapnia-2.qmd
+    - talks/presentations/sb261-most-expensive-hospital-conditions-2017.qmd
+    - talks/presentations/sdb-and-cardiovascular-disease-cross-sectional-results-with-shhs-shahar-et-al.qmd
+    - talks/presentations/sdb-and-mortality-a-prospective-cohort-study-plos-medicine-2009.qmd
+    - talks/presentations/sleep-apnea-for-pulm-fellows.qmd
+    - talks/presentations/sleep-gr-hypercapnia.qmd
+    - talks/presentations/sleep-gr-hypercapnia-slides.qmd
+    - talks/presentations/sleep-jc-sept-2022.qmd
+    - talks/presentations/spiro-copd-noon-conf-2025.qmd
+    - talks/presentations/thorax-2023-effect-of-niv-on-sleep.qmd
+    - talks/presentations/ueg-2025-pancreatits-review.qmd
+    - talks/presentations/uspstf-lung-cancer-screening-update.qmd
+    - talks/presentations/vonderbank-et-al-2020-hypercapnia-at-hospital-admission-as-a-predictor-o.qmd
+    - talks/presentations/vr-icu-feasibility-overview.qmd
+    - talks/presentations/when-does-hypoxemia-become-apparent.qmd
+    - talks/presentations/when-to-stop-proning.qmd
+  - part: Miscellaneous
+    chapters:
+    - talks/miscellaneous/index.qmd
+    - talks/miscellaneous/cxr.qmd
   appendices:
   - references.qmd
 bibliography: include/references.bib

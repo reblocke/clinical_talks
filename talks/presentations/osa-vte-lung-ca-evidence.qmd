@@ -1,0 +1,39 @@
+---
+title: OSA VTE & Lung Ca Evidence
+draft: true
+---
+
+## Summary
+TODO: Summarize the slide/PDF content once curated.
+
+## Learning objectives
+- TODO: Define the core learning goals for this topic.
+- TODO: Identify 3–7 key takeaways for residents.
+- TODO: Clarify what decisions this talk supports.
+
+## Bottom line / summary
+- TODO: Summarize the highest-yield point.
+- TODO: Summarize the second-highest-yield point.
+- TODO: Summarize the third-highest-yield point.
+- TODO: Summarize the fourth-highest-yield point.
+- TODO: Summarize the fifth-highest-yield point.
+
+## Approach
+1. TODO: Outline the initial assessment or decision point.
+2. TODO: Outline the next diagnostic or management step.
+3. TODO: Outline follow-up or escalation criteria.
+
+## Red flags / when to escalate
+- TODO: List red flags that require urgent escalation.
+
+## Common pitfalls
+- TODO: Capture common errors or missed steps.
+
+## References
+TODO: Add landmark references or guideline citations.
+
+## Slides and assets
+- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)
+
+## Source materials
+- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)

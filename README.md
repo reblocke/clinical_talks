@@ -12,9 +12,15 @@ Resident-facing clinical talk outlines built with Quarto.
 - Keep `.nojekyll` at the repo root when publishing.
 
 ## Add a new talk page
-1. Create a new stub in `talks/<slug>.qmd` using the standard template.
-2. Add the new page to the `book.chapters` list in `_quarto.yml`.
-3. Link any source materials from `archive/` in the talk’s “Source materials” section.
+1. Add source material under `archive/` (markdown notes, slides, PDFs).
+2. Regenerate the manifest with `python3 scripts/build_manifest.py`.
+3. Regenerate pages + navigation with `python3 scripts/generate_talks.py`.
+4. Review the generated page in `talks/<section>/<slug>.qmd` for accuracy.
+
+## Archive manifest + tooling
+- `content/manifest.yml` inventories archive materials and their destination pages.
+- `content/chapters.yml` mirrors the current book structure for review.
+- `scripts/build_manifest.py` and `scripts/generate_talks.py` keep the site reproducible.
 
 ## Source materials
 Raw notes, slides, and PDFs live in `archive/`. Treat these as source-of-truth inputs and

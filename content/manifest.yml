@@ -1,0 +1,2350 @@
+- source_path: Clinical Practice Notes/acid-base.md
+  ext: md
+  kind: markdown
+  guessed_topic: Acid Base
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/acid-base.qmd
+  title: Acid Base
+  notes: ''
+- source_path: Clinical Practice Notes/acls.md
+  ext: md
+  kind: markdown
+  guessed_topic: ACLS
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/acls.qmd
+  title: ACLS
+  notes: ''
+- source_path: Clinical Practice Notes/acs.md
+  ext: md
+  kind: markdown
+  guessed_topic: ACS
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/acs.qmd
+  title: ACS
+  notes: ''
+- source_path: Clinical Practice Notes/acute-pancreatitis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Acute Pancreatitis
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/acute-pancreatitis.qmd
+  title: Acute Pancreatitis
+  notes: ''
+- source_path: Clinical Practice Notes/air-pollution.md
+  ext: md
+  kind: markdown
+  guessed_topic: Air Pollution
+  guessed_section: Environmental & Occupational
+  dest_page: talks/environmental-occupational/air-pollution.qmd
+  title: Air Pollution
+  notes: ''
+- source_path: Clinical Practice Notes/aki-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: AKI In The ICU
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/aki-in-the-icu.qmd
+  title: AKI In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/alcohol-withdrawal.md
+  ext: md
+  kind: markdown
+  guessed_topic: Alcohol Withdrawal
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/alcohol-withdrawal.qmd
+  title: Alcohol Withdrawal
+  notes: ''
+- source_path: Clinical Practice Notes/anaphylaxis-and-angioedema.md
+  ext: md
+  kind: markdown
+  guessed_topic: Anaphylaxis And Angioedema
+  guessed_section: Infectious & Immune
+  dest_page: talks/infectious-immune/anaphylaxis-and-angioedema.qmd
+  title: Anaphylaxis And Angioedema
+  notes: ''
+- source_path: Clinical Practice Notes/antibiotic-stewardship.md
+  ext: md
+  kind: markdown
+  guessed_topic: Antibiotic Stewardship
+  guessed_section: Infectious & Immune
+  dest_page: talks/infectious-immune/antibiotic-stewardship.qmd
+  title: Antibiotic Stewardship
+  notes: ''
+- source_path: Clinical Practice Notes/ards.md
+  ext: md
+  kind: markdown
+  guessed_topic: ARDS
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/ards.qmd
+  title: ARDS
+  notes: ''
+- source_path: Clinical Practice Notes/arterial-line.md
+  ext: md
+  kind: markdown
+  guessed_topic: Arterial Line
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/arterial-line.qmd
+  title: Arterial Line
+  notes: ''
+- source_path: Clinical Practice Notes/aspiration-and-dysphagia.md
+  ext: md
+  kind: markdown
+  guessed_topic: Aspiration And Dysphagia
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/aspiration-and-dysphagia.qmd
+  title: Aspiration And Dysphagia
+  notes: ''
+- source_path: Clinical Practice Notes/asthma.md
+  ext: md
+  kind: markdown
+  guessed_topic: Asthma
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/asthma.qmd
+  title: Asthma
+  notes: ''
+- source_path: Clinical Practice Notes/atrial-fibrillation.md
+  ext: md
+  kind: markdown
+  guessed_topic: Atrial Fibrillation
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/atrial-fibrillation.qmd
+  title: Atrial Fibrillation
+  notes: ''
+- source_path: Clinical Practice Notes/basic-ventilator-chalk-talk.md
+  ext: md
+  kind: markdown
+  guessed_topic: Basic Ventilator Chalk Talk
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/basic-ventilator-chalk-talk.qmd
+  title: Basic Ventilator Chalk Talk
+  notes: ''
+- source_path: Clinical Practice Notes/bmp-masterclass.md
+  ext: md
+  kind: markdown
+  guessed_topic: BMP Masterclass
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/bmp-masterclass.qmd
+  title: BMP Masterclass
+  notes: ''
+- source_path: Clinical Practice Notes/breath-hold-diving.md
+  ext: md
+  kind: markdown
+  guessed_topic: Breath Hold Diving
+  guessed_section: Environmental & Occupational
+  dest_page: talks/environmental-occupational/breath-hold-diving.qmd
+  title: Breath Hold Diving
+  notes: ''
+- source_path: Clinical Practice Notes/bronchiectasis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Bronchiectasis
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/bronchiectasis.qmd
+  title: Bronchiectasis
+  notes: ''
+- source_path: Clinical Practice Notes/bronchoscopy.md
+  ext: md
+  kind: markdown
+  guessed_topic: Bronchoscopy
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/bronchoscopy.qmd
+  title: Bronchoscopy
+  notes: ''
+- source_path: Clinical Practice Notes/cardiogenic-shock.md
+  ext: md
+  kind: markdown
+  guessed_topic: Cardiogenic Shock
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/cardiogenic-shock.qmd
+  title: Cardiogenic Shock
+  notes: ''
+- source_path: Clinical Practice Notes/central-venous-catheters.md
+  ext: md
+  kind: markdown
+  guessed_topic: Central Venous Catheters
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/central-venous-catheters.qmd
+  title: Central Venous Catheters
+  notes: ''
+- source_path: Clinical Practice Notes/chest-tubes.md
+  ext: md
+  kind: markdown
+  guessed_topic: Chest Tubes
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/chest-tubes.qmd
+  title: Chest Tubes
+  notes: ''
+- source_path: Clinical Practice Notes/cirrhosis-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: Cirrhosis In The ICU
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/cirrhosis-in-the-icu.qmd
+  title: Cirrhosis In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/constrictive-bronchiolitis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Constrictive Bronchiolitis
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/constrictive-bronchiolitis.qmd
+  title: Constrictive Bronchiolitis
+  notes: ''
+- source_path: Clinical Practice Notes/control-of-ventilation.md
+  ext: md
+  kind: markdown
+  guessed_topic: Control Of Ventilation
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/control-of-ventilation.qmd
+  title: Control Of Ventilation
+  notes: ''
+- source_path: Clinical Practice Notes/copd.md
+  ext: md
+  kind: markdown
+  guessed_topic: COPD
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/copd.qmd
+  title: COPD
+  notes: ''
+- source_path: Clinical Practice Notes/cpet.md
+  ext: md
+  kind: markdown
+  guessed_topic: CPET
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/cpet.qmd
+  title: CPET
+  notes: ''
+- source_path: Clinical Practice Notes/critical-care-echo.md
+  ext: md
+  kind: markdown
+  guessed_topic: Critical Care Echo
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/critical-care-echo.qmd
+  title: Critical Care Echo
+  notes: ''
+- source_path: Clinical Practice Notes/cteph.md
+  ext: md
+  kind: markdown
+  guessed_topic: CTEPH
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/cteph.qmd
+  title: CTEPH
+  notes: ''
+- source_path: Clinical Practice Notes/cxr.md
+  ext: md
+  kind: markdown
+  guessed_topic: CXR
+  guessed_section: Miscellaneous
+  dest_page: talks/miscellaneous/cxr.qmd
+  title: CXR
+  notes: ''
+- source_path: Clinical Practice Notes/diuresis-and-sodium-balance-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: Diuresis And Sodium Balance In The ICU
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/diuresis-and-sodium-balance-in-the-icu.qmd
+  title: Diuresis And Sodium Balance In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/ecac.md
+  ext: md
+  kind: markdown
+  guessed_topic: ECAC
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/ecac.qmd
+  title: ECAC
+  notes: ''
+- source_path: Clinical Practice Notes/ecmo.md
+  ext: md
+  kind: markdown
+  guessed_topic: ECMO
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/ecmo.qmd
+  title: ECMO
+  notes: ''
+- source_path: Clinical Practice Notes/electrolytes.md
+  ext: md
+  kind: markdown
+  guessed_topic: Electrolytes
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/electrolytes.qmd
+  title: Electrolytes
+  notes: ''
+- source_path: Clinical Practice Notes/eosinophilic-lung-disease.md
+  ext: md
+  kind: markdown
+  guessed_topic: Eosinophilic Lung Disease
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/eosinophilic-lung-disease.qmd
+  title: Eosinophilic Lung Disease
+  notes: ''
+- source_path: Clinical Practice Notes/family-updates-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: Family Updates In The ICU
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/family-updates-in-the-icu.qmd
+  title: Family Updates In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/fick-equation-and-pa-catheter-principles.md
+  ext: md
+  kind: markdown
+  guessed_topic: Fick Equation And Pa Catheter Principles
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/fick-equation-and-pa-catheter-principles.qmd
+  title: Fick Equation And Pa Catheter Principles
+  notes: ''
+- source_path: Clinical Practice Notes/fungal-infections.md
+  ext: md
+  kind: markdown
+  guessed_topic: Fungal Infections
+  guessed_section: Infectious & Immune
+  dest_page: talks/infectious-immune/fungal-infections.qmd
+  title: Fungal Infections
+  notes: ''
+- source_path: Clinical Practice Notes/goals-of-care.md
+  ext: md
+  kind: markdown
+  guessed_topic: Goals Of Care
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/goals-of-care.qmd
+  title: Goals Of Care
+  notes: ''
+- source_path: Clinical Practice Notes/hematologic-emergencies-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: Hematologic Emergencies In The ICU
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/hematologic-emergencies-in-the-icu.qmd
+  title: Hematologic Emergencies In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/hyperbarics.md
+  ext: md
+  kind: markdown
+  guessed_topic: Hyperbarics
+  guessed_section: Environmental & Occupational
+  dest_page: talks/environmental-occupational/hyperbarics.qmd
+  title: Hyperbarics
+  notes: ''
+- source_path: Clinical Practice Notes/hyperglycemic-crises.md
+  ext: md
+  kind: markdown
+  guessed_topic: Hyperglycemic Crises
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/hyperglycemic-crises.qmd
+  title: Hyperglycemic Crises
+  notes: ''
+- source_path: Clinical Practice Notes/hypersensitivity-pneumonitis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Hypersensitivity Pneumonitis
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/hypersensitivity-pneumonitis.qmd
+  title: Hypersensitivity Pneumonitis
+  notes: ''
+- source_path: Clinical Practice Notes/ild.md
+  ext: md
+  kind: markdown
+  guessed_topic: ILD
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/ild.qmd
+  title: ILD
+  notes: ''
+- source_path: Clinical Practice Notes/inhalational-injury.md
+  ext: md
+  kind: markdown
+  guessed_topic: Inhalational Injury
+  guessed_section: Environmental & Occupational
+  dest_page: talks/environmental-occupational/inhalational-injury.qmd
+  title: Inhalational Injury
+  notes: ''
+- source_path: Clinical Practice Notes/intubation.md
+  ext: md
+  kind: markdown
+  guessed_topic: Intubation
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/intubation.qmd
+  title: Intubation
+  notes: ''
+- source_path: Clinical Practice Notes/lactic-acidosis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Lactic Acidosis
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/lactic-acidosis.qmd
+  title: Lactic Acidosis
+  notes: ''
+- source_path: Clinical Practice Notes/line-complications.md
+  ext: md
+  kind: markdown
+  guessed_topic: Line Complications
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/line-complications.qmd
+  title: Line Complications
+  notes: ''
+- source_path: Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Lung Cancer Screening And Diagnosis
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/lung-cancer-screening-and-diagnosis.qmd
+  title: Lung Cancer Screening And Diagnosis
+  notes: ''
+- source_path: Clinical Practice Notes/lung-transplant.md
+  ext: md
+  kind: markdown
+  guessed_topic: Lung Transplant
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/lung-transplant.qmd
+  title: Lung Transplant
+  notes: ''
+- source_path: Clinical Practice Notes/mechanisms-of-hypoxia.md
+  ext: md
+  kind: markdown
+  guessed_topic: Mechanisms Of Hypoxia
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/mechanisms-of-hypoxia.qmd
+  title: Mechanisms Of Hypoxia
+  notes: ''
+- source_path: Clinical Practice Notes/metabolism.md
+  ext: md
+  kind: markdown
+  guessed_topic: Metabolism
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/metabolism.qmd
+  title: Metabolism
+  notes: ''
+- source_path: Clinical Practice Notes/mrsa-nasal-swab.md
+  ext: md
+  kind: markdown
+  guessed_topic: MRSA Nasal Swab
+  guessed_section: Infectious & Immune
+  dest_page: talks/infectious-immune/mrsa-nasal-swab.qmd
+  title: MRSA Nasal Swab
+  notes: ''
+- source_path: Clinical Practice Notes/obstetrical-critical-care.md
+  ext: md
+  kind: markdown
+  guessed_topic: Obstetrical Critical Care
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/obstetrical-critical-care.qmd
+  title: Obstetrical Critical Care
+  notes: ''
+- source_path: Clinical Practice Notes/oxygen-delivery.md
+  ext: md
+  kind: markdown
+  guessed_topic: Oxygen Delivery
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/oxygen-delivery.qmd
+  title: Oxygen Delivery
+  notes: ''
+- source_path: Clinical Practice Notes/pacemakers.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pacemakers
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/pacemakers.qmd
+  title: Pacemakers
+  notes: ''
+- source_path: Clinical Practice Notes/patient-ventilator-interactions.md
+  ext: md
+  kind: markdown
+  guessed_topic: Patient Ventilator Interactions
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/patient-ventilator-interactions.qmd
+  title: Patient Ventilator Interactions
+  notes: ''
+- source_path: Clinical Practice Notes/pleural-disease.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pleural Disease
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/pleural-disease.qmd
+  title: Pleural Disease
+  notes: ''
+- source_path: Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pneumoconioses And Occupational Lung Disease
+  guessed_section: Environmental & Occupational
+  dest_page: talks/environmental-occupational/pneumoconioses-and-occupational-lung-disease.qmd
+  title: Pneumoconioses And Occupational Lung Disease
+  notes: ''
+- source_path: Clinical Practice Notes/pneumonia.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pneumonia
+  guessed_section: Infectious & Immune
+  dest_page: talks/infectious-immune/pneumonia.qmd
+  title: Pneumonia
+  notes: ''
+- source_path: Clinical Practice Notes/pocus.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pocus
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/pocus.qmd
+  title: Pocus
+  notes: ''
+- source_path: Clinical Practice Notes/proning-for-ards.md
+  ext: md
+  kind: markdown
+  guessed_topic: Proning For ARDS
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/proning-for-ards.qmd
+  title: Proning For ARDS
+  notes: ''
+- source_path: Clinical Practice Notes/pulmonary-function-testing.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pulmonary Function Testing
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/pulmonary-function-testing.qmd
+  title: Pulmonary Function Testing
+  notes: ''
+- source_path: Clinical Practice Notes/pulmonary-hypertension.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pulmonary Hypertension
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/pulmonary-hypertension.qmd
+  title: Pulmonary Hypertension
+  notes: ''
+- source_path: Clinical Practice Notes/pulmonary-mechanics.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pulmonary Mechanics
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/pulmonary-mechanics.qmd
+  title: Pulmonary Mechanics
+  notes: ''
+- source_path: Clinical Practice Notes/pulmonary-medicine-index.md
+  ext: md
+  kind: markdown
+  guessed_topic: Pulmonary Medicine Index
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/pulmonary-medicine-index.qmd
+  title: Pulmonary Medicine Index
+  notes: ''
+- source_path: Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md
+  ext: md
+  kind: markdown
+  guessed_topic: Reflux And Its Relation To Lung Disease
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/reflux-and-its-relation-to-lung-disease.qmd
+  title: Reflux And Its Relation To Lung Disease
+  notes: ''
+- source_path: Clinical Practice Notes/renal-replacement-therapy.md
+  ext: md
+  kind: markdown
+  guessed_topic: Renal Replacement Therapy
+  guessed_section: Renal & Metabolic
+  dest_page: talks/renal-metabolic/renal-replacement-therapy.qmd
+  title: Renal Replacement Therapy
+  notes: ''
+- source_path: Clinical Practice Notes/respiratory-failure.md
+  ext: md
+  kind: markdown
+  guessed_topic: Respiratory Failure
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/respiratory-failure.qmd
+  title: Respiratory Failure
+  notes: ''
+- source_path: Clinical Practice Notes/sarcoidosis.md
+  ext: md
+  kind: markdown
+  guessed_topic: Sarcoidosis
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/sarcoidosis.qmd
+  title: Sarcoidosis
+  notes: ''
+- source_path: Clinical Practice Notes/sedation-and-analgesia-in-the-icu.md
+  ext: md
+  kind: markdown
+  guessed_topic: Sedation And Analgesia In The ICU
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/sedation-and-analgesia-in-the-icu.qmd
+  title: Sedation And Analgesia In The ICU
+  notes: ''
+- source_path: Clinical Practice Notes/shock-and-resuscitation.md
+  ext: md
+  kind: markdown
+  guessed_topic: Shock And Resuscitation
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/shock-and-resuscitation.qmd
+  title: Shock And Resuscitation
+  notes: ''
+- source_path: Clinical Practice Notes/sleep-disordered-breathing.md
+  ext: md
+  kind: markdown
+  guessed_topic: Sleep Disordered Breathing
+  guessed_section: Pulmonary & Sleep
+  dest_page: talks/pulmonary-sleep/sleep-disordered-breathing.qmd
+  title: Sleep Disordered Breathing
+  notes: ''
+- source_path: Clinical Practice Notes/toxicology.md
+  ext: md
+  kind: markdown
+  guessed_topic: Toxicology
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/toxicology.qmd
+  title: Toxicology
+  notes: ''
+- source_path: Clinical Practice Notes/tracheostomy.md
+  ext: md
+  kind: markdown
+  guessed_topic: Tracheostomy
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/tracheostomy.qmd
+  title: Tracheostomy
+  notes: ''
+- source_path: Clinical Practice Notes/ultrasound.md
+  ext: md
+  kind: markdown
+  guessed_topic: Ultrasound
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/ultrasound.qmd
+  title: Ultrasound
+  notes: ''
+- source_path: Clinical Practice Notes/vasopressors.md
+  ext: md
+  kind: markdown
+  guessed_topic: Vasopressors
+  guessed_section: Critical Care
+  dest_page: talks/critical-care/vasopressors.qmd
+  title: Vasopressors
+  notes: ''
+- source_path: Clinical Practice Notes/ventilator-management.md
+  ext: md
+  kind: markdown
+  guessed_topic: Ventilator Management
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/ventilator-management.qmd
+  title: Ventilator Management
+  notes: ''
+- source_path: Clinical Practice Notes/ventilatory-failure.md
+  ext: md
+  kind: markdown
+  guessed_topic: Ventilatory Failure
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/ventilatory-failure.qmd
+  title: Ventilatory Failure
+  notes: ''
+- source_path: Clinical Practice Notes/vte.md
+  ext: md
+  kind: markdown
+  guessed_topic: VTE
+  guessed_section: Cardiology & Vascular
+  dest_page: talks/cardiology-vascular/vte.qmd
+  title: VTE
+  notes: ''
+- source_path: Clinical Practice Notes/weaning-and-extubation.md
+  ext: md
+  kind: markdown
+  guessed_topic: Weaning And Extubation
+  guessed_section: Airway & Ventilation
+  dest_page: talks/airway-ventilation/weaning-and-extubation.qmd
+  title: Weaning And Extubation
+  notes: ''
+- source_path: Presentations/1-9-2024 Locke Fellow Research.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Fellow Research
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-fellow-research.qmd
+  title: Locke Fellow Research
+  notes: ''
+- source_path: Presentations/2022-11-16 Hypercapnia Poster.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Hypercapnia Poster
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-poster.qmd
+  title: Hypercapnia Poster
+  notes: ''
+- source_path: Presentations/2022-11-16 Hypercapnia Poster.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Poster
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-poster.qmd
+  title: Hypercapnia Poster
+  notes: duplicate candidate with Presentations/2022-11-16 Hypercapnia Poster.pdf
+- source_path: Presentations/2023-1-27 Sleep GR Hypercapnia Discarded Slides.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Sleep Gr Hypercapnia Slides
+  guessed_section: Presentations
+  dest_page: talks/presentations/sleep-gr-hypercapnia-slides.qmd
+  title: Sleep Gr Hypercapnia Slides
+  notes: ''
+- source_path: Presentations/2023-1-27 Sleep GR Hypercapnia.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Sleep Gr Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/sleep-gr-hypercapnia.qmd
+  title: Sleep Gr Hypercapnia
+  notes: ''
+- source_path: Presentations/2023-10-2 DDAVP CLAMP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ddavp Clamp
+  guessed_section: Presentations
+  dest_page: talks/presentations/ddavp-clamp.qmd
+  title: Ddavp Clamp
+  notes: ''
+- source_path: Presentations/2023-10-30 Locke CTSI Translational Research Trainee
+    Symposium Talk.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Ctsi Translational Research Trainee Symposium Talk
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-ctsi-translational-research-trainee-symposium-talk.qmd
+  title: Locke Ctsi Translational Research Trainee Symposium Talk
+  notes: ''
+- source_path: Presentations/2023-10-6 K23 RIP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: K23 RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/k23-rip.qmd
+  title: K23 RIP
+  notes: ''
+- source_path: Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium
+    Talk [Autosaved].pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Ctsi Translational Research Trainee Symposium Talk
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-ctsi-translational-research-trainee-symposium-talk.qmd
+  title: Locke Ctsi Translational Research Trainee Symposium Talk
+  notes: duplicate candidate with Presentations/2023-10-30 Locke CTSI Translational
+    Research Trainee Symposium Talk.pptx
+- source_path: Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium
+    Talk.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Ctsi Translational Research Trainee Symposium Talk
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-ctsi-translational-research-trainee-symposium-talk.qmd
+  title: Locke Ctsi Translational Research Trainee Symposium Talk
+  notes: duplicate candidate with Presentations/2023-10-30 Locke CTSI Translational
+    Research Trainee Symposium Talk.pptx
+- source_path: Presentations/2023-11-17 Locke CTSI Translational Research Trainee
+    Symposium Talk.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Ctsi Translational Research Trainee Symposium Talk
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-ctsi-translational-research-trainee-symposium-talk.qmd
+  title: Locke Ctsi Translational Research Trainee Symposium Talk
+  notes: duplicate candidate with Presentations/2023-10-30 Locke CTSI Translational
+    Research Trainee Symposium Talk.pptx
+- source_path: Presentations/2023-11-23 Locke MSCI.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Msci
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-msci.qmd
+  title: Locke Msci
+  notes: ''
+- source_path: Presentations/2023-12-8 Locke MSCI.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Msci
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-msci.qmd
+  title: Locke Msci
+  notes: duplicate candidate with Presentations/2023-11-23 Locke MSCI.pptx
+- source_path: Presentations/2023-3-2 ASPIRE presentation.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Aspire Presentation
+  guessed_section: Presentations
+  dest_page: talks/presentations/aspire-presentation.qmd
+  title: Aspire Presentation
+  notes: ''
+- source_path: Presentations/2024-5-26 Locke PGR.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pgr.qmd
+  title: Locke PGR
+  notes: ''
+- source_path: Presentations/2024-8-27 DDAVP CLAMP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ddavp Clamp
+  guessed_section: Presentations
+  dest_page: talks/presentations/ddavp-clamp.qmd
+  title: Ddavp Clamp
+  notes: duplicate candidate with Presentations/2023-10-2 DDAVP CLAMP.pptx
+- source_path: Presentations/2024-8-27 Sleep Apnea for Pulm Fellows.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Sleep Apnea For Pulm Fellows
+  guessed_section: Presentations
+  dest_page: talks/presentations/sleep-apnea-for-pulm-fellows.qmd
+  title: Sleep Apnea For Pulm Fellows
+  notes: ''
+- source_path: Presentations/2025-1-30 Locke RIP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-rip.qmd
+  title: Locke RIP
+  notes: ''
+- source_path: Presentations/2025-11-30 Locke Pancreatitis TCC.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Pancreatitis TCC
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pancreatitis-tcc.qmd
+  title: Locke Pancreatitis TCC
+  notes: ''
+- source_path: Presentations/AI for Housestaff.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: AI For Housestaff
+  guessed_section: Presentations
+  dest_page: talks/presentations/ai-for-housestaff.qmd
+  title: AI For Housestaff
+  notes: ''
+- source_path: Presentations/ASPRE Presention 1 Discarded Slides.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Aspre Presention 1 Slides
+  guessed_section: Presentations
+  dest_page: talks/presentations/aspre-presention-1-slides.qmd
+  title: Aspre Presention 1 Slides
+  notes: ''
+- source_path: Presentations/ASPRE Presention 1 Scratch Pad.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Aspre Presention 1 Scratch Pad
+  guessed_section: Presentations
+  dest_page: talks/presentations/aspre-presention-1-scratch-pad.qmd
+  title: Aspre Presention 1 Scratch Pad
+  notes: ''
+- source_path: Presentations/ATS Mini-RIP 4-28-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ats Mini RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/ats-mini-rip.qmd
+  title: Ats Mini RIP
+  notes: ''
+- source_path: Presentations/Acute Liver Failure.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Acute Liver Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/acute-liver-failure.qmd
+  title: Acute Liver Failure
+  notes: ''
+- source_path: Presentations/BL 8-26-22 Sleep JC Sept 2022.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Bl Sleep Jc Sept 2022
+  guessed_section: Presentations
+  dest_page: talks/presentations/bl-sleep-jc-sept-2022.qmd
+  title: Bl Sleep Jc Sept 2022
+  notes: ''
+- source_path: Presentations/BL 9-2-22 Sleep JC Sept 2022.pptx after KS.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Bl Sleep Jc Sept 2022.pptx After Ks
+  guessed_section: Presentations
+  dest_page: talks/presentations/bl-sleep-jc-sept-2022-pptx-after-ks.qmd
+  title: Bl Sleep Jc Sept 2022.pptx After Ks
+  notes: ''
+- source_path: Presentations/Boared Review Locke 10-13-21.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Boared Review Locke
+  guessed_section: Presentations
+  dest_page: talks/presentations/boared-review-locke.qmd
+  title: Boared Review Locke
+  notes: ''
+- source_path: Presentations/CTSI Translational Research Trainee Symposium Talk.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ctsi Translational Research Trainee Symposium Talk
+  guessed_section: Presentations
+  dest_page: talks/presentations/ctsi-translational-research-trainee-symposium-talk.qmd
+  title: Ctsi Translational Research Trainee Symposium Talk
+  notes: ''
+- source_path: Presentations/Central Line Training 2022 - BL edits 8-22-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Central Line Training 2022 Bl Edits
+  guessed_section: Presentations
+  dest_page: talks/presentations/central-line-training-2022-bl-edits.qmd
+  title: Central Line Training 2022 Bl Edits
+  notes: ''
+- source_path: Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Sleep Gr
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-sleep-gr.qmd
+  title: Hypercapnia Sleep Gr
+  notes: ''
+- source_path: Presentations/Graphs for Hypercapnia-Hypoxemia.xlsx
+  ext: xlsx
+  kind: other
+  guessed_topic: Graphs For Hypercapnia Hypoxemia
+  guessed_section: Presentations
+  dest_page: talks/presentations/graphs-for-hypercapnia-hypoxemia.qmd
+  title: Graphs For Hypercapnia Hypoxemia
+  notes: ''
+- source_path: Presentations/Guyton Asthma PP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Guyton Asthma Pp
+  guessed_section: Presentations
+  dest_page: talks/presentations/guyton-asthma-pp.qmd
+  title: Guyton Asthma Pp
+  notes: ''
+- source_path: Presentations/Hypercapnia Computable Phenotype design.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Computable Phenotype Design
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-computable-phenotype-design.qmd
+  title: Hypercapnia Computable Phenotype Design
+  notes: ''
+- source_path: Presentations/Hypercapnia Jan TRIP Compressed 1-17-22 [Autosaved].pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Jan Trip
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-jan-trip.qmd
+  title: Hypercapnia Jan Trip
+  notes: ''
+- source_path: Presentations/Hypercapnia Jan TRIP.pptx.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Jan Trip.pptx
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-jan-trip-pptx.qmd
+  title: Hypercapnia Jan Trip.pptx
+  notes: ''
+- source_path: Presentations/Hypercapnia Pathophysiology.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Pathophysiology
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-pathophysiology.qmd
+  title: Hypercapnia Pathophysiology
+  notes: ''
+- source_path: Presentations/Hypercapnia Sleep GR 4-22-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Sleep Gr
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-sleep-gr.qmd
+  title: Hypercapnia Sleep Gr
+  notes: duplicate candidate with Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx
+- source_path: Presentations/Hypercapnia Sleep GR 4-26-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Sleep Gr
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-sleep-gr.qmd
+  title: Hypercapnia Sleep Gr
+  notes: duplicate candidate with Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx
+- source_path: Presentations/Hypercapnia megadeck.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Megadeck
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-megadeck.qmd
+  title: Hypercapnia Megadeck
+  notes: ''
+- source_path: Presentations/Hypercapnia update Jan 2023.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Hypercapnia Update Jan 2023
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-update-jan-2023.qmd
+  title: Hypercapnia Update Jan 2023
+  notes: ''
+- source_path: Presentations/ICSLABA prn and maintenance.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Icslaba Prn And Maintenance
+  guessed_section: Presentations
+  dest_page: talks/presentations/icslaba-prn-and-maintenance.qmd
+  title: Icslaba Prn And Maintenance
+  notes: ''
+- source_path: Presentations/IM Noon Conf - Respiratory Failure.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: IM Noon Conf Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/im-noon-conf-respiratory-failure.qmd
+  title: IM Noon Conf Respiratory Failure
+  notes: ''
+- source_path: Presentations/In defense of metaanalysis.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: In Defense Of Metaanalysis
+  guessed_section: Presentations
+  dest_page: talks/presentations/in-defense-of-metaanalysis.qmd
+  title: In Defense Of Metaanalysis
+  notes: ''
+- source_path: Presentations/Jan 6 Research Meeting.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Jan 6 Research Meeting
+  guessed_section: Presentations
+  dest_page: talks/presentations/jan-6-research-meeting.qmd
+  title: Jan 6 Research Meeting
+  notes: ''
+- source_path: Presentations/June 2023 RIP copy.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: June 2023 RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/june-2023-rip.qmd
+  title: June 2023 RIP
+  notes: ''
+- source_path: Presentations/June 2023 RIP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: June 2023 RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/june-2023-rip.qmd
+  title: June 2023 RIP
+  notes: duplicate candidate with Presentations/June 2023 RIP copy.pptx
+- source_path: Presentations/KS 9-1-22 Sleep JC Sept 2022.pptx after KS.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ks Sleep Jc Sept 2022.pptx After Ks
+  guessed_section: Presentations
+  dest_page: talks/presentations/ks-sleep-jc-sept-2022-pptx-after-ks.qmd
+  title: Ks Sleep Jc Sept 2022.pptx After Ks
+  notes: ''
+- source_path: Presentations/Locke - IM Noon Conf - Respiratory Failure copy.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke IM Noon Conf Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-im-noon-conf-respiratory-failure.qmd
+  title: Locke IM Noon Conf Respiratory Failure
+  notes: ''
+- source_path: Presentations/Locke - IM Noon Conf - Respiratory Failure.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke IM Noon Conf Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-im-noon-conf-respiratory-failure.qmd
+  title: Locke IM Noon Conf Respiratory Failure
+  notes: duplicate candidate with Presentations/Locke - IM Noon Conf - Respiratory
+    Failure copy.pptx
+- source_path: Presentations/Locke - Loop diur hypercapnia 12-7-21.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Loop Diur Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-loop-diur-hypercapnia.qmd
+  title: Locke Loop Diur Hypercapnia
+  notes: ''
+- source_path: Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke On Diuresis PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-on-diuresis-pgr.qmd
+  title: Locke On Diuresis PGR
+  notes: ''
+- source_path: Presentations/Locke - On Diuresis - PGR 3-4-21.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke On Diuresis PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-on-diuresis-pgr.qmd
+  title: Locke On Diuresis PGR
+  notes: duplicate candidate with Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx
+- source_path: Presentations/Locke - On Salt - PGR 5-27-21.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke On Salt PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-on-salt-pgr.qmd
+  title: Locke On Salt PGR
+  notes: ''
+- source_path: Presentations/Locke - Pleural Fibrosis PGR.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Pleural Fibrosis PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pleural-fibrosis-pgr.qmd
+  title: Locke Pleural Fibrosis PGR
+  notes: ''
+- source_path: Presentations/Locke - Respirolysis 1-20-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Respirolysis
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-respirolysis.qmd
+  title: Locke Respirolysis
+  notes: ''
+- source_path: Presentations/Locke - Respirolysis and Air Hunger 2-16-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Respirolysis And Air Hunger
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-respirolysis-and-air-hunger.qmd
+  title: Locke Respirolysis And Air Hunger
+  notes: ''
+- source_path: Presentations/Locke - Summer Bootcamp H2O and Na.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Summer Bootcamp H2o And Na
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-summer-bootcamp-h2o-and-na.qmd
+  title: Locke Summer Bootcamp H2o And Na
+  notes: ''
+- source_path: Presentations/Locke - disease definitions.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Disease Definitions
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-disease-definitions.qmd
+  title: Locke Disease Definitions
+  notes: ''
+- source_path: Presentations/Locke - patient preference scenarios.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Patient Preference Scenarios
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-patient-preference-scenarios.qmd
+  title: Locke Patient Preference Scenarios
+  notes: ''
+- source_path: Presentations/Locke - where to put that line.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Where To Put That Line
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-where-to-put-that-line.qmd
+  title: Locke Where To Put That Line
+  notes: ''
+- source_path: Presentations/Locke 9-23-21 Fall 2021 RIP.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Fall 2021 RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-fall-2021-rip.qmd
+  title: Locke Fall 2021 RIP
+  notes: ''
+- source_path: Presentations/Locke Aug 19 2024 SRMA project advice.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Locke Aug 19 2024 Srma Project Advice
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-aug-19-2024-srma-project-advice.qmd
+  title: Locke Aug 19 2024 Srma Project Advice
+  notes: ''
+- source_path: Presentations/Locke Aug 19 2024 SRMA project advice.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Aug 19 2024 Srma Project Advice
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-aug-19-2024-srma-project-advice.qmd
+  title: Locke Aug 19 2024 Srma Project Advice
+  notes: duplicate candidate with Presentations/Locke Aug 19 2024 SRMA project advice.pdf
+- source_path: Presentations/Locke Aug 19 2024 SRMA project advice.pptx  -  Read-Only.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Locke Aug 19 2024 Srma Project Advice.pptx
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-aug-19-2024-srma-project-advice-pptx.qmd
+  title: Locke Aug 19 2024 Srma Project Advice.pptx
+  notes: ''
+- source_path: Presentations/Locke Aug 2024 SRMA project advice.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Aug 2024 Srma Project Advice
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-aug-2024-srma-project-advice.qmd
+  title: Locke Aug 2024 Srma Project Advice
+  notes: ''
+- source_path: Presentations/Locke IRR 2021 RRT and Code presentation - compressed.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Irr 2021 RRT And Code Presentation
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-irr-2021-rrt-and-code-presentation.qmd
+  title: Locke Irr 2021 RRT And Code Presentation
+  notes: ''
+- source_path: Presentations/Locke IRR 2021 RRT and Code presentation.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Locke Irr 2021 RRT And Code Presentation
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-irr-2021-rrt-and-code-presentation.qmd
+  title: Locke Irr 2021 RRT And Code Presentation
+  notes: duplicate candidate with Presentations/Locke IRR 2021 RRT and Code presentation
+    - compressed.pptx
+- source_path: Presentations/Locke IRR 2022 RRT and Code presentation.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Irr 2022 RRT And Code Presentation
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-irr-2022-rrt-and-code-presentation.qmd
+  title: Locke Irr 2022 RRT And Code Presentation
+  notes: ''
+- source_path: Presentations/Locke PGR - HFpEF.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke PGR HFPEF
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pgr-hfpef.qmd
+  title: Locke PGR HFPEF
+  notes: ''
+- source_path: Presentations/Locke PGR CO2 COVID ARDS.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke PGR Co2 Covid ARDS
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pgr-co2-covid-ards.qmd
+  title: Locke PGR Co2 Covid ARDS
+  notes: ''
+- source_path: Presentations/Locke PGR Hypercapnia.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke PGR Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pgr-hypercapnia.qmd
+  title: Locke PGR Hypercapnia
+  notes: ''
+- source_path: Presentations/Locke PGR Randomness & Diagnostics 10-20-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke PGR Randomness & Diagnostics
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pgr-randomness-diagnostics.qmd
+  title: Locke PGR Randomness & Diagnostics
+  notes: ''
+- source_path: Presentations/Locke Sleep Apnea for Puln Fellows.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Sleep Apnea For Puln Fellows
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-sleep-apnea-for-puln-fellows.qmd
+  title: Locke Sleep Apnea For Puln Fellows
+  notes: ''
+- source_path: Presentations/Locke Vent Dyssynchrony Compressed.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Vent Dyssynchrony
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-vent-dyssynchrony.qmd
+  title: Locke Vent Dyssynchrony
+  notes: ''
+- source_path: Presentations/Locke Vent Dyssynchrony.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Vent Dyssynchrony
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-vent-dyssynchrony.qmd
+  title: Locke Vent Dyssynchrony
+  notes: duplicate candidate with Presentations/Locke Vent Dyssynchrony Compressed.pptx
+- source_path: Presentations/MM BL 2022-11-9.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Mm Bl
+  guessed_section: Presentations
+  dest_page: talks/presentations/mm-bl.qmd
+  title: Mm Bl
+  notes: ''
+- source_path: Presentations/OSA & Hypoventilation lit review.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: OSA & Hypoventilation Lit Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-hypoventilation-lit-review.qmd
+  title: OSA & Hypoventilation Lit Review
+  notes: ''
+- source_path: Presentations/OSA Asthma Lit Review.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: OSA Asthma Lit Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-asthma-lit-review.qmd
+  title: OSA Asthma Lit Review
+  notes: ''
+- source_path: Presentations/OSA Bronchiect TBM EDAC lit review.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: OSA Bronchiect Tbm EDAC Lit Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-bronchiect-tbm-edac-lit-review.qmd
+  title: OSA Bronchiect Tbm EDAC Lit Review
+  notes: ''
+- source_path: Presentations/OSA and Sarcoidosis Lit Review.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: OSA And Sarcoidosis Lit Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-and-sarcoidosis-lit-review.qmd
+  title: OSA And Sarcoidosis Lit Review
+  notes: ''
+- source_path: Presentations/OSA-VTE & Lung Ca Evidence.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: OSA VTE & Lung Ca Evidence
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-vte-lung-ca-evidence.qmd
+  title: OSA VTE & Lung Ca Evidence
+  notes: ''
+- source_path: Presentations/Overlap syndrome evidence review.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Overlap Syndrome Evidence Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/overlap-syndrome-evidence-review.qmd
+  title: Overlap Syndrome Evidence Review
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/2024-4-21
+    Hypercapnia Diagnostic Modeling Revised.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Hypercapnia Diagnostic Modeling Revised
+  guessed_section: Presentations
+  dest_page: talks/presentations/hypercapnia-diagnostic-modeling-revised.qmd
+  title: Hypercapnia Diagnostic Modeling Revised
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AARC 2012
+    TcCO2 guideline.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Aarc 2012 Tcco2 Guideline
+  guessed_section: Presentations
+  dest_page: talks/presentations/aarc-2012-tcco2-guideline.qmd
+  title: Aarc 2012 Tcco2 Guideline
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM
+    2017 Comorbidities surving hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ajrccm 2017 Comorbidities Surving Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/ajrccm-2017-comorbidities-surving-hypercapnia.qmd
+  title: Ajrccm 2017 Comorbidities Surving Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM
+    2021 Compensated Hypercapnia Morbidity.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ajrccm 2021 Compensated Hypercapnia Morbidity
+  guessed_section: Presentations
+  dest_page: talks/presentations/ajrccm-2021-compensated-hypercapnia-morbidity.qmd
+  title: Ajrccm 2021 Compensated Hypercapnia Morbidity
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM
+    2021 aus pop prev hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ajrccm 2021 Aus Pop Prev Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/ajrccm-2021-aus-pop-prev-hypercapnia.qmd
+  title: Ajrccm 2021 Aus Pop Prev Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM
+    2024 Home NIV at Hospital Discharge.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ajrccm 2024 Home Niv At Hospital Discharge
+  guessed_section: Presentations
+  dest_page: talks/presentations/ajrccm-2024-home-niv-at-hospital-discharge.qmd
+  title: Ajrccm 2024 Home Niv At Hospital Discharge
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM_
+    100-Year Anniversary.Homeward Bound_ A Centenary of Home Mechanical Ventilation.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ajrccm 100 Year Anniversary.homeward Bound A Centenary Of Home Mechanical
+    Ventilation
+  guessed_section: Presentations
+  dest_page: talks/presentations/ajrccm-100-year-anniversary-homeward-bound-a-centenary-of-home-mechanical-ventilation.qmd
+  title: Ajrccm 100 Year Anniversary.homeward Bound A Centenary Of Home Mechanical
+    Ventilation
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AMIA Diagnostic
+    Modeling for Hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Amia Diagnostic Modeling For Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/amia-diagnostic-modeling-for-hypercapnia.qmd
+  title: Amia Diagnostic Modeling For Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ATS 2019
+    OHS Guidelines.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ats 2019 Ohs Guidelines
+  guessed_section: Presentations
+  dest_page: talks/presentations/ats-2019-ohs-guidelines.qmd
+  title: Ats 2019 Ohs Guidelines
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Adler
+    et al. - 2017 - Comorbidities and Subgroups of Patients Surviving Severe Acute
+    Hypercapnic Respiratory Failure in th.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Adler Et Al. 2017 Comorbidities And Subgroups Of Patients Surviving
+    Severe Acute Hypercapnic Respiratory Failure In Th
+  guessed_section: Presentations
+  dest_page: talks/presentations/adler-et-al-2017-comorbidities-and-subgroups-of-patients-surviving-severe-acute-hypercapnic-respiratory-failure-in-th.qmd
+  title: Adler Et Al. 2017 Comorbidities And Subgroups Of Patients Surviving Severe
+    Acute Hypercapnic Respiratory Failure In Th
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Ann ATS
+    2013 can you sustain what you need.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ann Ats 2013 Can You Sustain What You Need
+  guessed_section: Presentations
+  dest_page: talks/presentations/ann-ats-2013-can-you-sustain-what-you-need.qmd
+  title: Ann Ats 2013 Can You Sustain What You Need
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AnnATS
+    2014 What does weight have to do with it.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annats 2014 What Does Weight Have To Do With It
+  guessed_section: Presentations
+  dest_page: talks/presentations/annats-2014-what-does-weight-have-to-do-with-it.qmd
+  title: Annats 2014 What Does Weight Have To Do With It
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AnnATS
+    2015 Var in home vent practice aus vs bc.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annats 2015 Var In Home Vent Practice Aus Vs Bc
+  guessed_section: Presentations
+  dest_page: talks/presentations/annats-2015-var-in-home-vent-practice-aus-vs-bc.qmd
+  title: Annats 2015 Var In Home Vent Practice Aus Vs Bc
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AnnATS
+    telemonitoring home ventilation supplement.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annats Telemonitoring Home Ventilation Supplement
+  guessed_section: Presentations
+  dest_page: talks/presentations/annats-telemonitoring-home-ventilation-supplement.qmd
+  title: Annats Telemonitoring Home Ventilation Supplement
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AnnATS
+    telemonitoring home ventilation.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annats Telemonitoring Home Ventilation
+  guessed_section: Presentations
+  dest_page: talks/presentations/annats-telemonitoring-home-ventilation.qmd
+  title: Annats Telemonitoring Home Ventilation
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AnnRevMed
+    NIV in NMD.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annrevmed Niv In Nmd
+  guessed_section: Presentations
+  dest_page: talks/presentations/annrevmed-niv-in-nmd.qmd
+  title: Annrevmed Niv In Nmd
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Annals
+    ATS 2020 OHS in Bariatric Surg cohort.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Annals Ats 2020 Ohs In Bariatric Surg Cohort
+  guessed_section: Presentations
+  dest_page: talks/presentations/annals-ats-2020-ohs-in-bariatric-surg-cohort.qmd
+  title: Annals Ats 2020 Ohs In Bariatric Surg Cohort
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BMJ ORR
+    2024 - Hypercap RF prognosis .pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Bmj Orr 2024 Hypercap Rf Prognosis
+  guessed_section: Presentations
+  dest_page: talks/presentations/bmj-orr-2024-hypercap-rf-prognosis.qmd
+  title: Bmj Orr 2024 Hypercap Rf Prognosis
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BTS 2016
+    Guideline acute hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Bts 2016 Guideline Acute Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/bts-2016-guideline-acute-hypercapnia.qmd
+  title: Bts 2016 Guideline Acute Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Billing
+    code definitions.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Billing Code Definitions
+  guessed_section: Presentations
+  dest_page: talks/presentations/billing-code-definitions.qmd
+  title: Billing Code Definitions
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Brinkman
+    Carbovisor.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Brinkman Carbovisor
+  guessed_section: Presentations
+  dest_page: talks/presentations/brinkman-carbovisor.qmd
+  title: Brinkman Carbovisor
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CARBON
+    DIOXIDE INTOXICATION_THE CLINICAL SYNDROME, ITS ETIOLOGY AND MANAGEMENT WITH PARTICULAR
+    REFERENCE TO THE USE OF MECHANICAL RESPIRATORS.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Carbon Dioxide Intoxication The Clinical Syndrome, Its Etiology And
+    Management With Particular Reference To The Use Of Mechanical Respirators
+  guessed_section: Presentations
+  dest_page: talks/presentations/carbon-dioxide-intoxication-the-clinical-syndrome-its-etiology-and-management-with-particular-reference-to-the-use-of-mechanical-respirators.qmd
+  title: Carbon Dioxide Intoxication The Clinical Syndrome, Its Etiology And Management
+    With Particular Reference To The Use Of Mechanical Respirators
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CCM 2024
+    Long-term Mortality Rate ICU Patients.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ccm 2024 Long Term Mortality Rate ICU Patients
+  guessed_section: Presentations
+  dest_page: talks/presentations/ccm-2024-long-term-mortality-rate-icu-patients.qmd
+  title: Ccm 2024 Long Term Mortality Rate ICU Patients
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST
+    2013 Is Elevated HCO3 part of OHS.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Chest 2013 Is Elevated Hco3 Part Of Ohs
+  guessed_section: Presentations
+  dest_page: talks/presentations/chest-2013-is-elevated-hco3-part-of-ohs.qmd
+  title: Chest 2013 Is Elevated Hco3 Part Of Ohs
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST
+    2022 Inpatient Sleep Medicine.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Chest 2022 Inpatient Sleep Medicine
+  guessed_section: Presentations
+  dest_page: talks/presentations/chest-2022-inpatient-sleep-medicine.qmd
+  title: Chest 2022 Inpatient Sleep Medicine
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CRD 2024
+    Hx of Home Vent.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Crd 2024 Hx Of Home Vent
+  guessed_section: Presentations
+  dest_page: talks/presentations/crd-2024-hx-of-home-vent.qmd
+  title: Crd 2024 Hx Of Home Vent
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Cell 2018
+    Neural Control of Breathing and CO2 Homeostasis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Cell 2018 Neural Control Of Breathing And Co2 Homeostasis
+  guessed_section: Presentations
+  dest_page: talks/presentations/cell-2018-neural-control-of-breathing-and-co2-homeostasis.qmd
+  title: Cell 2018 Neural Control Of Breathing And Co2 Homeostasis
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest
+    2018 Initiating home vent and advanced settings.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Chest 2018 Initiating Home Vent And Advanced Settings
+  guessed_section: Presentations
+  dest_page: talks/presentations/chest-2018-initiating-home-vent-and-advanced-settings.qmd
+  title: Chest 2018 Initiating Home Vent And Advanced Settings
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest
+    2024 NIV for COPD how i do it.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Chest 2024 Niv For COPD How I Do It
+  guessed_section: Presentations
+  dest_page: talks/presentations/chest-2024-niv-for-copd-how-i-do-it.qmd
+  title: Chest 2024 Niv For COPD How I Do It
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung
+    Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Chung Thesis Epidemiology Of Hypercapnic Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/chung-thesis-epidemiology-of-hypercapnic-respiratory-failure.qmd
+  title: Chung Thesis Epidemiology Of Hypercapnic Respiratory Failure
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Comp Phys
+    2014 Hypovent Piper.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Comp Phys 2014 Hypovent Piper
+  guessed_section: Presentations
+  dest_page: talks/presentations/comp-phys-2014-hypovent-piper.qmd
+  title: Comp Phys 2014 Hypovent Piper
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Comp Phys
+    Bio 2017 ph co2 reg evolutionary importance.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Comp Phys Bio 2017 Ph Co2 Reg Evolutionary Importance
+  guessed_section: Presentations
+  dest_page: talks/presentations/comp-phys-bio-2017-ph-co2-reg-evolutionary-importance.qmd
+  title: Comp Phys Bio 2017 Ph Co2 Reg Evolutionary Importance
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Determinants
+    of CO2 Tension - Javaheri.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Determinants Of Co2 Tension Javaheri
+  guessed_section: Presentations
+  dest_page: talks/presentations/determinants-of-co2-tension-javaheri.qmd
+  title: Determinants Of Co2 Tension Javaheri
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERJ 2025
+    Nasal Masks for NIV .pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Erj 2025 Nasal Masks For Niv
+  guessed_section: Presentations
+  dest_page: talks/presentations/erj-2025-nasal-masks-for-niv.qmd
+  title: Erj 2025 Nasal Masks For Niv
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERR 2023
+    QoL in home ventilation.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Err 2023 Qol In Home Ventilation
+  guessed_section: Presentations
+  dest_page: talks/presentations/err-2023-qol-in-home-ventilation.qmd
+  title: Err 2023 Qol In Home Ventilation
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2017
+    Central disturbances during sleep.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ers 2017 Central Disturbances During Sleep
+  guessed_section: Presentations
+  dest_page: talks/presentations/ers-2017-central-disturbances-during-sleep.qmd
+  title: Ers 2017 Central Disturbances During Sleep
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2022
+    Drive to Breath NIV and COPD.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ers 2022 Drive To Breath Niv And COPD
+  guessed_section: Presentations
+  dest_page: talks/presentations/ers-2022-drive-to-breath-niv-and-copd.qmd
+  title: Ers 2022 Drive To Breath Niv And COPD
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Exp Rev
+    Resp 2023 - ev for NIV.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Exp Rev Resp 2023 Ev For Niv
+  guessed_section: Presentations
+  dest_page: talks/presentations/exp-rev-resp-2023-ev-for-niv.qmd
+  title: Exp Rev Resp 2023 Ev For Niv
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Front
+    Med 2022 Monitoring NIV.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Front Med 2022 Monitoring Niv
+  guessed_section: Presentations
+  dest_page: talks/presentations/front-med-2022-monitoring-niv.qmd
+  title: Front Med 2022 Monitoring Niv
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJCP 2022
+    Hypercapnia Review.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ijcp 2022 Hypercapnia Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/ijcp-2022-hypercapnia-review.qmd
+  title: Ijcp 2022 Hypercapnia Review
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJERPH
+    2022 OSA and Chronic Respiratory Diseases.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ijerph 2022 OSA And Chronic Respiratory Diseases
+  guessed_section: Presentations
+  dest_page: talks/presentations/ijerph-2022-osa-and-chronic-respiratory-diseases.qmd
+  title: Ijerph 2022 OSA And Chronic Respiratory Diseases
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/J Phys
+    2017 Lung effects of hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: J Phys 2017 Lung Effects Of Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/j-phys-2017-lung-effects-of-hypercapnia.qmd
+  title: J Phys 2017 Lung Effects Of Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/JHM -
+    2025 - TWDFNR ABG for hypercapnia.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Jhm 2025 Twdfnr Abg For Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/jhm-2025-twdfnr-abg-for-hypercapnia.qmd
+  title: Jhm 2025 Twdfnr Abg For Hypercapnia
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jean-Louis
+    Pépin et al. - 2012 - Obesity Hypoventilation Syndrome An Underdiagnosed and Undertreated
+    Condition.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Jean Louis Pépin Et Al. 2012 Obesity Hypoventilation Syndrome An
+    Underdiagnosed And Undertreated Condition
+  guessed_section: Presentations
+  dest_page: talks/presentations/jean-louis-p-pin-et-al-2012-obesity-hypoventilation-syndrome-an-underdiagnosed-and-undertreated-condition.qmd
+  title: Jean Louis Pépin Et Al. 2012 Obesity Hypoventilation Syndrome An Underdiagnosed
+    And Undertreated Condition
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jour Resp
+    Review 2022 - Mask systematic review.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Jour Resp Review 2022 Mask Systematic Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/jour-resp-review-2022-mask-systematic-review.qmd
+  title: Jour Resp Review 2022 Mask Systematic Review
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Lancet
+    Resp 2016 Preventing resp failure in obese.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Lancet Resp 2016 Preventing Resp Failure In Obese
+  guessed_section: Presentations
+  dest_page: talks/presentations/lancet-resp-2016-preventing-resp-failure-in-obese.qmd
+  title: Lancet Resp 2016 Preventing Resp Failure In Obese
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Meservey
+    et al. - 2020 - Risk of Readmission and Mortality Following Hospitalization with
+    Hypercapnic Respiratory Failure.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Meservey Et Al. 2020 Risk Of Readmission And Mortality Following
+    Hospitalization With Hypercapnic Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/meservey-et-al-2020-risk-of-readmission-and-mortality-following-hospitalization-with-hypercapnic-respiratory-failure.qmd
+  title: Meservey Et Al. 2020 Risk Of Readmission And Mortality Following Hospitalization
+    With Hypercapnic Respiratory Failure
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Nowbar
+    et al. - 2004 - Obesity-associated hypoventilation in hospitalized patients prevalence,
+    effects, and outcome..pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nowbar Et Al. 2004 Obesity Associated Hypoventilation In Hospitalized
+    Patients Prevalence, Effects, And Outcome.
+  guessed_section: Presentations
+  dest_page: talks/presentations/nowbar-et-al-2004-obesity-associated-hypoventilation-in-hospitalized-patients-prevalence-effects-and-outcome.qmd
+  title: Nowbar Et Al. 2004 Obesity Associated Hypoventilation In Hospitalized Patients
+    Prevalence, Effects, And Outcome.
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OAEM 2019
+    Hypercap Cohort 1yr mort.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Oaem 2019 Hypercap Cohort 1yr Mort
+  guessed_section: Presentations
+  dest_page: talks/presentations/oaem-2019-hypercap-cohort-1yr-mort.qmd
+  title: Oaem 2019 Hypercap Cohort 1yr Mort
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OSA in
+    Hypercap RF Final.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: OSA In Hypercap Rf
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-in-hypercap-rf.qmd
+  title: OSA In Hypercap Rf
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/R Phys
+    Neuro 2013 1-5 unanswered q's resp control.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: R Phys Neuro 2013 Unanswered Q's Resp Control
+  guessed_section: Presentations
+  dest_page: talks/presentations/r-phys-neuro-2013-unanswered-q-s-resp-control.qmd
+  title: R Phys Neuro 2013 Unanswered Q's Resp Control
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/R Phys
+    Neuro 2013 6-10 unanswered q's resp control.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: R Phys Neuro 2013 Unanswered Q's Resp Control
+  guessed_section: Presentations
+  dest_page: talks/presentations/r-phys-neuro-2013-unanswered-q-s-resp-control.qmd
+  title: R Phys Neuro 2013 Unanswered Q's Resp Control
+  notes: duplicate candidate with Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/R
+    Phys Neuro 2013 1-5 unanswered q's resp control.pdf
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/RC 2023
+    Lower PaCO2 in Chr Hypercap Mortality.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Rc 2023 Lower Paco2 In Chr Hypercap Mortality
+  guessed_section: Presentations
+  dest_page: talks/presentations/rc-2023-lower-paco2-in-chr-hypercap-mortality.qmd
+  title: Rc 2023 Lower Paco2 In Chr Hypercap Mortality
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Resp Care
+    2012 Overview of HMV in US.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Resp Care 2012 Overview Of Hmv In Us
+  guessed_section: Presentations
+  dest_page: talks/presentations/resp-care-2012-overview-of-hmv-in-us.qmd
+  title: Resp Care 2012 Overview Of Hmv In Us
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Resp Care
+    2024 What are we aiming for?.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Resp Care 2024 What Are We Aiming For?
+  guessed_section: Presentations
+  dest_page: talks/presentations/resp-care-2024-what-are-we-aiming-for.qmd
+  title: Resp Care 2024 What Are We Aiming For?
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Respirology
+    2022 Causes of hypercapnic respiratory failure & in‐hospital mortality.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Respirology 2022 Causes Of Hypercapnic Respiratory Failure & In‐hospital
+    Mortality
+  guessed_section: Presentations
+  dest_page: talks/presentations/respirology-2022-causes-of-hypercapnic-respiratory-failure-in-hospital-mortality.qmd
+  title: Respirology 2022 Causes Of Hypercapnic Respiratory Failure & In‐hospital
+    Mortality
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Thorax
+    2023 Effect of NIV on Sleep.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Thorax 2023 Effect Of Niv On Sleep
+  guessed_section: Presentations
+  dest_page: talks/presentations/thorax-2023-effect-of-niv-on-sleep.qmd
+  title: Thorax 2023 Effect Of Niv On Sleep
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Vonderbank
+    et al. - 2020 - Hypercapnia at Hospital Admission as a Predictor o.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Vonderbank Et Al. 2020 Hypercapnia At Hospital Admission As A Predictor
+    O
+  guessed_section: Presentations
+  dest_page: talks/presentations/vonderbank-et-al-2020-hypercapnia-at-hospital-admission-as-a-predictor-o.qmd
+  title: Vonderbank Et Al. 2020 Hypercapnia At Hospital Admission As A Predictor O
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/aarc-coding-guidelines
+    - procedures.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Aarc Coding Guidelines Procedures
+  guessed_section: Presentations
+  dest_page: talks/presentations/aarc-coding-guidelines-procedures.qmd
+  title: Aarc Coding Guidelines Procedures
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/adler-et-al-2017-comorbidities-and-subgroups-of-patients-surviving-severe-acute-hypercapnic-respiratory-failure-in-the
+    (1).pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Adler Et Al 2017 Comorbidities And Subgroups Of Patients Surviving
+    Severe Acute Hypercapnic Respiratory Failure In The (1)
+  guessed_section: Presentations
+  dest_page: talks/presentations/adler-et-al-2017-comorbidities-and-subgroups-of-patients-surviving-severe-acute-hypercapnic-respiratory-failure-in-the-1.qmd
+  title: Adler Et Al 2017 Comorbidities And Subgroups Of Patients Surviving Severe
+    Acute Hypercapnic Respiratory Failure In The (1)
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/cao-et-al-2024-roadmap-for-advancing-a-new-subspecialty-in-pulmonary-medicine-devoted-to-chronic-respiratory-failure.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Cao Et Al 2024 Roadmap For Advancing A New Subspecialty In Pulmonary
+    Medicine Devoted To Chronic Respiratory Failure
+  guessed_section: Presentations
+  dest_page: talks/presentations/cao-et-al-2024-roadmap-for-advancing-a-new-subspecialty-in-pulmonary-medicine-devoted-to-chronic-respiratory-failure.qmd
+  title: Cao Et Al 2024 Roadmap For Advancing A New Subspecialty In Pulmonary Medicine
+    Devoted To Chronic Respiratory Failure
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/sb261-Most-Expensive-Hospital-Conditions-2017.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Sb261 Most Expensive Hospital Conditions 2017
+  guessed_section: Presentations
+  dest_page: talks/presentations/sb261-most-expensive-hospital-conditions-2017.qmd
+  title: Sb261 Most Expensive Hospital Conditions 2017
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke PCCGR 2025-8-12.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Locke Pccgr
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pccgr.qmd
+  title: Locke Pccgr
+  notes: ''
+- source_path: Presentations/PCCGR Aug 2025 Hypercapnia Update/~$Locke PCCGR 2025-8-12.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: ~$locke Pccgr
+  guessed_section: Presentations
+  dest_page: talks/presentations/locke-pccgr.qmd
+  title: ~$locke Pccgr
+  notes: duplicate candidate with Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke
+    PCCGR 2025-8-12.pptx
+- source_path: Presentations/PE in ICU.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Pe In ICU
+  guessed_section: Presentations
+  dest_page: talks/presentations/pe-in-icu.qmd
+  title: Pe In ICU
+  notes: ''
+- source_path: Presentations/PGR - Beyond Se and Sp.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Beyond Se And Sp
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-beyond-se-and-sp.qmd
+  title: PGR Beyond Se And Sp
+  notes: ''
+- source_path: Presentations/PGR - extreme physiology.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Extreme Physiology
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-extreme-physiology.qmd
+  title: PGR Extreme Physiology
+  notes: ''
+- source_path: Presentations/PGR 2022-10-20.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr.qmd
+  title: PGR
+  notes: ''
+- source_path: Presentations/PGR 2023-1-12 sims.do
+  ext: do
+  kind: other
+  guessed_topic: PGR Sims
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-sims.qmd
+  title: PGR Sims
+  notes: ''
+- source_path: Presentations/PGR CHF and the lungs.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Chf And The Lungs
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-chf-and-the-lungs.qmd
+  title: PGR Chf And The Lungs
+  notes: ''
+- source_path: Presentations/PGR Instruments and Mendel copy.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Instruments And Mendel
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-instruments-and-mendel.qmd
+  title: PGR Instruments And Mendel
+  notes: ''
+- source_path: Presentations/PGR Instruments and Mendel.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Instruments And Mendel
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-instruments-and-mendel.qmd
+  title: PGR Instruments And Mendel
+  notes: duplicate candidate with Presentations/PGR Instruments and Mendel copy.pptx
+- source_path: Presentations/PGR LLMs.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: PGR Llms
+  guessed_section: Presentations
+  dest_page: talks/presentations/pgr-llms.qmd
+  title: PGR Llms
+  notes: ''
+- source_path: Presentations/PH Journal Club Sept 2022.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Ph Journal Club Sept 2022
+  guessed_section: Presentations
+  dest_page: talks/presentations/ph-journal-club-sept-2022.qmd
+  title: Ph Journal Club Sept 2022
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/ACG 2024 Acute Pancreatitis Guideline.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Acg 2024 Acute Pancreatitis Guideline
+  guessed_section: Presentations
+  dest_page: talks/presentations/acg-2024-acute-pancreatitis-guideline.qmd
+  title: Acg 2024 Acute Pancreatitis Guideline
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/CCJM 2025 GLP1ra and pancreatitis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ccjm 2025 Glp1ra And Pancreatitis
+  guessed_section: Presentations
+  dest_page: talks/presentations/ccjm-2025-glp1ra-and-pancreatitis.qmd
+  title: Ccjm 2025 Glp1ra And Pancreatitis
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/EJIM 2025 Acute Pancreatitis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ejim 2025 Acute Pancreatitis
+  guessed_section: Presentations
+  dest_page: talks/presentations/ejim-2025-acute-pancreatitis.qmd
+  title: Ejim 2025 Acute Pancreatitis
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/Gastroenterology 2024 Pancreatitis Review.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Gastroenterology 2024 Pancreatitis Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/gastroenterology-2024-pancreatitis-review.qmd
+  title: Gastroenterology 2024 Pancreatitis Review
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/JCM 2025 Pancreatitis Complication Management.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Jcm 2025 Pancreatitis Complication Management
+  guessed_section: Presentations
+  dest_page: talks/presentations/jcm-2025-pancreatitis-complication-management.qmd
+  title: Jcm 2025 Pancreatitis Complication Management
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/Lancet 2020 APEC Trial Pancreatitis
+    Supp.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Lancet 2020 Apec Trial Pancreatitis Supp
+  guessed_section: Presentations
+  dest_page: talks/presentations/lancet-2020-apec-trial-pancreatitis-supp.qmd
+  title: Lancet 2020 Apec Trial Pancreatitis Supp
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/Lancet 2020 APEC Trial Pancreatitis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Lancet 2020 Apec Trial Pancreatitis
+  guessed_section: Presentations
+  dest_page: talks/presentations/lancet-2020-apec-trial-pancreatitis.qmd
+  title: Lancet 2020 Apec Trial Pancreatitis
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis
+    Corr.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2014 Python Trial Feeding Pancreatitis Corr
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2014-python-trial-feeding-pancreatitis-corr.qmd
+  title: Nejm 2014 Python Trial Feeding Pancreatitis Corr
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis
+    Supp.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2014 Python Trial Feeding Pancreatitis Supp
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2014-python-trial-feeding-pancreatitis-supp.qmd
+  title: Nejm 2014 Python Trial Feeding Pancreatitis Supp
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2014 Python Trial Feeding Pancreatitis
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2014-python-trial-feeding-pancreatitis.qmd
+  title: Nejm 2014 Python Trial Feeding Pancreatitis
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial corr.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2021 Pointer Trial Corr
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2021-pointer-trial-corr.qmd
+  title: Nejm 2021 Pointer Trial Corr
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial editorial.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2021 Pointer Trial Editorial
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2021-pointer-trial-editorial.qmd
+  title: Nejm 2021 Pointer Trial Editorial
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial supp.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2021 Pointer Trial Supp
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2021-pointer-trial-supp.qmd
+  title: Nejm 2021 Pointer Trial Supp
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2021 Pointer Trial
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2021-pointer-trial.qmd
+  title: Nejm 2021 Pointer Trial
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL Editorial.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2022 Waterfall Editorial
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2022-waterfall-editorial.qmd
+  title: Nejm 2022 Waterfall Editorial
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis
+    Corr.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2022 Waterfall Trial Pancreatitis Corr
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2022-waterfall-trial-pancreatitis-corr.qmd
+  title: Nejm 2022 Waterfall Trial Pancreatitis Corr
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis
+    Supp.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2022 Waterfall Trial Pancreatitis Supp
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2022-waterfall-trial-pancreatitis-supp.qmd
+  title: Nejm 2022 Waterfall Trial Pancreatitis Supp
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Nejm 2022 Waterfall Trial Pancreatitis
+  guessed_section: Presentations
+  dest_page: talks/presentations/nejm-2022-waterfall-trial-pancreatitis.qmd
+  title: Nejm 2022 Waterfall Trial Pancreatitis
+  notes: ''
+- source_path: Presentations/Pancreatitis Lit/UEG 2025 Pancreatits Review.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Ueg 2025 Pancreatits Review
+  guessed_section: Presentations
+  dest_page: talks/presentations/ueg-2025-pancreatits-review.qmd
+  title: Ueg 2025 Pancreatits Review
+  notes: ''
+- source_path: Presentations/Partial Verification Blurg (incomplete).pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Partial Verification Blurg (incomplete)
+  guessed_section: Presentations
+  dest_page: talks/presentations/partial-verification-blurg-incomplete.qmd
+  title: Partial Verification Blurg (incomplete)
+  notes: ''
+- source_path: Presentations/RIP 5-21-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip.qmd
+  title: RIP
+  notes: ''
+- source_path: Presentations/RIP 5-26-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip.qmd
+  title: RIP
+  notes: duplicate candidate with Presentations/RIP 5-21-22.pptx
+- source_path: Presentations/RIP Hypercapnia 10-20-22 copy 2.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP Hypercapnia 2
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip-hypercapnia-2.qmd
+  title: RIP Hypercapnia 2
+  notes: ''
+- source_path: Presentations/RIP Hypercapnia 10-20-22 copy.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip-hypercapnia.qmd
+  title: RIP Hypercapnia
+  notes: ''
+- source_path: Presentations/RIP Hypercapnia 10-20-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip-hypercapnia.qmd
+  title: RIP Hypercapnia
+  notes: duplicate candidate with Presentations/RIP Hypercapnia 10-20-22 copy.pptx
+- source_path: Presentations/RIP Hypercapnia 10-8-22.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: RIP Hypercapnia
+  guessed_section: Presentations
+  dest_page: talks/presentations/rip-hypercapnia.qmd
+  title: RIP Hypercapnia
+  notes: duplicate candidate with Presentations/RIP Hypercapnia 10-20-22 copy.pptx
+- source_path: Presentations/Renal Replacement Therapy Resp Acidosis.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Renal Replacement Therapy Resp Acidosis
+  guessed_section: Presentations
+  dest_page: talks/presentations/renal-replacement-therapy-resp-acidosis.qmd
+  title: Renal Replacement Therapy Resp Acidosis
+  notes: ''
+- source_path: Presentations/Sleep JC Sept 2022.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Sleep Jc Sept 2022
+  guessed_section: Presentations
+  dest_page: talks/presentations/sleep-jc-sept-2022.qmd
+  title: Sleep Jc Sept 2022
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/CRD-22-0131_Proof.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Crd 22 0131 Proof
+  guessed_section: Presentations
+  dest_page: talks/presentations/crd-22-0131-proof.qmd
+  title: Crd 22 0131 Proof
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/Effect of CPAP on recurrence of
+    afib Hunt et al.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Effect Of Cpap On Recurrence Of Afib Hunt Et Al
+  guessed_section: Presentations
+  dest_page: talks/presentations/effect-of-cpap-on-recurrence-of-afib-hunt-et-al.qmd
+  title: Effect Of Cpap On Recurrence Of Afib Hunt Et Al
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/OSA as a risk factor for stroke
+    and death Yaggi et al NEJM 2005.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: OSA As A Risk Factor For Stroke And Death Yaggi Et Al Nejm 2005
+  guessed_section: Presentations
+  dest_page: talks/presentations/osa-as-a-risk-factor-for-stroke-and-death-yaggi-et-al-nejm-2005.qmd
+  title: OSA As A Risk Factor For Stroke And Death Yaggi Et Al Nejm 2005
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/Prospective study of OSA and incident
+    CAD and HF Gottlieb 2010.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Prospective Study Of OSA And Incident Cad And Hf Gottlieb 2010
+  guessed_section: Presentations
+  dest_page: talks/presentations/prospective-study-of-osa-and-incident-cad-and-hf-gottlieb-2010.qmd
+  title: Prospective Study Of OSA And Incident Cad And Hf Gottlieb 2010
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/Reducing CV risk through treatment
+    of OSA - two methodological approaches Am Heart J 2016.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: Reducing Cv Risk Through Treatment Of OSA Two Methodological Approaches
+    Am Heart J 2016
+  guessed_section: Presentations
+  dest_page: talks/presentations/reducing-cv-risk-through-treatment-of-osa-two-methodological-approaches-am-heart-j-2016.qmd
+  title: Reducing Cv Risk Through Treatment Of OSA Two Methodological Approaches Am
+    Heart J 2016
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/SDB and cardiovascular disease
+    - cross-sectional results with SHHS Shahar et al.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: SDB And Cardiovascular Disease Cross Sectional Results With Shhs
+    Shahar Et Al
+  guessed_section: Presentations
+  dest_page: talks/presentations/sdb-and-cardiovascular-disease-cross-sectional-results-with-shhs-shahar-et-al.qmd
+  title: SDB And Cardiovascular Disease Cross Sectional Results With Shhs Shahar Et
+    Al
+  notes: ''
+- source_path: Presentations/Sleep Journal Club Lit/SDB and mortality - a prospective
+    cohort study PLoS medicine 2009.pdf
+  ext: pdf
+  kind: pdf
+  guessed_topic: SDB And Mortality A Prospective Cohort Study Plos Medicine 2009
+  guessed_section: Presentations
+  dest_page: talks/presentations/sdb-and-mortality-a-prospective-cohort-study-plos-medicine-2009.qmd
+  title: SDB And Mortality A Prospective Cohort Study Plos Medicine 2009
+  notes: ''
+- source_path: Presentations/USPSTF Lung Cancer screening update.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Uspstf Lung Cancer Screening Update
+  guessed_section: Presentations
+  dest_page: talks/presentations/uspstf-lung-cancer-screening-update.qmd
+  title: Uspstf Lung Cancer Screening Update
+  notes: ''
+- source_path: Presentations/VR ICU Feasibility Overview.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Vr ICU Feasibility Overview
+  guessed_section: Presentations
+  dest_page: talks/presentations/vr-icu-feasibility-overview.qmd
+  title: Vr ICU Feasibility Overview
+  notes: ''
+- source_path: Presentations/When does hypoxemia become apparent.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: When Does Hypoxemia Become Apparent
+  guessed_section: Presentations
+  dest_page: talks/presentations/when-does-hypoxemia-become-apparent.qmd
+  title: When Does Hypoxemia Become Apparent
+  notes: ''
+- source_path: Presentations/When to stop proning.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: When To Stop Proning
+  guessed_section: Presentations
+  dest_page: talks/presentations/when-to-stop-proning.qmd
+  title: When To Stop Proning
+  notes: ''
+- source_path: Presentations/spiro_copd_noon_conf_2025.pptx
+  ext: pptx
+  kind: slides
+  guessed_topic: Spiro COPD Noon Conf 2025
+  guessed_section: Presentations
+  dest_page: talks/presentations/spiro-copd-noon-conf-2025.qmd
+  title: Spiro COPD Noon Conf 2025
+  notes: ''
+- source_path: index.md
+  ext: md
+  kind: markdown
+  guessed_topic: Archive Index
+  guessed_section: Education & Research
+  dest_page: talks/education-research/archive-index.qmd
+  title: Archive Index
+  notes: ''
+- source_path: medical-education.md
+  ext: md
+  kind: markdown
+  guessed_topic: Medical Education
+  guessed_section: Education & Research
+  dest_page: talks/education-research/medical-education.qmd
+  title: Medical Education
+  notes: ''
+- source_path: procedure-index.md
+  ext: md
+  kind: markdown
+  guessed_topic: Procedure Index
+  guessed_section: Procedures & Devices
+  dest_page: talks/procedures-devices/procedure-index.qmd
+  title: Procedure Index
+  notes: ''
