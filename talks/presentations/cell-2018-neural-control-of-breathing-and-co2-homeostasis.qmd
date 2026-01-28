@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Cell 2018 Neural Control of Breathing and CO2 Homeostasis.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Cell%202018%20Neural%20Control%20of%20Breathing%20and%20CO2%20Homeostasis.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Cell 2018 Neural Control of Breathing and CO2 Homeostasis.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Cell%202018%20Neural%20Control%20of%20Breathing%20and%20CO2%20Homeostasis.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Cell 2018 Neural Control of Breathing and CO2 Homeostasis.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Cell%202018%20Neural%20Control%20of%20Breathing%20and%20CO2%20Homeostasis.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Cell 2018 Neural Control of Breathing and CO2 Homeostasis.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Cell%202018%20Neural%20Control%20of%20Breathing%20and%20CO2%20Homeostasis.pdf)

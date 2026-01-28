@@ -4,19 +4,94 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Propensity Score Intuition
+- Partial Verification
+- ‘Data/Methods’ Limitations:
+- Partial Verification Bias
+- Omniscient View
+- Only some tested
+- Complete Case
+- Correctly modeled propensity score
+- Inverse Propensity Weights
+- Weighted (pseudo)population restores prevalence and sex balance of the whole population
+
+## Slide outline
+### Slide 1
+- Propensity Score Intuition
+- Needs to be finished.
+### Slide 2
+- Partial Verification
+- Omniscient View
+- 10 of 24 have hypercapnia
+- 5 of 12 men
+- 5 of 12 women
+- P(Test | Man) 50%
+- P(Test | Woman) 25%
+- Clinicians can’t perfect predict who needs the test
+- ORtest|hypercap: 2.8 (M or W)
+### Slide 3
+- Partial Verification
+### Slide 4
+- ‘Data/Methods’ Limitations:
+- ‘Partial Verification’: hypercapnia status is only ascertained in patients who get an ABG.
+- Analysis: Among patients who have ABGs checked
+- Target: Among all patients who may have hypercapnia
+- The probability of getting an ABG is variable and idiosyncratic
+- Inverse probability of blood-gas weighting?
+- Missing data is tricky
+- P(ABG) 0.5
+- P(ABG) 0.25
+- Observed w/ Hypercapnia
+- Weighted by Inverse of Prob
+- True Status (unobserved)
+- The Missing Indicator Method.
+- CMAJ 2012
+### Slide 5
+- Partial Verification Bias
+### Slide 6
+- Omniscient View
+- 50% prevalence; both sexes
+- Our goal is to predict who has the condition in the entire sample
+### Slide 7
+- Only some tested
+### Slide 8
+- Complete Case
+- 66% prevalence; mostly women
+- If you train the model on this, it’ll learn that sex predicts the condition.
+- True! among people who get the test
+### Slide 9
+- Only some tested
+- But we are particularly interested in predicting for people who didn’t get the test
+### Slide 10
+- Correctly modeled propensity score
+- 33%
+- 100%
+- 33%%
+### Slide 11
+- Inverse Propensity Weights
+- 1/.33
+- 3
+- 1/1
+- 1
+### Slide 12
+- Weighted (pseudo)population restores prevalence and sex balance of the whole population
+- Intuition:
+- If someone who was unlikely to get the test but did and they have the condition → there are likely many similar patients with the condition that didn’t get the test.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Propensity Score Intuition
+- Partial Verification
+- ‘Data/Methods’ Limitations:
+- Partial Verification Bias
+- Omniscient View
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Propensity Score Intuition
+- Partial Verification
+- ‘Data/Methods’ Limitations:
+- Partial Verification Bias
+- Omniscient View
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +108,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Partial Verification Blurg (incomplete).pptx](archive/Presentations/Partial%20Verification%20Blurg%20%28incomplete%29.pptx)
+- [Presentations/Partial Verification Blurg (incomplete).pptx](../../archive/Presentations/Partial%20Verification%20Blurg%20%28incomplete%29.pptx)
 
 ## Source materials
-- [Presentations/Partial Verification Blurg (incomplete).pptx](archive/Presentations/Partial%20Verification%20Blurg%20%28incomplete%29.pptx)
+- [Presentations/Partial Verification Blurg (incomplete).pptx](../../archive/Presentations/Partial%20Verification%20Blurg%20%28incomplete%29.pptx)

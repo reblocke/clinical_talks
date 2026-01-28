@@ -9,21 +9,24 @@ draft: true
 - Treating
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Who's at risk?
+- Timeline and Terms
+- Treating
+- Phenobarbital
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PAWSS score - https://www.mdcalc.com/prediction-alcohol-withdrawal-severity-scale
+- Reasons to go to an ICU?
+- If high risk for severe withdrawal (aka legit history of prior seizures or confounding seizure disorder, withdrawal symptoms with detectable BAL - consider long acting in addition to symptom driven protocol)
+- Withdrawal Seizures - 0-48 hours (12-24 after cessation highest risk)
+- Note: this might be delayed if getting GABA dsrugs
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Delirium tremens? (Hemodynamic instability, agitation and hallucinations)
+2. Using Ativan every 1-2 hours
+3. CIWA scores in the 20s that aren't all symptom trigger
+4. Concerns about over sedation / airway protection.
+5. Up front dose of 10 mg/kg
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +35,9 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.mdcalc.com/prediction-alcohol-withdrawal-severity-scale
+- https://www.vumc.org/trauma-and-scc/sites/default/files/publicfiles/Protocols/TICU%20Substance%20Abuse%20PMG.pdf
+- https://emcrit.org/ibcc/etoh/
 
 ## Source notes
 
@@ -40,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/alcohol-withdrawal.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/alcohol-withdrawal.md](archive/Clinical%20Practice%20Notes/alcohol-withdrawal.md)
+- [Clinical Practice Notes/alcohol-withdrawal.md](../../archive/Clinical%20Practice%20Notes/alcohol-withdrawal.md)

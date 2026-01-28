@@ -9,21 +9,27 @@ draft: true
 - Chloride
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Sodium
+- Potassium
+- Chloride
+- Bicarbonate
+- BUN
+- sCr
+- Glucose
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- You're a physician in the early days of medicine and you need to come up with 7 tests to interrogate renal function...
+- How did medicine arrive at the tests we did?
+- When is this misleading?
+- Is Saline Nephrotoxic?
+- Does a high or low bicarbonate indicate that there must be a metabolic alkalosis or acidosis present?
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. rebuild an understanding of electrolyte balance from the clinical application to the scientific / physiology (as opposed vice versa)
+2. generate a better understanding of the gaps of our routine labs in assessment of the body's ability to maintain homeostasis
+3. surrogate for osmolality / tonicity of the serum.
+4. of course this goes wrong if there is another major source of osmolality, such as alcohol / glucose / contrast
+5. important in the functioning of nerve cells (particularly the resting membrane potential)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +38,8 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://curiousclinicians.com/2020/08/19/episode-7-is-saline-nephrotoxic/
+- https://doi.org/10.1681/ASN.2011070720
 
 ## Source notes
 
@@ -40,4 +47,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/bmp-masterclass.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/bmp-masterclass.md](archive/Clinical%20Practice%20Notes/bmp-masterclass.md)
+- [Clinical Practice Notes/bmp-masterclass.md](../../archive/Clinical%20Practice%20Notes/bmp-masterclass.md)

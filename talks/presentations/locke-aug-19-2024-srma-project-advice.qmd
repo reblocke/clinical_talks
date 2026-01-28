@@ -4,19 +4,166 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Lessons LearnedMDCRC 6200: SR/MA
+- Objectives
+- Aim to publish your stuff!
+- Topic Choices
+- Our PICO(T): RCTs involving…
+- Strengths of our Topic:
+- Weaknesses of our topic
+- Strengths / Weaknesses of our team
+- Timeline
+- Our Progress:
+- brian.locke@imail.org
+
+## Slide outline
+### Slide 1
+- Lessons LearnedMDCRC 6200: SR/MA
+- Brian Locke MD MSc
+- Assistant Professor, Academic Track
+- Shock Trauma ICU, Schmidt Chest Clinic
+- Intermountain Medical Center
+- Aug 20, 2024
+### Slide 2
+- Objectives
+- Walk through the timeline of our project (MDCRC 6200 ‘22)
+- Discuss considerations for topic choice
+- Discuss some things that went well (& not) with our team
+- Highlight pitfalls
+- Open discussion/brainstorm
+### Slide 3
+- Aim to publish your stuff!
+- It’s bad [science] to abandon partly completed SRMAs
+- Get [career] credit for the time you spend
+- You’ll learn the most by making the project ‘publication quality’
+- There are venues for all types of project – just scope it correctly
+- Group of 3 (Tee, Ainhoa, Myself) – rest of TA’s contributed, especially CJ after course completed.
+### Slide 4
+- Topic Choices
+- Hypercapnia & Weight 1 study
+- Limited by the literature
+- Prevalence of OSA in ICU boring
+- Need group enthusiasm
+- OSA & Weight Loss?
+- GLP-1RAs → Meds → Meds & Surg
+- Initially, only found 3 studies
+- Ultimately found 10 (trial registers!)
+- → Gap: little direct evidence on new weight management options (GLP-1s) & OSA
+### Slide 5
+- Our PICO(T): RCTs involving…
+- Patients: adults with overweight or obesity and who have OSA
+- Intervention: either an anti-obesity medication (FDA approved or not) or bariatric surgery.
+- Comparison: placebo, no treatment, or usual care (including CPAP or lifestyle modification).
+- Outcome: change in Apnea Hypopnea Index (AHI)
+- (Time): at least 4 weeks duration
+- Question: How much heterogeneity in AHI change is explained percentage weight change between randomization and last follow-up
+- The real (50 million $3,000/yr ) $150 billion question: Will tirzepatide treat OSA?
+### Slide 6
+- Strengths of our Topic:
+- Emerging field (GLP-1 RA’s!) with a knowledge gap
+- Able to quantitatively analyze
+- meta-analysis and meta-regression
+- 3→10 RCTs (started borderline low, ended borderline high)
+- Similar analyses existed, but never our question & we had new studies
+### Slide 7
+- Weaknesses of our topic
+- Many ongoing trials
+- Short window before needing to redo
+- Pressure with other SRMA groups
+- (also, indicates of a good topic)
+- Meta-regression: more nuanced
+- Be careful with complex analyses
+- Expertise, reviewers, etc.
+- (but, enabled addressing a gap)
+### Slide 8
+- Strengths / Weaknesses of our team
+- Mix of interests and strengths
+- Defined roles: methods & subject matter, metabolic research, systematic review expert, etc.
+- Organization:
+- we used a shared box (discuss conventions)
+- ultimately github for the code: https://github.com/reblocke/AOM-and-Bari-Surg-for-OSA-SRMA
+### Slide 9
+- Timeline
+- The class deadlines come fast
+- Sessions are more useful the more you’ve done.
+- Polished > Rough >> Nothing
+- Objectives build on each other
+- Don’t fall behind early!
+- Date
+- Topics
+- Week 3
+- 09/03
+- Ignite #1 – Research proposal presentation
+- Week 6
+- 09/24
+- Ignite #2 – Search/screening presentations
+- Week 10
+- 10/29
+- Ignite #3 – Data extraction, study characteristics, and prelim results
+- Week 13
+- 11/19
+- Ignite #4 – Prelim Findings & Abstract
+- Progress will be MUCH slower once the class finishes.
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- TODO: No text extracted from this slide.
+### Slide 12
+- TODO: No text extracted from this slide.
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- Our Progress:
+- Completed draft Dec 2022
+- Fine-tuned methods/figures & back-and-forth data requests from borderline includable studies until June 2023
+- Submitted ➞ Reject from JAMA Network Open June 2023
+- Submitted to Obesity Review – July 2023
+- Revisions – Sept to Oct 2023
+- Accepted Dec 2023
+- Published Feb 2024
+### Slide 16
+- Our Progress:
+- Completed draft Dec 2022
+- Fine-tuned methods/figures & back-and-forth data requests from borderline includable studies until June 2023
+- Submitted ➞ Reject from JAMA Network Open June 2023
+- Submitted to Obesity Review – July 2023
+- Revisions – Sept to Oct 2023
+- Accepted Dec 2023
+- Published Feb 2024
+### Slide 17
+- brian.locke@imail.org
+- Feel free to use my STATA code
+- (will make more sense after the STATA session)
+- Other SRMA recommendations:
+- Read related SRMAs to understand structure/framing
+- Keep the STATA template ready to combine studies you read about
+- (MA is fast but takes practice, SR is slow/methodological)
+- Takeaways:
+- Choose a topic where:
+- All group members are excited about the question
+- There is a literature to support the SRMA
+- It’s a hot topic
+- Project Execution
+- Use box or another shared drive to organize
+- Choose simple, quantitative methods if possible
+- Meet early deadlines
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Lessons LearnedMDCRC 6200: SR/MA
+- Objectives
+- Aim to publish your stuff!
+- Topic Choices
+- Our PICO(T): RCTs involving…
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Lessons LearnedMDCRC 6200: SR/MA
+- Objectives
+- Aim to publish your stuff!
+- Topic Choices
+- Our PICO(T): RCTs involving…
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +180,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pdf](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pdf)
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pdf](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pdf)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx)
 
 ## Source materials
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pdf](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pdf)
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pdf](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pdf)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx)

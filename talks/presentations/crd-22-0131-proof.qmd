@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Sleep Journal Club Lit/CRD-22-0131_Proof.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/CRD-22-0131_Proof.pdf)
+- [Presentations/Sleep Journal Club Lit/CRD-22-0131_Proof.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/CRD-22-0131_Proof.pdf)
 
 ## Source materials
-- [Presentations/Sleep Journal Club Lit/CRD-22-0131_Proof.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/CRD-22-0131_Proof.pdf)
+- [Presentations/Sleep Journal Club Lit/CRD-22-0131_Proof.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/CRD-22-0131_Proof.pdf)

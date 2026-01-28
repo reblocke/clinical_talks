@@ -4,19 +4,409 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Physiology-Based Schemas
+- Acute Respiratory Failure Goals:
+- Cargo Cult Thinking: two things occur together → one causes the other
+- Hypoxemia and Dyspnea
+- Solution to cargo cult thinking? Try to falsify
+- Hypoxemia… is a problem though
+- Refractory Hypoxemia Schema
+- Pulse Oximetry: Screening Test
+- SaO2 is low?
+- RRT ! Hypoxemia
+- Urbach-Wiethe Disease: bilateral amygdala damage due to fat deposits.
+
+## Slide outline
+### Slide 1
+- Physiology-Based Schemas
+- Brian Locke MD
+- P/CCM
+### Slide 2
+- Acute Respiratory Failure Goals:
+- Construct Schemas for how to think about 2 common situations
+- [O2] The SpO2 is low and won’t come up with 6L via nasal cannula
+- [CO2] This patient feels dyspneic
+- [CO2] This patient is gorked and their serum [HCO3-] is 35 mmHg…. (another time)
+- Focus on determining the physiology (then, the treatment is easy)
+- We will focus on a SIMPLIFIED model (chemo-sensation) because it leads you to focus on the right thing
+- You should know that reality is slightly messier:
+- Hypoxemia and CO2 flux abnormalities interact
+- Respiratory control and dyspnea also respond to metabolic rate directly, cortical inputs, and sensory receptors in the lung
+### Slide 3
+- Cargo Cult Thinking: two things occur together → one causes the other
+- “The first principle is that you must not fool yourself—and you are the easiest person to fool.”
+### Slide 4
+- Hypoxemia and Dyspnea
+### Slide 5
+- Solution to cargo cult thinking? Try to falsify
+- Not Dyspnea
+### Slide 6
+- Hypoxemia… is a problem though
+### Slide 7
+- Refractory Hypoxemia Schema
+- RRT:
+- SpO2 is 75%,
+- 15L NRB!
+### Slide 8
+- Pulse Oximetry: Screening Test
+- This issue is not (yet) fixed!
+- Baseline Accuracy: FDA standard 95% LOA within 2-3%
+- Situations where accuracy worsens:
+- Hypoxemia below SaO2 80%
+- Poor perfusion: hypovolemia, heart failure, vasoconstriction, sepsis
+- Carbon monoxide poisoning (people who’ve smoked), sickle cell
+- Non-white skin, nail polish, make-up
+- Pulse Required!
+- Lack of venous pulsation required!
+- Translucency required!
+### Slide 9
+- SaO2 is low?
+- Causes of hypoxemia that resolve with 6L O2
+- V/Q Mismatch
+- Hypoventilation
+- Low FiO2, Low Barometric Pressure
+- Causes of hypoxemia that don’t resolve with 6L O2
+- Shunt: Blood passes from venous to arterial circulation without contacting inhaled air.
+- Through the lung: opacity should be present on CXR
+- Through the heart…
+- In locations where congenital heart disease is identified and fixed, this generally requires systemic PA pressures
+### Slide 10
+- RRT ! Hypoxemia
+- 68M who is POD 2 after hip replacement.
+- No DVT prophylaxis.
+- Hypoxemia (~85%) develops on 6L Patient is hemodynamically stable
+- Mild tachypnea ~20 breaths per minute
+- You order a CXR and ABG
+- Differential?
+### Slide 11
+- Refractory Hypoxemia Schema
+- Consolidations cause shunts!
+### Slide 12
+- Urbach-Wiethe Disease: bilateral amygdala damage due to fat deposits.
+- Patient S.M.: No conditioning to aversive stimuli, no fear in life-threatening situations, no recognition of fear in others
+- 35% Inhaled CO2 challenge (↑PaCO2)
+- Air hunger provoked panic attack
+- First sensation of fear since childhood
+- Reproduced in others with U-W Disease
+- If hypoxemia doesn’t cause dyspnea… what does?
+- Consider how fundamental this is:
+- Brain death declaration ( demonstrate no meaningful activity) requires no respiratory efforts despite an increase of 20 mmHg
+### Slide 13
+- “16M fell into a ... transport wagon being filled with whole wheat grain and was immediately submersed…
+- …mouth and pharynx were cleared of large amounts of packed grain
+- Attempts to clear grain provoked instability
+- …placed in the Trendelenburg position for central line placement, it was noted that …several grain seeds would fall […from] the ETT during expiration.
+- During the subsequent 20 min, the surgeon performed manual chest percussions as the patient was moved alternately from supine to lateral and prone positions”
+- Patient had no residual neurologic or respiratory signs or symptoms…
+### Slide 14
+- Evolution of the Control of Breathing
+- Gas Composition in Water
+- CO2 is 30x more soluble than O2 (low O2)
+- Gil Breathers
+- O2 is limiting factor, PaCO2 very low (1-4mmHg)
+- → O2 determines respiratory drive in Fish/Amphibians
+- Gas Composition in Air
+- 21% O2, 0.04% CO2. [and both are equally ‘soluble’]
+- (Proto-) Lung Breathers
+- Ventilation only to ensure O2 → CO2 will be too high
+- → CO2 determines respiratory drive in mammals (etc.)
+### Slide 15
+- Keep O2 and CO2 Problems Separate!
+- O2
+- CO2
+- Need sufficient O2 gas tension ALWAYS
+- Won’t cause damage if varies (as long as O2 available)
+- Body doesn’t keep as close tabs on it as you’d think
+- Brainstem is EXQUISITELY sensitive to it
+- We continually screen for low O2 (pulse ox.)
+- We seldom monitor (except indirectly, by our observation of what the patient’s brainstem is doing)
+### Slide 16
+- Schema for Ventilatory Failure
+### Slide 17
+- Need to exhale CO2: Supply vs Demand
+- You can understand this with equations, but they’re not required.
+- Fundamental Rules:
+- Molecules of CO2 produced Molecules of CO2 exhaled to maintain homeostasis
+- Amount of CO2 you exhale is proportional to the amount of air that meets blood coming back to the heart from the tissues.
+- Amount of work is proportional to the amount of air you move past your nose & mouth (RRVt)
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+- 𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑅𝑒𝑞𝑢𝑖𝑟𝑒𝑑∝𝑀𝑒𝑡𝑎𝑏𝑜𝑙𝑖𝑐 𝑅𝑎𝑡𝑒𝐸𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦∗𝐵𝑙𝑜𝑜𝑑 𝐶𝑂2
+### Slide 18
+- Need to exhale CO2: Supply vs Demand
+- Fundamental Rules:
+- Amount of CO2 you exhale is proportional to the amount of air that meets blood coming back to the heart from the tissues.
+- Amount of work is proportional to the amount of air you move past your nose & mouth (RRVt)
+- Molecules of CO2 produced Molecules of CO2 exhaled to maintain homeostasis
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+### Slide 19
+- Need to exhale CO2: Supply vs Demand
+- Fundamental Rules:
+- Amount of CO2 you exhale is proportional to the amount of air that meets blood coming back to the heart from the tissues.
+- Amount of work is proportional to the amount of air you move past your nose & mouth (RRVt)
+- Molecules of CO2 produced Molecules of CO2 exhaled to maintain homeostasis
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+- VE ∝ 1/(1-Vd/Vt)
+- Vd Amount of wasted VE
+- Vd/Vt Proportion wasted
+- 1-Vd/Vt Proportion not wasted [more efficient]
+### Slide 20
+- L Main PA Occlusive Thrombus
+- Blood no longer goes to L lung
+- Inhaled air does
+- Therefore, 2x the ventilation (mouth) required for same gas-exchange
+- Vd/Vt ~ ½
+- Ventilation (past mouth)
+- Ventilation participating in gas-exchange (Alveolar Ventilation)
+- ½ of the mouth ventilation
+- Wasted ventilation (no blood flow to this side)
+### Slide 21
+- Need to exhale CO2: Supply vs Demand
+- Fundamental Rules:
+- Amount of CO2 you exhale is proportional to the amount of air that meets blood coming back to the heart from the tissues.
+- Amount of work is proportional to the amount of air you move past your nose & mouth (RRVt)
+- Molecules of CO2 produced Molecules of CO2 exhaled to maintain homeostasis
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+- VE ∝ 1/(1-Vd/Vt)
+- Vd Amount of wasted VE
+- Vd/Vt Proportion wasted
+- 1-Vd/Vt Proportion not wasted [more efficient]
+- VE ∝ 1/PaCO2
+- Exhaled [CO2] ∝ blood [CO2]
+- Why might the body want low PaCO2?
+- Why might having a high PaCO2 help?
+### Slide 22
+- 3 scenarios: why are they breathing hard?
+- A patient in DKA (Kussmaul Breathing)?
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+- VE ∝ 1/(1-Vd/Vt)
+- Vd Amount of wasted VE
+- Vd/Vt Proportion wasted
+- 1-Vd/Vt Proportion not wasted [more efficient]
+- VE ∝ 1/PaCO2
+- Exhaled [CO2] ∝ blood [CO2]
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 23
+- 3 scenarios: why are they breathing hard?
+- A runner, before they hit their anaerobic threshold?
+- A runner, after they hit their anaerobic threshold?
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+- VE ∝ 1/(1-Vd/Vt)
+- Vd Amount of wasted VE
+- Vd/Vt Proportion wasted
+- 1-Vd/Vt Proportion not wasted [more efficient]
+- VE ∝ 1/PaCO2
+- Exhaled [CO2] ∝ blood [CO2]
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 24
+- 3 scenarios: why are they breathing hard?
+- A patient with severe pulmonary arterial hypertension?
+- 3 things that influence how much air you need to breath:
+- 1. Amount of CO2 production
+- 2. Ventilation Efficiency
+- 3. The concentration of CO2 in the blood
+- Metabolic Rate (VCO2)
+- Deadspace Fraction (Vd/Vt)
+- Respiratory Compensation
+- VE ∝ VCO2
+- ↑ Size
+- Hyperthermia/Fever
+- Work of breathing
+- Exercise
+- Carbohydrates (vs Lipids)
+- VE ∝ 1/(1-Vd/Vt)
+- Vd Amount of wasted VE
+- Vd/Vt Proportion wasted
+- 1-Vd/Vt Proportion not wasted [more efficient]
+- VE ∝ 1/PaCO2
+- Exhaled [CO2] ∝ blood [CO2]
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 25
+- Need to exhale CO2: Supply vs Demand
+- How much air movement can you sustain?
+- Causes of inability to sustain the needed minute ventilation
+- Impaired bellows function (Muscle weakness/inefficiency)
+- Increased respiratory system loads
+- Decreased ventilatory drive
+- Neuromuscular disease
+- Hyperinflation
+- Respiratory muscle hypoxia
+- Pleural Disease
+### Slide 26
+- Need to exhale CO2: Supply vs Demand
+- How much air movement can you sustain?
+- Causes of inability to sustain the needed minute ventilation
+- Muscle weakness/inefficiency
+- Increased respiratory system loads
+- Decreased ventilatory drive
+- Neuromuscular disease
+- Hyperinflation
+- Respiratory muscle hypoxia
+- Pleural Disease
+- Elevated airway resistance
+- Stiff Lungs
+- Low chest wall compliance
+### Slide 27
+- TODO: No text extracted from this slide.
+### Slide 28
+- Need to exhale CO2: Supply vs Demand
+- How much air movement can you sustain?
+- Causes of inability to sustain the needed minute ventilation
+- Muscle weakness/inefficiency
+- Increased respiratory system loads
+- Decreased ventilatory drive
+- Neuromuscular disease
+- Hyperinflation
+- Respiratory muscle hypoxia
+- Pleural Disease
+- Elevated airway resistance
+- Stiff Lungs
+- Low chest wall compliance
+- Opiates and other sedatives
+- Chronic compensated hypercapnia
+- Sleep
+- Metabolic alkalosis
+- A talk for another day
+### Slide 29
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+- We monitor O2
+- We infer things about CO2
+- Patient’s brainstem monitors it for us
+- When do you need an ABG?
+### Slide 30
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 31
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+- Severity of illness dependent
+### Slide 32
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 33
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 34
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 35
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+- Pain and pleural irritation causing hyperventilation.
+- Perhaps met acid from tension
+### Slide 36
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 37
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 38
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 39
+- Schema for Ventilatory Failure
+- 𝑉𝐸∝𝑉𝐶𝑂21 −𝑉𝑑𝑉𝑡∗𝑃𝑎𝐶𝑂2
+### Slide 40
+- Reminder of the Caveat
+- We will focus on a SIMPLIFIED model (chemo-sensation) because it leads you to focus on the right thing
+- You should know that reality is slightly messier:
+- Hypoxemia and CO2 flux abnormalities interact
+- Respiratory control and dyspnea also respond to metabolic rate directly, cortical inputs, and sensory receptors in the lung
+- How people think about O2 and CO2 problems
+- How O2 and CO2 problems really are
+- How the model presents O2 and CO2 problems
+- Totally overlapping
+- Slight overlap
+- Completely separate.
+### Slide 41
+- Summary:
+- Keep O2 and CO2 problems separate in your thinking
+- Low O2 is not the main cause of dyspnea
+- If it’s real and it doesn’t get better with 6L, it’s shunting.
+- Symptoms are driven by CO2 flux
+- Symptoms occur when it’s hard to sustain what you need
+- Do they need a lot?
+- High metabolic rate, Inefficient Ventilation, Low blood CO2
+- Can they not sustain much?
+- Bellows don’t work, Breathing control doesn’t work, Loads on system
+- Email: brian.locke@hsc.utah.edu
+### Slide 42
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Physiology-Based Schemas
+- Acute Respiratory Failure Goals:
+- Cargo Cult Thinking: two things occur together → one causes the other
+- Hypoxemia and Dyspnea
+- Solution to cargo cult thinking? Try to falsify
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Physiology-Based Schemas
+- Acute Respiratory Failure Goals:
+- Cargo Cult Thinking: two things occur together → one causes the other
+- Hypoxemia and Dyspnea
+- Solution to cargo cult thinking? Try to falsify
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +423,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - IM Noon Conf - Respiratory Failure copy.pptx](archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure%20copy.pptx)
-- [Presentations/Locke - IM Noon Conf - Respiratory Failure.pptx](archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure.pptx)
+- [Presentations/Locke - IM Noon Conf - Respiratory Failure copy.pptx](../../archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure%20copy.pptx)
+- [Presentations/Locke - IM Noon Conf - Respiratory Failure.pptx](../../archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure.pptx)
 
 ## Source materials
-- [Presentations/Locke - IM Noon Conf - Respiratory Failure copy.pptx](archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure%20copy.pptx)
-- [Presentations/Locke - IM Noon Conf - Respiratory Failure.pptx](archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure.pptx)
+- [Presentations/Locke - IM Noon Conf - Respiratory Failure copy.pptx](../../archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure%20copy.pptx)
+- [Presentations/Locke - IM Noon Conf - Respiratory Failure.pptx](../../archive/Presentations/Locke%20-%20IM%20Noon%20Conf%20-%20Respiratory%20Failure.pptx)

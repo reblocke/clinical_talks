@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OAEM 2019 Hypercap Cohort 1yr mort.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/OAEM%202019%20Hypercap%20Cohort%201yr%20mort.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OAEM 2019 Hypercap Cohort 1yr mort.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/OAEM%202019%20Hypercap%20Cohort%201yr%20mort.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OAEM 2019 Hypercap Cohort 1yr mort.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/OAEM%202019%20Hypercap%20Cohort%201yr%20mort.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/OAEM 2019 Hypercap Cohort 1yr mort.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/OAEM%202019%20Hypercap%20Cohort%201yr%20mort.pdf)

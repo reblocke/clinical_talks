@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Sleep Journal Club Lit/Effect of CPAP on recurrence of afib Hunt et al.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Effect%20of%20CPAP%20on%20recurrence%20of%20afib%20Hunt%20et%20al.pdf)
+- [Presentations/Sleep Journal Club Lit/Effect of CPAP on recurrence of afib Hunt et al.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Effect%20of%20CPAP%20on%20recurrence%20of%20afib%20Hunt%20et%20al.pdf)
 
 ## Source materials
-- [Presentations/Sleep Journal Club Lit/Effect of CPAP on recurrence of afib Hunt et al.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Effect%20of%20CPAP%20on%20recurrence%20of%20afib%20Hunt%20et%20al.pdf)
+- [Presentations/Sleep Journal Club Lit/Effect of CPAP on recurrence of afib Hunt et al.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Effect%20of%20CPAP%20on%20recurrence%20of%20afib%20Hunt%20et%20al.pdf)

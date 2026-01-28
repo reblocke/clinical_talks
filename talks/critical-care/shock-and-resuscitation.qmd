@@ -9,30 +9,53 @@ draft: true
 - Distributive
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Determinants of Cardiac Output: Venous Circuit
+- Hypovolemic
+- Distributive
+- Sepsis
+- also neurogenic, anaphylactic, pancreatitis
+- Obstructive
+- Cardiogenic
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- A good reference for this: the Guyton model https://derangedphysiology.com/main/cicm-primary-exam/required-reading/cardiovascular-system/Chapter%20028/cardiac-output-curves-and-vascular-function-curves
+- Somewhat controversial validity and applicability to shock physiology, FWIW.
+- Thinking: in normal states, venous return limits CO.
+- However, with severe heart failure, this can not be true.
+- Discussed 7-9 minutes here: <iframe title"vimeo-player" src"https://player.vimeo.com/video/545386872" width"640" height"360" frameborder"0" allowfullscreen></iframe>
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. DOI: 10.1097/CCM.0b013e3182772ab6
+2. DOI: 10.1097/CCM.0b013e31827bfc25
+3. systemic veins are 30x more distensible than arteries, thus 70% of intravascular volume is in the veins (mostly small veins and venules - 20-33% is in the splanchnic circulation) - thus veins are termed capacitance vessels.
+4. Right atrial pressure
+5. Mean Circulatory Filling Pressure
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- replace the volume (blood > crystalloid if in shock: Transfuse 1:1:1 rbcs, plasma, platelets. Consider CaCl, Abx redose, TXA, DDAVP, Vit K vs PCC) via 18g peripheral (resistance proportional to length / radius to 4th. PICC has 30x the resistance, CVC has 6-16x the resistance. Mac introducer has 0.35x the resistance. IO is the same.)
+- CVP (off IVC, central line, PICC - all same. no valves) is surrogate RVEDP. However, RVEDP and RVEDV are not linearly related (not perfectly elastic). At IMC, ~23% of fluid boluses increase cardiac output by 15+%(retrospective). Dynamic > static measures.. but have to be sure that R heart preload L heart aka no obstructive shock.
+- Somewhat controversial validity and applicability to shock physiology, FWIW.
+- Why would intubation before resuscitation be particularly problematic in hypovolemic shock?
+- ####Hemorhagic shock
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Is it related to imbalances in changes in conductance? (e.g. some areas remain adequately perfused, others do not), or to the stressed vs unstressed volume (e.g. relaxed venous circulation lowers preload, discussed below).
+- Is incomplete in describing those mechanics. Keep in mind our models or just maps of the territory and don't always explain all the relevant factors. A better model is that a venous return
+- Think about the myriad of ways LV function fails to explain observed physiology in the ICU: why don't we give inotropes to increase DO2? What of these parameters do vasopressors modify? Why do cirrhotics crump? etc. - the model is incomplete. Time to paint a more complete map.
+- Scenario 1: why do people pass out, or feel light headed, during or after a big deadlift? (https://onlinelibrary-wiley-com.ezproxy.lib.utah.edu/doi/epdf/10.1111/apha.12639) Phase 1: increase in MAP as intrathoracic pressure increase from valsalva is transmitted to the arterial tree (increase in MAP parallels increase in pleural pressure - think of this pushing aorta out). Of note, the pressure goes backward into the venous circulation into the valves - maintaining some forward flow). In a weird way, venous valves might make it so that we don't die whenever we valsalva. Of note, intraabdominal pressure also increases.
+- (Note some people say to use the forced exhalation maneuver instead of VM to avoid black out after)
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://derangedphysiology.com/main/cicm-primary-exam/required-reading/cardiovascular-system/Chapter%20028/cardiac-output-curves-and-vascular-function-curves
+- https://player.vimeo.com/video/545386872"
+- https://photos.collectednotes.com/photos/5187/96c1f496-5649-4418-b79b-6fedffcf0934
+- https://photos.collectednotes.com/photos/5187/2b657f8c-f9be-46a4-aee6-695e1d02866f
+- https://photos.collectednotes.com/photos/5187/0e421ed8-bd3a-40ec-8c46-425e778ef096
+- https://photos.collectednotes.com/photos/5187/6c1286df-3462-4a4c-a947-9b617724e826
+- https://photos.collectednotes.com/photos/5187/2f6200f2-6690-4532-b92d-e32cb841354c
+- https://photos.collectednotes.com/photos/5187/8e9278a9-f8cc-4e66-8708-cb8f27a49377
+- https://collectednotes.com/reblocke/lactic-acidosis
+- https://journals.lww.com/ccmjournal/Fulltext/2020/12000/TheUseofCentralVenoustoArterialCarbon.22.aspx
 
 ## Source notes
 
@@ -40,4 +63,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/shock-and-resuscitation.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/shock-and-resuscitation.md](archive/Clinical%20Practice%20Notes/shock-and-resuscitation.md)
+- [Clinical Practice Notes/shock-and-resuscitation.md](../../archive/Clinical%20Practice%20Notes/shock-and-resuscitation.md)

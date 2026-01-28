@@ -9,30 +9,38 @@ draft: true
 - Equipment:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Positioning:
+- Surgical Chest Tube
+- Equipment:
+- Seldinger Technique
+- Chest tube Management
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Phsyiology: evacuate air/blood/fluids, monitors possible thoracic bleeding, prevent tension pneumohthorax, enhance lung reexpansion.
+- ###Complications: 5-10% rate.
+- 1st container: trap aka collection chamber, which separates out fluid from air leaving the chest wall.
+- This is needed for quantification, cleanliness, and to keep the seal pressure (x) from increasing.
+- 2nd container: seal fluid x cm above the tube (meaning that it acts as a 1 way valve that has to overcome the pressure from x centimeters.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Pneumothorax if (ventilated, tension, persistent/recurrent, secondary large + 50y/o)
+2. Penetrating chest trauma
+3. Severe blunt trauma causing hemopneumothorax
+4. Malignant pleural effusion +/- pleurodesis
+5. Chylothorax
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- beware if prior thoracic surgery (?pleurodesis, ?raised diaphragm)
+- put a Kelly clamp in to the end of the chest tube (but don't have the clamps extending beyond the end of the tubing.
+- use your index finger to feel inside the chest cavity (confirm location), don't remove figure.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/ce16825c-7c54-4b2d-8c04-3be1a85f08c2
+- https://photos.collectednotes.com/photos/5187/b26424dc-874f-4036-818f-de51850dc8dc
+- https://photos.collectednotes.com/photos/5187/18e0f37a-1b19-4337-8a0c-f116f45fcf35
 
 ## Source notes
 
@@ -40,4 +48,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/chest-tubes.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/chest-tubes.md](archive/Clinical%20Practice%20Notes/chest-tubes.md)
+- [Clinical Practice Notes/chest-tubes.md](../../archive/Clinical%20Practice%20Notes/chest-tubes.md)

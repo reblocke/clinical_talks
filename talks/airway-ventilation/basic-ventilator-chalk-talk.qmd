@@ -6,33 +6,40 @@ draft: true
 ## What this covers
 - Respiratory Failure:
 - Ventilator Modes:
-- Ventilator Parameters:
+- AC-VC, Assist Control Volume Control
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Respiratory Failure:
+- Ventilator Modes:
+- AC-VC, Assist Control Volume Control
+- AC-PC Assist Control Pressure Control
+- PS Pressure Support
+- Ventilator Parameters:
+- What are the practical constraints in how we can adjust ventilator settings?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Patient Scenario: Blurb 1
+- The pulmonary system has two primary roles, each of which can fail:
+- Consider: How do we get information about the respiratory systems performance in each of these?
+- Note: I prefer the term ventilatory failure to the commonly used "Hypercapneic respiratory failure" because it is possible to have failure of ventilation without hypercapnia.
+- Answer: Imagine a respiratory system that is stressed (ie.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Oxygenation of the blood
+2. Removal of CO2, which is a result of ventilation.
+3. Oxygenation: SpO2 is usually sufficient to estimate PaO2 (which can be directly measured on an ABG). When this fails, we call it Hypoxemic Respiratory Failure
+4. Ventilation: a blood gas to measure CO2, ideally arterial. When it fails, we call it Ventilatory Failure
+5. application of higher levels of PEEP (especially important if portions of lung need to be recruited, or opened up)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- What things does intubation allow that other modes (e.g. HFNC, NIPPV) do not in respiratory failure?
+- Note: mechanical ventilation does not fix any disease process. It only supports the lungs (and respiratory system) until they heal themselves. Thus, our MAJOR goal is to avoid doing damage to the lungs.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201305-132OT
 
 ## Source notes
 
@@ -40,4 +47,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/basic-ventilator-chalk-talk.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/basic-ventilator-chalk-talk.md](archive/Clinical%20Practice%20Notes/basic-ventilator-chalk-talk.md)
+- [Clinical Practice Notes/basic-ventilator-chalk-talk.md](../../archive/Clinical%20Practice%20Notes/basic-ventilator-chalk-talk.md)

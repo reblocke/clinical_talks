@@ -6,23 +6,30 @@ draft: true
 ## What this covers
 - Shockable Rhythms
 - Non-shockable rhythms
+- Hypovolemia – fluid, blood products, stop bleeding, clamp vessels
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Shockable Rhythms
+- Non-shockable rhythms
+- Hypovolemia – fluid, blood products, stop bleeding, clamp vessels
+- Hypoxia – intubation and ventilation (FiO2 1.0)
+- Hypokalemia – K+ replacement
+- Hyperkalemia – treat cause, Ca2+ gluconate 10mL 10%, insulin-dextrose, salbutamol, NaHCO3
+- Metabolic disorders – Mg2+ if low, Ca2+ if low, consider bicarbonate for acidaemia (e.g. with normal anion gap)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Littman Approach: Narrow (<0.12) vs Wide (0.12+) QRS
+- Narrow: mechanical problems (RV inflow or outflow) Wide metabolic, ischemic, or left ventricle
+- Specific reversals: from https://litfl.com/pulseless-electrical-activity/
+- Hypovolemia – fluid, blood products, stop bleeding, clamp vessels
+- Hypoxia – intubation and ventilation (FiO2 1.0)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Hypovolemia – fluid, blood products, stop bleeding, clamp vessels
+2. Hypoxia – intubation and ventilation (FiO2 1.0)
+3. Hypokalemia – K+ replacement
+4. Hyperkalemia – treat cause, Ca2+ gluconate 10mL 10%, insulin-dextrose, salbutamol, NaHCO3
+5. Metabolic disorders – Mg2+ if low, Ca2+ if low, consider bicarbonate for acidaemia (e.g. with normal anion gap)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -31,7 +38,7 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://litfl.com/pulseless-electrical-activity/
 
 ## Source notes
 
@@ -39,4 +46,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/acls.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/acls.md](archive/Clinical%20Practice%20Notes/acls.md)
+- [Clinical Practice Notes/acls.md](../../archive/Clinical%20Practice%20Notes/acls.md)

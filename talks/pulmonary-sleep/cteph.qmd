@@ -9,27 +9,31 @@ draft: true
 - Who gets CTEPH?
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Definition
+- Workup
+- Who gets CTEPH?
+- Treatment
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- No longer clot in the vessels -> it is scar (hence, it has structure and can be removed by endarterectomy)
+- Symptoms: Primarily dyspnea on exertion.
+- 1mPAP >25 mmHg (last WHO congress changed it to 20 2 SD above mean, whereas 25 was made up.), PCWP < 15 mmHg, PVR > 3 woods units.
+- Note: group 4 also includes angiosarcoma, metastasis, arteritis, congenital pulmonary artery stenosis, and parasites.
+- CTED: chronic thromboembolic disease has symptoms consistent with CTEPH (dyspnea on exertion), imaging consistent, but don't meet baseline level of pulmonary hypertension, AND has CPET that demonstrates that exercise limitation is due to V/Q mismatch (high ve vco2, high vd vt that does not appropriately decrease with intensity).
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. pHTN -> increased workload on R ventricle and inability to increase cardiac output in response to exercise.
+2. Chronic V/Q mismatch -> creates areas of deadspace ventilation and doesn't improve with exercise.
+3. Meet definition of pre-cap pulm HTN:
+4. Evidence of pulmonary thromboembolic disease on imaging: abnormal perfusion lung scan and thromboembolic disease by anatomic imaging (CTPA, MRA, or pulm angio)
+5. Must have completed 3 months of anticoagulation
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- CTED: chronic thromboembolic disease has symptoms consistent with CTEPH (dyspnea on exertion), imaging consistent, but don't meet baseline level of pulmonary hypertension, AND has CPET that demonstrates that exercise limitation is due to V/Q mismatch (high ve vco2, high vd vt that does not appropriately decrease with intensity).
+- Do not screening with TTE (misses CTED and CTEPH with mild pH) - only useful if they had a very abnormal acute TTE
 
 ## References
 TODO: Add landmark references or guideline citations.
@@ -40,4 +44,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/cteph.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/cteph.md](archive/Clinical%20Practice%20Notes/cteph.md)
+- [Clinical Practice Notes/cteph.md](../../archive/Clinical%20Practice%20Notes/cteph.md)

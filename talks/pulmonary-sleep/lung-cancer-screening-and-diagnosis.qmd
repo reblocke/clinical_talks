@@ -9,21 +9,25 @@ draft: true
 - Shared decision-making
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Trials
+- Guidelines
+- Shared decision-making
+- Absolute benefits and harms
+- Sensitivity to imaging follow-up algorithms?
+- Diagnosis and Staging
+- Tumor Markers:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Mar 2021 USPSTF update -> age now 55->50 to 80; minimum pack years 30->20 and quit within the last 15 years.
+- https://jamanetwork.com/journals/jama/fullarticle/2777244
+- Prediction model - https://www.atsjournals.org/doi/pdf/10.1164/rccm.202104-1009ED
+- PLCOm2012 is another prediction score
+- The eligibility criteria are another inherent prediction model
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. notably, they state that ~10% of eligible patients currently get screened. Authors state 50% might be reasonable (not clear what this is based on)
+2. Lung Cancer Screening and Diagnosis
+3. Trials
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +36,8 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://jamanetwork.com/journals/jama/fullarticle/2777244
+- https://www.atsjournals.org/doi/pdf/10.1164/rccm.202104-1009ED
 
 ## Source notes
 
@@ -40,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md](archive/Clinical%20Practice%20Notes/lung-cancer-screening-and-diagnosis.md)
+- [Clinical Practice Notes/lung-cancer-screening-and-diagnosis.md](../../archive/Clinical%20Practice%20Notes/lung-cancer-screening-and-diagnosis.md)

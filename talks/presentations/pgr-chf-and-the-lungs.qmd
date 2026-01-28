@@ -4,19 +4,112 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Protean Manifestations of CHF and the lungs
+- DIURESE THEN DIAGNOSE
+- Classic teachings: APE. Not Chronic HF
+- Physical exam findings
+- Imaging Findings
+- CHF
+- VO2 Stress test findings
+- Capillary Injury
+- Hyperventilation?
+- Colloid Oncotic Pressure – revised starling
+- Pulm Edema DAD
+- Woodcock / Glycocalyx?
+
+## Slide outline
+### Slide 1
+- Protean Manifestations of CHF and the lungs
+- Diurese, then diagnose
+### Slide 2
+- DIURESE THEN DIAGNOSE
+### Slide 3
+- Classic teachings: APE. Not Chronic HF
+- https://emcrit.org/ibcc/scape/
+### Slide 4
+- Physical exam findings
+- https://www.jacc.org/doi/10.1016/j.jchf.2018.04.005
+- https://www.cardionerds.com/142-the-role-of-the-clinical-examination-in-patients-with-heart-failure-with-dr-mark-drazner/
+### Slide 5
+- Imaging Findings
+- https://twitter.com/docBLocke/status/1433090969830756358?s20
+### Slide 6
+- CHF
+- Stage 1: interstitial fluid (can be up to 500mL with minimal extra pressure)
+- Stage 2 Crescentic filling of the alveoli
+- Stage 3 Alveolar Flooding
+- Stage 4 Froth in air passages
+- Historically taught that hypoxemia and stimulation to vagal nociceptors results in hyperventilation – which may be true, until load is too great
+### Slide 7
+- VO2 Stress test findings
+### Slide 8
+- Capillary Injury
+- https://journals.physiology.org/doi/pdf/10.1152/jappl.2000.89.6.2483
+### Slide 9
+- Hyperventilation?
+### Slide 10
+- Colloid Oncotic Pressure – revised starling
+- https://pubmed.ncbi.nlm.nih.gov/6845168/
+- Colloids do not help with noncardiogenic pulmonary edema.
+- Cardiogenic pulmonary edema?
+- Starling equation
+- Bronch study?
+### Slide 11
+- Pulm Edema DAD
+- https://www.atsjournals.org/doi/full/10.1164/rccm.202008-3149IM
+### Slide 12
+- Woodcock / Glycocalyx?
+### Slide 13
+- Minerva Anestesiologica 2022 April;88(4):308-13
+- DOI: 10.23736/S0375-9393.22.16195-X
+### Slide 14
+- 10 questions for acute pulmonary edema
+- https://link.springer.com/article/10.1007/s00134-022-06639-8
+- Up to 20 fold increase in work of breathing.
+- Loop diuretics venodilator; NIV -> Loop diuretic -> vasodil if BP above target
+- Strategies for readmission risk reduction:
+- Achieve decongestion, treat comorbidities, and initate and restart oral medications
+- Mir. ., Peacock FW, McMurray JJ, Bueno H, Christ M, Maisel AS, Cullen L, Cowie MR, Di Somma S, Mart.n S.nchez FJ, Platz E, Masip J, Zeymer U, Vrints C, Price S, Mebazaa A, Mueller C, Acute Heart Failure Study Group of the ESC Acute Cardiovascular Care Association (2017) European Society of Cardiology-Acute Cardiovascular Care Association position paper on safe discharge of acute heart failure patients from the emergency department. Eur Heart J Acute Cardiovasc Care 6:311–320. https://doi.org/10.1177/ 20488 72616 633853
+### Slide 15
+- doi: 10.3389/fphys.2021.781874
+- Interstitial fluid flux: subject to starling forces, Wet-to-Dry index summarizes flux. “Safety factor” formation of interstitial gel.
+- Usual ’flux’ Na+ dependent reabsorption
+- Note: point B can occur due to increased CO (e.g. marathon running) and is well compensated unless the “safety factor” mechanism is lost
+- Inflammation (whether sterile or non-sterile) leads to loss of this mechanism
+- Specifically, overdistention, ROS implicated
+### Slide 16
+- doi: 10.3389/fphys.2021.781874
+- Factors protective against edema:
+- Initially, fluid accumulates in the thick portion of the interstitium
+- In normal conditions, most fluid returns to the capillaries by starling forces, 18% by lymphatics
+- In edematous states, lymphatics increase 8-10 fold
+- Notably, PEEP will interfere with this process (pushing back toward starting forces)
+- Precapillary vasoconstriction -> divert blood flow away from portion of lung with high W/D ratio. This has significant inter-individual variation that may contribute to individuals “prone-ness” to edema formation.
+- Importantly – derangements/loss of protective factors can be regional /distention related, and thus “geographic” even when “cardiogenic”
+### Slide 17
+- doi: 10.3389/fphys.2021.781874
+- When does interstitial edema become alveolar edema?
+- Vessel -> intstitium transendothelial (PEEP doesn’t help); interstitium -> alveolar transepithelial (PEEP helps, worsened by lung injury)
+- Interstitial edema ~5.5 W/D ratio, Alveolar begins to occur ~6 -6.25.
+- Alveolar flooding happens fast ~3 minute time constant.
+### Slide 18
+- CHF and lymphatics
+- https://www.ahajournals.org/doi/10.1161/JAHA.122.026668
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Protean Manifestations of CHF and the lungs
+- DIURESE THEN DIAGNOSE
+- Classic teachings: APE. Not Chronic HF
+- Physical exam findings
+- Imaging Findings
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Protean Manifestations of CHF and the lungs
+- DIURESE THEN DIAGNOSE
+- Classic teachings: APE. Not Chronic HF
+- Physical exam findings
+- Imaging Findings
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +126,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PGR CHF and the lungs.pptx](archive/Presentations/PGR%20CHF%20and%20the%20lungs.pptx)
+- [Presentations/PGR CHF and the lungs.pptx](../../archive/Presentations/PGR%20CHF%20and%20the%20lungs.pptx)
 
 ## Source materials
-- [Presentations/PGR CHF and the lungs.pptx](archive/Presentations/PGR%20CHF%20and%20the%20lungs.pptx)
+- [Presentations/PGR CHF and the lungs.pptx](../../archive/Presentations/PGR%20CHF%20and%20the%20lungs.pptx)

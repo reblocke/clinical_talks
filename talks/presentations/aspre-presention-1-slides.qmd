@@ -4,19 +4,217 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Populations that may benefit from aggressive OSA case finding?
+- Acute Hypercapnic Respiratory Failure
+- No RCTs have addressed this question
+- Post-AECOPD trials
+- Timing of NIV: COPD vs OHS
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+- Do NOT start at hospitalization
+- Resmed & Inovalon Insights, LLC payor claims database: 6810 pts with a COPD diagnostic code in the year before device set up
+- Critique of the Sufficient-Component Model
+- Consider this as a missing data problem? What is the propensity of p(ABG)?
+- CO2 Homeostasis: Factors Causing Frailty
+- Predispositions to Exacerbations
+
+## Slide outline
+### Slide 1
+- TODO: No text extracted from this slide.
+### Slide 2
+- Populations that may benefit from aggressive OSA case finding?
+- Cardiovascular disease prevention: patient selection and/or effect size?
+- Cognitive outcomes? Cancer outcomes? Developing
+- Ventilatory Failure: very high rate of unrecognized disease; very high risk of readmission; preliminary data of effectiveness in some subgroups
+- Data (Overlap) [ ] find Paper
+- Need: characterize comorbidity profiles, what physiologic endotypes are present, and which features predict risk or treatment response.
+### Slide 3
+- Acute Hypercapnic Respiratory Failure
+- Recurrent Hypercapnic Respiratory Failure
+- Chronic Hypercapnia
+- Acute on Chronic Hypercapnic Respiratory Failure
+- Hypercapnia Trajectories
+- Hypercapnia
+- Normalization of Hypercapnia
+- Normal CO2 on labs
+- Hypercapnia on labs
+- Increasing CO2
+- Assessment 1
+- Assessment
+- 2
+- Assessment 3
+- Common: COPD
+- Common: OHS
+- PaCO2 at discharge (not HCO3), Severity classification are associated with persistence (DOI: 10.1159/000524845)
+- High PaCO2 and Prior Acute NIV predict recurrence (DOI: 10.1111/resp.12652)
+### Slide 4
+- No RCTs have addressed this question
+- 10 observational studies (3 studies of hospitalized cohorts, 6 with hospitalized subgroups); serious risk of bias.
+- “After adjusting for age, sex, and baseline PaCO2, the odds ratios (ORs) for [90-day] mortality were significantly lower in the group discharged on PAP (adjusted OR, 0.16; 95% CI, 0.08–0.33)”
+### Slide 5
+- Post-AECOPD trials
+- Mode: BPAPS/T
+- Driving pressure
+- Timing of start after acute exacerbation
+- RESCUE vs HOT-HMV
+- (Not Post Exacerbation)
+- Many in control resolved hypercapnia
+- 21% excluded at 2-4 weeks.
+### Slide 6
+- Timing of NIV: COPD vs OHS
+- “Guidelines for chronic hypercapnic COPD recommend a 2- to 4-week recovery period following hospitalization for COPD exacerbation before assessing for noninvasive ventilation to confirm that chronic hypercapnia is persistent (eg, PaCO2 ≥ 52 mm Hg)”
+- This recommendation is derived from the fact that 21% of patients with COPD recruited for the Home Oxygen Therapy-Home Mechanical Ventilation (HOT-HMV) trial were excluded because the hypercapnia on discharge resolved after 2 to 4 weeks.
+- Conversely, the guidelines for OHS suggest hospitalized patients with OHS be continued on PAP therapy following hospital discharge until they undergo polysomnography, ideally within the first 3 months of discharge.6
+- This recommendation is driven by a mortality difference at 3 months postdischarge between patients with OHS discharged without PAP (16.8%) and with PAP (2.3%).14
+### Slide 7
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+- Collider bias
+### Slide 8
+- Do NOT start at hospitalization
+- wait 2-4 weeks to see if acute on chronic becomes chronic.
+- In-lab PSG not recommended for pure-COPD; attempt to normalized pCO2.
+- AVAPS not better than PS
+### Slide 9
+- Resmed & Inovalon Insights, LLC payor claims database: 6810 pts with a COPD diagnostic code in the year before device set up
+- Matching: sex, comorbidities, COPD-related HC usage in prior year
+- Propensity score for CPAP adherence
+- Outcomes: ↓ER Visit and Hospitalizations
+- Critique: healthy adherer bias
+### Slide 10
+- Critique of the Sufficient-Component Model
+- Consider PKU: Genetic defect causes disease when phenylalinine consumed.
+- -> in practice, everyone eats phenylalinine: genetic attributable fraction 100%
+- -> however, modification of diet avoids development. Thus, if phenylalanine consumption varies then environment contributes
+- Consider, the hypothetical world where everyone has the PKU gene, but phenylalanine varies (lower diagram) – then, the disease is ALL environmental.
+- what is the relationship to mendelian randomization?
+- -> population attributable fraction (and percent variance explained) is not generalizable, and changes as covariates change. Applied to Hypercapnia?
+### Slide 11
+- Consider this as a missing data problem? What is the propensity of p(ABG)?
+- Could P(ABG) – by provider ideall (or institution) work as an instrument? (to wiggle the likelihood of a diagnosis… could you test that? Are high p(ABG) environments or providers more likely to apply the diagnosis?
+- [ ] casual inference podcast on instrumental variables.
+### Slide 12
+- CO2 Homeostasis: Factors Causing Frailty
+- High ventilatory need:
+- Increased CO2 Production
+- Increased Deadspace ‘Wasted Vent’
+- Low desired PaCO2
+- Fever, Infection, or Inflammation
+- Advanced malignancy
+- Muscle activity
+- Seizures
+- Exercise
+- ↑↑ Work of breathing
+- Toxic ingestion
+- Obesity
+- Anatomic
+- shallow breathing
+- Physiologic
+- Pulmonary embolism
+- Pulmonary hypertension
+- Congestive heart failure
+- Parenchymal lung disease of any kind
+- Metabolic acidosis
+- Hypoxia
+- Unable to breathe:
+- Muscle weakness or inefficiency
+- Increased respiratory system loads
+- Neuromuscular disease
+- Lung Hyperinflation
+- Respiratory muscle hypoxia
+- Elevated airway resistance
+- COPD, Asthma
+- Mucus
+- Upper-airway obstruction
+- Stiff Lungs
+- Parenchymal lung disease
+- Pulmonary edema
+- Stiff Chest Wall
+- Pleural disease
+- Excess or stiff chest wall tissue
+- Decreased Drive to Breathe:
+- Opiates and other sedatives
+- Brainstem lesions
+- Compensated hypercapnia
+- Sleep
+- Metabolic alkalosis
+- Red OHS, as an example
+### Slide 13
+- Predispositions to Exacerbations
+- Parabola assumes constant production of CO2 and efficiency of the lung
+- As Ventilation drops, each further drop causes proportionally more CO2 accumulation.
+- Analogous to creatinine & GFR
+### Slide 14
+- PAO2 FiO2 (PB-47)—(PaCO2/R)  O2 17.8 mmHg lower at 4500ft
+- Hypercapnia in SLC
+- SpO2 is routinely obtained in clinical practice, PaCO2 (or TcCO2) is not
+- SLC  earlier identification
+### Slide 15
+- Hypotheses: on first (physiologic) principles
+- Many will have the first time they manifest respiratory frailty during an exacerbation
+- This group will be at high risk for repeat exacerbations
+- Major source of morbidity, mortality, and cost to the system
+- Interventions to reduce frailty or physiologic stressors may reduce exacerbations
+- Better evidence is needed to support these practices to streamline payor funding
+- If many of these patients are missed during presentation, or proper management is not instituted, this is a lost opportunity.
+### Slide 16
+- Cohort Definitions Identified in the Literature
+- Study
+- Definition Used
+- Aim
+- Thille et al 2017 https://doi.org/10.1007/s00134-017-4998-3
+- ICU; pH<7.35 & PaCO2 45+; treated with NIV or IMV; survivors
+- What is the rate of undiagnosed OSA among survivors?
+- Ouanes-Besbes et al. 2021, Tunisia PubMed: 33171053
+- Admitted to ICU 2015-2018, PaCO2 > 6kpa, pH < 7.35. No prior OSA syndrome diagnosis.
+- Prev of undx’d OSA
+- Wilson et al., 2021. USA (Michigan) PubMed: 33951397
+- 18+, hospitalized w/ ABG showing CO2 over 45 and pH 7.35-7.45
+- Outcomes of compensated hypercap
+- Cavalot et al 2021, Toronto https://doi.org/10.1080/15412555.2021.1990240
+- ABG with pH < 7.35 and PaCO2 > 45 mmHg OR VBG pH 7.34 and PvVO2 > 50 mmHg & presence of respiratory symptoms (CEDIS codes). Exclude CF, NM dz, ILD, thoracic dz, lung ca, CNS dz, Overdose, or trach
+- 1 yr readmission rate
+- Adler et al. 2016, Switzerland DOI: 10.1164/rccm.201608-1666OC
+- Recruited at ICU discharge after surviving: primary admission for Resp failure, PaCO2 over 6.3 kpa and requiring NIV or IMV
+- What are the comorbidities in survivors?
+- Meservey et al 2020. USA (Vermont) https://doi.org/10.1007/s00408-019-00300-w
+- 18 y/o+ admitted (either ICU or floor) with diagnostic code for hypercapnic respiratory failure
+- What features of patients admitted for hypercapnic respiratory failure predict readmission?
+- Bulbul et al. 2014. Turkey.
+- doi: 10.4103/1817-1737.128851
+- Hospitalized adults with PaCO2 over 45, no acidosis, and breathing room air
+- What comorbidities occur with inpatient, compensated hypoventilation
+- Marik 2016. USA (Virginia)
+- DOI: 10.1002/osp4.27
+- (i) age 18-90 (ii) a BMI ≥ 40 kg m−2; (iii) a daytime PaCO2 > 45 mmHg and (iv) an admission HCO3 > 28 mEq L−1. Exluded: (i) intrinsic lung disease, (ii) thoracic MSK/NMD (iii) 20+ pack year smoking, COPD
+- What is the prevalence of undiagnosed Obesity Hypoventilation among hospitalized adults?
+- Chung et al, AUS, 2021 DOI: https://doi.org/10.1164/rccm.202108-1912LE
+- Identified by initial ABG PaCO2 over 45, excluded iatrogenic causes/sedation.
+- What is the population prevalence of hypercapnia from any cause
+- Vonderbank et al 2020 – Germany
+- https://doi.org/10.2147%2FOAEM.S242075
+- All patients with dyspnea or pulm disease admitted to hospital received capillary blood gas (some screening with VBG). Hypercapnia PaCO2 45 mmHg.
+- Is hypercapnia predictive of mortality at a specialty hospital?
+### Slide 17
+- Gap
+- Clinical impression suggests that patients admitted with hypercapnia are a clinically heterogenous group, but few multi-center descriptions exist.
+- It is not clear if physiologically important subgroups (e.g. high-drive to breathe vs low; ventilatory failure vs hypercapnic respiratory success) can be discriminated on the basis of data elements in the EHR
+- A variety of methods have been used in prior studies, generally using blood gas-based assessments, diagnostic-codes, procedure codes for ventilation, or some combination of these.
+- However, it is not clear if the methods that have used these criteria select similar groups of patients, or if they select representative patients.
+- This is a problem for interpreting the meaning of findings
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Populations that may benefit from aggressive OSA case finding?
+- Acute Hypercapnic Respiratory Failure
+- No RCTs have addressed this question
+- Post-AECOPD trials
+- Timing of NIV: COPD vs OHS
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Populations that may benefit from aggressive OSA case finding?
+- Acute Hypercapnic Respiratory Failure
+- No RCTs have addressed this question
+- Post-AECOPD trials
+- Timing of NIV: COPD vs OHS
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +231,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/ASPRE Presention 1 Discarded Slides.pptx](archive/Presentations/ASPRE%20Presention%201%20Discarded%20Slides.pptx)
+- [Presentations/ASPRE Presention 1 Discarded Slides.pptx](../../archive/Presentations/ASPRE%20Presention%201%20Discarded%20Slides.pptx)
 
 ## Source materials
-- [Presentations/ASPRE Presention 1 Discarded Slides.pptx](archive/Presentations/ASPRE%20Presention%201%20Discarded%20Slides.pptx)
+- [Presentations/ASPRE Presention 1 Discarded Slides.pptx](../../archive/Presentations/ASPRE%20Presention%201%20Discarded%20Slides.pptx)

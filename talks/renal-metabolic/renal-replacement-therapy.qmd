@@ -9,30 +9,46 @@ draft: true
 - CRRT
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- iHD
+- Peritoneal Dialysis
+- CRRT
+- History of CRRT
+- Types:
+- SLED (sustained low - efficiency dialysis) or SLEDD (sustained lw-efficiency daily dialysis)
+- Uses
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- CCM 2020 Review - https://journals.lww.com/ccmjournal/Fulltext/2019/05000/RenalReplacementTherapyintheICU.12.aspx
+- CCM 2021 History of RRT https://journals.lww.com/ccmjournal/Fulltext/2021/03000/ICUBasedRenalReplacementTherapy.2.aspx/
+- Used to be the only option in 1970s - vasopressor dependent patients unable to tolerate fluid and solute shifts.
+- Main current benefit is allowing better mobility in patients who can tolerate it
+- Better preservation of residual kidney function.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Blood flow 300-400 ml/min why it's poorly tolerated by critically ill patients, hypotension common.
+2. Dialysate flow 500 ml/min (hence highly effecctive solute removal)
+3. done for 3-4h 3x/week
+4. fluid removal is limited by vascular refill, thus generally it is not possible to remove more than 2-3L in a single session even in compensated patients.
+5. convection (CVVH and CVVHDF, driven by transmembrane pressure gradient)
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- It is recommended to use bicarbonate instead of lactate as a buffer in patients with AKI, circulatory shock, liver failure, or lactic acidosis (don't understand the last - possibility of lactate indicating impaired clearance of lactate?). Note: citrate is also a buffer (metabolized to bicarbonate in the liver) if this is used as an anticoagulant.
+- STARRT-AKI - large RCT comparing accelerated vs standard initiation (only when urgent need). No mortality difference, but more patients stay on dialysis and there are more adverse events if you start earlier.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- It is recommended to use bicarbonate instead of lactate as a buffer in patients with AKI, circulatory shock, liver failure, or lactic acidosis (don't understand the last - possibility of lactate indicating impaired clearance of lactate?). Note: citrate is also a buffer (metabolized to bicarbonate in the liver) if this is used as an anticoagulant.
+- Proper length (terminating in R atrium, not SVC) led to lower complications -> use 20cm in R IJ and 24cm in L IJ. At least 24cm length should be used for femoral (to avoid recirculation) -
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journals.lww.com/ccmjournal/Fulltext/2019/05000/RenalReplacementTherapyintheICU.12.aspx
+- https://journals.lww.com/ccmjournal/Fulltext/2021/03000/ICUBasedRenalReplacementTherapy.2.aspx/
+- http://dx.doi.org/10.1053/j.ajkd.2016.03.427
+- https://photos.collectednotes.com/photos/5187/ae0adf4c-95c4-465b-8235-abeba43fa732
+- https://photos.collectednotes.com/photos/5187/0b54e20d-b18e-43e5-8594-c42ad557dfdd
+- https://photos.collectednotes.com/photos/5187/cd9f0589-4e53-4f35-9a13-9f15c6f50d3f
+- https://litfl.com/ihd-vs-crrt-vs-sled/
+- https://photos.collectednotes.com/photos/5187/9a066a31-dc8b-4f99-b790-e6321aa145ee
+- https://photos.collectednotes.com/photos/5187/d094da89-e9ae-4ec2-8160-d95c23df80f7
 
 ## Source notes
 
@@ -40,4 +56,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/renal-replacement-therapy.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/renal-replacement-therapy.md](archive/Clinical%20Practice%20Notes/renal-replacement-therapy.md)
+- [Clinical Practice Notes/renal-replacement-therapy.md](../../archive/Clinical%20Practice%20Notes/renal-replacement-therapy.md)

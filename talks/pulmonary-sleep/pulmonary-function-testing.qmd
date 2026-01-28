@@ -9,30 +9,46 @@ draft: true
 - Changes in Obesity
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Shunt Study
+- Obstruction
+- Changes in Obesity
+- Provocation challenges
+- Eucapnic voluntary hyperpnea
+- Aging
+- Diaphragm Weakness
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Repeatability less than 150 cc between efforts for FEV1 and FVC.
+- Repat for up to 8 times to get 3 that are repeatable.
+- Acceptability each effort.
+- Needs to meet EOFE criteria and no cough in 1st second, no leak, etc.
+- Alternative method to quantify impairment in oxygenation of the blood.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. spirometer should be calibrated daily with a 3L syringe.
+2. testing should be done on physiologic normals
+3. Maximum inspiration
+4. BLAST expiration
+5. complete expiration (EOFE acceptability criteria: plateau of expiration to <25cc/s, 15s elapsed, or 3 repeatable/consistent measures)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- plethysmography TLC - measures FRC (total amount of compressible gas in the thorax. Beware if large hiatal hernia) and can infer TLC based on spirometric measurement of inspiratory capacity (FRC+IC TLC)
+- MVV: very effort dependent and influenced by other factors - reduced in proportion to VC and thus adds little if you have VC (MVV 40 VC), MIP, and MEP. Don't order, generally.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/3b16eea8-3e64-4c6d-881d-427c6c9d7e2b
+- http://dx.doi.org/10.1016/j.chest.2017.07.009
+- https://photos.collectednotes.com/photos/5187/f6afb3f7-ecec-451d-8b93-0e35c212d59a
+- https://photos.collectednotes.com/photos/5187/dd860313-c9ae-4be3-bfc7-29a8136138a4
+- https://photos.collectednotes.com/photos/5187/2eeb844f-933e-4257-b000-7a37acf49d8b
+- https://journal.chestnet.org/article/S0012-3692(20)31415-X/pdf
+- https://photos.collectednotes.com/photos/5187/55b679ef-ea45-4866-8f36-30fc02e4d5ce
+- https://photos.collectednotes.com/photos/5187/7ea0760b-00b8-458c-8879-b509ef19a94b
+- https://photos.collectednotes.com/photos/5187/10ef5ece-926a-41e1-8343-65b97a1f680f
+- https://photos.collectednotes.com/photos/5187/db21ac40-bf1b-4055-99a9-12fdae7b7f8e
 
 ## Source notes
 
@@ -40,4 +56,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/pulmonary-function-testing.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/pulmonary-function-testing.md](archive/Clinical%20Practice%20Notes/pulmonary-function-testing.md)
+- [Clinical Practice Notes/pulmonary-function-testing.md](../../archive/Clinical%20Practice%20Notes/pulmonary-function-testing.md)

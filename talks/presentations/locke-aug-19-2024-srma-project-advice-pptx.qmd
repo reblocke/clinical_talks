@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx  -  Read-Only.pdf](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx%20%20-%20%20Read-Only.pdf)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx  -  Read-Only.pdf](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx%20%20-%20%20Read-Only.pdf)
 
 ## Source materials
-- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx  -  Read-Only.pdf](archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx%20%20-%20%20Read-Only.pdf)
+- [Presentations/Locke Aug 19 2024 SRMA project advice.pptx  -  Read-Only.pdf](../../archive/Presentations/Locke%20Aug%2019%202024%20SRMA%20project%20advice.pptx%20%20-%20%20Read-Only.pdf)

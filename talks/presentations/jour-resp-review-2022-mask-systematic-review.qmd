@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jour Resp Review 2022 - Mask systematic review.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jour%20Resp%20Review%202022%20-%20Mask%20systematic%20review.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jour Resp Review 2022 - Mask systematic review.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jour%20Resp%20Review%202022%20-%20Mask%20systematic%20review.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jour Resp Review 2022 - Mask systematic review.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jour%20Resp%20Review%202022%20-%20Mask%20systematic%20review.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jour Resp Review 2022 - Mask systematic review.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jour%20Resp%20Review%202022%20-%20Mask%20systematic%20review.pdf)

@@ -5,32 +5,43 @@ draft: true
 
 ## What this covers
 - Management
+- Be able to define Terms
+- Understand two major paradigm shifts in labeling ACS regarding how we identify heart tissue that is going to infarct and how what we know about how injury to myocardium occurs
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Management
+- Be able to define Terms
+- Understand two major paradigm shifts in labeling ACS regarding how we identify heart tissue that is going to infarct and how what we know about how injury to myocardium occurs
+- Understand who benefits from heparinization, revascularization.
+- Appreciate that we do not have data to support an approach to managing "ACS" in the. ICU.
+- Case 1: septic, in ICU, on pressors. Troponin is 0.5 ng/dl (elevated). No ekg changes, no symptoms, no new WMA on echo. What is this? Myocardial Injury, presumably acute
+- Case 2: a patient who has cardiac risk factors, exertional dyspnea that has progressed to occuring at rest and is relieved a
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- 2018 4th Universal Definition of MI
+- ####Workup: troponin without ACS?
+- ####Revascularization
+- Be able to define Terms
+- Understand two major paradigm shifts in labeling ACS regarding how we identify heart tissue that is going to infarct and how what we know about how injury to myocardium occurs
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Be able to define Terms
+2. Understand two major paradigm shifts in labeling ACS regarding how we identify heart tissue that is going to infarct and how what we know about how injury to myocardium occurs
+3. Understand who benefits from heparinization, revascularization.
+4. Appreciate that we do not have data to support an approach to managing "ACS" in the. ICU.
+5. Case 1: septic, in ICU, on pressors. Troponin is 0.5 ng/dl (elevated). No ekg changes, no symptoms, no new WMA on echo. What is this? Myocardial Injury, presumably acute
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- STEMI (ACS with STE on EKG. Note, this is a surrogate for occlusion MI needs emergent revascularization. However it has ~80% sensitivity and 80% specificity for that. More at OMI Manifesto)
+- Unstable angina (new or changing chest pain attributable to ischemia without troponin elevation after enough time has elapsed that you would see it. With or without EKG changes. Note, stable angina is not ACS)
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Appreciate that we do not have data to support an approach to managing "ACS" in the. ICU.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.onlinejacc.org/content/72/18/2231
+- https://drive.google.com/open?id1fggoocVhEsIUVNPDQxNsmTiGV8MVlmm
+- https://www.onlinejacc.org/content/69/15/1883
 
 ## Source notes
 
@@ -38,4 +49,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/acs.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/acs.md](archive/Clinical%20Practice%20Notes/acs.md)
+- [Clinical Practice Notes/acs.md](../../archive/Clinical%20Practice%20Notes/acs.md)

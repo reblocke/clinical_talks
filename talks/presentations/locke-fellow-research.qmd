@@ -4,19 +4,249 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- fellow researchfrom a fellow fellow
+- 3 Components of a Project:
+- Research Question
+- Why do mentors mentor?
+- What Data Are You Going To Use
+- Databases
+- Methods:
+- How can I help?
+- Hypercapnic Respiratory Failure: Overall research premise
+- Completed Research
+- Proposed Research (at least 2025 – 2030):
+
+## Slide outline
+### Slide 1
+- fellow researchfrom a fellow fellow
+- disclaimer: what follows are my views and not the views of…
+- Brian Locke
+### Slide 2
+- 3 Components of a Project:
+- Research Question
+- Data
+- Methods
+- Consider each before proceeding…
+### Slide 3
+- Research Question
+- Significance
+- Contingency
+- Tractability
+- Neglected-ness
+- Leverage
+- x
+- Traditional Paradigm
+- ”Free Range” Approach
+- Find a mentor who is investigating what you are interested in.
+- Learn how to do what they are doing
+- Ultimately branch out later in your career
+- Formulate a question that interests you
+- Determine what data you can use to answer it
+- Find a group of collaborators
+- The only thing that works for
+- You’re limited to what people are doing
+- Might flop; big time investment
+### Slide 4
+- TODO: No text extracted from this slide.
+### Slide 5
+- Why do mentors mentor?
+- Intrinsic:
+- Training the Next Generation; Improve Medicine; Fun
+- Incentives:
+- Clinical Track (majority) – need impact outside of the institution (“excellence”) in 2 of: Clinical Care, Education, Administration, and Research
+- Tenure Track or similar (minority) – hired (and promoted) to get extra-mural grants: you are helpful to the extent you facility this (publications, preliminary work).
+- Favors executing previously-conceived projects; has ability/skill
+### Slide 6
+- What Data Are You Going To Use
+- Database work
+- Chart Review
+- Meta-research
+- Survey
+- Prospective
+- Basic Science
+- Do we have access to it now?
+- How much data-cleaning is needed?
+- Can it answer the question?
+- How big?
+- How long will it take?
+- Can it be used for multiple things?
+- Systematic Reviews with or without meta-analysis
+- Who will be surveyed and how will it be done?
+- Do a feasibility study at most.
+- ???
+### Slide 7
+- What Data Are You Going To Use
+- Database work
+- Chart Review
+- Meta-research
+- Survey
+- Prospective
+- Basic Science
+- Do we have access to it now?
+- How much data-cleaning is needed?
+- Can it answer the question?
+- How big?
+- How long will it take?
+- Can it be used for multiple things?
+- Systematic Reviews with or without meta-analysis
+- Who will be surveyed and how will it be done?
+- Do a feasibility study at most.
+- ???
+- Data cleaning is time/expertise intensive
+- Chart Review is low yield
+- Time (and team) intensive
+- Unique methods expertise; limited impact
+- Inflexible time commitment, mentor dependent
+### Slide 8
+- Databases
+- Health-Record Data
+- TriNetX -> Ram Gouripeddi
+- Epic Cosmos -> Vik Deshmukh (IM pays for expedited data requests)
+- ICU Databases:
+- Community Cohorts:
+- Trial Data:
+### Slide 9
+- Methods:
+- Who is going to do the statistics?
+- Who will help you design the study?
+- “Traditional Mentorship Structure”: they provide
+- Otherwise… resources:
+- CTSI
+- MSCI
+### Slide 10
+- How can I help?
+- What Can I Offer?
+- What I Can’t Offer
+- I have some ideas
+- I can do (and teach) the needed study design, epi/statistics, and database skills
+- I want (and am incentivized) to collaborate or advise on other projects
+- I think it is very helpful to have external advisors
+- I’ve (big) helped with Brittany and Jeff’s projects and (little) helped with Ryan, Jared, and Darren’s
+- I cannot provide resources (statisticians, study coordinators, grad students)
+- I cannot offer advocacy that carries weight
+- I would not be a wise primary-mentor for someone who wants a primary research career
+- But, I can help
+### Slide 11
+- Hypercapnic Respiratory Failure: Overall research premise
+- inflicts a high burden of disease (prevalence morbidity)
+- is becoming a bigger problem (obesity, opiates, multimorbidity)
+- is (potentially) treatable with NIV, GLP-1Ra, etc.
+- but the current evidence base is inadequate
+- is comparatively neglected (biases against this type of patient)
+- Therefore, doing a better job recognizing hypercapnia will allow:
+- Better quantification (ie. research) about hypercapnia’s impacts
+- Better care for patients with known best management.
+### Slide 12
+- Completed Research
+### Slide 13
+- Proposed Research (at least 2025 – 2030):
+- OVERALL: Patients with Consequentially-Missed Hypercapnia can be Identified Using Health Record Elements
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- 3 aims
+- Aim 1: Use NLP / AI to incorporate unstructured data
+- Aim 2: Prospective Validation of Positive Predictive Value
+- Aim 3: Assess Potential Impact of Unrecognized Hypercapnia
+- Hypothesis
+- RN/ED Triage note symptoms
+- simple NLP (CLAMP) vs
+- Large-Language Models
+- ‘Risk’-modeling can identify inpatients missed by their teams
+- Patients predicted likely to have had unrecognized hypercapnia suffer adverse outcomes, like readmission.
+- Rationale
+- Signs/Symptoms improve accuracy
+- e.g. STOP-BANG for OSA
+- Must be verified to identify unrecognized hypercapnia
+- Would expanded recognition lead to overdiagnosis?
+- Approach
+- Train & evaluate performance on retrospective, local health records
+- Prospectively apply TcCO2 to inpatients predicted likely to have hypercapnia – do they?
+- ↑readmission mortality In patients who likely had hypercapnia?
+- # likely hypercapnia admissions prior to actual recognition?
+- Payoff: Allow hypercapnic respiratory failure -not dependent on clinician identification- as an exposure or outcome
+- Career Development: Skillset bridging bioinformatics and clinical investigation required to validate promising technology
+### Slide 14
+- In the interim, preliminary work needed…
+- strengthen the case to investigate hypercapnia
+- augment tools to study hypercapnia epi
+- Inpatient Hypercapnic Respiratory Failure
+- ABG CO2>45 vs VBG CO2>50
+- Who gets steroids / antibiotics / diuretics
+- National Consequence of ↑ICD
+- Who is diagnosed / managed as OHS?
+- Dysutility of FP vs FN during hypercap workup
+- Hypothesis
+- Vent Support, Dx is equivalent
+- Most get kitchen sink
+- High Readmission Rates
+- Conditions that exclude OHS vary
+- FN currently underweighted
+- Data
+- TriNetX (cleaning done)
+- National Inpatient Sample
+- Survey
+- Group Session Survey
+- Methods
+- Descriptive Stats, Regressions
+- Descriptive Stats, Regression
+- Randomized Vignette’s
+- Anchor-based
+- Team
+- Somya Mishra (Anesth/Sleep Fellow)
+- Chaiyakunapruk (Pharm/Econ)
+### Slide 15
+- Immersive Virtual Reality – Joseph Finkelstein MD PhD MA, Dept Bioinformatics
+- VR: immersive (headset) vs non-immersive (computer game).
+- Immersion is the experience of being absorbed (termed, ‘presence’), forgetting their embodied presence and thus responding as if the environment is real.
+- ICU Use cases: Relaxation (several feasibility studies), Cognitive/physical mobilization (1 RCT), Distraction/pain control (1 RCT pre-op), Delirium, Sleep (1 +RCT)
+- Feasibility Study (done) → Next Steps?
+### Slide 16
+- Hypercap. Diagnosis: ABG vs VBG
+- Problem: Emergency room providers often use VBGs to “diagnose” hypercapnia, but it’s unclear if they get managed like ABG-diagnosed
+- Study Question: Do patients admitted with VBGs suggestive of hypercapnia
+- Receive the same care (ie. ICD-codes of hypercapnic resp failure)
+- Have the same outcomes (ie. intubation rate, NIV use)
+- As those with ABGs confirming hypercapnia?
+- Data: Nationally aggregated EHR (TriNetX) of patients
+- Methods: Inverse Probability (of A/VBG)-Weighted Comparison
+### Slide 17
+- Hypercapnia Diagnostics: Harm of FP vs FN
+- Problem: Thresholds for any test [e.g. HCO3- level, Modeled Pr(Hypercap)] should be defined to minimize the dis-utility of incorrect results. No evidence exists for hypercapnia diagnosis.
+- Study Question: How bad is it to miss hypercapnia in comparison to overtesting/overdiagnosing it?
+- Data: Survey (initially, providers – via Hosp/PCCM/Sleep groups)
+- Methods: survey
+### Slide 18
+- Diagnostic Criteria of OHS:
+- Problem
+- Study Question
+- Data
+- Methods
+### Slide 19
+- National Consequence of Hypercapnia Admissions
+- Problem
+- Study Question
+- Data
+- Methods
+### Slide 20
+- Jeanette Brown MD PhD
+- VR: immersive (headset) vs non-immersive (computer game).
+- Immersion is the experience of being absorbed (termed, ‘presence’), forgetting their embodied presence and thus responding as if the environment is real.
+- ICU Use cases: Relaxation (several feasibility studies), Cognitive/physical mobilization (1 RCT), Distraction/pain control (1 RCT pre-op), Delirium, Sleep (1 +RCT)
+- Feasibility Study (done) → Next Steps?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- fellow researchfrom a fellow fellow
+- 3 Components of a Project:
+- Research Question
+- Why do mentors mentor?
+- What Data Are You Going To Use
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- fellow researchfrom a fellow fellow
+- 3 Components of a Project:
+- Research Question
+- Why do mentors mentor?
+- What Data Are You Going To Use
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +263,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/1-9-2024 Locke Fellow Research.pptx](archive/Presentations/1-9-2024%20Locke%20Fellow%20Research.pptx)
+- [Presentations/1-9-2024 Locke Fellow Research.pptx](../../archive/Presentations/1-9-2024%20Locke%20Fellow%20Research.pptx)
 
 ## Source materials
-- [Presentations/1-9-2024 Locke Fellow Research.pptx](archive/Presentations/1-9-2024%20Locke%20Fellow%20Research.pptx)
+- [Presentations/1-9-2024 Locke Fellow Research.pptx](../../archive/Presentations/1-9-2024%20Locke%20Fellow%20Research.pptx)

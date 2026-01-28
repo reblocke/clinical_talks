@@ -4,19 +4,555 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Methods of Identifying Inpatients with Hypercapnia for ResearchResearch In Progress 3/2/23
+- Hypercapnic Respiratory Failure: ’Syndrome’
+- Proposed framework:Sufficient vs Component Causes (Rubin)
+- COPD, Very Severe
+- How common are admissions with hypercapnia?
+- Admissions with Hypercapnic RF → High Risk of Readmission
+- Who are “all-comers admitted with hypercapnia”?
+- 5% dx’d obesity; 6% dx’d OSA
+- What is the role of sleep-disordered breathing?
+- Needs: initial decompensation → treatment
+- Computable phenotypes: algorithms to identify specific patient cohorts
+- Why might this help in Hypercapnic RF? (why not just use PaCO2 > 45 mmHg?)
+
+## Slide outline
+### Slide 1
+- Methods of Identifying Inpatients with Hypercapnia for ResearchResearch In Progress 3/2/23
+- Mentorship Team:
+- Krishna Sundar MD (PCCM/Sleep)
+- Ram Gouripeddi MBBS MSc (Bioinformatics)Jeanette Brown MD PhD (PCCM)
+- Rob Paine III MD (PCCM)
+- Wayne Richards BSc (Bioinformatics)
+- Brian Locke, MD
+- 3rd Year Pulmonary and Critical Care Fellow
+- University of Utah
+- University of Utah T32 PI: Paine
+- Masters of Science in Clinical Investigation
+- ATS ASPIRE Program
+### Slide 2
+- Hypercapnic Respiratory Failure: ’Syndrome’
+- Definition: PaCO2 too high (> 45 mmHg)
+- Key physiologic principles:
+- Occurrence of CO2↑ : Ventilatory Control or Actuator Frailty?
+- Metabolic parabola means those with hypercapnia are more prone to decompensation
+- Many patients are first identified during decompensation:
+- higher risk for morbidity
+- also, more available data
+- Acute management effective, but what should happen after the admission?
+- Build up here CO2 in blood rises
+### Slide 3
+- Proposed framework:Sufficient vs Component Causes (Rubin)
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- End-stage COPD with hyperinflation
+- Component cause: a factor that, if not present, no disease would occur
+- Untreated OSA, metabolic alkalosis, chronic opiate use
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 4
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- Met. Alk loop diur
+- COPD
+- Trial Data
+- +Guidelines
+- Wait 2-4 wks
+- OHS
+- Observational Data
+- +Guideline
+- Start Immediately
+- Overlap Sydnrome
+- Undifferentiated
+- No tx data
+- Limited epi data
+- Swap any combination of:
+- Muscular weakness
+- Obesity
+- Opiate use
+- Lung disease
+- Etc.
+- ???
+- Post-Admission for Hypercapnic Respiratory Failure Management
+### Slide 5
+- How common are admissions with hypercapnia?
+- 2022: Liverpool AUS, 1 regional hospital services the entire district
+- Identified by initial ABG (w/n 24h) PaCO2 over 45, excluded iatrogenic causes/sedation. N891 people, 1135 blood gasses (repeat hosp.)
+- Normalized rates of hypercapnia to population demographics
+- 150 per 100,000 person/year
+- Acidosis in 55%.
+- For Comparison:
+### Slide 6
+- Admissions with Hypercapnic RF → High Risk of Readmission
+- Admitted to hospital (Floor or ICU) with billing code for Hypercapnic Respiratory Failure
+### Slide 7
+- Who are “all-comers admitted with hypercapnia”?
+- Liverpool AUS: ABG w/n 24h of admission.
+- Diagnostic codes: 52% Charlson Comorbidity 5+; Prevalence-based estimates: NMD under-represented
+- Chung Y, Garden FL, Marks GB, Vedam H. Causes of hypercapnic respiratory failure and associated in-hospital mortality. Respirology. 2022
+- All adult ED visits @ single Toronto ED w ABG <7.35/45+ OR VBG <7.34/50+ & CEDIS resp code for resp symptoms. Charts reviewed for 12 months.
+- Giulia Cavalot, Vera Dounaevskaia, Fernando Vieira, Thomas Piraino, Remi Coudroy, Orla Smith, David A. Hall, Karen E. A. Burns & Laurent Brochard (2021) One-Year Readmission Following Undifferentiated Acute Hypercapnic Respiratory Failure, COPD: Journal of Chronic Obstructive Pulmonary Disease, 18:6, 602-611
+- All patients with dyspnea or pulm disease admitted to hospital received capillary blood gas (some screening with VBG). Stratified by pH > 7.35 or pH < 7.35
+- Hospital specializing in lung disease (unclear referral pattern):
+- Vonderbank S, Gibis N, Schulz A, Boyko M, Erbuth A, Gürleyen H, Bastian A. Hypercapnia at Hospital Admission as a Predictor of Mortality. Open access emergency medicine : OAEM 2020; 12: 173-180.
+### Slide 8
+- 5% dx’d obesity; 6% dx’d OSA
+- Chung Y, Garden FL, Marks GB, Vedam H. Causes of hypercapnic respiratory failure and associated in-hospital mortality. Respirology. 2022
+- Giulia Cavalot, Vera Dounaevskaia, Fernando Vieira, Thomas Piraino, Remi Coudroy, Orla Smith, David A. Hall, Karen E. A. Burns & Laurent Brochard (2021) One-Year Readmission Following Undifferentiated Acute Hypercapnic Respiratory Failure, COPD: Journal of Chronic Obstructive Pulmonary Disease, 18:6, 602-611
+- 10.8% OSAS
+- Vonderbank S, Gibis N, Schulz A, Boyko M, Erbuth A, Gürleyen H, Bastian A. Hypercapnia at Hospital Admission as a Predictor of Mortality. Open access emergency medicine : OAEM 2020; 12: 173-180.
+- OSA/OHS – 19.3%
+- Retrospective Reviews: mirrors what rate these are diagnosed (not what rate they present)
+- What is the role of sleep-disordered breathing?
+### Slide 9
+- What is the role of sleep-disordered breathing?
+- COPD (66%)
+- No COPD (33%)
+- AHI Median [IQR]
+- 31.9 [14.3, 45.6]
+- 66.0 [48.0, 83.8]
+- AHI > 15 present
+- 66%
+- 94%
+- AHI > 30 present
+- 51%
+- 81%
+- Overall prevalence of severe OSA ( AHI > 30 ) in survivors over 50%
+- & No prior OSA Dx
+- N36 survivors of hypercapnia; n16 agreed to PSG. 56% with AHI > 30 /hr
+### Slide 10
+- Needs: initial decompensation → treatment
+- Presentation With Hypercapnia
+- Hypercapnia is common, highly morbid, and likely increasing in frequency (obesity, opiates, multimorbidity)
+- Correctly Recognized?
+- Causes Correctly Diagnosed?
+- Is there data to guide treatment?
+- Is it logistically possible?
+- Does it happen?
+- Inpt Hypercapnia is frequently missed in practice
+- Many patients do not receive definitive testing
+- We don’t know what to do for many (most?) patients with hypercapnia
+- Device qualification restrictions.
+- Requires coordination between Inpt  Outpt. Consider CHF (CMS f/u after discharge)
+- Marik, JICM 2012: 75% miss rate.
+- Nowbar, AJM 2004
+- OSA in 5-15% vs 50-80%
+- No good estimate? (NMD/Rest, COPD, OHS, OVS)
+- No good estimate?
+### Slide 11
+- Computable phenotypes: algorithms to identify specific patient cohorts
+- Problems with retrospective EHR-based research:
+- Missing Data
+- Time/Event determination (immortal time)
+- Observational nature (residual confounding; multiple comparisons)
+- Disease Identification
+- Contrast: Cohort study with assessment and verification of diagnostic labels. Particularly, respiratory diagnoses (Asthma, COPD, OHS, OSA)
+- Precise definitions (phenotypes) can help with patient identification
+- Simple: Inclusion criteria to a study
+- Complex: use additional data elements (demographics, meds), natural-language processing, etc.
+### Slide 12
+- Why might this help in Hypercapnic RF? (why not just use PaCO2 > 45 mmHg?)
+- ABGs are variably obtained in clinical practice: less reliable in usual care than enrollment criteria
+- People who get ABGs are different from people who don’t
+- Symptoms are variable, the diagnosis is often missed.
+- Pre-test probability varies widely by demographic and comorbidity; optimal evidence may vary too
+- Pre-test Odds LR (Strength of Evidence) Post-test Odds
+- Study Aim
+- Efficacy Trial
+- Determine Burden of Disease
+- Improve Processes of Care
+- Ideal Characteristic
+- Select a population with severe disease, homogeneous in characteristic that predicts treatment responsiveness
+- Capture all patients who suffer from the adverse consequences of hypercapnic respiratory failure
+- Identify all patients who will benefit from instituting certain management pathways
+- Example
+- Severe COPD, no other cause of CO2, severe air trapping, PaCO2 > 52 mmHg
+- More sensitive definition?
+- (If only use PaCO2, you will miss patients and skew toward people with classic/severe presentation)
+### Slide 13
+- Gap & Hypothesis
+- Methods used in the literature will identify different populations
+- Those populations will differ in ways important to prognosis or treatment response (such as comorbidities, management)
+- Data from EHR’s are sufficiently granular to identify pathophysiology-based endotypes, which is currently presumed to matter clinically, but not reflected in current epidemiologic data.
+- These endotypes may predict risk and heterogeneity in treatment responsiveness, and thus would be useful to identify
+### Slide 14
+- Study
+- Definition Used
+- Aim
+- Meservey et al 2020. USA (Vermont)
+- DOI: 10.1007/s00408-019-00300-w
+- 18 y/o+ admitted (either ICU or floor) with diagnostic code for hypercapnic respiratory failure
+- What features of patients admitted for hypercapnic respiratory failure predict readmission?
+- Chung et al, AUS, 2021 DOI: DOI: 10.1164/rccm.202108-1912LE
+- Identified by initial ABG PaCO2 over 45, excluded iatrogenic causes/sedation.
+- What is the population prevalence of hypercapnia from any cause? Also, subsequent publication evaluating comorbidity prevalence.
+- Vonderbank et al 2020. Germany
+- DOI: 10.2147%2FOAEM.S242075
+- All patients with dyspnea or pulm disease admitted to hospital received capillary blood gas (some screening with VBG) ; PaCO2 45 mmHg.
+- Is hypercapnia predictive of mortality at a specialty hospital?
+- Mini-Systematic Review: (Reviewed in singlicate)
+- EMBASE search for human cohort studies: “hypercapnic respiratory failure” “hypercarbic respiratory failure” “hypoventilation” “respiratory acidosis” and all EMTREE subtypes.
+- AS Review – AI-assisted systematic review
+- 9455 → 10 studies evaluating prevalence, comorbidity profile, post-discharge prognosis discharge of patients with hypercapnic respiratory failure
+- van de Schoot, R. et al. An open source machine learning framework for efficient and transparent systematic reviews.
+- Nat Mach Intell
+- DOI:10.1038/s42256-020-00287-7
+### Slide 15
+- Prevalence of OSA
+- Study
+- Definition Used
+- Aim
+- Thille et al 2018 France
+- DOI: 10.1007/s00134-017-4998-3
+- ICU; pH<7.35 & PaCO2 45+; treated with NIV or IMV; survivors
+- What is the prevalence of undiagnosed OSA among survivors of Hypercapnic RF?
+- Ouanes-Besbes et al. 2021, Tunisia PubMed: 33171053
+- Admitted to ICU 2015-2018, PaCO2 > 45mmHg, pH < 7.35. No prior OSA syndrome diagnosis.
+- Adler et al. 2017, Switzerland
+- DOI: 10.1164/rccm.201608-1666OC
+- Recruited at ICU discharge after surviving: primary admission for Resp failure, PaCO2 > 47.5 mmHg and requiring NIV or IMV
+- What is the prevalence of comorbidities, including OSA, among survivors of Hypercapnic RF?
+### Slide 16
+- Evaluation of Subgroup by Compensation Status
+- Study
+- Definition Used
+- Aim
+- Compensated Hypercapnia
+- Wilson et al., 2021. USA (Michigan)
+- PubMed: 33951397
+- 18+, hospitalized w/ ABG showing CO2 over 45 and pH 7.35-7.45
+- Prognostic Significance of Compensated Hypercapnia
+- Bulbul et al. 2014. Turkey.
+- doi: 10.4103/1817-1737.128851
+- Hospitalized adults with PaCO2 over 45, no acidosis, and breathing room air
+- What comorbidities occur with inpatient, compensated hypoventilation
+- Marik 2016. USA (Virginia)
+- DOI: 10.1002/osp4.27
+- Age 18-90; BMI ≥ 40 kg m2; daytime PaCO2 > 45 mmHg, admission HCO3 > 28 mEq L−1.
+- Excluded: intrinsic lung disease; thoracic MSK/NMD; 20+ pack year smoking, COPD
+- What is the prevalence of undiagnosed Obesity Hypoventilation among hospitalized adults?
+- Respiratory Acidosis
+- Cavalot et al 2021, Toronto DOI: 10.1080/15412555.2021.1990240
+- ABG with pH < 7.35 and PaCO2 > 45 mmHg OR VBG pH 7.34 and PvVO2 > 50 mmHg & presence of respiratory symptoms (CEDIS codes).
+- Exclude CF, NM dz, ILD, thoracic dz, lung ca, CNS dz, Overdose, or trach
+- 1 year re-admission rate for patients presenting with acute respiratory acidosis
+### Slide 17
+- Methods: Data source
+- De-identified, patient-level data (not PHI, though recommended to be treated as such)
+- Federated data from medical center EHRs
+- 70 Healthcare Organizations; mostly (but not exclusively) AMCs
+- 80+ gb of data.
+- 1.2 Billion ‘facts’ in medications alone.
+- Center for High Performance Computing protected environment
+- Data Available
+- Data unavailable
+- Demographics
+- Diagnosis
+- Medications
+- Procedures
+- Labs
+- Cancer registry (NAACCR)
+- Allergies
+- Death Records (in progress)
+- Some notes
+- Diagnostic reports
+- DICOM image objects
+- Providers
+- Departments/clinics
+### Slide 18
+- Methods: Data Request
+- We requested data on all inpatient encounters where the individual met one of the following criteria
+- ICD group, Hypercapnic Respiratory Failure ICD Code. Patients with an inpatient diagnostic code for any of the following:
+- · J96.12 (chronic respiratory failure with hypercapnia),
+- · J96.02 (acute hypercapneic respiratory failure),
+- · J96.22 (acute and chronic respiratory failure with hypercapnia),
+- · J96.92 (respiratory failure unspecified with hypercapnia),
+- · E66.2 (morbid obesity with hypoventilation)
+- ABG Group, First ABG showing Hypercapnia. Patients who have a value over 45 on the first first of any of the following lab codes obtained during the hospitalization
+- · LOINC 2019-8 Carbon Dioxide [ Partial Pressure ] Arterial Blood over 45[BL3]
+- · LOINC 32771-8 Carbon Dioxide [ Partial Pressure] adjusted to patient’s actual temperature in arterial blood over 45
+- · LOINC 11557-6 Carbon Dioxide [ Partial Pressure] in Blood over 45
+- And:
+- Age > 18 at admission
+- Admission between 1-1-2018 and 9-28-2022
+- Only first admission for per-individual that met the criteria
+- Cross-sectional analysis:
+- no dependence on cross-encounter data (to limit data quality issues)
+### Slide 19
+- Methods: Data Processing
+- Mechanisms of Data Missingness:
+- E.g. Diagnoses
+- For a given encounter, the institution must have submitted some data (any data) for each of the data elements requested.
+- Data validation measures:
+- Positive controls: e.g if dx of Pna, expect abx Rx
+- Negative controls: <BMI 30 in OHS
+- True (patho)physiologic state
+- What the clinician recognizes
+- What the clinician documents
+- What information is structured
+- What data is aggregated in TriNetX
+- Problem for our study
+- Missing data here is part of what we want to study
+### Slide 20
+- Results: Cohort Description
+- Final cohort: 119,816
+- ‘Missing’ Data Rates:
+- ABG: 30%; VBG 70%
+- BMP, CBC elements 3%
+- Triage VS: 30% (BP) -70% (SpO2)
+- Control outcomes:
+- Receive paralytic → IMV code? 80% (OR?)
+- AECOPD/Asthma → Systemic Steroid? 88%
+- Pneumonia dx code → CAP Antibiotic? 81%
+- 56% have critical care services billed
+- 52% with acidemia (<7.35 pH); higher likelihood of critical care (OR 1.77)
+- CHF (OR 0.82) and OSA (OR 0.93) less likely acidemic
+- COPD (OR 1.16), CKD (1.21), and OUD (1.10) more likely
+### Slide 21
+- Overlap between definitions
+### Slide 22
+- How do the patients differ?
+- Total
+- Chung 2021
+- Meservey 2020
+- Adler 2016
+- N119,816
+- N104,253
+- N30,414
+- N18,143
+- Age
+- 61 (±16)
+- 62 (±15)
+- 60 (±16)
+- Female?
+- 43% (51,315)
+- 42% (43,975)
+- 48% (14,506)
+- 40% (7,192)
+- Black
+- 19% (22,824)
+- 19% (20,041)
+- 19% (5,917)
+- 19% (3,513)
+- Latino
+- 7% (6,867)
+- 7% (6,027)
+- 6% (1,565)
+- 9% (1,376)
+- BMI
+- 30 (±8)
+- 29 (±7)
+- 31 (±9)
+- CHF
+- 13% (15,655)
+- 13% (13,126)
+- 23% (6,936)
+- 19% (3,435)
+- COPD
+- 21% (24,961)
+- 20% (20,649)
+- 31% (9,576)
+- 21% (3,897)
+- Neuromuscular Disease
+- 3% (3,619)
+- 3% (2,933)
+- 4% (1,173)
+- 3% (507)
+- OSA
+- 20% (24,446)
+- 19% (19,698)
+- 28% (8,568)
+- 19% (3,488)
+- Opiate Use Disorder
+- 4% (4,354)
+- 3% (2,955)
+- 4% (1,343)
+- 4% (696)
+### Slide 23
+- How do the physiology and management differ?
+- Total
+- Chung 2021
+- Meservey 2020
+- Adler 2016
+- N119,816
+- N104,253
+- N30,414
+- N18,143
+- Acidosis by ABG or VBG?
+- 59% (51,546)
+- 60% (47,282)
+- 62% (11,741)
+- 64% (9,151)
+- Bicarbonate
+- 25 (±6)
+- 27 (±7)
+- 24 (±7)
+- Critical Care Services
+- 40% (47,500)
+- 39% (40,176)
+- 54% (16,467)
+- 100% (18,143)
+- CPAP proc. code
+- 9% (10,777)
+- 8% (8,803)
+- 16% (5,002)
+- 17% (3,172)
+- Procedure code for NIV (not nightly CPAP)
+- 12% (14,296)
+- 11% (11,328)
+- 25% (7,474)
+- 23% (4,224)
+- Procedure code for IMV
+- 39% (46,222)
+- 39% (40,337)
+- 46% (14,051)
+- 89% (16,088)
+- Length of Stay
+- -
+- In Hospital Mortality
+### Slide 24
+- Who do guidelines apply to?
+- Based on diagnostic codes present
+- ATS OHS Guideline (2019):
+- Obesity with Hypoventilation Dx: 4,839 (4%)
+- Obese and no COPD/Asthma/CHF/NMD/OUD Dx: 62,400 (51%)
+- Missing data…
+- Obese and OSA and no COPD/Asthma/CHF/NMD/OUD dx: 7,538 (6%)
+- ATS COPD NIV Guideline (2020): 9,659 (9%)
+- Neither guideline: 40-87%
+### Slide 25
+- Can we identify relevant physiology?
+- COPD
+- OSA
+- OUD
+- TODO:
+- Principal Component Analysis: most parsimonious set of variables that explains how patients with hypercapnia differ from each other
+- Clustering on this vs. expert features (can’t vs won’t breathe; compensation etc.)
+- → physiologic endotypes?
+- Conditional Probability the Dx is Present
+### Slide 26
+- Strengths and Limitations
+- What does ”big data” get you?
+- Less susceptible to idiosyncratic local patterns; maybe increased representativeness
+- Power for subgroup investigations
+- Data hungry algorithms
+- All single-encounter data (cross-sectional) due to data quality
+- Can’t evaluate readmissions, mortality, subsequent outpatient management.
+- Data quality: contingent on local practices (hard to assess)
+- Doesn’t include patients where ABG wasn’t ordered or Dx not given\
+- Inferences about underlying true physiology much less robust than inferences about coding practices and inclusion criteria due to secondary use data.
+### Slide 27
+- Take aways:
+- Multiple etiologic causes contribute to hypercapnia in many cases and further research is needed to guide how to address high rates of morbidity and mortality.
+- Rationale exists that current tools (e.g. PAP; or rehab, acetazolamide, etc) could be utilized
+- Different Cohort definitions do select non-overlapping and clinically different subsets
+- These cohorts differ in comorbidity distribution and physiology → treatment responsiveness and prognosis?
+- Therefore, the interpretability of future research might be improved with agreed-upon definitions
+- Next step: How should we identify patients with hypercapnic respiratory failure
+### Slide 28
+- Next steps: How should we identify patients?
+- Request TriNetX dataset including:
+- Patients with hypercapnic RF (ICD, PaCO2)
+- Patients a reasonable clinician might suspect to have hypercapnic RF
+- Other respiratory failure + predisposing condition (e.g. NMD)
+- +VBG CO2 over 48 mmHg
+- Severe Obesity and elevated bicarbonate
+- …etc
+- Model: predictive abilities of feature (or their combinations)
+- Output: Usable by researchers
+- Accuracy vs Usability (NLP?)
+- Binary output vs Probability?
+- ICD Hypercap code and ABG CO2 > 45
+- ICD Hypercap code and only VBG w CO2 > 48
+- N19,093
+- N10,018
+- Age
+- 63 (±15)
+- 61 (±16)
+- Location
+- midwest
+- 21% (3,919)
+- 13% (1,331)
+- northeast
+- 25% (4,705)
+- 21% (2,143)
+- south
+- 46% (8,806)
+- 32% (3,233)
+- west
+- 9% (1,663)
+- 33% (3,311)
+- BMI
+- 30 (±8)
+- 32 (±9)
+- CHF
+- 26% (4,913)
+- 18% (1,789)
+- COPD
+- 33% (6,300)
+- 30% (2,974)
+- Neuromuscular Disease
+- 3% (655)
+- 5% (452)
+- OSA
+- 25% (4,854)
+- 34% (3,381)
+- Pre-test Odds LR (Strength of Evidence) Post-test Odds
+### Slide 29
+- The Issue of The Reference Standard
+- No Free Lunch: Except for measuring, all methods rely on assumptions
+- Formulation as a missing data problem
+- Withold ABG results and perform supervised learning on those with ABGs
+- Model propensity to obtain P(ABG) and generated Inverse Probability Weights
+- Assumptions not met, but would it be better?
+- Classification (Hypercapnia vs not) → Prediction (risk of hypercapnia-morbidity)
+- Validate sparse definition to richer data-set
+- How well can you do with data elements available in NCUPS Readmission Db?
+- Prospective: Also allows for
+- Bridges the “documentation to physiology gap”
+- Allows for more robust assessment of comorbidity status
+- Nowbar 2004 used ABG → TcCO2 more tolerable?
+### Slide 30
+- Questions? Links
+- Hypercapnia Studies (link to github with excel spreadsheet download)
+- AS Review Lab: AI assisted systematic review
+- https://asreview.nl/
+- https://trinetx.com/
+- Use cases for well-defined computable phenotype:
+- Improved study enrollment
+- Improved ascertainment as covariate
+- Improved outcome (e.g. ambient air pollution)
+- Mentorship Team:
+- Krishna Sundar MD (PCCM/Sleep)
+- Ram Gouripeddi MBBS MSc (Bioinformatics)Jeanette Brown MD PhD (PCCM)
+- Rob Paine III MD (PCCM)
+- Wayne Richards BSc (Bioinformatics)
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Methods of Identifying Inpatients with Hypercapnia for ResearchResearch In Progress 3/2/23
+- Hypercapnic Respiratory Failure: ’Syndrome’
+- Proposed framework:Sufficient vs Component Causes (Rubin)
+- COPD, Very Severe
+- How common are admissions with hypercapnia?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Methods of Identifying Inpatients with Hypercapnia for ResearchResearch In Progress 3/2/23
+- Hypercapnic Respiratory Failure: ’Syndrome’
+- Proposed framework:Sufficient vs Component Causes (Rubin)
+- COPD, Very Severe
+- How common are admissions with hypercapnia?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +569,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-3-2 ASPIRE presentation.pptx](archive/Presentations/2023-3-2%20ASPIRE%20presentation.pptx)
+- [Presentations/2023-3-2 ASPIRE presentation.pptx](../../archive/Presentations/2023-3-2%20ASPIRE%20presentation.pptx)
 
 ## Source materials
-- [Presentations/2023-3-2 ASPIRE presentation.pptx](archive/Presentations/2023-3-2%20ASPIRE%20presentation.pptx)
+- [Presentations/2023-3-2 ASPIRE presentation.pptx](../../archive/Presentations/2023-3-2%20ASPIRE%20presentation.pptx)

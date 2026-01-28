@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Annals ATS 2020 OHS in Bariatric Surg cohort.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Annals%20ATS%202020%20OHS%20in%20Bariatric%20Surg%20cohort.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Annals ATS 2020 OHS in Bariatric Surg cohort.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Annals%20ATS%202020%20OHS%20in%20Bariatric%20Surg%20cohort.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Annals ATS 2020 OHS in Bariatric Surg cohort.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Annals%20ATS%202020%20OHS%20in%20Bariatric%20Surg%20cohort.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Annals ATS 2020 OHS in Bariatric Surg cohort.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Annals%20ATS%202020%20OHS%20in%20Bariatric%20Surg%20cohort.pdf)

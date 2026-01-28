@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2017 Central disturbances during sleep.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/ERS%202017%20Central%20disturbances%20during%20sleep.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2017 Central disturbances during sleep.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/ERS%202017%20Central%20disturbances%20during%20sleep.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2017 Central disturbances during sleep.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/ERS%202017%20Central%20disturbances%20during%20sleep.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/ERS 2017 Central disturbances during sleep.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/ERS%202017%20Central%20disturbances%20during%20sleep.pdf)

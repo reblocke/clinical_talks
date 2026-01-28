@@ -4,19 +4,323 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Who has hypercapnia and how much should we care?
+- What makes a problem worth researching?
+- How should we study these patients?
+- Shared Management
+- Would GLP-1RA work in patients with obesity and hypercapnia regardless of cause?
+- What are the most important (population) causes of Hypercapnia?
+- What do we know about sleep?
+- Analogy to decompensated cirrhosis: is hypercapnia decompensated ventilation?
+- Beware of extrapolation: who counts is tricky
+
+## Slide outline
+### Slide 1
+- Who has hypercapnia and how much should we care?
+- BRIAN LOCKE PGR
+- (Title Redacted)
+- This work is supported by the American Thoracic Society ASPIRE Fellowship and the National Institutes of Health under the Ruth L. Kirschstein National Research Service Award 5T32HL105321
+- Disclosure: I hold a financial stake and advise a local startup called Mountain Biometrics (focused on data processing of wearable sensor data)
+### Slide 2
+- What makes a problem worth researching?
+- INT Framework (World Health Organization and other grant-makers)
+- Importance of the problem:
+- How many people (will be) affected by the problem, and how intensely?
+- Neglected-ness
+- How much effort is already going toward solving the problem? (is it going to be solved anyway? Will a bit more effort help?)
+- Tractability
+- Is the problem solvable? (What has prevented others from solving it?)
+- Hypercapnic Respiratory Failure scores high in all 3
+### Slide 3
+- How should we study these patients?
+- Paradigm
+- Disease-Based
+- Syndrome-Based
+- Pros
+- The causative disease is usually an effect modifier for treatments → homogenous response better for efficacy trials.
+- Funders often interested in specific diseases
+- Hypercapnia is often recognized before the cause; outpatient workup, so initial management is empiric.
+- Efficacious management shares features.
+- Enables assessment and improvement of processes of care.
+- Cons
+- Difficult to extrapolate results to patients with multiple contributing conditions.
+- Evidence only applies to definitely-evaluated patients
+- May distract from better understanding the way different cases differ
+- Lumping vs Splitting (e.g. Sepsis, ARDS)
+### Slide 4
+- Shared Management
+- Annals ATS 2024
+### Slide 5
+- Would GLP-1RA work in patients with obesity and hypercapnia regardless of cause?
+- 10 RCTs (4 surgical; 6 med. n854)
+- Study-level meta-regression
+- 1% weight loss → 0.45 less AHI event/hr
+- How often does obesity or OSA contribute to hypercapnic respiratory failure?
+### Slide 6
+- What are the most important (population) causes of Hypercapnia?
+- 1 hospital serves population of Liverpool, AUS.
+- Random sample of ED cases (PaCO2 ≥ 45 mmHg) and stratified sample of community non-cases.
+- Assess: Med Use, BNP, Spiro, HSAT, SNIP
+- Estimate Population Attributable Fraction: cases that would be prevented if factor eliminated.
+- Fatal problems: 10% got HSAT; causal pathways
+- (Spiro)
+- (BNP)
+- (HSAT)
+- (SNIP)
+### Slide 7
+- What do we know about sleep?
+### Slide 8
+- Analogy to decompensated cirrhosis: is hypercapnia decompensated ventilation?
+- (more properly, acute/chronic liver failure- as cirrhosis is the pathology, not the syndrome)
+- Consider: Liver failure requires shared management regardless of disease cause.
+- Population-standardized prevalence PaCO2 > 45 mmHg after excluding iatrogenic causes:
+- 150 per 100,000 person/year
+- Only inpatients, only those with blood gasses checked
+- Comparison to decompensated cirrhosis: 94.9 per 100,000 person-year (2017)
+- Inpatient ICD code for Hypercapnic Respiratory Failure
+- 23% 30-day readmission rate (2 in 3 with recurrence of hypercapnia)
+- Comparison to decompensated cirrhosis 12.9% in 30d, 21.2% in 90d in 2012
+### Slide 9
+- Beware of extrapolation: who counts is tricky
+- Data Source for several studies:
+- Encounters: Jan 1 to Dec 31, 2022
+- TriNetX research network: EHR data from 76 medical centers, roughly 115 million patients
+- Enriched data set mirroring the spectrum of patients a good provider should consider that hypercapnia might be present
+- One of: Predisposing condition (incl. BMI > 40), any resp failure, received ventilatory support, received ABG or VBG (regardless of result)
+- Data quality check: each encounter must have 1 of each data type
+### Slide 10
+- Beware of extrapolation: who counts is tricky
+### Slide 11
+- Beware of extrapolation: who counts is tricky
+- Structured, AI-assisted review identified 14 studies pertaining to the prognosis of any-cause hypercapnic respiratory failure.
+- Inclusion crit: Variety of ABG, VBG, ICD, & procedure codes used
+- TriNetX Emulation: Limited overlap, ICD codes very insensitive.
+### Slide 12
+- Beware of extrapolation: who counts is tricky
+- If you have hypercapnia, context influences the likelihood of Hypercap RF Label
+- Cohorts identified by the various case definitions varied widely. E.g:
+- 16% Black using Wilson to 26% using Calvo
+- 43% receiving a COPD diagnosis code in Meservey to 23% using Adler, Thille, and Cavalot
+- Case definitions requiring a procedure code for ventilatory assistance → more patients who received critical care services, and died
+- Crux of the problem: Many patients who have hypercapnia don’t get an ABG. P(ABG) varies.
+### Slide 13
+- Epidemiologic Theory
+- What is the effect of an exposures (E) on an outcomes (O)
+- Often, a confounder (influences both E and O) distorts the relationship.
+- If there is an association between E and O, there are 4 explanations:
+- Chance
+- Confounding
+- Bias
+- Selection
+- Measurement
+- A real effect
+- Argument for cause is the disjunctive syllogism:
+- “When you have eliminated the impossible, whatever remains, however improbable, must be the truth. ”
+- If you can’t reliably identify who has hypercapnia, you can’t study its impact on outcomes, control for it in studies of other things, or use it as an outcome.
+### Slide 14
+- How often is respiratory depression reported in clinical trials?
+- Severe adverse drug events (SAE): death, hospitalization, prolongation of hospitalization, disability, incapacity, or situations where action is required to prevent one of the preceding events. [no attribution to intervention]
+- ADEs must be submitted to clinicaltrials.gov.
+- Shi & Du used BioBERT to extract arm-level data, including SAEs
+- 6,429 trials (summarizing data from 4,863,170 participants) reported outcome & adverse even
+- Additional 5,300 trials (4,097,827 participants) uploaded at least one adverse event.
+- Categorized: plausible (e.g. ‘respiratory failure’) or definitive (e.g. ‘hypoventilation’)
+- 3.8% of completed trials, and 2.6% of partially reported trials reported 1+ definitive event.
+- Mostly NOT medications known to suppress resp. drive: opioids, benzos, gabapentinoids
+- Dustin Anderson-Bell & Brian Locke
+- CHEST 2024 abstract
+### Slide 15
+- How can we improve identification? Make better use of the data elements we have
+- Venous Blood Gas
+- ABG: PaCO2 ≥ 45 mmHg calendar day of admit
+- VBG: VBG PCO2 ≥ 50 mmHg calendar day of admit
+- VBGcorr (Farkas): If VBG SO2 < 90%, then PCO2 - 0.2 (diff. in A-V O2 sats)
+- How much are VBGs currently used?
+- Patients with an ICD for Hypercap. RF
+- Admit Day:
+- No VBG
+- Had VBG
+- No ABG
+- 16.6%
+- 13.2%
+- Had ABG
+- 39.9%
+- 30.3%
+- Association of evidence of hypercapnia with clinical course
+- Test showing ↑ CO2
+- ABG
+- VBG
+- VBG Corr
+- OR of Hypercapnic RF ICD
+- 6.5
+- 5.6
+- 6.1
+- Absolute Increase (%)
+- 10.3%
+- 9.8%
+- 10.2%
+- OR of subsequent events during hospitalization
+- Steroid
+- 1.51
+- 1.13
+- 1.2
+- Crit Care
+- 1.83
+- 1.74
+- 1.86
+- NIV or IMV
+- 2.6
+- 2.02
+- 2.29
+### Slide 16
+- How can we improve identification? Make better use of the data elements we have
+- Paired Serum HCO3- (BMP) and PaCO2 (ABG) measurements
+- Optimal HCO3- Threshold (Youden Index)
+- Ambulatory
+- ≥ 27 mEq/L
+- Se: 60.06%; Sp: 83.55%
+- Emergency
+- ≥ 26 mEq/L
+- Se: 59.19%; Sp: 75.37%
+- Inpatient
+- Se: 54.44% Sp: 80.97%
+- Critical Care
+- ≥ 25 mEq/L
+- Se: 57.07% Sp: 76.30%
+### Slide 17
+- TODO: No text extracted from this slide.
+### Slide 18
+- TODO: No text extracted from this slide.
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- A list of important answered questions in Hypercapnic Respiratory Failure
+- What are the reasons providers do or don’t order blood gasses?
+- What are the most common causes of hypercapnia?
+- What proportion of patients identified as inpatients are referred for and receive definitive evaluation (e.g. PFTs, Sleep Study, Echo)?
+- What proportion of inpatients with hypercapnia are recognized?
+- What happens to the patients who are not recognized?
+- Is hypercapnia a predictive or causal agent of harm?
+- Are VBGs a sufficient surrogate for ABGs?
+- Should we be aggressively identifying hypercapnia (or will this lead to overdiagnosis)?
+- What are the burdens of disease associated with any-cause hypercapnic respiratory failure?
+- How should we manage multifactorial hypercapnic respiratory failure?
+- … etc … etc … etc ..
+- Scoping the research is challenging. Where to start?
+### Slide 21
+- K23: Bioinformatics Tools to Quantify the Disease Burden Associated with Hypercapnia
+- Gaps:
+- Identification of hypercapnia appears to be idiosyncratic, which is a problem for patient care and science.
+- Admissions with hypercapnia are associated with substantial health burdens, but estimates are from single-centers, rely on local identification approaches, and may not extrapolate.
+- It is unclear if the occurrence of hypercapnic respiratory failure is a general marker of illness, a specific marker of respiratory frailty, or a causal agent of harm.
+### Slide 22
+- K23: Bioinformatics Tools to Quantify the Disease Burden Associated with Hypercapnia
+- My goal is to be an expert in chronic respiratory failure that uses clinical research informatics to enable embedded clinical studies of this population
+- Career Development Objectives:
+- Build experience characterizing care processes and variation
+- Informatics deployment: Gain expertise and experience deploying informatics tools (LLMs and Risk Models) for use in clinical research
+- Learn Clinical investigation: Learn to lead prospective studies
+### Slide 23
+- Aim 1: Characterize Current Diagnosis and Workup of Hypercapnic Respiratory Failure
+- Problem: Many patients are identified as inpatients at decompensation but need outpatient workup and management. There is ~no guidance.
+- Gap: There is no modern estimates of how well we diagnose or evaluate patients presenting with hypercapnic respiratory failure
+- Hypotheses:
+- There is substantial variation by institution, provider (training), and patient factor in who receives ABG, VBG, diagnosis, and workup
+- Most patients are identified as having hypercapnia do not receive definitive workup (PFTs, PSG, pulmonary referral)
+### Slide 24
+- Aim 1: Characterize Current Diagnosis and Workup of Hypercapnic Respiratory Failure
+- Solution:
+- Linkage of Intermountain Health medical records and UT All Payor Claims Database, which contains information on follow-up
+- Includes (outpatient) testing, referrals, readmissions, deaths
+- All patients with hypercapnia identified by VBG, ABG, ICD code, and risk modeling (experimental aim: augmented with NLP)
+- Multi-level logistic regression modeling to characterize factors influencing test ordering
+- Summary of referral for testing, receipt of testing, readmission, death.
+### Slide 25
+- Aim 2: Augment and Locally Validate Hypercapnia Diagnostic Modeling
+- Problem: Methods of identifying hypercapnia are haphazardly applied, inconsistent, and not patient-centered.
+- Gap: Reliable, routine methods for identification of hypercapnia are needed.
+- Hypothesis: The likelihood a patient has hypercapnia can be estimated from routinely obtained data elements, like labs and notes.
+### Slide 26
+- Diagnostic Risk Modeling
+- Solution: Diagnostic Modeling (Diagnostic Risk Modeling ~ Clinical Decision Rule ~ Prediction Modeling, Diagnostic nomogram)
+- Wells score is a logistic regression
+### Slide 27
+- Diagnostic Risk Modeling
+- Estimate the likelihood of hypercapnia at admission in inpatients.
+- Predictors: must be routinely available, obtained before/independently of blood gas
+- 2 approaches: LASSO Logistic Regression; Random Forest
+- Assess distribution of predictions, discrimination, calibration
+- Partial verification: vs any blood gas (ABG > 45, VBG > 50); inverse propensity weighted ABG
+- Predictors: age, sex, body mass index [BMI], components of basic blood chemistry testing [sodium, potassium, chloride, bicarbonate, urea, and creatinine], and hemoglobin. Selected a priori on clinical relevance and availability.
+### Slide 28
+- Partial Verification: you can only train on data with outcomes available.
+### Slide 29
+- Aim 2: Augment
+- Problem: model accuracy is imperfect
+- Gap: Symptoms, which greatly improve prediction accuracy, are in notes.
+- Hypothesis: extracting this data using locally-deployed LLMs will improve the accuracy of predictions about the risk of hypercapnia
+### Slide 30
+- Aim 2: Augment Model
+- Solution: Large language models enable transfer learning (more on this next week).
+- 1. Extract: Chief concern, confusion, dyspnea, etc. from nursing triage note.
+- 2. Use as predictor in existing model
+- 3. Assess vs limited annotated corpus, but mainly for impact on model.
+### Slide 31
+- Aim 2: Validate Model
+- Problem: We’re interested in people who haven’t received blood gas verification. How well will it work in practice?
+- Gap: Research consent for ABGs will be biased (and patients with hypercapnia are confused)
+- Hypothesis: Risk prediction modeling can identify a group of patients highly likely to have hypercapnia.
+### Slide 32
+- Is TcCO2 usable for hypercapnia ascertainment?
+- Conway et al.: 7021 paired measurements taken from 2817 participants in 73 studies
+- mean bias: 0.085 mmHg
+- within study SD(agreement): 3.51 mmHg
+- In-silico simulation of paired TcCO2 measurement for each PaCO2 obtained in 2022 via TriNetX.
+- Sensitivity
+- Specificity
+- Neg. Pred. Val.
+- Pos. Pred. Val
+- 86.8%
+- 93.7%
+- 85.7%
+- 94.2%
+### Slide 33
+- Aim 2: Validate Model
+- Solution: Validate model predictions using TcCO2 on newly admitted adults to IMED medical floors.
+- Protocol:
+- Admit to medicine – apply TcCO2 within 24 hours to patients with predicted high likelihood of hypercapnia
+- N63 patients for power to approximate PaCO2 +/- 12.5 mmHg in patients predicted 50+% likely.
+- Deferred (vs waived) consent
+### Slide 34
+- Outcomes of this work:
+- Three novel contributions:
+- Estimate current use (and variation) of diagnostic surrogates like venous blood gas in a large integrated health system.
+- Improve estimates of the prognostic significance of any-cause hypercapnia
+- Establish ABG & VBG independent methods of enrollment
+- Potential weaknesses: reliance on diagnostic modeling and transcutaneous CO2 sensors. Broad Scope
+- Strengths: extensive preliminary modeling, contingency plans,
+- Development of an informaticist-investigator with technical expertise in rapidly progressing subfield of data-science tools, such as LLMs.
+### Slide 35
+- Acknowledgements:
+- UU PCCM Collaborators: Krishna Sundar, Jeanette Brown
+- UU PCCM Advisors: Rob Paine, Barb Jones
+- UU DBMI Collaborators: Ram Gouripeddi, Wayne Richards
+- IMED PCCM Advisors/Collaborators: Ithan Peltan, Sam Brown, ACR Research Group
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Who has hypercapnia and how much should we care?
+- What makes a problem worth researching?
+- How should we study these patients?
+- Shared Management
+- Would GLP-1RA work in patients with obesity and hypercapnia regardless of cause?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Who has hypercapnia and how much should we care?
+- What makes a problem worth researching?
+- How should we study these patients?
+- Shared Management
+- Would GLP-1RA work in patients with obesity and hypercapnia regardless of cause?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +337,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2024-5-26 Locke PGR.pptx](archive/Presentations/2024-5-26%20Locke%20PGR.pptx)
+- [Presentations/2024-5-26 Locke PGR.pptx](../../archive/Presentations/2024-5-26%20Locke%20PGR.pptx)
 
 ## Source materials
-- [Presentations/2024-5-26 Locke PGR.pptx](archive/Presentations/2024-5-26%20Locke%20PGR.pptx)
+- [Presentations/2024-5-26 Locke PGR.pptx](../../archive/Presentations/2024-5-26%20Locke%20PGR.pptx)

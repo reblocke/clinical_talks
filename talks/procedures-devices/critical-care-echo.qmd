@@ -9,21 +9,27 @@ draft: true
 - Doppler
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Physics
+- Artifacts
+- Doppler
+- Normal Anatomy
+- Flows
+- LV Outflow
+- RV Outflow
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Parameters controlled by settings on the machine
+- In addition to these settings, there are post processing and preprocessing settings to adjust the display.
+- Intercept angle angle between US beam and direction of travel.
+- Cos(theta) amount understimate
+- PRF pulse <what?> frequency - determines maximum velocity (get nyquist effect if things are moving faster signal aliasing)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. power output (higher higher amplitude reflected signals. Limited by safety. Bone heats faster than fat)
+2. gain (displayed amplitude of received signals, analogous to turning up the volume)
+3. Time-gain compensation (differential adjustment of gain along length of ultrasound beam; allows for correction of loss to attenuation in certain tissues)
+4. Depth (how long the machine waits before sending the next signal; increase depth decreases frame rate and maximal display area)
+5. Dynamic range and compression (amplitude range; larger dynamic range more shades of grey)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -40,4 +46,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/critical-care-echo.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/critical-care-echo.md](archive/Clinical%20Practice%20Notes/critical-care-echo.md)
+- [Clinical Practice Notes/critical-care-echo.md](../../archive/Clinical%20Practice%20Notes/critical-care-echo.md)

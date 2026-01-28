@@ -4,19 +4,293 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Acute Liver Failure
+- What organs don’t have temporary extracorporeal support options? Source: Elliot Trapper, U Mich Hepatology
+- Roadmap – Acute Liver Failure
+- contrast to 2011 AASLD Acute Liver Failure Guideline
+- Case
+- Definition
+- Definition – Acute Liver Failure
+- Very different prognosis
+- Not:
+- Lots of data comes from the US Adult Acute Liver Failure Study Group Registry
+
+## Slide outline
+### Slide 1
+- Acute Liver Failure
+- Formerly, Fulminant Hepatic Failure
+- Brian Locke
+### Slide 2
+- Acute Liver Failure
+- Formerly, Fulminant Hepatic Failure
+- Brian Locke
+### Slide 3
+- What organs don’t have temporary extracorporeal support options? Source: Elliot Trapper, U Mich Hepatology
+### Slide 4
+- TODO: No text extracted from this slide.
+### Slide 5
+- TODO: No text extracted from this slide.
+### Slide 6
+- Roadmap – Acute Liver Failure
+- Definition
+- Workup
+- Complications
+- Treatment
+- Prognostication
+### Slide 7
+- contrast to 2011 AASLD Acute Liver Failure Guideline
+### Slide 8
+- TODO: No text extracted from this slide.
+### Slide 9
+- Case
+- 55F with a history of T1DM presents due to jaundice.
+- She has no history of liver disease.
+- Drinks occasionally. BMI 27.
+- On exam, she is lucid. No sleep disturbance reported
+- AST/ALT 3k. INR 2.1. Alk phos 200, Bili 15
+- US not suggestive of cirrhosis
+- Is this acute liver failure?
+### Slide 10
+- Definition
+- How do you differentiate acute liver failure from severe hepatitis?
+- -Bilirubin?
+- -Synthetic Dysfunction?
+- -Degree of AST/ALT?
+- -HE?
+- -Presence of decompensation event? (Variceal Bleed, HRS, Ascites, HE)
+### Slide 11
+- Definition – Acute Liver Failure
+- Acute (<26 weeks), no pre-existing liver disease
+- mirkier if disease was likely present, but not diagnosed (HBV, Wilsons, Autoimmune)
+- Typically, not called ALF in the case of acute on chronic EtOH
+- Hepatic Encephalopathy
+- Liver synthetic dysfunction (e.g., INR 1.5+)
+- Vs Severe Liver Injury aka Severe Hepatitis:
+- AST/ALT > 10x ULN +/- synthetic dysfunction
+- Note: can have liver synthetic dysfunction in severe hepatitis
+### Slide 12
+- Very different prognosis
+- Pre-transplant mortality: 80%
+- Now, 33%, and 25% get transplanted (difference attributed primarily to better supportive care)
+- Spontaneous recovery is more likely with lower grades of encephalopathy
+- Grade I to II – 65 to 70 percent
+- Grade III – 40 to 50 percent
+- Grade IV – <20 percent
+- Why define based on HE?
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- Not:
+- NASH, HCV, A1AT, PBC (anti-mito), Hemochrom.
+### Slide 15
+- Lots of data comes from the US Adult Acute Liver Failure Study Group Registry
+### Slide 16
+- Case
+- You diagnose her with severe hepatitis and begin a workup. Over the next day or so, she becomes progressively more lethargic, slurred in her speech, and has asterixis. You diagnose HE, Grade 3 of 4 by WHC
+- Which of the following tests should be sent?
+- HAV (IgM Anti HAV)
+- HBV (IgM Anti HBc, HBsAg, Anti HDV)
+- HCV (HCV Ag)
+- HEV (IgM Anti HEV)
+- HSV (IgM Anti HSV)
+- VSV (IgM Anti VSV)
+- APAP level
+- EtOH level / Ethyl Glucuronide
+- ANA, IgG level, ASMA
+- Ceruloplasmin
+- Anti mitochondrial antibody
+- Alpha 1 antitrypsin
+- Ferritin and TSAT
+- US with Doppler
+### Slide 17
+- Testing strategy:
+- HAV (IgM Anti HAV)
+- HBV (IgM Anti HBc, HBsAg, Anti HDV)
+- HCV (HCV Ag)
+- HEV (IgM Anti HEV) (do if pregnant)
+- HSV (IgM Anti HSV, or PCR if fast)
+- VSV
+- APAP level
+- EtOH level / Ethyl Glucuronide
+- ANA, IgG level, ASMA
+- Ceruloplasmin
+- Anti mitochondrial antibody
+- Alpha 1 antitrypsin
+- Ferritin (high in all)
+- US with Doppler
+### Slide 18
+- Testing strategy:
+- AAT deficiency, hemochromatosis, and primary biliary cirrhosis don’t cause Acute Liver Failure
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- Who should be test for Wilson’s and How?
+- “High Clinical Suspicion”
+- 3-55 years old (average age at dx is 11)
+- Kayser-Fleischer rings, AMS
+- Intravascular Hemolysis (low Hgb)
+- Alk phos (low. median 20.5), Bilirubin (high, b/c hemolysis. median 44)
+- Alk phos : Bili ratio << 4:1
+- AST:ALT ratio also << 2:1 (median 7.5)
+### Slide 21
+- Side note: when do patients need a biopsy?
+- Rarely. Things you might find:
+- Malignant infiltration (do an MRI or CT first if clinical concern). Would change management
+- Confirm autoimmune hepatitis – though this will not likely change transplant, and diagnosis can be confirmed on explanted liver.
+- Confirm hepatitis due to HSV. Test for serology first
+- Transjugular approach preferred; Bleed risk can be prohibitive
+### Slide 22
+- Steroids for alc hep?
+- Steroids, alcohol hep - European (commonly liver biopsy to confirm all acute) vs American (not biopsied - acute on chronic - this is perhaps why less impressive results.
+### Slide 23
+- Case
+- You pursue a targeted testing strategy.
+- ASMA, IgG, and ANA are elevated. You are concerned for autoimmune hepatitis causing acute liver failure.
+- What are the main sources of mortality in these patients?
+### Slide 24
+- Sources of mortality
+- Sepsis (but antibiotic ppx has not been shown to help)
+- Increased Intracranial Pressure
+- Multi-organ dysfunction syndrome from inflammatory response to DAMPs
+- Strongly associated with under-production of endogenous steroids
+- What about bleeding?
+### Slide 25
+- Coagulation
+- Despite markedly abnormal INR (median 2.7), PTT, platelets - bleeding complications only occur in roughly 10% and are usually not clinically significant
+- Most commonly UGIB. Most morbidly intracranial bleed (20 of 1770 patients)
+- Bleeding is NOT associated with higher INR but IS associated with lower PLT
+- Decreased production of pro-coagulant factors is offset by endothelial injury and inflammation (DAMPS) related hypercoagulant factors.
+- No role for transfusion of FFP outside of bleeding. If coagulation information would change management, get a TEG
+### Slide 26
+- Case
+- You return to considering your patients, Grade 3 of 4 by WHC. How should this be treated?
+- Rifaximin
+- Lactulose
+- Both
+- Neither
+- Protein restriction
+- Early Enteral Feeding
+### Slide 27
+- Hepatic Encephalopathy
+- Type A – Acute Liver Failure
+- Type B – Portosystemic shunts in the absence of liver failure
+- Type C – Cirrhosis and porto-systemic bypass
+- Overwhelmingly the most common, all randomized data from this subtype
+### Slide 28
+- Lactulose, Rifaximin, Nutrition …?
+- Lancet seminar: no data, seems reasonable to use.
+- AGA: no comment
+- AASLD 2011: “possibly helpful”
+- Uptodate: “We do not routinely treat patients with acute liver failure with lactulose. However, if lactulose is used, endotracheal intubation should be performed prior to its administration in patients with advanced (grade III or IV) encephalopathy.” Concern re: gut distention if patient goes to transplant making surgery harder.
+- No data for rifaximin.
+- “60 mg protein daily reasonable for most patients with ALF” to reduce catabolism of body stores of protein
+### Slide 29
+- Should you check an ammonia?
+- Yes!
+- Not helpful for HE, but is helpful as a marker of risk of ICP
+- Ammonia over 150 portends high risk of ICP/herniation – consider CRRT. Low transplant free survival (~10%, 33% die pre-during transplant)
+- Pathogenesis: unclear, but ammonia causally related to astrocyte swelling (unlike the non-causal involvement in HE)
+### Slide 30
+- ICP Assessment
+- Consider invasive pressure monitoring
+- Recommended historically, very high rate of ICP; ICH present in 75% of patients with Grade 4 HE
+- CT is very insensitive (~25-50%)
+- Leads to more interventions but no better outcomes
+- Benefit: no transplant if unlikely neuro intact (poor perfusion pressure)
+- Or – manage presumptively (next slide)
+- Factors favoring CRRT when Ammonia 150+:
+- Hypervolemia (correlates with ICP)
+- Oliguria
+- Increasing ammonia
+### Slide 31
+- Although retrospective studies90–92 have repeatedly shown that patients with intracranial pressure monitors receive more interventions to lower intracranial pressure than do patients without these monitors, none have suggested improvement in outcome and the use of these monitors appears to be declining. An intracranial pressure monitor might have value in identifying patients who should not have a transplantation because of prolonged intracranial hypertension or low cerebral perfusion pressure, by predicting poor or no neurological recovery. 93
+### Slide 32
+- ICP Management
+- Hyponatremia: water moves into astrocytes. Hypernatremia pulls it out
+- RCT: Na 145-155 lowers ICP compared to 137-142.
+- Effect of (mechanical) hyperventilation on ICP is transient
+- They already hyperventilate because of HE
+### Slide 33
+- Hypotension due to low SVR
+- Fluids, Pressors, then Recommend trial of steroids if refractory
+- HepatoADrenal syndrome
+- Liver synthesizes cholesterol
+- Cholesterol is base structure for synthesis of endogenous steroids
+- Elliot Trapper Tweetorial hepato-adrenal syndrome
+- https://twitter.com/ebtapper/status/1278427501300273152
+- More chronic cirrhosis…
+### Slide 34
+- Case
+- You check an ammonia. It’s 175. She’s hypervolemic, so you plan to dialyze. You correctly ignore the INR, do not give FFP, and just put in the dialysis catheter. You put in an enteral feeding tube and start feeds. You leave it to the intern to decide about lactulose and rifaximin.
+- Can this patient’s liver failure be treated without transplant?
+### Slide 35
+- ALF Treatment – the forest-level view
+- 2 treatments has good evidence of improving transplant free survival.
+- NAC for APAP. Discussed in recent lecture
+- Prompt delivery if related to pregnancy (acute fatty liver, HELLP)
+- Treatments that may help:
+- Anti-retrovirals for HBV - nucleos(t)ide hepatitis B virus DNA polymerase inhibitors to reduce the risk of recurrence after liver transplantation. No benefit in transplant free survival
+- Prednisone +/- Azathioprine for Autoimmune Hepatitis usually does not have an immediate effect sufficient to avoid transplant (effect is long term)
+- Penicillin (and charcoal if early) in Amanita phalloides ingestion
+- Acyclovir is recommended but not well studied if related to HSV
+- PLEX to remove copper for Wilson’s disease. Does not usually have an effect fast enough to avoid transplant. Chelation doesn’t work
+### Slide 36
+- NAC in non-APAP ALF?
+- Argument of uncertainty – has APAP truly been excluded?
+- Obs data and a Double blind RCT n173 of NAC vs Placebo.
+- Primary endpoint mortality: no benefit
+- Secondary endpoint transplant-free survival: 40% (NAC) vs 27% (placebo)
+- Well tolerated
+### Slide 37
+- Prognostication - labs
+- After single acute hit: AST/ALT peak quick, then INR, then Bilirubin
+- Decreasing AST/ALT could be improvement, or decreased hepatocyte mass
+- In this case if bili and INR continue to increase for more than a day or two, argues toward the later
+- In APAP overdose - dropping phosphate level actually has good prognostic significance
+- Signifies phos moving into cells - possibly due to metabolic demands due to regenerating liver
+### Slide 38
+- Etiology matters greatly
+### Slide 39
+- Etiology matters greatly
+### Slide 40
+- Scores
+- King’s College Criteria (1989): inaccurate in modern liver failure, especially when not induced by acetaminophen. Poor negative predictive value (many die without positive score)
+- MELD, though derived for cirrhosis, has some predictive value.
+- MELD 30.5 is cutoff for needing transplant
+- Not used for listing status: ALF – Listed status 1 (“super-urgent”) due to high non-transplant mortality in 7d. 21d operative mortality rate is higher than cirrhosis, but then stabilizes.
+### Slide 41
+- Transplant for alcoholic hepatitis?
+- 1983 NIH consensus conference on Liver Transplant: consider only in patient judged likely to abstain, “only a small portion of patients expected to meet this criteria” > 6 month criteria
+- Increasing recognition that abstinence prediction inaccurate, relapse doesn’t cause graft failure often, AUD similar to other behavioral d/o
+- 2011 Prospective study in France/Belgium: no prior decompensation, supportive family, commitment to abstinence –
+- Survival 77% in transplanted group, 23% in non-transplanted matched pts
+- 15% relapse rate for alcohol use (10% harmful)
+- Immediately std of care in Europe, adoption in US slower
+### Slide 42
+- TODO: No text extracted from this slide.
+### Slide 43
+- Takeaways – Acute Liver Failure
+- AST/ALT 10x ULN, INR over 1.5, and HE > ALF, much worse prognosis than no HE
+- Test for common causes first. Only test for Wilson’s if low AP:Bili ratio, high AST:ALT ratio and right demographic. Do not test for NASH, HCV, A1AT, PBC (anti-mito), Hemochrom.
+- Do not treat INR as a coagulation test in ALF.
+- Check ammonia – if over 150, consider CRRT and transplant listing.
+- Manage ICP aggressively in grade 3 and 4 HE
+- AST/ALT decreasing, Bili and INR continue to increase badness
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Acute Liver Failure
+- What organs don’t have temporary extracorporeal support options? Source: Elliot Trapper, U Mich Hepatology
+- Roadmap – Acute Liver Failure
+- contrast to 2011 AASLD Acute Liver Failure Guideline
+- Case
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Acute Liver Failure
+- What organs don’t have temporary extracorporeal support options? Source: Elliot Trapper, U Mich Hepatology
+- Roadmap – Acute Liver Failure
+- contrast to 2011 AASLD Acute Liver Failure Guideline
+- Case
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +307,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Acute Liver Failure.pptx](archive/Presentations/Acute%20Liver%20Failure.pptx)
+- [Presentations/Acute Liver Failure.pptx](../../archive/Presentations/Acute%20Liver%20Failure.pptx)
 
 ## Source materials
-- [Presentations/Acute Liver Failure.pptx](archive/Presentations/Acute%20Liver%20Failure.pptx)
+- [Presentations/Acute Liver Failure.pptx](../../archive/Presentations/Acute%20Liver%20Failure.pptx)

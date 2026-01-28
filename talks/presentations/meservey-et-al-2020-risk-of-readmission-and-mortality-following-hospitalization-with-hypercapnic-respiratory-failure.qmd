@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Meservey et al. - 2020 - Risk of Readmission and Mortality Following Hospitalization with Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Meservey%20et%20al.%20-%202020%20-%20Risk%20of%20Readmission%20and%20Mortality%20Following%20Hospitalization%20with%20Hypercapnic%20Respiratory%20Failure.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Meservey et al. - 2020 - Risk of Readmission and Mortality Following Hospitalization with Hypercapnic Respiratory Failure.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Meservey%20et%20al.%20-%202020%20-%20Risk%20of%20Readmission%20and%20Mortality%20Following%20Hospitalization%20with%20Hypercapnic%20Respiratory%20Failure.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Meservey et al. - 2020 - Risk of Readmission and Mortality Following Hospitalization with Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Meservey%20et%20al.%20-%202020%20-%20Risk%20of%20Readmission%20and%20Mortality%20Following%20Hospitalization%20with%20Hypercapnic%20Respiratory%20Failure.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Meservey et al. - 2020 - Risk of Readmission and Mortality Following Hospitalization with Hypercapnic Respiratory Failure.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Meservey%20et%20al.%20-%202020%20-%20Risk%20of%20Readmission%20and%20Mortality%20Following%20Hospitalization%20with%20Hypercapnic%20Respiratory%20Failure.pdf)

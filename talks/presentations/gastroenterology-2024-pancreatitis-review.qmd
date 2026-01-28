@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/Gastroenterology 2024 Pancreatitis Review.pdf](archive/Presentations/Pancreatitis%20Lit/Gastroenterology%202024%20Pancreatitis%20Review.pdf)
+- [Presentations/Pancreatitis Lit/Gastroenterology 2024 Pancreatitis Review.pdf](../../archive/Presentations/Pancreatitis%20Lit/Gastroenterology%202024%20Pancreatitis%20Review.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/Gastroenterology 2024 Pancreatitis Review.pdf](archive/Presentations/Pancreatitis%20Lit/Gastroenterology%202024%20Pancreatitis%20Review.pdf)
+- [Presentations/Pancreatitis Lit/Gastroenterology 2024 Pancreatitis Review.pdf](../../archive/Presentations/Pancreatitis%20Lit/Gastroenterology%202024%20Pancreatitis%20Review.pdf)

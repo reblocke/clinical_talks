@@ -4,19 +4,235 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Ventilator Troubleshooting
+- Overview:
+- A warmup riddle:
+- Part 1: ”The Ventilator is Alarming”
+- Why is this so hard? 2 conflicting principles of ventilator management
+- Why is this so hard? 2 conflicting EBM principles of critical care
+- Assisted vs Control Breath
+- Modes:
+- There are things we set and variables that result from the patient’s physiology
+- “The peak pressures are high”
+- Breath holds:
+
+## Slide outline
+### Slide 1
+- Ventilator Troubleshooting
+- Brian Locke, MD
+- Pulmonary / Critical Care Fellow
+- University of Utah
+### Slide 2
+- Overview:
+- You will be faced with one of two problems:
+- “The ventilator is alarming”
+- “The patient looks uncomfortable” (or, conversely, I gave sedatives to keep them comfortable).
+- Physiology review: why does this happen?
+- Schemas for how to address ventilator alarms and patient dyssynchrony
+### Slide 3
+- A warmup riddle:
+- ABG is 7.15 / 75 / 50 on FiO2 1.0 and PEEP 14, RR 30, Vt 6 ml/Kg
+- What will stop you from going up on each of these indefinitely?
+- Oxygenation obviously can’t go above pure oxygen.
+- What would happen if you kept going up on PEEP? When would you stop?
+- What would happen if you kept going fast on RR?
+- What would happen if you kept going up on the Vt?
+### Slide 4
+- Part 1: ”The Ventilator is Alarming”
+- What is the alarm?
+- Circuit disconnect, Breath not Delivered
+- Inspect circuit for break or kink
+- Minute ventilation low?
+- Are you on pressure support? Put on assist control-mode
+- Are you in ACPC? This is the equivalent of high pressures
+- Minute ventilation high?
+- Is this rapid shallow breathing? Go to patient looks uncomfortable
+- Large Tidal Volume?
+- Is this breath stacking? Discuss in 2nd part
+- Most common: High peak pressures pressures
+### Slide 5
+- Why is this so hard? 2 conflicting principles of ventilator management
+- Lung Protective Ventilation: ARMA, 2000
+- Sedate deeply, unnaturally small breaths to protect lung
+### Slide 6
+- TODO: No text extracted from this slide.
+### Slide 7
+- Why is this so hard? 2 conflicting EBM principles of critical care
+- Daily sedation vacation
+- Restart at ½ dose; avoid accumulation
+- Less sedation accumulation, faster weaning and extubation
+### Slide 8
+- Why is this so hard? 2 conflicting EBM principles of critical care
+- Lung Protective Vent
+- Brainstem desired Vent
+- Deeply Sedated
+- Lightly Sedated
+- Priorities shift:
+- Early in course: most inflamed lungs. Prioritize left
+- Later in course: weaning crucial. Prioritize right
+- Ventilator Alarms how to ensure Lung Protective Vent occurring
+- Patient synchrony how to do Lung Protective Vent with least sedation
+- Ideal
+### Slide 9
+- Assisted vs Control Breath
+- What the patient is getting
+- Ventilator Mode Setting
+- How the ventilator is set
+- Bump to 100% FiO2 for 2 minutes
+- Stop the honking
+- End-Inspiratory Hold
+- Alarm shows up here (Yellow or Red, based on urgency)
+### Slide 10
+- Modes:
+### Slide 11
+- There are things we set and variables that result from the patient’s physiology
+- In AC/VC Mode:
+- We set how the breath is given: Tidal Volume, Inspiratory Time/Flow Rate
+- The stiffness & airflow resistance of the lungs determine how much pressure required to achieve set Vt
+- The resistance to airflow determines how fast the breath comes back
+### Slide 12
+- “The peak pressures are high”
+- Pressure measured at the ventilator
+- Measured pressure sum of two components
+- 1: Resistance to flow (the pressure you feel blowing through a straw)
+- 2. Distending pressure to inflate the alveoli + chest wall (the pressure you feel blowing a balloon up)
+- Resistive pressure depends on flow rate!
+- Distending Pressure
+- Resistive Pressure
+- Pressure measured here
+### Slide 13
+- Breath holds:
+- Flow 0, then the resistive component 0. Left with only the static component.
+- End-inspiratory hold measures the plateau pressure ( the pressure with the alveoli full)
+- End-expiratory hold measures the PEEP ( the pressure when the alveoli is deflated)
+- Resistive
+- Distending
+### Slide 14
+- Two examples:
+- Peak 55 cmH2O.
+- Plateau 40 cmH2O
+- Why is the pressure high?
+- Plateau 15 cmH2O
+### Slide 15
+- Which do you care about?
+- Volutrauma and Barotrauma result from elevated transpulmonary pressure (static pressure difference between the alveoli and the pleural pressure)
+- LTVV we want to keep the plateau less than 30 CMH2O
+- What things cause an increase in plateau pressure?
+- Distending Pressure
+- Resistive Pressure
+- Pressure measured here
+### Slide 16
+- Elevated plateau pressure
+- Stiff lungs (ARDS, pneumonia, pretty much any infiltrate)
+- Water-logged lungs (worsening edema)
+- Over-distending the alveoli
+- Tidal volume is too big
+- Ventilating only a single lung (Pneumothorax, main-stem intubation)
+- External compression (effusion, chest wall, abdomen)
+- PEEP…
+- Intrinsic PEEP aka ‘auto-PEEP’, air trapping
+- Extrinsic PEEP
+### Slide 17
+- PEEP increased by 4 cmH2O… how much should the plateau go up?
+- If you recruit lung: by less than 4 cmH2O
+- If you over-distend alveoli, by less than 4 cmH2O
+- If both the above don’t change, it’ll go up by 4 cmH2O
+- 0 mmHg
+- Driving Pressure
+### Slide 18
+- What if peak is high, plateau is low?
+- Problems with flow
+- Bronchospasm
+- Mucus plug
+- Kink in the ventilator tubing or ETT
+- Giving breaths with very fast rate
+- What is the consequence of a high peak pressure if the plateau is low?
+- NOTHING
+### Slide 19
+- Then why are the RN’s always coming to me with the peak pressure?
+- You can’t accurately measure an accurate end-inspiratory hold if the patient is making inspiratory efforts
+- If deeply sedated or paralyzed, will be accurate.
+- Distending Pressure
+- Resistive Pressure
+- Pressure measured here
+- Muscular Effort
+- P
+### Slide 20
+- Expiratory hold maneuver
+- Giving breath too fast
+### Slide 21
+- In sum,
+- In ACVC, Tidal Volume and Inspiratory time are set, so pressure will vary based on the patient’s lung physiology
+- Ventilator pressures (specifically, the plateau pressure) tell you about whether current ventilation is lung protective
+- Tradeoff between Lung Protection (early) vs Light Sedation (late)
+- High peak pressure will be the finding nurses and RTs notice
+- How will this change in ACPC? (answer at end)
+- Perform a breath hold (if you can) to separate causes of elevated resistance to flow (low plateau) vs high distending pressure (high plateau)
+### Slide 22
+- ”The patient looks uncomfortable”
+- “Or, I had to go up on the sedation”
+- Observation (confounded) data suggests:
+- 25% of all patients have dis-synchrony
+- 50% who are the vent more than a day will.
+- They do worse. Maybe even worse mortality
+### Slide 23
+- Double Triggering -> Breath Stacking
+- Two breaths are given for the patient making one respiratory effort
+- This is a problem because it doubles the distention of the lung
+- Cause: the patient’s brain stem wants a larger/longer inspiration than the vent gives.
+- Low Tidal Volume unnatural
+- Drive to breath high
+### Slide 24
+- Double Triggering -> Breath Stacking
+- Treatment options:
+- Increase sedation (often preferrable if early strict low tidal volume ventilation needed)
+- Neuromuscular blockade if needed
+- Increase vent inspiratory time
+- increase tidal volume (often preferrable if later lighter sedation prioritized.
+### Slide 25
+- Flow starvation -> wasted effort
+- Cause
+- Patient wants more flow than the vent gives (common on ACVC)
+- Consequence:
+- Skeletal muscle and diaphragm strain
+- Lung injury (pleural pressure negative during efforts)
+### Slide 26
+- Flow starvation -> wasted effort
+- Treatment Options:
+- Increase the flow rate to 50-60, can increase up to 80.
+- This will cause peak pressure to go up
+- Switch to ramp waveform
+- Switch to ACPC
+### Slide 27
+- A warmup riddle: answers
+- ABG is 7.15 / 75 / 50 on FiO2 1.0 an PEEP 14, RR 30, Vt 6 ml/Kg
+- What will stop you from going up on each of these indefinitely?
+- Oxygenation obviously can’t go above pure oxygen.
+- What would happen if you kept going up on PEEP? When would you stop?
+- Plateau is likely to increase above 30 cmH2O
+- What would happen if you kept going fast on RR?
+- AutoPEEP due to insufficient time to exhale
+- What would happen if you kept going up on the Vt?
+- What will the RNs/RTs come to you with in ACPC instead of high peak pressure?
+- “Tidal volume [or Minute Ventilation] is low”. Can still check plat / do all the same troubleshooting
+### Slide 28
+- Questions?
+- brian.locke@hsc.utah.edu
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Ventilator Troubleshooting
+- Overview:
+- A warmup riddle:
+- Part 1: ”The Ventilator is Alarming”
+- Why is this so hard? 2 conflicting principles of ventilator management
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Ventilator Troubleshooting
+- Overview:
+- A warmup riddle:
+- Part 1: ”The Ventilator is Alarming”
+- Why is this so hard? 2 conflicting principles of ventilator management
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +249,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke Vent Dyssynchrony Compressed.pptx](archive/Presentations/Locke%20Vent%20Dyssynchrony%20Compressed.pptx)
-- [Presentations/Locke Vent Dyssynchrony.pptx](archive/Presentations/Locke%20Vent%20Dyssynchrony.pptx)
+- [Presentations/Locke Vent Dyssynchrony Compressed.pptx](../../archive/Presentations/Locke%20Vent%20Dyssynchrony%20Compressed.pptx)
+- [Presentations/Locke Vent Dyssynchrony.pptx](../../archive/Presentations/Locke%20Vent%20Dyssynchrony.pptx)
 
 ## Source materials
-- [Presentations/Locke Vent Dyssynchrony Compressed.pptx](archive/Presentations/Locke%20Vent%20Dyssynchrony%20Compressed.pptx)
-- [Presentations/Locke Vent Dyssynchrony.pptx](archive/Presentations/Locke%20Vent%20Dyssynchrony.pptx)
+- [Presentations/Locke Vent Dyssynchrony Compressed.pptx](../../archive/Presentations/Locke%20Vent%20Dyssynchrony%20Compressed.pptx)
+- [Presentations/Locke Vent Dyssynchrony.pptx](../../archive/Presentations/Locke%20Vent%20Dyssynchrony.pptx)

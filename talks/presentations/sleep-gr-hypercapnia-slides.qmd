@@ -4,19 +4,195 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Discarded slides
+- Summary of physiology
+- Move physiology out of the front
+- Hypercapnic Respiratory Failure
+- CO2 Homeostasis: Factors Causing Frailty
+- Predispositions to Exacerbations
+- PAO2 FiO2 (PB-47)—(PaCO2/R)  O2 17.8 mmHg lower at 4500ft
+- Hypotheses: on first (physiologic) principles
+- British Guideline
+- From https://www.sleep.theclinics.com/article/S1556-407X(22)00065-0/fulltext
+- CHEST?
+- Neuromuscular/Restrictive Chest Wall: Hypercapnia Management
+
+## Slide outline
+### Slide 1
+- Discarded slides
+### Slide 2
+- Summary of physiology
+- Patients with hypercapnic respiratory failure generally have ‘frail’ respiratory systems with respect to CO2 homeostasis
+- There will be a larger increase in PaCO2 for the same absolute change in ventilation in patients with hypercapnia.
+- In UT, we catch this earlier due to elevation and SpO2 monitoring
+- Patients with hypercapnia are prone to recurrent exacerbations
+### Slide 3
+- Move physiology out of the front
+### Slide 4
+- Hypercapnic Respiratory Failure
+- Build up here CO2 in blood rises
+- Definition: Higher PaCO2 in the blood than it should be
+- Cause: not enough alveolar ventilation for CO2 production
+- Near synonyms:
+- Ventilatory Failure
+- Type 2 Respiratory Failure
+- Hypoventilation
+- Hypercapnia
+- Except for REM sleep, our bodies keep PaCO2 within 3-5 mmHg despite huge changes in CO2 production
+### Slide 5
+- CO2 Homeostasis: Factors Causing Frailty
+- High ventilatory need:
+- Increased CO2 Production
+- Increased Deadspace ‘Wasted Vent’
+- Low desired PaCO2
+- Fever, Infection, or Inflammation
+- Advanced malignancy
+- Muscle activity
+- Seizures
+- Exercise
+- ↑↑ Work of breathing
+- Toxic ingestion
+- Obesity
+- Anatomic
+- shallow breathing
+- Physiologic
+- Pulmonary embolism
+- Pulmonary hypertension
+- Congestive heart failure
+- Parenchymal lung disease of any kind
+- Metabolic acidosis
+- Hypoxia
+- Unable to breathe:
+- Muscle weakness or inefficiency
+- Increased respiratory system loads
+- Neuromuscular disease
+- Lung Hyperinflation
+- Respiratory muscle hypoxia
+- Elevated airway resistance
+- COPD, Asthma
+- Mucus
+- Upper-airway obstruction
+- Stiff Lungs
+- Parenchymal lung disease
+- Pulmonary edema
+- Stiff Chest Wall
+- Pleural disease
+- Excess or stiff chest wall tissue
+- Decreased Drive to Breathe:
+- Opiates and other sedatives
+- Brainstem lesions
+- Compensated hypercapnia
+- Sleep
+- Metabolic alkalosis
+- Red OHS, as an example
+### Slide 6
+- Predispositions to Exacerbations
+- Parabola assumes constant production of CO2 and efficiency of the lung
+- As Ventilation drops, each further drop causes proportionally more CO2 accumulation.
+- Analogous to creatinine & GFR
+### Slide 7
+- PAO2 FiO2 (PB-47)—(PaCO2/R)  O2 17.8 mmHg lower at 4500ft
+- Hypercapnia in SLC
+- SpO2 is routinely obtained in clinical practice, PaCO2 (or TcCO2) is not
+- SLC  earlier identification
+### Slide 8
+- Hypotheses: on first (physiologic) principles
+- Many will have the first time they manifest respiratory frailty during an exacerbation
+- This group will be at high risk for repeat exacerbations
+- Major source of morbidity, mortality, and cost to the system
+- Interventions to reduce frailty or physiologic stressors may reduce exacerbations
+- Better evidence is needed to support these practices to streamline payor funding
+- If many of these patients are missed during presentation, or proper management is not instituted, this is a lost opportunity.
+### Slide 9
+- British Guideline
+### Slide 10
+- From https://www.sleep.theclinics.com/article/S1556-407X(22)00065-0/fulltext
+### Slide 11
+- CHEST?
+- Note: the chest(?) algorithm has w/n 3 months.
+### Slide 12
+- TODO: No text extracted from this slide.
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- Neuromuscular/Restrictive Chest Wall: Hypercapnia Management
+- Included studies: 4 RCTs, n173
+- RR of death: 0.62 (95CI 0.42 – 0.91)
+- Admission: 0.25 (95CI 0.08 – 0.82)
+- Very low level of (empiric) evidence
+### Slide 15
+- Neuromuscular hypoventilation
+- First occurs during REM sleep (lowest drive and muscle paralysis)- Base excess of 4 mEq correlates. - can be tested at home with ET CO2. For progressive conditions, often predates awake failure by years.
+- Can lead to blunted ventilatory responses in the day (perhaps predisposing to exacerbations, even beyond steady state failure)
+- NPPV likely improves survival in ALS
+- Unlikely to resolve after ‘acute presentation’
+- https://www.atsjournals.org/doi/10.1164/rccm.201210-1804CI
+### Slide 16
+- Neuromuscular disease
+- Corticospinal tracts connect resp centers to spinal motor neurons – ventilatory drive problems when abnormal.
+- MS – ventilation control problems and bulbar sx -> aspiration
+- SCI - https://breathe.ersjournals.com/content/12/4/328.short
+- ALS – NPPV suggested when FVC <50% pred, MIP < -60, SNIP less than 40, or sleep disordered breathing identified.
+- Dipharagmatic dsfxn – neuropathic, myopathic, or metabolic.
+- Duchenne/Becker/Myotonic Dystrophy – muscle weakness.
+- Graphic from: Geneva area NIV initation prev. CHEST
+### Slide 17
+- OIRD
+- the substantial variability in the observed respiratory effects of opioids in patients with OSA (61–64), where both harmful (62) and beneficial (63) effects on apnea severity during sleep have been demonstrated
+### Slide 18
+- Opiates?
+- Respiratory pattern abnormalities:
+- - Frailty of the control center
+### Slide 19
+- PubMed: 31184503
+- https://www.atsjournals.org/doi/10.1513/AnnalsATS.201902-100OC
+- Conclusions: In adults admitted with acute heart failure and found to be at high risk of SDB, opiate use in the hospital was highly prevalent and was associated with a greater likelihood of escalation of care
+### Slide 20
+- Pathogenesis of obstructive sleep apnea in individuals with the COPD + OSA Overlap syndrome versus OSA alonePhysiological Reports. 2020;8:e14371. https://doi.org/10.14814/phy2.14371
+- OSA pathogenicity:
+- Anatomic factors: upper airway collapsibility (may stiffen when lung is hyper-inflated, but emphysema loss of elastic recoil may lessen this – hard to know a priori)
+- Neurologic / Physiologic factors: upper airway muscle response (worsened by ICS? Smoking?), respiratory-related arousability from sleep (may be lower in OVS due to frequent awakenings in the absence of upper airway collapse), control of breathing (respiratory drive generally increased)
+- Matched OSA (n15) to OVS (n15; most with moderate obstruction) on gender, age, BMI. Exclude: narcotics, sedatives, supp O2, recent exacerbation, BMI over 36, active smoking, heavy EtOH
+- PSG to determine Veupnea, Vpassive and Pcrit, Varousal/ArTh, Loop gain
+- “Consistent differences in key OSA traits were not observed between OVS and OSA alone.”. OVS: lower sleep efficiency, REM SpO2
+- Reduced upper airway response in those with air trapping; increased loop gain in those with worse airflow obstruction (contrary to expection; perhaps mediated by hypoxemia?). Somewhat lower arousal threshold – perhaps explains how hypercapnia can occur?
+- No difference in collapsibility: perhaps this is selection – if you have to have dx of OSA, then by definition the airway must be collapsable
+### Slide 21
+- Sufficient-Component Cause Model
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient cause sets, this component must be present
+- 3 Different Sufficient Causes
+- A – J Component Cause
+- A Necessary Cause
+### Slide 22
+- Resolution after exacerbation
+- “To date, no studies have directly examined the timing of resolution of hypercapnia after an acute exacerbation to determine optimal timing of initiation of long-term NIV: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202009-1171AG . Could you send people out with capnography monitors (e.g. when they leave to the floor) to clarify this trajectory?
+### Slide 23
+- Kohnlein RCT
+- In 2014, Kohnlein et al7published a landmark prospective, multicenter, randomized controlled trial of BPAP ventilation compared with optimized standard therapy in patients with chronic stable hypercapnic COPD. Patients had stage IV COPD and a mean age of 64.4 years, with resting PaCO2$51.9 mm Hg and pH>7.35. BPAP ventilation was targeted to reduce baseline PaCO2by at least$20%, or to achieve values<48 mm Hg, using high inspiratory pressures and a backup rate. The difference in 1-year all-cause mortality was profound, with 12% in the BPAP group and 33% in the control group
+### Slide 24
+- AECOPD+Hypercapnia: 40% return to eucapnia [ ] combine with prior
+- DOI: 10.1159/000524845 , Respiration 2022
+### Slide 25
+- Variation in implementation
+### Slide 26
+- Single institution, Spain. Patients with COPD or OSA, pH <7.35 & PaCO2 > 45 mmHg,
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Discarded slides
+- Summary of physiology
+- Move physiology out of the front
+- Hypercapnic Respiratory Failure
+- CO2 Homeostasis: Factors Causing Frailty
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Discarded slides
+- Summary of physiology
+- Move physiology out of the front
+- Hypercapnic Respiratory Failure
+- CO2 Homeostasis: Factors Causing Frailty
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +209,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-1-27 Sleep GR Hypercapnia Discarded Slides.pptx](archive/Presentations/2023-1-27%20Sleep%20GR%20Hypercapnia%20Discarded%20Slides.pptx)
+- [Presentations/2023-1-27 Sleep GR Hypercapnia Discarded Slides.pptx](../../archive/Presentations/2023-1-27%20Sleep%20GR%20Hypercapnia%20Discarded%20Slides.pptx)
 
 ## Source materials
-- [Presentations/2023-1-27 Sleep GR Hypercapnia Discarded Slides.pptx](archive/Presentations/2023-1-27%20Sleep%20GR%20Hypercapnia%20Discarded%20Slides.pptx)
+- [Presentations/2023-1-27 Sleep GR Hypercapnia Discarded Slides.pptx](../../archive/Presentations/2023-1-27%20Sleep%20GR%20Hypercapnia%20Discarded%20Slides.pptx)

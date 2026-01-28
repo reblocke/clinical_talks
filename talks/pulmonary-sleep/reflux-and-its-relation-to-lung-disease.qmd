@@ -5,32 +5,39 @@ draft: true
 
 ## What this covers
 - GERD
+- Give for 4-8 weeks (4 usually, 8 if esophagitis is present), then attempt to taper to lowest possible dose.
+- if no response by 4-8 weeks, consider workup to confirm dx (pH, manometry, or endoscopy)
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- GERD
+- Give for 4-8 weeks (4 usually, 8 if esophagitis is present), then attempt to taper to lowest possible dose.
+- if no response by 4-8 weeks, consider workup to confirm dx (pH, manometry, or endoscopy)
+- if diagnosis confirmed, BID dosing will decrease time pH < 4, thus may be helpful.
+- Don't consider surgery if they don't respond to PPI (won't work)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- 2020;324(24):2536-2547.
+- doi:10.1001/jama.2020.21360
+- Definition: recurrent troublesome heartburn or regurgitation OR sequalae (e.g.
+- Barrett's esophagus, esophagitis, stricture).
+- Not equal to gastritis (less severe, irritation) or dyspepsia (which happens occasionally in all individuals)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Give for 4-8 weeks (4 usually, 8 if esophagitis is present), then attempt to taper to lowest possible dose.
+2. if no response by 4-8 weeks, consider workup to confirm dx (pH, manometry, or endoscopy)
+3. if diagnosis confirmed, BID dosing will decrease time pH < 4, thus may be helpful.
+4. Don't consider surgery if they don't respond to PPI (won't work)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Don't consider surgery if they don't respond to PPI (won't work)
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/9bb4fe81-6e1c-44af-9159-d53a028a3cc0
+- https://photos.collectednotes.com/photos/5187/d55f1751-766d-45e9-b483-9f5bbfccdfbe
+- https://photos.collectednotes.com/photos/5187/c1316cf5-1711-4d45-8ee9-bf7e421d5e6f
 
 ## Source notes
 
@@ -38,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md](archive/Clinical%20Practice%20Notes/reflux-and-its-relation-to-lung-disease.md)
+- [Clinical Practice Notes/reflux-and-its-relation-to-lung-disease.md](../../archive/Clinical%20Practice%20Notes/reflux-and-its-relation-to-lung-disease.md)

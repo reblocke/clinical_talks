@@ -4,19 +4,255 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Hyponatremia 501: DDAVP CLAMP
+- Roadmap
+- Two ways to get hyponatremic
+- Homeostasis Overwhelmed
+- Body using ADH as a Vasopressor
+- What happens when they get NS in the ED?
+- Flip the Script
+- Revisiting SIADH treatment
+- Giving DDAVP (ADH)
+- Case 1:
+
+## Slide outline
+### Slide 1
+- Hyponatremia 501: DDAVP CLAMP
+- Brian Locke, MD
+### Slide 2
+- Roadmap
+- Why is the clamp helpful?
+- When should you clamp?
+- How should you clamp?
+- Does anything matter?
+### Slide 3
+- Two ways to get hyponatremic
+- Homeostasis Overwhelmed
+- Anti-Diuretic Hormone
+- Appropriate response, but insufficient.
+- Kidney causes water retention
+- Too much free water to handle
+- Carbs, Fat, EtOH → CO2+H2O
+- Frail Kidneys
+- ADH (vasopressin) being used as an endogenous pressor
+- ADH inappropriately there
+- Low Urine Osm / spec grav
+- How low the urine osm & UOP differentiates
+- High Urine Osm / spec grav
+- Urine Na differentiates
+### Slide 4
+- Homeostasis Overwhelmed
+- 60 kg person with an average diet: 600 mOsm/d solute.
+- Healthy individual:
+- max urine osm 1200 mOsm/L → L/d of urine?
+- min urine osm 50 mOsm/L → L/d of urine?
+### Slide 5
+- Homeostasis Overwhelmed
+- 60 kg person with an average diet: 600 mOsm/d solute.
+- Healthy individual:
+- max urine osm 1200 mOsm/L → 0.5 L/d of urine (~ 50cc/hr, coincidence?)
+- min urine osm 50 mOsm/L → 12 L/d of urine? (~500cc/hr)
+- more than 12L of daily intake? hyponatremia
+- What is the maximum intake if:
+- Minimum urine osm increases to 100? 200? 400?
+- Solute intake doubles? Solute intake halves?
+- Minimum urine osm increases to 100 & 2x solute intake? 100 & ½?
+- GFR is too low to make 12L of urine? (AKI, CKD/Old age)
+- What happens when we give ADH
+- What happens when in ICU (NS…)
+### Slide 6
+- Body using ADH as a Vasopressor
+- Inappropriate ADH
+- Kidneys trying, but overwhelmed
+- Urine Osm, Urine Na describe a physiologic state, not a diagnosis.
+- Physiologic states change
+- Repeat labs if you need to
+### Slide 7
+- What happens when they get NS in the ED?
+- If ADH is present, urine output will be low and urine will be concentrated.
+- Very little free water is excreted, serum Na won’t rise.
+- If ADH is absent, urine output will be high (if GFR is) and urine will be dilute.
+- Lots of dilute urine serum sodium rises.
+- Unless using hypertonic, this is the ONLY way Na rapidly corrects.
+- Homeostatic Overload
+- Inappropriate ADH
+- ADH as Vasopressor
+- GFR OK and kidneys work very brisk UOP, rapid rise
+- [ADH was never present]
+- ADH present before and after little UOP or raise in Na
+- If body no longer needs ADH as pressor turns off, brisk UOP and Na rise.
+- [Cardiorenal+Hepatorenal ADH remains on]
+### Slide 8
+- Flip the Script
+- A patient comes in with a Na of 120 and receives 1L of NS. What’s on the DDx if:
+- UOP 300/hr
+- Na rockets up
+- UOP 50/hr
+- Na jumps by 5
+- Na doesn’t change
+- Na drops
+- Options:
+- Polydipsia
+- Tea & Toast / Beer Potomania
+- Kidneys that don’t work good
+- Cardiorenal
+- Hepatorenal
+- Hypovolemia
+- SIADH
+### Slide 9
+- Flip the Script
+- A patient comes in with a Na of 120 and receives 1L of NS. What’s on the DDx if:
+- UOP 300/hr
+- Na rockets up
+- UOP 50/hr
+- Na jumps by 5
+- Na doesn’t change
+- Na drops
+- Polydipsia
+- Tea & Toast / Beer Potomania
+- Hypovolemia [adh turned off]
+- Kidneys don’t work good (+/- any of left column0
+- ADH still present:
+- SIADH (min uosm ~300)
+- Cardiorenal
+- Hepatorenal
+- [hypovol insufficient]
+- SIADH
+- Options:
+- Tea & Toast / Beer Potomania Kidneys that don’t work good
+- Hypovolemia
+### Slide 10
+- Revisiting SIADH treatment
+- Less ADH low min osm. More ADH higher min osm.
+- What is the maximum intake if (normal 12L max, 50 mOsm min urine osm):
+- Minimum urine osm increases to 100? 200? 400?
+- 6L, 3L, 1.5L
+- Solute intake doubles? Solute intake halves?
+- 2x (24L), 1/2x (6L)
+- What are the two ways to treat SIADH?
+### Slide 11
+- Giving DDAVP (ADH)
+- Why?
+- To cause SIADH can’t overcorrect.
+- Then treat SIADH by either fluid restricting, giving solute, or both.
+- ALL the risk of over-correction comes from solute being given when ADH is low ( body can now dump free water at Uosm 50 osm/L)
+- Adrogue-Madias equation: 1L NS in 70kg w/ Na 105 -> 107.5
+- Overcorrection can only occur with brisk UOP (or crazy HS)
+### Slide 12
+- Case 1:
+- Dx is psychogenic polydipsia. 15L/d. Na 120.
+- Is ADH high or low? (urine osm)
+- UOP is high or low before we act?
+- What would happen if you gave NS?
+- UOP: Serum Na:
+- What would happen if you gave DDAVP + NS/HS?
+### Slide 13
+- Case 2:
+- Profoundly dehydrated. Na 120.
+- Is ADH high or low? (urine osm)
+- UOP is high or low before we act?
+- What would happen if you gave NS?
+- UOP: Serum Na:
+- What would happen if you gave DDAVP + NS/HS?
+### Slide 14
+- Case 3:
+- CHF and cardiorenal synd. Na 120.
+- Is ADH high or low? (urine osm)
+- UOP is high or low before we act?
+- What would happen if you gave NS?
+- UOP: Serum Na:
+- What would happen if you gave DDAVP + NS/HS?
+### Slide 15
+- When to clamp
+- When to Consider the Clamp
+- When it doesn’t matter (so probably don’t)
+- When not to clamp
+- Situations where ADH is off or going to turn off:
+- Polydipsia
+- Tea and Toast / Beer Potomania
+- Hypovolemia or correctable ↓EABV
+- SIADH (makes no physiologic difference because they’re already ‘clamped’)
+- Hepatorenal (they’re clamped and it’ll be hard to fix)
+- Low GFR (won’t overcorrect anyway)
+- Cardiorenal (it will get in the way of decongesting)
+- 2 options for when ADH is off:
+- Limit solute, give back D5W to match the urine output
+- Give ADH back
+### Slide 16
+- 2 paths when ADH turns off: commit to one
+- Without DDAVP Clamp
+- With DDAVP Clamp
+- Very strict control of solute
+- Absolutely needs monitoring of UOP (foley)
+- Purpose; assess needed reaction to kidney
+- If managing based on labs, always 4-6h behind
+- Control of solute is less important
+- Monitoring UOP is less critical
+- Purpose: ensure your intervention is working
+- May be appropriate for milder hyponatremia and lower potential for over-correction (low GFR, inability to fully suppress ADH)
+- More appropriate for severe hyponatremia without hypervolemia, high potential for over-correction (high GFR, ability to fully suppress ADH)
+- Using a “reactive” DDAVP strategy (give DDAVP as needed for over-correction) retains the worst aspects of the standard management.
+### Slide 17
+- How to DDAVP clamp:
+- DDAVP 2 mcg IV q8hr, continued until Na at target
+- Give 3% Saline to increase
+- Do nothing to keep unchanged
+- Give D5w to decrease
+### Slide 18
+- Hyponatremia Pitfalls
+- Fixating on the diagnosis, not the physiologic state
+- Using ”reactive” DDAVP
+- Not paying attention to the UOP to tell when ADH turned off
+- Not paying attention to their solute inputs (esp if not clamping)
+### Slide 19
+- Does anything matter? 2 recent studies:
+- EHRs of 5 Toronto Hospitals
+- Inclusion: Inpt, 1st Na <130. 2010—2020. N22858
+- Exposure: Na, Comorbs, Corr.
+- Outcome: ODS on imaging [flag then review] or ICD for ODS.
+- Results: Mean Na 125. 17.7% over-corrected
+- 30% got CT, 6.6% got MRI
+- Devastating+Rare Hard to know
+### Slide 20
+- Does anything matter? 2 recent studies:
+- EHRs of BWH+MGH 1993-2018
+- Inclusion: Inpt, 1st Na <120. N3274
+- Exposure: Na, Comorbs, Corr.
+- Outcome: CPM (NLP of MRI report), LOS, Mortality
+- Results: Mean Na 116.
+- Where did correction → CPM come from?
+### Slide 21
+- Hyponatremia: summary
+- It is possible we are entirely mistaken about the cause of CPM / ODS
+- We know very little for certain, other than it is rare.
+- Standard of care, for now, is slow correction.
+- Probably net positive consequence to abandon this if slow corr causing harm
+- Tools for residents: Serum Osm, Urine Osm, Urine Na
+- Tools for fellows: UOP, response to solutes, clinical circumstance, cycling the labs prn
+- Reactive managementOK if mild, limited GFR/ADH suppression, Hypervolemia
+- Otherwise, commit to DDAVP + Hypertonic saline proactively
+### Slide 22
+- Key References
+- https://www.coreimpodcast.com/2021/02/10/5-pearls-on-hyponatremia-episode-1/
+- Desmopressin to Prevent Rapid Sodium Correction in Severe Hyponatremia: A Systematic Review: DOI: 10.1016/j.amjmed.2015.04.040
+- NEJM Evidence Articles:
+- McMillan et al. 2022 DOI: 10.1056/EVIDoa2200215
+- Seethapathy et al. 2023 DOI: 10.1056/EVIDoa2300107
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Hyponatremia 501: DDAVP CLAMP
+- Roadmap
+- Two ways to get hyponatremic
+- Homeostasis Overwhelmed
+- Body using ADH as a Vasopressor
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Hyponatremia 501: DDAVP CLAMP
+- Roadmap
+- Two ways to get hyponatremic
+- Homeostasis Overwhelmed
+- Body using ADH as a Vasopressor
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +269,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-10-2 DDAVP CLAMP.pptx](archive/Presentations/2023-10-2%20DDAVP%20CLAMP.pptx)
-- [Presentations/2024-8-27 DDAVP CLAMP.pptx](archive/Presentations/2024-8-27%20DDAVP%20CLAMP.pptx)
+- [Presentations/2023-10-2 DDAVP CLAMP.pptx](../../archive/Presentations/2023-10-2%20DDAVP%20CLAMP.pptx)
+- [Presentations/2024-8-27 DDAVP CLAMP.pptx](../../archive/Presentations/2024-8-27%20DDAVP%20CLAMP.pptx)
 
 ## Source materials
-- [Presentations/2023-10-2 DDAVP CLAMP.pptx](archive/Presentations/2023-10-2%20DDAVP%20CLAMP.pptx)
-- [Presentations/2024-8-27 DDAVP CLAMP.pptx](archive/Presentations/2024-8-27%20DDAVP%20CLAMP.pptx)
+- [Presentations/2023-10-2 DDAVP CLAMP.pptx](../../archive/Presentations/2023-10-2%20DDAVP%20CLAMP.pptx)
+- [Presentations/2024-8-27 DDAVP CLAMP.pptx](../../archive/Presentations/2024-8-27%20DDAVP%20CLAMP.pptx)

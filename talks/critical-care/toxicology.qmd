@@ -9,30 +9,44 @@ draft: true
 - Stages
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- What would you expect on exam?
+- Acetaminophen
+- Stages
+- When to treat
+- Treatment
+- Toxic Alcohols
+- Other drugs of abuse
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Consider: VBG, CK, UA, Osm/Toxic alcohols, Specific Drug levels, Ammonia, INR, CXR, CT head
+- Osm gap is not useful.
+- (Se and Sp not good) [ ] image.
+- UDS/Urine Drug Screen:
+- Phase 0 (Na flowing in to cell) and Phase 3 (K flowing out) are what we are worried.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. what/when ingested, how much
+2. medical history and prescription meds they have access to (meaning, people cohabitating are rx'd)
+3. EtOH and recreational drug use
+4. Hx of self harm? Or prior attempts?
+5. abc, BMP, LFTs
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Isopropanol - rubbing alcohol, occasionally in automotive products. -> acetone (no acid no gap). Not toxic, causes ketosis without acidosis (and drunkenness). Don't need to treat it - though hemorrhagic gastritis.. mostly in textbook.
+- Lab pitfalls: Need to know ethanol level are they blocked. Need toxic alcohol labs to be sent as stat. Volatile alcohol panforgoes not include ethylene glycol.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/58cd6e3b-6621-403a-9b76-8f9c97285230
+- https://photos.collectednotes.com/photos/5187/b7d13cff-ad0c-4469-bf9e-9965b5c62a9e
+- https://photos.collectednotes.com/photos/5187/dae0a372-dd76-466c-8f73-4732e4040592
+- https://photos.collectednotes.com/photos/5187/fbfffe93-709a-47e3-8b92-2a180d83983e
+- https://photos.collectednotes.com/photos/5187/08ed84f4-920d-4e50-900b-f39f3e8a9bfc
+- https://photos.collectednotes.com/photos/5187/f2392a85-176b-4b51-a990-50a5f0db285e
+- https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bcp.12793
+- https://pubmed.ncbi.nlm.nih.gov/14707564/
 
 ## Source notes
 
@@ -40,4 +54,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/toxicology.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/toxicology.md](archive/Clinical%20Practice%20Notes/toxicology.md)
+- [Clinical Practice Notes/toxicology.md](../../archive/Clinical%20Practice%20Notes/toxicology.md)

@@ -4,19 +4,1923 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Hypercapnic Respiratory Failure
+- Key References
+- History:
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- Role of the respiratory system
+- CO2 has relatively mild acute effects
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303884/
+- Section 1: PaCO2 Kinetics and Control
+- PaCO2 stable despite a wide range of VCO2
+- What happens when we get hypercapnic?
+- Davenport diagram
+
+## Slide outline
+### Slide 1
+- Hypercapnic Respiratory Failure
+### Slide 2
+- Key References
+- Nunn’s Physiology and West’s Respiratory Physiology
+### Slide 3
+- History:
+- Haldane and Priestly 1905. “The Regulation of the Lung-Ventilation”
+- “Normal hyperpnea, such as that due to muscular work, may be explained as follows. The venous blood, returning to the lungs in larger quantity, and probably also more highly charged with CO2, causes a rapid rise in the alveolar CO2 pressure, and consequent rise in the arterial CO2 pressure. The respiratory centre is thus stimulated to increased activity, with consequent lowering of the alveolar CO2 pressure, until a point is struck at which an equilibrium is maintained between the effect of the increased supply of venous blood in raising the arterial CO2 pressure and that of the increased respiratory activity in lowering it.”
+### Slide 4
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+### Slide 5
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- Can’t breathe - won’t breathe distinction initially noted between whether patients with hypercapnia were generating the maximal amount of ventilation they could.
+### Slide 6
+- TODO: No text extracted from this slide.
+### Slide 7
+- Role of the respiratory system
+- Deliver O2 to support aerobic metabolism
+- Eliminate CO2 for acid-base balance.
+- CO2: The exhaust of life: O2 + C6H12O6 -> H2O and CO2
+- Respiratory failure: defined as failure to maintain normal arterial blood gas partial pressures.
+### Slide 8
+- CO2 has relatively mild acute effects
+- pH has dramatic acute effects – primarily on all protein based physiologic reactions.
+- Thus – in the acute setting, pH is the tightly controlled variable (by HCO3- / CO2 ratio)
+- “Homeostatic capacity” – depending on Ventilatory Reserve and metabolic milieu – a given level of frailty in the respiratory system may result in different levels of dysregulation.
+### Slide 9
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303884/
+- In the healthy subject, about 16,000–20,000 mmol/day of carbon dioxide (CO2), derived from oxidation of nutrients containing carbon, are produced.
+- Above reference describes process of metabolic adaptation
+### Slide 10
+- Section 1: PaCO2 Kinetics and Control
+- Any values of PaCO2 above 46 mmHg is abnormal – though transient elevations up to 50 mmHg may be encountered in ‘normal people’ doing breathe holds. West: held within 3mmHg always, possibly slightly higher in sleep. (10mmHg is the threshold for noct vent)
+- Mean normal PCo2 is 38.3 mmHg with 95% (2 SD) range being +/- 7.5 mmHg
+- Normals defined by 95% normal range, similar to other values (Nunn’s).
+- 42 mmHg is the ULN of PaCO2 in SLC (Denver; Lee Brown) – measured 33.9+/-2.2 in men and 32.8 +/-3 mmHg in women. pH identical
+### Slide 11
+- PaCO2 stable despite a wide range of VCO2
+- Why is this so tightly regulated?
+- Thought experiment – VA K VCO2 / PaCO2
+- Ventilation is metabolically expensive (work of breathing 2% of O2 at rest, but increases hugely with exercise or pathology)
+- The same pH can be achieved at any PaCO2 by adjusting the bicarbonate: pH 6.1 + log [ HCO3 / (0.03 pCO2) ]
+- Why doesn’t the body operate with with a PaCO2 of 70? (and an HCO3 of 44 pH 7.42) This would be metabolically advantageous.
+- Especially in states where the work (power) of breathing is higher - such as lung disease
+### Slide 12
+- What happens when we get hypercapnic?
+- Why is our PaCO2 40+/- 5 (sea level) or 32 +/- here?
+- If you were a human evolved to live with dinosaurs
+### Slide 13
+- Davenport diagram
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- Why doesn’t PE cause hypercapnia?
+- PaCO2 K VCO2 / VE (1-Vd/Vt)
+- In healthy subjects, the control components and mechanical system can handle a wide variety of inputs without PaCO2 changing:
+- PaCO2 changing ALWAYS must indicate either a failure of the control system (won’t breathe), the mechanical system (can’t breathe), or both to respond to a stressor
+- Things that lead an inability of the respiratory system to cope can include load on respiratory muscles or reduction in their strength; or an increase in demand (deadspace, VCO2)
+### Slide 16
+- Vd/Vt, VCO2 changes not the whole story
+- PaCO2 K VCO2 / VE (1-Vd/Vt)
+- VE is a dependent variable which the control system changes to keep PaCO2 the same
+- A change in Vd/Vt or VCO2 can be a stressor on the system, but in the absence of huge extremes (e.g. 2,4 Dinitrophenol overdose) is not the cause itself (unless control system is offline - on vent)
+- How huge can system compensate?
+- VCO2 – based on average VO2 max stress test data – should tolerate 8.8x resting VCO2 (in 70kg 63y/o female) prior to decompensating if that is the only abnormality
+- Even at VO2max 10 ml/kg/min
+- Vd/Vt – 89% (by re-arranging and solving, equiv to the above - PaCO2 K VCO2 / VE (1-Vd/Vt)
+- This is why a PE won’t cause hypercapnia except when a patient is on the vent.
+### Slide 17
+- PaCO2 K VCO2 / VE (1-Vd/Vt)
+- (re-arrangement of PaCO2 k VCO2 / VA)
+- If you hold VCO2 and Vd/Vt constant, you get the metabolic hyperbola (solid line) which relates PaCO2 to Ve
+### Slide 18
+- Sensitivity of the controller system to CO2: The PCO2/Ventilation Response ‘Curve’
+- The straight/dashed line is the amount that the respiratory system will respond to an increase in PaCO2 (slope change in Ve / change in PaCO2)
+- Ventilation S (PCO2– B), where S is slope, B is the intercept at zero ventilation.
+- Steeper slope more sensitive, flatter less sensitive
+- Normal range 0.5-8.0 L/min/mmHg (wide range)
+- 80% of subjects have a response between 1.5 and 5 L/min/mmHg (118)
+### Slide 19
+- Example: Normal(A) -> Opiate(B)
+### Slide 20
+- Modifiers of response
+- Higher oxygen flatter
+- Metabolic acidosis steeper and left shifted
+### Slide 21
+- “Can’t breathe” – dissociation between drive and resulting ventilation”: corollary discharge
+- Brain Curve (Ve that would occur if the system were intact) and Ventilation curve (actual Ve)
+- Dissociation of brain curve and ventilation is a major contributor to dyspnea
+### Slide 22
+- VA-PACO2 relationship and homeostasis
+- ” The 1/x nature of the relationship between V̇A and PACO2 (PACO2 K·V̇co2·V̇A−1) accounts for the fact that when V̇A decreases, any given change in V̇A produces larger and larger increase in PACO2: the respiratory plant gain for CO2 (RPGCO2), i.e., the slope of tangent of V̇A-PACO2 relationship”
+### Slide 23
+- Breath Holds
+- PaCO2 causes an irresistibly strong urge to breathe in individuals with normal respiratory systems
+- on room air, typically near 50 mmHg (diaphragmatic contractions occur at PaCO2 ~46-49)
+- on supplemental oxygen, can tolerate much longer (highly trained apneass can increase their conventional breakpoint to critical hypoxia, which is 20-30 mmHg O2)
+- can be extended by rebreathing gas (the sensation of air hunger is partially mediated by lack of movement in / out)
+### Slide 24
+- Central respiratory chemoreceptors likely trigger non-respiratory effects of CO2 because hypercapnia evokes no adverse sensation, emotional or otherwise, in patients with congenital central hypoventilation syndrome (CCHS) who lack a respiratory chemoreflex but have normal intellect and sensory perception (Shea et al., 1993; Weese-Mayer et al., 2010).
+### Slide 25
+- DOI: 10.1113/JP280769
+### Slide 26
+- TODO: No text extracted from this slide.
+### Slide 27
+- Drive to breath
+- 3 sources:
+- Chemical drive – related to changes in arterial PO2 (NOT oxygen saturation), arterial and brain PCO2 and pH. Mediated by central and peripheral chemoreceptors.
+- Metabolic drive – related to metabolic rate and mediated by unknown mechanisms (e.g. how the Ve increases in CPET before blood gases change)
+- Wakefulness drive – disappears during sleep, such that a minor PaCO2 drop in presence of normoxia produces a central apnea during sleep or anesthesia
+- Anesthesia: (86).
+- Note: voluntary / supratentorial factors can increase this
+- Also, things like the ergoreflex probably play a greater role in exercise
+### Slide 28
+- “Simply stated, the sensation of dyspnea can be understood as resulting from the collection of peripheral sensing inputs processed centrally in the brainstem, increasing in turn the neural output to the respiratory muscles while sending a “copy” of this information toward the thalamus, the limbic system, and the sensorimotor cortex, where the sensation becomes “conscious””(3-5) https://journals.physiology.org/doi/full/10.1152/japplphysiol.00438.2021
+### Slide 29
+- Anatomy
+- 1. central medullary rhythm/pattern generator and integrator (brainstem) - primarily in the pre-Botzinger complex and pontine raphe. Bilateral (thus, not destroyed by acute ischemic stroke in the absence of catastrophe)
+- 2. Sensory inputs Chemoreceptors –
+- carotid body (peripheral - sense a variety of stimuli such as O2 levels)
+- medulla (central – responds to H+ in the CNS ECF, linear increase in VA to increase in H+ in CSF - whose changes are moderate by active H+ transport at the BBB - generally reflective of PaCO2 because this can diffuse. CSF HCO3- buffers response. ).
+- Stimulation of the peripheral chemoreceptors increases the slope of the central H+ receptors (meaning, a given increase in H+ will result in a larger increase in ventilation). Note: carotid BODY (chemoreceptor) / carotid sinuses (baroreceptors, blood pressure)
+- 3. precise synchronous distribution of motor output to the respiratory musculature of the upper airway as well as the chest and abdominal walls (via C3-4-5, phrenic keeps the diaphragm alive).
+### Slide 30
+- Ventilatory Control
+- Central Chemoreceptors
+- Ventral surface of medulla
+- Responds to H+ in ECF of CNS – this equilibrates with CO2 in blood (no charge) moreso than pH in blood. CSF HCO3 lessenss response.
+- No O2 sensing. Slower response
+- Peripheral Chemoreceptors
+- Carotid and Aortic bodies.
+- Aortic body contributes to sympathetic and cardiovasc response
+- Respond (rapidly) to PaO2, PaCO2, and pH
+- When CO2 and pH diverge? E.g. metabolic acidosis (DKA) does generate increased ventilation – but it is mediated at the PERIPHERAL receptors (pH sensors) not central (CO2 sensor, except in extreme acidosis where BBB becomes slightly more permeable)
+### Slide 31
+- TODO: No text extracted from this slide.
+### Slide 32
+- Carotid Body Phys
+- Glomus/type 1 cells surround blood (sense O2 by unclear means, and transmit it by L-type ca dep excitatory transmission) and Glial origin cells/type 2. Transmit to CNS by glossopharyngeal nerve
+- Hypoxemia or hypercapnia or acidemia -> more CB discharge -> reflex hyperventilation, increased vagus output (brady), sympathetic activity (muscules, splanchnic, renal vascular beds)
+- Senses PaO2, not CaO2, SaO2 or SpO2
+- Sympathetic overactivity is one mechanism for OSA and CHF effects on other organs
+- https://journals.physiology.org/doi/full/10.1152/japplphysiol.00809.2003
+### Slide 33
+- Mechanisms of Peripheral Chemo cont to phys
+- Brady during Hypoxemic PEA?
+- Caused by carotid body mediated chemoreflex parasympathetic discharge – protective to decreased myocardial O2 demand
+- Aortic bodies can sense CaO2 in addition to PaO2 – this mediates some of the physiologic responses to anemia and CO poisononing, though exact mechanisms not entirely understood.
+### Slide 34
+- Mechanism is due to negative feedback with:
+- controller respiratory centers, neurons, and muscles that achieve alveolar ventilation
+- Response in this: termed controller gain - Defined as the amount that minute ventilation changes in response to a change in PaCO2 (HCVR) or O2 (HVR)
+- controlled system pulmonary gas-exchange organ
+- Response in this: termed plant gain. Defined as the amount that CO2 will change from a given change in ventilation.
+### Slide 35
+- Mechanism of activation (central)
+- Thus, two facts are clearly established: activation of serotonergic raphe neurons stimulates ventilation and full effects of CO2 on breathing require ongoing activity of raphe neurons
+- https://www.cell.com/neuron/pdf/S0896-6273(15)00676-5.pdf
+- > on this line, Buspirone has been shown to ameliorate chemoreflex in CSA associated with HF in this phase 2 randomized trial
+- Giannoni A, Borrelli C, Mirizzi G, Richerson GB, Emdin M, Passino C. Benefit of buspirone on chemoreflex and central apnoeas in heart failure: a randomized controlled crossover trial. Eur J Heart Fail 2020 23(2):312-320.
+### Slide 36
+- Citations 52-57
+### Slide 37
+- Hypoxia & Hypercapnia Ventilatory Responses
+- Chemoreflex sensitivity overall, is comprised of HVR (hypoxic ventilatory response) and HCVR (hypercapnic ventilatory response) – can be measured by a rebreathing test (or breath hold, below)
+- The ventilatory response to PaO2 is hyperbolic, being almost flat in the high PaO2 range and the slope increases progressively as PaO2 decreases (313)
+- Threshold where it starts to increase ~60
+- Below that threshold, there is a syndergistic response with CO2 (ie. low PaO2 and high PaCO2 -> larger ventilatory response)
+### Slide 38
+- Chemoreceptor response time
+- Peripheral – corresponds to circulation time – half-time to response is 10s
+- Transit time ~6 seconds
+- Peripheral fine tuning / rapid response. People survive fine with carotid body removal (likely more important in hypoxic patients)
+- Vent increases linearly beyond PaCO2 39 mmHg
+- Central chemoreceptor – requires diffusion CNS – 75s response time
+- Responsible for roughly 80% of ventilation in health
+- responsible for steady state PCO2
+- Vent increases linearily beyond PaCo2 45 mmHg ()
+### Slide 39
+- Central vs peripheral chemoreceptors
+- Bilateral denervation of the carotid bodies (e.g. b/l endarderectomy) leads to ABSENCE of hypoxemia drive to breath AND blunting of H+ response to breathe.
+- (Dahan A, Nieuwenhuijs D, Teppema L. Plasticity of central chemoreceptors: effect of bilateral carotid body resection on central CO2 sensitivity. PLoS Med 2007; 4: e239.; Rodman JR, Curran AK, Henderson KS, et al. Carotid body denervation in dogs: eupnea and the ventilatory response to hyperoxic hypercapnia. J Appl Physiol 2001; 91: 328–335.)
+- Conversely, adaptation to elevation (lower inspired o2 -> thus we increase VA to lower co2 and allow for more O2) requires the carotid bodies to be functioning.
+- Carotid body doesn't increase VA slope in response to hypoxemia until PaO2 <55-60 mmHg. Consequence (and question): anemia, Carbon monoxide inhalation do NOT cause hyperventilation.
+- Hypoxemic response also involves increase in CO to avoid tissue hypoxia.
+- Plasticity occurs in several circumstances: e.g. hypoxemia will lead to an increase in O2 sensitivity at peripheral chemoreceptors that persists for several days after normoxia is restored.
+- Long term facilitation occurs after intermittent hypoxemia -> carotid sensitization -> sustained adrenergic activity (may be responsible for some of the daytime changes seen in obstructive sleep apnea)
+### Slide 40
+- Rebreathing test: measures HCVR
+- Steady state method increase inspired CO2 and then wait for 4-5 mintues for steady state and measure Ve – repeat. Time consuming
+- Rebreathing: rebreathe from 7%CO2 containing bag with 50% oxygen for 4 minutes (this keeps O2 high enough)
+- Ventilation is plotted against the PCO2 in the bag – easier to do but corresponds to steady state method.
+- EtCO2 and EtO2 generally taken to reflect arterial levels.
+- Rebreathing > Stead state for reproducibility
+- https://openres.ersjournals.com/content/4/1/00141-2017
+- Note: P0.1 occlusion has been validated to approximate this.
+### Slide 41
+- Sensitivity of controller system can also be measured with breath holds
+- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP276206
+- High chemoreflex sensitivity on top
+- Low chemoreflex sensitivity on bottom
+### Slide 42
+- Breath holds
+- “However, the strong associations observed, by us and others (Stanley et al. 1975; Trembach & Zabolotskikh, 2017), indicate that variability in maximal breath-hold duration generally reflects variability in loop gain more than it reflects variability in the “breaking-point” (i.e. the change in chemical drive that triggers voluntary breath-hold termination)”
+- > amount of desaturation depends on lung volume, position (supine vs standing larger FRC)
+### Slide 43
+- Individual Variation in ventilatory response
+- “Ventilatory responses vary markedly with up to 10-fold differences in isocapnic hypoxic and hypercapnic responses (McGurk et al. 1995; Swenson et al. 1995). “
+- Note: hypoxic vent response can take a more prominent role in altitude and chronic lung disease – but generally does not influence ventilation under normoxic conditions.
+- ventilatory threshold to hypoxemia occurs when PaO2 sensed in the carotid bodies is < 60 mm Hg. Also leads to increased HR & cardiac output
+- 95% 0.5-8.0 l/min/mmhg, 80% between 1.5 and 5.0.
+- Meaning, 3mmHg ought to increase ventilation by double, roughly.
+### Slide 44
+- Factors responsible for individual variation:from (DOI: 10.4187/respcare.10075)
+- Neurotransmitter accumulation:
+- Hypoxia - Glutmate increases ventilatory demand, but then in converted to GABA -> decreased ventilatory demand. This manifests as initial increase in ventilation, then later decrease.
+- Hypercapnia – Results from Acetylcholine activity ( citation 59)
+- Genetic (O2)s: citation 60 - Azad P, Stobdan T, Zhou D, Hartley I, Akbari A, Bafna V, Haddad GG. High-altitude adaptation in humans: from genomics to integrative physiology. J Mol Med (Berl) 2017;95(12):1269-12
+### Slide 45
+- What things modify the sensitivity of the control system + mechanical system?
+- respiratory stimulants such as medroxyprogesterone or acetazolamide (244-246). Or Almitrine (carotid chemoreceptor stimulant)
+- Is Acetazolamide a stimulant, or just moves the metabolic hyperbola?
+- https://pubmed.ncbi.nlm.nih.gov/25323235/ - acetazolamide (n11; ΔLG -0.20±0.06, p0.005) does change loop gain – primarily changes plant gain
+- O2 also changes loop gain (n11; mean±sem change in loop gain (ΔLG) -0.23±0.08, p0.02)
+- Buspirone decreases it
+- Opiates, sleep, analgesia decrease HCVR
+- The ventilatory response to CO2 is enhanced in the presence of hypoxia and/or metabolic acidosis – low pre-existing HCO3 (313)
+- Decreased by narcotics and sleep. Decreased by sleep deprivation (Cooper KR, Phillips BA. Effect of short-term sleep loss on breathing. J. Appl. Physiol. 1982; 53: 855–8.)
+- Pain does not affect the slope of the HVR and HCVR
+- Testosterone increased HCVR, finasteride/leurprolide decrease (https://journal.chestnet.org/action/showPdf?piiS0012-3692%2821%2900108-2)
+- “Abdallah and colleagues 45 have recently shown that a single dose of fast-acting, oral morphine in dyspneic patients with COPD was associated with improvements in dyspnea (intensity and unpleasantness) and exercise tolerance but with considerable variation in response between subjects.”
+### Slide 46
+- Modifiers of chemoreceptor sensitivity:
+- Older age (65-73) and DM reduce vent drive (O2 and CO2) 40-50% compared to 22-30y/o
+- 1st degree relatives of those with OHS don’t have different HCVR - https://thorax.bmj.com/content/55/11/940.abstract
+- And Javaheri S, Colangelo G, Corser B et al. Familial respiratory chemosensitivity does not predict hypercapnia of patients with sleep apnea-hypopnea syndrome. Am. Rev. Respir. Dis. 1992; 145: 837–40.
+-  In general, appears the HCVR is more an adaptation to environment and circumstance than genetics, per se (may be harder to function as an instrument)
+### Slide 47
+- How important is the chemoreceptivity arc?
+- Does it maintain steady state PaCO2? Arguments against:
+- With exercise, the PaCO2 never rises (ie. Ve increases before it does). Additionally, at moderate intensity exercise hyperpnea (overshoot) occurs
+- Animals with reduced CO2 reflex (knockouts) still maintain normal pH
+- Could you do this test in humans - CCHS? Opiates resting PaCO2? (anecdotally, PaCO2 only changes in response to a perturbation)
+- Hypothesis: diving animals develop respiratory acidosis, and chemoreflex is the mechanism by which they restore homeostasis after a big dive
+### Slide 48
+- Why does the respiratory system regulate ventilation based on CO2/pH levels and not Oxygen levels?
+- Traditional hypothesis: Occurred at the transition from water to air - water breathers (Gil oxygenation) passive diffuse CO2 out (30x more soluble than O2 in h2O) and thus maintain low PaCO2.
+- However, in air oxygen is plentiful and CO2 is reversed, thus CO2 accumulates and animals require a method to deal with CO2 accumulation (respiratory acidosis) - increased ventilation (and bicarbonate retention)
+- Yet – it seems that the development of exercise normocapnia does NOT correspond to this, suggesting an alternative hypothesis .
+### Slide 49
+- Why is control system primarily based on CO2? Pt 2
+- “This is partly explained by the fact that CO2 (possessing a higher solubility at a similar molecular weight) is 20 times more diffusible across tissues than O2. Thus, alterations in metabolism/respiration are detected much more rapidly through CO2 chemosensory pathways.”
+- Peripheral chemoreceptors react faster
+- Also linear relationship?
+- [ ] citation 54 West Physiology
+- Ventilatory Response does not vary whether acidosis is metabolic or respiratory.
+### Slide 50
+- “Metabolic Ventilatory Drive” more important?
+### Slide 51
+- He BT, Lu G, Xiao SC, et al. Coexistence of OSA may compensate for sleep related reduction in neural respiratory drive in patients with COPD. Thorax 2017;72:256–62.
+- NREM drive to breath assessed by Ve / EMGdi ratio in overlap syndrome against COPD alone, OSA alone, and healthy subjects. (n16,19,14,12 each)
+- Ve decreased 10% in healthy, 24% in COPD, 21% in OSA, and 27% in OVS
+- Drive: decreased in COPD (20-30%), increased in OSA (in response to upper airway resistance), and remained unchanged on OVS (cancelled).
+- Thus, OVS may be protective against sleep hypoventilation?
+- ETCO2 similar between OVS and OSA - either deadspace increased in OVS or apneas/hypopneas were less consequential (traction?) – OVS had mostly hypopneas
+- Critique: no matching for disease or severity symptoms – are these differences in pathophysiology, or reflection of what conditions are often present at the diagnosis of sleep complaints?
+### Slide 52
+- Pathogenesis of obstructive sleep apnea in individuals with the COPD + OSA Overlap syndrome versus OSA alonePhysiological Reports. 2020;8:e14371. https://doi.org/10.14814/phy2.14371
+- OSA pathogenicity:
+- Anatomic factors: upper airway collapsibility (may stiffen when lung is hyper-inflated, but emphysema loss of elastic recoil may lessen this – hard to know a priori)
+- Neurologic / Physiologic factors: upper airway muscle response (worsened by ICS? Smoking?), respiratory-related arousability from sleep (may be lower in OVS due to frequent awakenings in the absence of upper airway collapse), control of breathing (respiratory drive generally increased)
+- Matched OSA (n15) to OVS (n15; most with moderate obstruction) on gender, age, BMI. Exclude: narcotics, sedatives, supp O2, recent exacerbation, BMI over 36, active smoking, heavy EtOH
+- PSG to determine Veupnea, Vpassive and Pcrit, Varousal/ArTh, Loop gain
+- “Consistent differences in key OSA traits were not observed between OVS and OSA alone.”. OVS: lower sleep efficiency, REM SpO2
+- Reduced upper airway response in those with air trapping; increased loop gain in those with worse airflow obstruction (contrary to expection; perhaps mediated by hypoxemia?). Somewhat lower arousal threshold – perhaps explains how hypercapnia can occur?
+- No difference in collapsibility: perhaps this is selection – if you have to have dx of OSA, then by definition the airway must be collapsable
+### Slide 53
+- Other factors besides chemoreflex arc
+- Pulmonary CO2 monitoring (hypothetical)
+- Central command (supramedullary inputs)
+- Sensory neurons from muscles of respiration via spinal cord.
+### Slide 54
+- How is this useful? Needs to lead to a prediction
+- Will supplemental O2 increase exercise capacity in non-hypoxemic COPD individuals with air trapping? (by decreasing chemoreflex sensitivity, as opposed to direct effects on hypoxia)
+- Yes (because it has very little to do with the PaO2 – though patients who are hypoxemic will have an especially steep HCVR curve)
+- Increased exercise capacity is not directly related to tissue hypoxemia.
+- Would other things that influence the loop gain work?
+- Will opiates increase exercise capacity in patients with dynamic hyperinflation? Yes (though potential to worsen hypercapnia)
+### Slide 55
+- Mechanism of cross talk is complex
+- https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00371.2021
+### Slide 56
+- Exercise
+- In light aerobic exercise, the gain of the hypercapnic ventilatory reflex is unchanged (Forster et al., 2012).
+- Classically taught as not involving the central chemoreceptors – however, they may be involved (through non-CO2 means)
+- during intense anaerobic exercise, when blood lactate accumulation occurs, breathing increases even further.
+- VCO2 can increase 30-fold with high-intensity exercise, reflecting both the high rate of skeletal muscle CO2 production and acid titration of CO2 stores. (Comp Phys 2012) – the acidification of the tissue beds (even if not due to contraction of muscle) leads to increased mobilization of CO2 stores.
+- Note: sustained, and elderly this is probably lower (see calculation earlier)
+### Slide 57
+- Exercise
+- Isocapneic hyperpnea: very precise regulation of Va compared to VCO2 at various work rates – 10-fold change (and among individuals with very different body size; and, unlike O2, it does not change with age). Interestingly, this can still be achieved after denervation of carotid bodies (at least at moderate work rates) - suggesting the primary mechanism involve sensors in the lungs and central control.
+- 1. Anticipatory, feed forward mechanism: allows increase in VA to occur prior to drop in pH (increase in CO2).
+- 2. Muscles provide feedback (blocking muscle afferents with curare lowers Va similar to drop from intrathecal fentanyl - interestingly this blockage can improve exercise performance in those with COPD)
+### Slide 58
+- Relation of VE/VCO2 to HCVR
+- Exercise: depends on both metabolic drive (poorly understood) and chemical drive (aka chemoreflex from central and peripheral baroreceptors)
+- VE/VCO2 depends on the direction and magnitude of change in PaCO2 with increasing exercise intensity and Vd/Vt
+### Slide 59
+- CPETS IN OSA https://doi.org/10.1007/s11325-021-02475-0
+- Obese patients referred to sport clinics. 3 groups: Obese, obese w untreated OSA, obese with treated OSA for at least 8 weeks.
+- Untreated OSA: lower VO2 max, lower peak VE, higher DBP, higher PETCO2 from the resp-compensation point to max
+- Max peak CO2 higher if you’ve been tolerating apneas -> reduced vent drive to breathe perhaps?
+### Slide 60
+- CPET in OSA - Meta-analysis – 2017x
+- Mild decrease in VO2 max with obesity
+- Lower HR: chronotropic incompetence from chronic downregulation of beta receptors? (or ventilatory limitation?)
+- No difference in peak minute ventilation, peak O2 pulse or peak systolic blood pressure
+- Confounds: activity level, adiposity/distribution
+- https://erj.ersjournals.com/content/51/6/1702697
+### Slide 61
+- Hypoventilation training for exercise performance
+- [ ] https://en.wikipedia.org/wiki/Hypoventilationtraining
+- Argument by PaCO2 VE (1-Vd/Vt) VCO2
+- Makes sense at rest…. Could spend less.
+- Buteyko Method https://en.wikipedia.org/wiki/Buteykomethod
+- -does have support in asthma https://pubmed.ncbi.nlm.nih.gov/32212422/
+### Slide 62
+- However, it seems like maximal exertion would be the operative natural selection pressure. If you ventilate less, would your oxygen delivery change? What is the oxygen extraction in tissues?
+- Isn’t there some data that extremely fit athletes desaturate at maximum exertion due to pulmonary limitation.
+- [x ] look in to this and think more deeply. Swenson’s GR lecture from a few years back? Only the fittest athletes are pulmonary limited (I believe would desaturate) – for the rest, gains could be made.
+- https://medicine.utah.edu/internalmedicine/grand-rounds/video.php?video0hzt79bct
+### Slide 63
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- “In subjects with chronic hypercapnia, there is an increased blood bicarbonate concentration, which may inhibit the ventilatory response to CO2 and decreases mouth occlusion pressure response during wakefulness and sleep [50]. When normocapnic, overlap patients can however have a normal or even enhanced ventilatory response to CO2 [51]. This is in contrast to the data on decreased hypercapnic (HCVR) and hypoxic (HVR) ventilatory response in OHS, as compared to obese, non-hypercapnic subjects [52].” – all these are pretty old references
+- Differentiation of OHS and OVS
+- OVS: can be non-obese, can have either maintained/elevated chemical drive to breath or decreased drive to breath
+- Reflects the gradual adaptation of chemoreceptors to hypercapnia / HCO3 elevation.
+- OHS: must be obese, must not have another chronic pulmonary condition; generally, seems to be mediated by a decreased drive to breath
+- Obesity: default is increased HCVR; if this fails, you get OHS find citation for this.
+### Slide 64
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- Spirometric abnormalities re: OHS pathogenesis
+- Note: for the purposes of this manuscript, it may make sense to point out that these are CONSEQUENCES of respiratory derangments, not consequences of them
+- “Various compensatory mechanisms are adopted by morbidly obese subjects to maintain eucapnia, despite chronically loaded breathing [82], but are impaired or overwhelmed in OHS.
+- Piper AJ, Grunstein RR: Big breathing: the complex interaction of obesity, hypoventilation, weight loss, and respiratory function. J Appl Physiol 2010,108:199–205.
+- Summary of Spirometry changes:
+- FVC, TLC, RV – 0.5% decrease per BMI
+- FRC and ERV – 1% decrease per BMI unit
+- 99. Jones RL, Nzekuwu MU: The effects of body mass index on lung volumes. Chest 2006, 130(3):827–833.
+- Due to ventilating at a lower volume, compliance decreases by:
+- 20% in eucapnic obese
+- 60% in hypercapnic obese (OHS only) - so possibly some component of can’t breathe
+- [110.] Sharp JT, Henry JP, Sweany SK, Meadows WR, Pietras RJ: The total work of breathing in normal and obese men. J Clin Invest 1964, 43:728–739.
+- Abdominal obesity, particularly when the patient is supine – also increased respiratory system inertance – leading to three fold increase work of breathing
+- [110,115]. 115. Lee MY, Linn CC, Shen SY, Chiu CH, Liaw SF: Work of breathing in eucapnic and hypercapnic sleep apnea syndrome. Respiration 2009, 77:146–153
+### Slide 65
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- Ventilation control abnormalities in OHS
+- VO2 higher, even at rest. Thus, higher drive to breath required [126, 127]
+- OHS patients fail to increase [52, 95]; can voluntarily regain eucapnia [86]
+- “hypercapnic ventilatory response is < 1 l/min/mmHg in OHS, between 1.5 and 2.5 l/min/mmHg in eucapnic obese individuals and 2-3 l/min/mmHg in healthy subjects [51,128,129].”
+- Improves with PAP [130, 131]
+- “It has been hypothesized that elevated leptin levels may be a compensatory mechanism by which obese subjects remain normocapnic, but resistance to leptin may develop [140].”
+- “Strikingly, leptin levels are a better predictor of hypercapnia than the degree of adiposity [148]”
+### Slide 66
+- Role of Leptin? PMID: 30309268
+- Leptin: produced by adipose tissue -> BBB -> suppresses appetite and increases energy expenditure
+- Prior research: ob/ob leptin knockouts -> impaired HCVR
+- In Mice with diet induced obesity ( leptin resistant, primarily due to impaired transport across BBB), intranasal (bypassing BBB) leptin relieves UA obstruction and stimulates respiration.
+- If the leptin is given intraperitoneally, there is no effect. The effect of intranasal leptin was mediated by receptor signaling in the hypothalamic and medullary centers
+- Both routes increase VCO2 by 5-6%; but intranasal increased VE 40% in NREM
+### Slide 67
+- Is the respiratory system overbuilt?
+- https://journals.physiology.org/doi/full/10.1152/japplphysiol.00444.2020
+### Slide 68
+- Wakefulness drive to breath
+- Defined in absence… the hockey stick (a maintained low level of ventilation) goes away when you go to sleep.
+- An increase in PaCO2 and/or hydrogen ion (with or without hypercapnia) results in an increase in the respiratory motor output (313).
+- The aforementioned responses to hypercapnia and hypoxemia occur in mechanically ventilated patients irrespective of whether they are awake or asleep (313). Responses to hypocapnia, however, occur only during sleep (and anesthesia) (86, 243)
+- Volitional control of breathing mediated through corticospinal tract. Crucial for resisting daytime apneas resulting from hypocapnia [ 85] because the reticular activiating system continues to discharge. [86]
+### Slide 69
+- How does this relate to central apneas?
+- Def: 10s pause. Synd requires 5+ central events /hr and 50+% of all events.
+- Either: high loop gain, or decreased central neuron output (e.g. narcotics/ataxic breathing - leads to decreases in HCVR)
+- Apneic threshold PaCO2 below which breathing stops during sleep. ~33-35 mmHg at sea level; presumably lower at elevation
+- PaCO2 to terminate an apnea ~1-4 CO2 higher than PaCO2 to start an apnea
+- Hypoxemia (e.g. elevation, ILD) -> physiologic hyperventilation lowers the PaCO2 baseline.
+- As PaCO2 baseline is closer to Apneic threshold ( called the CO2 reserve), CSAs become more common.
+- Occurs in NREM predominantly; much less common in REM
+- CO2 rebreathing (increased FiCO2) will eliminate central apneas by increasing the CO2 reserve (elevating PaCO2 by Comroe’s law).
+### Slide 70
+- Loop gain – central apneas
+- https://doi.org/10.12688/f1000research.18358.1
+### Slide 71
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119134/
+- Wellman 2011: “In this study, we present a noninvasive method for measuring four important physiological traits causing OSA: 1) pharyngeal anatomy/collapsibility, 2) ventilatory control system gain (loop gain), 3) the ability of the upper airway to dilate/stiffen in response to an increase in ventilatory drive, and 4) arousal threshold”
+- Methods that most pathophysiologic phenotyping uses
+### Slide 72
+- OSA research paradigm over the last 5 years: Phenotyping
+- Might different phenotypes of OSA – whether by symptoms (e.g. the “sleepy” phenotype seems to have more cardiovascular impact - https://academic.oup.com/eurheartj/article/40/14/1149/5146754?logintrue ) or by pathophysiology (loop gain, arousal threshold, airway pcrit)
+- This observation is driven by some patients being high on the traditional metric of AHI, but not experience symptoms. This may correspond to difference in degree of intermittent hypoxia, intrathoracic pressure swings, variations in sympathetic tone, differences in hemodynamic changes
+- E.g. sustained desaturation predicting cardiovascular risk?
+- Much of the data reviewed in the manuscript treats obstructive sleep apnea as a monolithic entity. However, increasing evidence points to heterogenous impacts on end-organ systems which may allow for increasingly precise characterization of the impacts of the disorder.
+- Goal: “Clarification of the purported end-organ susceptibility for systemic effects of OSA” and “Translation of the OSA subtypes into personalised medicine.“
+### Slide 73
+- Part 2: Mechanisms of Hypercapnia
+- Why are patients with COPD more prone to hypercapnia than patients with CHF, despite both having poor V/Q matching and pulmonary mechanics?
+- CHF patients perceive an increase in VCO2 in excess of the additional Ve needed to compensate for the deadspace fraction. This also happens in mild COPD
+- In severe COPD, VE required and MVV are close (dynamic hyperinflation, flow limitation) and CO2 cannot be defended
+- Why does CO2 raise during rebreathing (increased FiCO2), but not during increases in VCO2?
+### Slide 74
+- Why might hypercapnic respiratory failure commonly result from sleep disordered breathing?
+- 1. Loss of the wakefulness drive to breath
+- 2. Lower chemoreflex sensitivity
+- Numerous studies have documented blunted responsiveness to CO2 during sleep attributable to both an increase in the set point for CO2 and to a decrease in the ventilatory response slope to increasing PCO2. 7–11 (from doi:10.1016/j.jsmc.2014.05.014 )
+- In addition to changes in body mechanics making the reserve smaller
+- This occurs first/mostly in REM (both because drive and mechanics are most altered)
+- REM sleep hypoventilation is the first to develop, as ventilation in this stage of sleep is dependent on only the diaphragm and the central drive to breath. (normal PaCO2 increased 4-6 mmHg)
+- So more properly, anything cause daytime hypercapnia is likely to show up as nocturnal hypercapnia first.
+### Slide 75
+- Obesity and respiratory mechanics [ ] move
+- Relation of sleep to overall hypercapneic failure: (https://onlinelibrary.wiley.com/doi/full/10.1111/resp.12376)
+- the main reason for the particular vulnerability to hypoventilation during sleep is that sleep is associated with diminished ventilatory drive, particularly during rapid eye movement (REM) sleep
+- NREM: constant VE, mostly depends on central and peripheral chemoreceptors
+- REM: variable VE, reduced non-diaphragmatic muscle use
+### Slide 76
+- Nocturnal hypoventilation: 10 mmHg increase in PaCO2 compared to daytime.
+### Slide 77
+- Why might capnometry (# output) or capnography (waveform output) be helpful in sleep studies?
+- SpO2 traditionally is used as a surrogate for ventilation (under the assumption that decreased ventilation will lead to desaturation)
+- However:
+- Desaturations can occur for other reasons than apneas or hypopneas (ie, COPD related SDB
+- Depending where someone is on the oxygen-hemoglobin dissociation curve, drops in PaO2 may or may not cause drops in SpO2
+- If a patient is on supplemental oxygen, hypopneas and hypoventilation may almost never cause desaturations.
+- The combination of Oximetry and Capnometry could differentiate hypoventilation-caused-hypoxias from V/Q-mismatch-caused hypoxias
+- Note: if unstable breathing patterns, TcCO2 may be preferred to EtCO2 due to absence of stable expiratory plateaus
+### Slide 78
+- OHS as a model disease
+### Slide 79
+- Rate of accumulation of CO2
+- --Apneic Oxygenation in Man 1959 -> rate of accumulation is 3-4 increase in mmHg per minute in the acute setting
+- No changes in bicarbonate (ie. this is all acute)
+- https://pubmed.ncbi.nlm.nih.gov/13825447/
+- From this, you ought to be able to calculate how long it takes to reach steady state… though Vd would change with the size of the bicarbonate buffering system.
+- CO2 stores - Farhi LE and Rahn H. Dynamics of changes in carbon dioxide stores. Anesthesiology 21: 604–614, 1960.
+### Slide 80
+- CO2 sequestration in the body:
+- Carried in blood as dissolved (small), carabamino compounds (some), and bicarbonate ion (majority see to the right)
+- Over longer term, CO2 will be sequestered in bone as CaCO3, and other tissues
+- 120L volume CO2 (100x greater than oxygen)
+### Slide 81
+- Patient D.J.
+### Slide 82
+- Patient D.J.
+- PCO2?
+### Slide 83
+- Patient D.J.
+- PCO2?
+- 2.2g CO2 1mol/44 g CO2 0.05 mol 50 mmol
+- 12 oz 355 mL
+- 50 mmol / 0.355 L 140 mmol/L
+- More carbonated than cola.
+- Carbonic anhydrase >
+- Ideal gas law
+### Slide 84
+- Equilibration of PaCO2 when Ventilation changes?
+- Not symmetric: classic teaching loading is 3x slower than unloading
+- Hyperventilation will lead to drop in all compartments of CO2 stores quickly
+- Hypoventilation – raise will be slower
+- T1/2 after reduction in ventilation ~16 mins; after increase in ventilation ~3 minutes
+- Vs 30 seconds for Oxygen
+- Might be an artifact of deadspace according to Gattinoni DOI: 10.1164/rccm.202005-1687OC
+### Slide 85
+- How much CO2 is ‘sequestered’? From https://doi.org/10.1152/jappl.2000.88.1.257
+### Slide 86
+- DOI: 10.1164/rccm.202005-1687OC
+- Healthy human stores of adult male: 1.75L per kg
+- Estimate: Blood 2.4%, Interstitium 8.8% of total, remaining 89% is in tissue (slow compartment).
+- The majority of CO2 (80%+) is stored in a slow compartment (ie. not the blood and interstitium; the amount depends, probably, on the amount of carbonic anhydrase in each compartment)
+- This provides a rationale for NIV’s effect on dayitime effect on PaCO2, intermittent ECCO2R in hypercap resp failure (and the noted phenomena where people don’t reach steady state in ECCLS trials)
+### Slide 87
+- Contribution of Apneas – CO2 loading and unloading
+### Slide 88
+- CO2 loading and abnormal HCO3 handling
+- Transient CO2 load during apneic/hypopneic events -> kidneys retain HCO3
+- HCO3 excretion is slower than PCO2 – will persist into the day
+- If CO2 Loading/HCO3 retention is severe enough (or retention disordered) that it is not fully normalized, persistent HCO3 retention (met alkalosis) occurs
+- Excess HCO3 decreases the HCVR (change in PCO2 leads to buffered change in H+ CSF) -> hypoventilation and hypercapnia during the day.
+- How many patients with a diagnosis of OHS are on loop diuretics? How many were started on loop in the year preceding diagnosis?
+### Slide 89
+- Pathogenesis
+- Asleep
+- Awake
+- REM
+- CO2 Level: Solid
+- HCO3- Level: Dashed
+- ERS Stage 0: At risk if BMI 30+; normal otherwise
+### Slide 90
+- Pathogenesis
+- Asleep
+- Awake
+- REM
+- CO2 Level: Solid
+- HCO3- Level: Dashed
+- ERS Stage 1: Obesity-associated sleep hypoventilation, intermittent
+- Supine?
+- AHI up
+- Physiology: HCO3- changes slower than CO2
+### Slide 91
+- Pathogenesis
+- Asleep
+- Awake
+- REM
+- CO2 Level: Solid
+- HCO3- Level: Dashed
+- ERS Stage 2: Obesity-associated sleep hypoventilation, sustained
+- Physiology: HCO3- retention
+### Slide 92
+- Pathogenesis
+- Asleep
+- Awake
+- REM
+- CO2 Level: Solid
+- HCO3- Level: Dashed
+- ERS Stage 3: sustained hypoventilation
+- Physiology: HCO3- lowers CO2 response
+### Slide 93
+- Pathogenesis
+- Asleep
+- Awake
+- REM
+- CO2 Level: Solid
+- HCO3- Level: Dashed
+- ERS Stage 4: sustained hypoventilation + cardiometabolic comorbidities
+- Physiology: increased risk of pHTN, etc.
+### Slide 94
+- Inter-apneic periods insufficient to unload the large amount of CO2 produced and retained during apneic periods (Ayappa I, Berger KI, Norman RG, Oppenheimer BW, Rapoport DM, Goldring RM. Hypercapnia and ventilatory periodicity in obstructive sleep apnea syndrome. Am J Respir Crit Care Med. 2002;166(8):1112-1115.)
+- -> thus, apneas -> CO2 sequestering. Inter apnea ventilation has to increase (which will be limited by the constraints of the respiratory system and the temporal V/Q mismatching)
+### Slide 95
+- How does acute become chronic?
+### Slide 96
+- Chronic Moderate Hypercapnia Suppresses Ventilatory Responses to Acute CO2 Challenges – J App Phys 2022
+- Goat data: 14d exposure to
+- room air (GR1; control)
+- 6% inspired CO2 (GR2; mild CH)
+- 7d of 6% InCO2 followed by 7d of 8% InCO2 (GR3; moderate CH).
+- Mild CH group: transient decrease chemoreceptor (change in MV to change in PaCO2); Mod more-so and gastric CO2 offloading occurs and blunting of reflex becomes sustained.
+- Increased ventilation in both GR2 and 3 beyond what was expected by initial chemoreflex sensitivity measurements.
+- ’Submissive Hypercapnia’: ‘Permissive hypercapnia that is induced by clinicians to allow for PaCO2 to increase, submissive hypercapnia is the decision of one’s respiratory controller to succumb to the present hypercapnia through limiting increases in ventilation and thus preserving energy requirements’ [48]
+### Slide 97
+- HCO3
+- 3-5 days to reach steady state metabolic compensation in dogs; unknown time in humans
+- Acute: 0.1 mEq/L per 1 mmHg – modified some by pre-existing degree of HCO3. Not dependent on kidney (carbamate buffering)
+- Chronic: 1960s – 0.35 to 0.4 mEq/L per 1mmHg Co2 increase; 0.48 - 0.51 mEq/L per 1mmHg more recently; depends on renal function.
+- Summarized in doi: 10.1053/ j.ajkd.2019.05.029
+### Slide 98
+- J Am Soc Nephrol 21: 920–923, 2010. doi: 10.1681/ASN.2009121211
+- Acute resp compensation – nonbicarbonate buffer systems. Validated in numans
+- Chronic resp secondary process: extrapolated from dogs (who often have resp alkalosis; unclear applicabil)
+- COPD data suggests 0.35, though steeper slope suggested in some studies
+- Met alk: likely takes 24-36 hours. 0.7 ratio is from human studies
+### Slide 99
+- doi:10.1155/2012/915150
+- Renal bicarbonate retention primarily mediated by NH4 excretion, though phosphate / pendrin also play a role. {?NH4+ Cl-}
+### Slide 100
+- Sources of HCO3 variability outside Ve response - DOI: 10.1080/10408363.2019.1568965
+- Women: menstrual cycle – PaCO2 drops 3 mmHg during luteal cycle; SBE drops 2 mmol/l
+- Gas in the syringe / preclinical issues (e.g. time for leukocytes to metabolize)
+- Alkaline tide after a meal
+### Slide 101
+- DOI: 10.1378/chest.14-1970
+- NOTE: it is not clear if HCO3 elevation is a causative agent, a secondary acid-base response, or both (as in the case where ~40% of the change in HCO3 is a result of the feedback – mentioned in J Am Soc Nephrol 21: 920–923, 2010. doi: 10.1681/ASN.2009121211
+### Slide 102
+- SBE / Base Excess
+- HCO3 does about 75% of the buffering
+- Base excess amnt of acid needed to achieve pH 7.4, CO2 40. Empirically determined (though there is inter-individual variation in size of non-bicarbonate buffers)
+- BE HCO3−24.8 + β · (pH−7.40); β is buffer power of non-hco3 (which depends on hemoglobin, o2 satl, etc – often proprietary formula)
+- -2 to +2 mmol / L is normal; BE – Blood, BE-ECF SBE
+- For our purposes (hypercapnia research) – a function of same variables; no added information
+- https://doi.org/10.1007/s00134-022-06748-4
+### Slide 103
+- Does the PaCO2 ‘set-point’ change?
+- For example, in OHS:
+- Loop gain terminology primarily describes tendency toward stability of ventilation. ‘Gain’ of the feedback loop.
+- Controller gain: ventilatory response to PO2 and PCO2 )
+- Plant gain: changes in pulm capillary blood PO2 and PCO2 in response to changes in vent
+- Mixing gain: effective circulation time – time which cap blood changes are sensed by controller
+- Many changes are known to influence chemoreflex sensitivity
+- Ventillatory long-term facilitation is the process that should keep things on track
+- Ventilatory long-term facilitation is the term for adaptation to chronic stimulus (ie. sustained hypercapnia should increase loop gain to re-establish a baseline, and if this goes wrong you get a ‘wandering baseline’)
+### Slide 104
+- 1963 - Operation Hideout
+- 21 sailors breathed normal atmosphere for 9 days, then 42 days of 1.5% (FiCO2 0.015; normal is 0.0004)
+- Alveolar CO2 increased, renal compensation occurred by 24 days. Ventilation changes?
+- Burgraff et al 2018 (https://pubmed.ncbi.nlm.nih.gov/30211447/) – reduction in cognitive performance throughout the 30 days of hypercapnia (6% FICO2), PaCO2 to 55, higher ventilation – transient increase in chemoreflex, then return to normal
+### Slide 105
+- FiCO2 – Comroe’s Law
+- Modification to alveolar gas equation for FiCO2: [ ] TODO
+- Second order effects: hyperventilation and acid-base compensation… to a point.
+- At least 3% (21 mmHg) handled: https://apps.dtic.mil/sti/pdfs/AD0664899.pdf - increase of PaCO2 of 3mmHg, increase of HCO3 of 1 mEq immediately, 2 mEQ by day 5. Small increase in resting VE, larger increase with exercise.
+- 7-10% FiCO2 cause acidosis, by that reference. (“Schwartz’ studies”)
+### Slide 106
+- Submarines and Space Shuttles
+- Until the advent of nuclear submarines, atmospheric regulation limited duration of submersibles (e.g. Diesel uses O2 combustion).
+- Now, can keep at 0.5 to 1.5% CO2 with molecular sieves (think Styrofoam that holds the CO2, then can be flushed outside the vessels)
+- 1% atmospheric CO2 increased inspired PCO2 7.5 mmHg and increased Ve 2-3L/min., with lots of variability. – but after a few days the increased ventilation declines and Ve returns to normal – PCO2 increases to reflected the increased inspired CO2. – believed to reflect attenuation of the central chemoreceptor response
+### Slide 107
+- Chronic hypercapnia by inspired CO2
+- At 1.5% CO2 inspired, kidneys able to normalize pH. Though paCO2 level increases
+- At 3.0% and 6%, kidneys are only able to partially compensate, even after 30 days
+- Bicarbonate excretion in urine was undetectable for 7 days after returning to room air -> suggesting maximal retention was ongoing to coordinate.
+### Slide 108
+- FiCO2 35% and the case of S.M.
+- SM, amygdala fat deposits, carbon dioxide inhaled fear. Due to Urbach-Wiethe Dz
+- No fear to conventional stimuli, but high concentration of inhaled CO2 (35%) still provoked panic - ‘first time experienced fear since childhood’ https://www.nature.com/articles/nature.2013.12350
+- https://www.nature.com/articles/nn.3323
+- > fear mechanism is independent of amygdala. (In this case fear comes through the chemo receptors, and not to the amygdala)
+- Justin Feinstein NIH grant Oklahoma inhaled carbon dioxide
+- https://grantome.com/grant/NIH/P20-GM121312-01-6548
+- RCT - https://clinicaltrials.gov/ct2/show/NCT03925987
+### Slide 109
+- FiCo2 35% fear toxin?
+- Batman Begins - fear bag co2
+- https://chrisnolan.fandom.com/wiki/Feartoxin
+- Dr. Jonathan Crane Batman Begins (3/6) Movie CLIP - The Doctor Isn't In (2005)
+- ‘Scarecrow’ https://www.youtube.com/watch?vtgV57vrkKuc
+- Administrator
+### Slide 110
+- Aside; Naked mole rats evolved tolerance
+- See https://link.springer.com/chapter/10.1007/978-3-030-65943-19 for review
+### Slide 111
+- Presentation of Hypercapnic Resp Failure
+- Patients with hypercapnic respiratory failure are diagnosed either
+- In a compensated state when they are referred to a pulmonologist or sleep medicine physician (30-70% for OHS)
+- In a decompensated state when they are admitted to the hospital
+- Does this apply to across causes of hypercapnia?
+- Probably, not studied though
+- Does this apply to Utah?
+- Probably not. Can you think why?
+### Slide 112
+- When does hypercapnia cause hypoxemia?
+- SpO2 <90% catches people’s attention
+- Corresponds to a PaO2 of ~55 mmHg (depending exactly on the individual’s oxygen hemoglobin dissociation curve.
+- Normal A-a gradient? 4 + (0.25 Age)
+- Critical PAO2 paO2 + (Normal A-a gradient)
+- Critical PAO2 51 + 0.25 Age
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- PAO2 (650 – 47) 0.21 – (PaCO2 / 0.8) + 0.21 PaCO2 (1-0.8)/0.8
+- PAO2 126.63 – (PaCO2 / 0.8) + 0.05 PaCO2
+- PAO2 126.63 – 1.3 PaCO2
+- At 4500 ft:
+- PaCO2 58.17 - 0.19 Age
+- At seal Level:
+- PaCO2 75.95 – 0.19 Age
+### Slide 113
+- TODO: No text extracted from this slide.
+### Slide 114
+- TODO: No text extracted from this slide.
+### Slide 115
+- Hypoxemia Response - DOI: 10.4187/respcare.10075
+### Slide 116
+- https://doi.org/10.1089/ham.2015.0097
+- Est for compensated HCO3 – 1.5 Meq /L HCO3 change per 1000 meters.
+### Slide 117
+- Relatedly, normal SpO2 values:https://thorax.bmj.com/content/73/8/776.abstract
+- “We have shown the expected reduction
+- of SpO2 with altitude, an effect that
+- is more evident at altitudes over 2500 m.
+- We have also shown increased variability
+- in the range of SpO2 measurements at
+- higher altitude”
+### Slide 118
+- TODO: No text extracted from this slide.
+### Slide 119
+- ‘CO2 Clearance’
+- Analagous to creatinine kinetics
+- Urine volume : VE (exhaled volume)
+- [Ucr] : FExhaled CO2
+- Implication: the further down on the ventilation axis or right on the PaCO2 axis you are, the larger the change in CO2 that will occur from a given change in Ve
+- similar to sCr 5 not being much diff than 6, 70 not much different than 80 as PaCO2 (just faster)
+- However, due to Dalton’s Law (Alveolar partial pressures), this will STILL have a large impact on hypoxemia – linear relationship described by PAO2 FiO2 (PB-47)—(PaCO2/R)
+- Or a smaller change in, say, deadspace leads to a bigger overall change in CO2 excretion
+- Thus, something that changes the HCVR will have a larger impact on CO2 in someone with a higher baseline CO2
+- Clinical implication: Susceptibility to ’exacerbations’ with a perturbation in the controller system or the respiratory systems ability to respond
+### Slide 120
+- Hypercapnia: indicates frailty of the respiratory system
+- Distance between ‘MVV’ and Ve required strength of the control system to resist a stressor.
+- Might this be a metric of ‘frailty’ of the control system? – less reserve in respiratory system more prone to this
+- Returning to the reason why we don’t live at PaCO2 70 and HCO3 44: there is only so much space in an alveoli – and already 79% of inhaled air is N2)
+- Converse situation of why it is advantageous to develop methods to hyperventilate at altitude: allow more room in the alveoli for oxygen greater buffer.
+- Protective effect from hypercapnia? 10.1016/j.jcrc.2017.04.033 – acute respiratory failure (probably not – table 2 fallacy)
+### Slide 121
+- Resp System Frailty increased at altitude
+- CO2 above ~83 mmHg displaces O2 on room air down to ~20 mmHg PaO2 lower limit of life
+- PaO2 FIO2(Patm-Pb) – (PCO2/R), thus for R 0.8, PaO2 will drop by 1.25 for each CO2 rise.
+- Thus, any CO2 higher than this must be artificially supported by supplemental oxygen.
+- Severe hypercapnia REQUIRES O2 to be administered.
+- Blue line being at elevation
+- At elevation, hypercapnia ought to be more apparent, because it will show up as hypoxemia faster
+- How much O2 should it take to fix?
+### Slide 122
+- “ submissive hypercapnia, an intelligent brain strategy to conserve the work of breathing when restoration of normocapnia becomes difficult or impracticable because of ventilatory or gas exchange limitations.”
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568120/
+- Patients with milder COPD/CHF have ventilatory insufficiency and increased drive to breath that maintains eucapnia – what changes as disease worsens?
+- Respiratory controller “say’s uncle” when faced with insurmountable ventilatory limitation – tolerate hypercapnia when difficult to restore normocapnia due to ventilatory or gas exchange limitation
+### Slide 123
+- Clinical implication
+- Recurrent ‘exacerbations’ likely
+- How often are these admissions ‘acute on chronic’ by ABG?
+- How often are A-a gradients ‘normal’?
+- Quantifying the morbidity associated with respiratory failure at different elevations?
+### Slide 124
+- Symptoms of hypercapnia?
+- CO2 narcosis occur when CO2 rises above 90-120 mmHg
+- However, because it is not as lipid soluble as other compounds (e.g. N2) – the effects seem to be more closely mediated by intracellular pH, cerebral blood flow, metabolic processes than ‘narcosis’ in the same way.
+- Causes hypoxemia by a few mechanisms
+- Dalton’s law and alveolar oxygen displacement
+- Moves O2-Dissociation curve to the right
+- Changes V/Q matching (e.g. increased pulm artery pressure)
+- HA (HA correlated with FiCO2 on international space station https://pubmed.ncbi.nlm.nih.gov/24806559/)
+### Slide 125
+- To what extent is the ‘normal A-a gradient’ hypoventilation ABG a myth?
+- OHS – common to have elevated A-a gradient owing to atelectasis
+### Slide 126
+- DOI:https://doi.org/10.1016/j.chest.2017.11.010
+- Acute Hypercapnia
+### Slide 127
+- Occupational Exposure Limits CO2
+- Outdoors: 420 ppm (0.042%)
+- Indoors (typically) 1,000 ppm (0.1%)
+- Cognitive function ~900 – 1400 pp (Jasen Allen, Pilots)
+- 8-hour OEL 5,000 ppm (0.5%)
+- 20,000 ppm (2%) – headache, dyspnea on exertion
+- 15-minute 30,000 ppm (3%) OEL (leads to increased ventilation, weakly sedating, autonomic signs)
+### Slide 128
+- Hypercapnia symptoms in NASA experiments
+- Healthy astronauts rebreathe up to 8% (60mmHg) CO2 to be familiar with the symptoms
+### Slide 129
+- J Clin Sleep Med. 2022;18(1):245–254.
+- In SDB, relationship between cog impairment and hypoxemia (and thus sleep fragmentation) is inconsistent and weak
+- Patients with SDB who had no hypercapnia, night-time only, or nighttime+daytime hypercpapnia assess for cog performance:
+- Daytime hypercapnia: delayed processing speed and cognitive impairment
+- Nightime(only) hypercapnia: delayed processing speed
+- Small effect sizes…
+### Slide 130
+- https://jcsm.aasm.org/doi/10.5664/jcsm.9558
+- Severe OSA -> PSG with TcCO2. Avg BMI 41ish. COPD more common in frank hypoventilation group
+- No hypovent (84), Isolated sleep hypovent (40), awake hypovent (122)
+- Lower MOCA and RAVLT scores in hypovent group
+- Also, independent association with PaCO2 and TcCO2 and lower MOCA & DSC
+- Sidebar: used PaCO2 over 40 as threshold at 1100m elevation
+-  cognitive impairment is very common in patients with hypercapnia.
+### Slide 131
+- Hypoxemia due to hypoventilation
+- Thought of analogous to breath holding – degree of hypoxemia with sleep apneas depends on lung volume, blood O2/CO2 level at onset, and ability to ventilatory load compensate between apneas.
+### Slide 132
+- OHS pathophysiology – not all mechanical
+- Patients with OHS can achieve eucapnia during voluntarily hyperventilation, implying that impairments in respiratory system mechanics alone do not explain the hypoventilation [86].
+- Only 50% of those BMI 50+ manifest abnormalities in PaCO2
+- Not all mechanical. Also, obesity has only mild affect on lung mechanics (except ERV)
+- Yet, Chest wall restriction (via VC), BMI, and severity of OSA are all independent predictors. ERS suggests screening with "FVC <50% and venous bicarbonate >27 mmol (A)."
+### Slide 133
+- Even spirometry abnormalities are not mech
+- Lung function impairment was associated with metabolic syndrome (prevalence 15.0%) independently of age, sex, smoking status, alcohol consumption, educational level, body mass index, leisure-time physical activity, and cardiovascular disease history (odds ratio [OR] [95% confidence interval], 1.28 [1.20-1.37] and OR, 1.41 [1.31-1.51] for FEV(1) and FVC, respectively)
+- https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.utah.edu/19136371/
+- Fine print: appears that abdominal adiposity is -> perhaps this is the ‘mechanism’
+### Slide 134
+- Pathogenesis:
+- Increased metabolic burden (VCO2) of obesity, and mechanical loads are pre-requesite (necessary) pathophysiologic changes.
+- However, diminished ventilatory response to hypercapnia discriminates between very obese patients with and without hypercapnia, thus seems to be a required piece to develop the syndrome
+- or a result of another causally related process – such as bicarbonate retention.
+- Supporting evidence: the VE/VCO2 slope is decreased during exercise is morbidly obese men and women and is accompanied by signs of ventilatory limitation during exercise (increased PETCo2 at vent threshold) -> decreased ventilatory response - https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.202006-746OC
+### Slide 135
+- Work of breathing in obesity
+- VO2 declines 16% in obese vs <1% in lean when sedated/paralyzed (estimate of work of breathing). 5:
+- FRC decrease (increased WOB due to ventilating on less compliant portion of P-V curve) seen in Kg to CM ratio > 0.7
+- Tidal expiratory flow-limitation -> air trapping
+- This occurs to some extent in all obese patients: the normal response is increased HCVR to maintain eucarbia despite the excess load.
+- Explains why HCVR response might lead to OHS but not lead to hypercapnia in normal weight individuals
+### Slide 136
+- Drive to breath in OHS:
+- VO2 and VCO2 increase in obesity – similarly, the drive to breath (HVS and HVCPs) increase (by P0.1/Pimax) in eucapnic obese patients (and goes back to normal with weight loss).
+- In OHS, it appears that this increase in drive to breath does not occur for unknown reasons.
+- This may occasionally be mediated by the increase bicarbonate (from chloride depletion). An open question: how often are patients who are obese but eucapneic (or more properly, just nocturnal hypercapnia) started on loop diuretics, and then subsequently found to have ‘obesity hypoventilation’?
+- May have to do with leptin signaling – known to cause satiety and central resp stimulation – thus resistance may relate to obesity and decreased HCVR
+### Slide 137
+- Drive to breath and work of breathing
+### Slide 138
+- Hypothesized that lack of increase in respiratory drive increases risk of developing hypercapneic respiratory failure when load increases
+- Decreased HCVR not inherited (same in 1st degree rels - Jokic R, Zintel T, Sridhar G et al. Ventilatory responses to hypercapnia and hypoxia in relatives of patients with the obesity hypoventilation syndrome. Thorax 2000; 55: 940–5.)
+- A useful bedside test is to show that the patient voluntarily can easily and rapidly hyperventilate and within a minute normalize oxygenation and produce a PCO2 below 40 mm Hg.28 Leech J, Onal E, Aronson R, Lopata M. Voluntary hyperventilation in obesity hypoventilation. Chest 1991;100:1334– 1338
+### Slide 139
+- OSA causes reversible decrease(?) in vent drive
+- Old data
+- https://www.atsjournals.org/doi/abs/10.1164/arrd.1987.135.1.144
+- Note: I think these patients mostly had OHS or some nocturnal hypoventilation, and thus the comparison is not strictly valid.
+### Slide 140
+- Sufficient-Component Cause Model
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient cause sets, this component must be present
+- 3 Different Sufficient Causes
+- A – J Component Cause
+- A Necessary Cause
+### Slide 141
+- Causes of Hypercapnia
+- Severe COPD
+- Sufficient Cause
+- If PaCO2 > 52 mmHg, 2-4 weeks after exacerbation
+- no other causes of ↑️ CO2
+- [Area represents a population of patients]
+### Slide 142
+- Causes of Hypercapnia
+- Severe COPD
+- Obesity Hypovent
+- Sufficient Cause
+- BMI over 30, SDB, PaCO2>45
+- no other causes of ↑️ CO2
+### Slide 143
+- Causes of Hypercapnia
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- Sufficient Cause
+- FVC <50%, nocturnal hypoventilation or sleep problems -> nocturnal ventilation improves outcomes
+- no other causes of ↑️ CO2
+### Slide 144
+- Causes of Hypercapnia: Hypothesis
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+### Slide 145
+- Causes of Hypercapnia: Hypothesis [ ] keep in
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+- Opiates as Component Cause
+- Loop Diuretics as Component Cause
+- Sleep Apnea as Component Cause
+### Slide 146
+- Multicausality
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient sets, this component must be present
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 147
+- Does hypercapnic respiratory failure ever occur before steady state hypercapnia develops?
+- In a large study of patients with OSAS, Laaban and Chailleux found 11% to be hypercapnic. Risk factors for hypercapnea in this study included higher BMI and reduced FVC
+- Though 7.2% of hypercapneic OSAS had BMI < 30. COPD was excluded.
+- BMI, VC, PaO2 only explain <10% PaCO2 variance.
+- Laaban JP, Chailleux E. Daytime hypercapnia in adult patients with obstructive sleep apnea syndrome in France, before initiating nocturnal nasal continuous positive airway pressure therapy. Chest 2005; 127: 710–15.
+### Slide 148
+- ERS defines 4 stages of obesity hypoventilation
+- 0. Pure OSA (no hypoventilation)
+- 1. Obesity sleep related hypoventilation - with morningevening, with normal bicarbonate (<27) during the day
+- 2. Obesity sleep related hypoventilation - with morning worse than evening, with abnormal bicarbonate (27+) during the day – CO2 not fully breathed off during inter-event period
+- 2b. Awake base excess – HCO3 retention that occurs through the night not fully reversed
+- 3 and 4. Awake hypoventilation / elevated PaCO2 – with our without comorbidity
+- Increased HCO3 lowers HCVR and causes frank hypoventilation.
+- Note: one unknown is whether Loop diuretics push patients from stage 2 to 3 to 4. Study idea: how many at each phase are on diuretics?
+-  research question: how many patients who have elevated bicarbonate do, actually, have transient nocturnal hypoventilation? This would be easily answerable with a cohort of newly diagnosed patients with HCO3 over 27 who prospectively add on TcCO2 and see how many have 10 mmHg increases in CO2.
+### Slide 149
+- https://doi.org/10.1016/j.sleep.2021.12.015
+- Patients referred for Sleep eval, BMI over 30
+- ABGs, TcCO2 at night, and BMP used to stratify
+- 62 of 419 had some form of hypoventilation
+- 29 stage 1
+- 14 stage 2
+- 5 stage 3
+- 14 stage 4
+- PFT/Pleth, CPET, HCVR (rebreething) tested
+- Decreased HCVR independently predicts OHS, others don't though differ in univariate analyses
+### Slide 150
+- Is HCO3 elevation without hypovent part of the spectrum?
+- CHEST - https://journal.chestnet.org/article/S0012-3692(15)30169-0/fulltext
+- These data suggest that obese individuals with a raised BE, despite normocapnia while awake, should probably be regarded as having early obesity-related hypoventilation
+- SUSPECTED TO BE TRUE IN COPD TOO: Holmedahl NH, Øverland B, Fondenes O, et al. Sleep hypoventilation and daytime hypercapnia in stable chronic obstructive pulmonary disease. Int J Chron Obstruct Pulmon Dis 2014; 9: 265–275.
+### Slide 151
+- Diagnosing OHS using that classification
+- Data from India: They (Sivam, JCSM) found 19% of ORSH (class I and II) and 17% of OHS (class III and IV), which was similar to 21.6% and 10.8% seen in our study (Goyal, Sleep Med) in obese people (BMI >30 kg/m2), respectively.
+### Slide 152
+- OHS Mechanisms – proposed
+- CO2 production and alveolar dead space can’t be the whole story, because it doesn’t explain why only a minority of obese patients retain CO2
+- Either due to predisposition (e.g. blunted HCVR, though hasn’t been found)
+- OR long term adaptation as occurs in submariners rebreathing CO2
+- Proof would be in intervening on one of these steps
+### Slide 153
+- OHS Mechanisms
+### Slide 154
+- Why are obese patients fluid overloaded?
+- Frequently have HFpEF, ?Cor Pulmonale
+- Are obese patients always fluid overloaded due to an increase in pleural pressure -> CVP has to be higher for a given preload?
+- Additionally, a high bicarbonate level indicates a metabolic alkalosis but does not differentiate a primary from a compensatory one. Because obese patients are frequently hyperaldosteronemic and are often on diuretics, corticosteroids, or both, they are prone to develop primary metabolic alkalosis that triggers mild compensatory hypercapnia.7 ,8
+### Slide 155
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- “Peripheral edema can be present in the absence of right heart failure in COPD and is not diagnostic of cor pulmonale [46].”
+- Weitzenblum E, Apprill M, Oswald M, Chaouat A, Imbs JL: Pulmonary hemodynamics in patients with chronic obstructive pulmonary disease before and during an episode of peripheral edema. Chest 1994, 105:1377–1382.
+- Sodium retention is enhanced by hypercapnia and ameliorated by long-term oxygen therapy in hypoxemic patients [47].
+- De Leeuw PW, Dees A: Fluid homeostasis in chronic obstructive lung disease. Eur Respir J 2003, 22(Suppl 46):33s–40s.
+### Slide 156
+- Part 3 – other causes of hypercapneic respiratory failure - physiology
+- COPD
+- COPD, OSA overlap
+- CHF
+- Neuromuscular disease
+- Opiates? (To what extent does this cause chronic hypercapnia in isoluation?)
+- Restrictive Thoracic Disease
+- CF? (ILD)
+- Lastly, epidemiologically – patients who are ventilated and undergoing permissive hypercapnia.
+### Slide 157
+- Ventilatory Failure in COPD – not due to the obstruction itself
+- Increase in resistance on 5-10 cmH2O/L/S in severe COPD – easily surmountable. 37
+- Modeling suggests virtually no stress on respiratory control system despite reductions in FEV1 to 50% of predicted. FEV1 to 50% of predicted (306). Even when FEV1 is reduced to 20% of predicted, the increase in respiratory motor output needed to maintain normocapnia is fairly small.
+- > instead, it is the mechanical loading (elastic load from hyperinflation), threshold load from AutoPEEP, and functional weakness of the inspiratory muscles.
+- The work of breathing in severe COPD is 10 to 12 times greater than normal - Loring SH, Garcia-Jacques M, Malhotra A. Pulmonary characteristics in COPD and mechanisms of increased work of breathing. J Appl Physiol (1985) 2009:107:309–314. 15% of total oxygen consumption at rest, higher with exertion.
+### Slide 158
+- Proportion developing Hypercapnia?
+- https://www.dovepress.com/getfile.php?fileID53396
+- Also- Also -
+- Hypercapnia; Acute / Recurrent Acute / Acute on Chronic / Chronic; Various timecourses.
+### Slide 159
+- Spirometry is misleading for this
+- FVC depend on expiratory muscles, whereas work of breathing is achieved by the action of inspiratory muscles (FEV1 should be better, no?). Thus, doesn’t correlate well at all with development of hypercapnia
+### Slide 160
+- Due to airtrapping and mechanical loads
+- Instead, expiratory flow limitation: delays lung emptying with the result of inspiration starting before emptying has finished
+- Net: dynamic hyperinflation.
+- This worsens when demands are increased
+- And in sleep – NREM (increased upper airway resistance and blunted chemosensitivity) and REM (upper airway collapse and skeletal muscle atonia)
+- Dynamic Hyperinflation: operates on less compliant part of pressure/volume curve (more work of breathing), this increased VCO2, Vd?vt increases, mechanical disadvantage of the diaphragm
+- Load compensation takes place until late in the disease (309) during the DAY, but this falls apart at night (114,296)
+### Slide 161
+- Drive to breath in COPD
+- Increased compared to patients without COPD - both by P0.1 and diaphragm activity.
+- Interestingly, differences in drive to breathe do not separate hypercapneic patients with COPD from normocapnic.
+- Persists essentially until respiratory system can’t eliminate further CO2, then bicarbonate compensation comes in to play
+### Slide 162
+- Sleep in COPD without OSA
+- https://www.dovepress.com/getfile.php?fileID19163 Holmedal
+### Slide 163
+- Non-apnea related hypoventilation in COPD
+- Sleep disordered breathing in COPD has many non-apnea components – for examples ~30% decreased in Ve during REM sleep may be enough to significantly increase PaCO2, even after have left REM
+- Because patients with COPD have increased physiological dead space, the rapid shallow breathing that normally accompanies bursts of eye movements in REM sleep produces an even greater decrease in alveolar ventilation than in healthy subject. This can account for virtually all the hypoxaemia observed in REM sleep in patients with COPD.54
+- Significant hypoventilation during sleep is common in advanced COPD and was reported in 43% of 54 subjects with advanced COPD by O'Donoghue et al. 56
+- Compensatory renal retention of bicarbonate may then lead to impairment of ventilatory control and maintenance of daytime hypercapnia 55.
+- COPD - non-OSA sleep disordered breathing prevalence? (e.g. CSA, hypoventilation, sleep fragmentation). Overlap syndrome is actually a mix of separate pathophysiology: OSA, CSA, worsening airflow obstruction, hypoventilation, oxygen desaturation, and sleep fragmentation.
+### Slide 164
+- REM paralysis not absolute.
+- However, some evidence that non-diaphragm REM atonia is not universal: after acute exacerbation of COPD, some able to recruit inspiratory muscles during REM -100
+- And parasternal intercostals remains activated in healthy indivs in REM sleep - 101
+### Slide 165
+- Pathogenesis of obstructive sleep apnea in individuals with the COPD + OSA Overlap syndrome versus OSA alonePhysiological Reports. 2020;8:e14371. https://doi.org/10.14814/phy2.14371
+- OSA pathogenicity:
+- Anatomic factors: upper airway collapsibility (may stiffen when lung is hyper-inflated, but emphysema loss of elastic recoil may lessen this – hard to know a priori)
+- Neurologic / Physiologic factors: upper airway muscle response (worsened by ICS? Smoking?), respiratory-related arousability from sleep (may be lower in OVS due to frequent awakenings in the absence of upper airway collapse), control of breathing (respiratory drive generally increased)
+- Matched OSA (n15) to OVS (n15; most with moderate obstruction) on gender, age, BMI. Exclude: narcotics, sedatives, supp O2, recent exacerbation, BMI over 36, active smoking, heavy EtOH
+- PSG to determine Veupnea, Vpassive and Pcrit, Varousal/ArTh, Loop gain
+- “Consistent differences in key OSA traits were not observed between OVS and OSA alone.”. OVS: lower sleep efficiency, REM SpO2
+- Reduced upper airway response in those with air trapping; increased loop gain in those with worse airflow obstruction (contrary to expection; perhaps mediated by hypoxemia?). Somewhat lower arousal threshold – perhaps explains how hypercapnia can occur?
+- No difference in collapsibility: perhaps this is selection – if you have to have dx of OSA, then by definition the airway must be collapsable
+### Slide 166
+- Thus: nocturnal hypoxemia (due to unmeasured hypercapnia) is common in patients with advanced COPD even without OSA
+- One of the major puzzles in COPD is why do some patients develop hypercapnia and others do not (269).
+- Indeed, even when patients develop acute increases in PaCO2 as a result of severe progressive respiratory failure they develop increases in respiratory drive (173, 227, 277).
+### Slide 167
+- COPD – OSA overlap (OVS) - pathogenesis
+- Similar to OHS, obstructive events cause CO2 loading, which the disadvantaged pulmonary system cannot compensate for.
+### Slide 168
+- Chapman et al. demonstrated that in eucapnic morbid obesity without OSAS, the hypercapnic and isocapnic hypoxic ventilatory response fell after weight reduction surgery (gastroplasty) such that for a given oxygen saturation, the mean ventilation was significantly lower in the less obese state (Chapman KR, Himal HS, Rebuck AS. Ventilatory responses to hypercapnia and hypoxia in patients with eucapnic morbid obesity before and after weight loss. Clin. Sci. (Lond.) 1990; 78: 541–5.)
+- “disturbances in lung function and ventilatory control in obese eucapnic sleep apnoea patients are intermediate along a continuum from simple obesity to OHS” Gold AR, Schwartz AR, Wise RA et al. Pulmonary function and respiratory chemosensitivity in moderately obese patients with sleep apnea. Chest 1993; 103: 1325–9.
+### Slide 169
+- https://pubmed.ncbi.nlm.nih.gov/11917259/
+### Slide 170
+- Chest 2021 Review O2 in SDB
+### Slide 171
+- Additive effect of OSA to Obesity/COPD
+- “Sleep [apnea] can further exacerbate the dysfunction as it leads to reduced respiratory motor neuron output, increased upper airway resistance (ie, obstructive sleep apnea, OSA), and diminished chemoreceptor sensitivity.”
+- “Patients who have both obesity and obstructive airways disease contributing to their hypoventilation are often excluded from clinical trials—patients with a forced expiratory ratio < 0.7 are excluded from OHS trials,7–9 while the presence of obesity or OSA often results in exclusion in long-term BPAP trials in pure COPD”
+### Slide 172
+- https://jcsm.aasm.org/doi/10.5664/jcsm.9506
+- Prior lit: OHS lit excludes COPD, COPD lit excludes OHS. What to do with both?
+- N 32 stable outpatients with chronic hypercapnic respiratory failure and concurrent obesity and COPD (req: PaCo2 over 45, bmi over 30, FEV1/FVC < 0.7, not on pap). Randomized; single blinded
+- BiPAP-S more effective at reducing PaCO2 than CPAP over 3 months; also increasing FEV1
+- Though no difference in functioning
+- Small driving pressure (6) compared to COPD lit.
+### Slide 173
+- Other Hypercapnic OSAS?
+- Thus, in order for hypercapnic OSAS to develop, other factors (e.g. chronic obstructive pulmonary disease, hypoxia, heart failure, kyphoscoliosis, infection, sedatives or diuretic therapy) need to be present to impair the acute ventilatory compensation for transient sleep hypercapnea.
+- What portion of patients who are hypercapnic with OSA meet OHS definition?
+- Spectrum from OHS -> pure OSA.. With OVS or other overlaps in the middle
+### Slide 174
+- CHF as a cause of hypercapnia
+- An increased respiratory load resulting from interstitial edema secondary to acute left-ventricular failure together with decreased blood flow to the respiratory muscles may markedly impair respiratory muscle performance and reduce the time to task failure (14).
+- Classically, Hypocapnia is anticipated:
+- 1. Peripheral chemoreceptors are unregulated (thought related to 'stagnant hypoxia' at the carotid bodies - low shear stress, blood flow, and CO) and thus they are hypersensitive (both increased loop gain - CSR and periodic breathing in exercise - and baseline hyperventilate). 2. Transient Pulm HTN in exercise can also stimulate C fibers.
+### Slide 175
+- CHF
+- Stage 1: interstitial fluid (can be up to 500mL with minimal extra pressure)
+- Stage 2 Crescentic filling of the alveoli
+- Stage 3 Alveolar Flooding
+- Stage 4 Froth in air passages
+- Historically taught that hypoxemia and stimulation to vagal nociceptors results in hyperventilation – which may be true, until load is too great
+### Slide 176
+- CHF Physiology
+- Normally, enhanced peripheral chemoreflex responsiveness (both to hypoxia and to hypercapnia) -> upreg SNS and downreg PNS, sympathetic-respiratory coupling, irregular breathing.
+- VD/VT as well as increased chemoreflex sensitivity increase contributes to the pathologic increase in Ve/VCO2
+- Thus, it’s likely that hypercapnia must result from either an imposed load (edema) or some change in this upregulation (opiates?)
+- Would neurohormonal blockade block this (e.g. Losartan) upregulation and predispose to hypercapnic respiratory failure?
+### Slide 177
+- Opiate Induced Resp Depression
+- Mu receptor mediates pain relief and depression of respiration (normal RR drops first, then tidal volume reduced – HCVR and HVR reduced)
+- Partial agonists have a reduced effect on breathing
+- Equianalgesic doses of various opiates have same effect – though rapidity of onset determines whether apnea is caused, or just hypoventilation.
+- Degree of response is state dependent (co-ingestions, sex, physiologic state)
+### Slide 178
+- Depth of sedation / respirolysis
+- https://journals.lww.com/ccmjournal/fulltext/2021/12000/managingpatientventilatordyssynchrony.18.aspx
+### Slide 179
+- Morphine in exercise
+- In health -> morphine decreased Ve by decreasing Vt primarily
+- While morphine decreased HCVR and HVR, it did not change the VeCO2 or O2 cost of exercise
+### Slide 180
+- Opiates during delivery
+- https://www.ingentaconnect.com/content/wk/ane/2017/00000124/00000003/art00029
+### Slide 181
+- Neuromuscular disease
+- The topic of respiratory muscle fatigue is complex and the interested reader is referred to a detailed review of the topic (Laghi F, Tobin MJ. Disorders of the respiratory muscles. Am J Respir Crit Care Med 168: 10-48, 2003.).
+- Respiratory muscle fatigue can develop whenever ventilation must be maintained at greater than 50% of maximal voluntary ventilation
+- Mador MJ, Magalang UJ, Rodis A, Kufel TJ. Diaphragmatic fatigue after exercise in healthy human subjects. Am Rev Respir Dis 1993;148:1571–1575.
+- Freedman S. Sustained maximum voluntary ventilation. Respir Physiol 1970;8:230–244.
+### Slide 182
+- Neuromuscular disease
+- Corticospinal tracts connect resp centers to spinal motor neurons – ventilatory drive problems when abnormal.
+- MS – ventilation control problems and bulbar sx -> aspiration
+- SCI - https://breathe.ersjournals.com/content/12/4/328.short
+- ALS – NPPV suggested when FVC <50% pred, MIP < -60, SNIP less than 40, or sleep disordered breathing identified.
+- Dipharagmatic dsfxn – neuropathic, myopathic, or metabolic.
+- Duchenne/Becker/Myotonic Dystrophy – muscle weakness.
+- Graphic from: Geneva area NIV initation prev. CHEST
+### Slide 183
+- Neuromuscular hypoventilation
+- First occurs during REM sleep (lowest drive and muscle paralysis)- Base excess of 4 mEq correlates. - can be tested at home with ET CO2. For progressive conditions, often predates awake failure by years.
+- Can lead to blunted ventilatory responses in the day (perhaps predisposing to exacerbations, even beyond steady state failure)
+- NPPV likely improves survival in ALS
+- https://www.atsjournals.org/doi/10.1164/rccm.201210-1804CI
+### Slide 184
+- ILD? CF
+- https://www.karger.com/Article/Pdf/369862 In Germany NIPPV offered to patients with ILD and hypercapnia (30 w hypercap, 374 w/o)
+- Treated with NIPPV, in addition to pulmonary rehab. Improved 6 MW outcome (compared to at enrollment – not a comparative study)
+### Slide 185
+- Pleuroparenchymal Fibroelastosis (PPFE)
+- Bilateral upper lobe idiopathic interstitial pneumonia -> can cause more ventilatory failure due to affecting vent predom lung.
+- 52 patients w PPFE by Reddy’s criteria received TcCO2 sleep: 53.8% had sleep hypoventilation. Associated with PaCO2 and HCO3; worse lung function
+- Worse prognosis, often comorbid COPD
+- HR 4.84 (only other predictorsGAP & BMI)
+- Yabuuchi et al. Respiratory Research (2022) 23:295
+- https://doi.org/10.1186/s12931-022-02224-1
+### Slide 186
+- Part 4 - Epidemiology
+- Questions:
+- How often is the diagnosis of hypercapnic respiratory failure (or perhaps, a specific subtype) made during an acute exacerbation?
+- Of all blood gasses obtained within ED, 24h or admission to hospital or admission to ICU with respiratory acidosis and metabolic alkalosis (inferring, this is often compensation)– how many are acutely decompensated vs acute on chronic? How many have been labeled as having a cause of hypercapnia on discharge?
+- (what proportion of patients have some degree of blood gas compensation?
+- Review all labels of.. Say.. OHS and see how it was diagnosed (labor intensive)
+### Slide 187
+- Other citations not yet reviewed:
+- Thorax 2001: data on all RICU admissions: https://pubmed.ncbi.nlm.nih.gov/11312406/
+- Thorax 2004: COPD Vent Failure readmissions: https://pubmed.ncbi.nlm.nih.gov/15563699/
+- BMJ Open 2017: https://bmjopen.bmj.com/content/7/6/e013924
+### Slide 188
+- Inpatients (ICU or Floor)
+- Identified by initial ABG PaCO2 over 45, “excluded iatrogenic causes/sedation”.
+### Slide 189
+- New Feb 2022: Australia, 1 hospital
+- 12 month period prevalence; ’ Hospital from 1st January 2013 to 31st December 2017 whose first arterial blood gas (ABG) sample taken within 24 hours of presentation revealed PaCO2 >45 mmHg and pH ≤7.45. We excluded blood gas results where the SaO2 was at least 10% lower than the pulse oximetry SpO2, as these were assumed to be venous specimens
+- Also excluded out-of-hospital cardiac arrest, traumatic injury, or sedation.
+- Excluded 144 VBGs, 739 nosocomial cases > 1135 episodes from 891 persons.
+### Slide 190
+- Est prevalence 163 per 100,000 population
+- HR increased remarkably by age: “Compared to those aged 45 to 54 years, each successive decade of life conferred increases in HRF prevalence by 2.1, 6.2, 15.7 and 26.2”
+- Acidosis in 55%
+- “In the absence of a readily accessible screening tool in lieu of ABG sampling, our study provides valuable data on HRF prevalence estimates which should be considered minimum values in comparable populations.“ call for research
+### Slide 191
+- Further analysis of same data: DOI: 10.1111/resp.14388 New South Wales Group Chung et al
+- Review of diagnostic codes applied to the cohort
+- 52.4% had Charlson Comorbidity index above 5
+- 6% having OSA is not believable. Unclear how accurate diagnoses are (e.g. Obesity in 5%?)
+- Believability of those conclusions suspect
+- The in-hospital mortality rate was 12.8%. Most (94%) deaths occurred in patients aged 55 years and over.
+- NMD are likely to be under-diagnosed in prevalence-based estimates (due to worse trajectory)
+### Slide 192
+- https://www.atsjournals.org/doi/pdf/10.1164/rccm.201608-1666OC
+- N78 patients, consecutive; Geneva. Recruited at ICU discharge after surviving PaCO2 over 6.3 kpa and requiring invasive or NIV. Exclude NM dz, iatrogenic, or with persisting confusion
+- 21% had been hospitalized in the last yr for resp failure. 67% had COPD. 81 percent of patients without COPD were obese. 29% had OSA known (mostly untreated); 66% of those tested had mod-severe OSA. 51% had COPD&OSA. 44% had HFpEF, ~16%ish had pHTN
+- Patients who were not treated for OSA had higher readmissions (similar with others)
+### Slide 193
+- Readmission after Hypercapneic Resp Failure
+- https://link.springer.com/content/pdf/10.1007/s00408-019-00300-w.pdf UVM
+- 202 patients admitted with acute hypercapneic resp failure
+- Identified by ICD code. (Study question: comparison of ICD code to ABG?)
+- Comorbs: 29% CHF, 24% OSA, 6% OHS, 46% COPD, 10% Asthma
+- Admission reason: 50% resp failure, 11% pneumonia, 23% AECOPD, 5% overdose, 12% sepsis, 29% cardiac disease
+- 23% readmission within 30 days; higher with peripheral vascular disease, active smoking, ILD and Bronchiectasis; increased with compensation (bicarb 40-49 vs 20-29)
+### Slide 194
+- Timing of NIV: COPD vs OHS
+- “Guidelines for chronic hypercapnic COPD recommend a 2- to 4-week recovery period following hospitalization for COPD exacerbation before assessing for noninvasive ventilation to confirm that chronic hypercapnia is persistent (eg, PaCO2 ≥ 52 mm Hg)”
+- This recommendation is derived from the fact that 21% of patients with COPD recruited for the Home Oxygen Therapy-Home Mechanical Ventilation (HOT-HMV) trial were excluded because the hypercapnia on discharge resolved after 2 to 4 weeks.
+- Conversely, the guidelines for OHS suggest hospitalized patients with OHS be continued on PAP therapy following hospital discharge until they undergo polysomnography, ideally within the first 3 months of discharge.6
+- This recommendation is driven by a mortality difference at 3 months postdischarge between patients with OHS discharged without PAP (16.8%) and with PAP (2.3%).14
+### Slide 195
+- Rationale for better clarifying chronicity:
+- Bayesian pretest probability during workup of an undifferentiated patient.
+- Data suggesting that morbidity is high regardless of etiology – clarifying where efforts might be best targeted.
+- Begin differentiating the hypercapnia itself from being causally harmful from it being an indication of respiratory system failure.
+- Though: note that 1 abg cannot tell you chronicity. - https://emcrit.org/ibcc/hypercapnia/
+### Slide 196
+- How often is there ‘pure’ hypoventilation
+- Study 0: Normal A-a gradient and hypoxemia? How often ‘pure’ hypoventilation?
+- Obesity physiology - https://onlinelibrary.wiley.com/doi/full/10.1111/j.1440-1843.2011.02096.x
+- In the two previously mentioned studies, the subjects with BMIs of 49–50 were free of pulmonary disease and had A-aO2 gradients of 22.6 ± 2.838 and 19 ± 9 mm Hg,40 respectively. Therefore, although obesity can cause a mild widening of the A-aO2 gradient, this is not sufficient to cause frank hypoxaemia.
+- 38. https://pubmed.ncbi.nlm.nih.gov/7212333/ ABG+PFTs before and after weight loss showed that ERV improved and the A-a gradient decreased with weight loss
+- 40. https://pubmed.ncbi.nlm.nih.gov/17296634/ - prop bari surg - Twenty-five morbidly obese individuals (mean [SD] age, 3910 years; mean BMI,49.7 kg/m2; mean body fat, 50.6%; mean waist circumference, 13515 cm; mean W/H ratio,0.970.11). the alveolar-arterialoxygen pressure difference (P[A-a]O2) was 199 mm Hg (range, 1 to 37 mm Hg); inear regression showed that 32% and 36%,respectively, of the variance in the P(A-a)O2and PaO2
+- VA population: how often are pure hypoventilation disorders misdiagnosed and mismanaged? (how often does an O2 consultation follow?)
+### Slide 197
+- Current classification scheme: chronic OHS
+- When OSA occurs in conjunction with chronic hypercapnia – it is termed obesity hypoventilation syndrome if there are no other contributing factors. (it should be noted, that 10% of patients meeting OHS criteria do not have diagnosable OSA)
+- However, there are no unique symptoms that differentiate OHS from OSA. Can be considered as a spectrum of abnormality as in the ERS classification system.
+- Vs Component cause chronic hypercapnia
+- Vs Acute (or acute recurrent hypercapnia; or acute on chronic?)
+### Slide 198
+- Why might hypercapnic respiratory failure commonly result from sleep disordered breathing?
+- 1. Loss of the wakefulness drive to breath
+- 2. Lower chemoreflex sensitivity OVS data contradicts this. [] reconcile
+- Numerous studies have documented blunted responsiveness to CO2 during sleep attributable to both an increase in the set point for CO2 and to a decrease in the ventilatory response slope to increasing PCO2. 7–11 (from doi:10.1016/j.jsmc.2014.05.014 )
+- In addition to changes in body mechanics making the reserve smaller
+- This occurs first/mostly in REM (both because drive and mechanics are most altered)
+- REM sleep hypoventilation is the first to develop, as ventilation in this stage of sleep is dependent on only the diaphragm and the central drive to breath. (normal PaCO2 increased 4-6 mmHg)
+- So more properly, anything cause daytime hypercapnia is likely to show up as nocturnal hypercapnia first.
+### Slide 199
+- Sufficient-Component Cause Model
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient cause sets, this component must be present
+- 3 Different Sufficient Causes
+- A – J Component Cause
+- A Necessary Cause
+### Slide 200
+- Causes of Hypercapnia: Hypothesis
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+- Opiates as Component Cause
+- Loop Diuretics as Component Cause
+- Sleep Apnea as Component Cause
+### Slide 201
+- Multicausality
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient sets, this component must be present
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 202
+- Hypercapnic Resp Failure Diagnosis/Epi
+- Study 5:
+- How frequently are patients with hypercapneic respiratory failure admitted? Either with the label applied, or a determination by blood gas (in a way, the relation between those two groups would be strengthened by the result of study 1).
+- -Clinical outcomes: readmission, cost, mortality (done in UMich paper)
+- - identify those at high risk of re-admission (by CPAP use or referral?
+- How often is an acute exacerbation caused by something known to decrease controller gain / chemoreflex? (Opiates, oxygen) -> vs what portion are due to some inability in the respiratory system to cope (worsening underlying physiology, reduced plant gain)
+- What happens after the exacerbation? Particularly in patients where the problem was in the controller gain / sensing portion (won’t breathe) – do they immediately go back to the ‘normal’ set point. If not, why not?
+### Slide 203
+- Cavalot et al. 1 yr acute hypercap RF in ED
+### Slide 204
+- Ambiguity in terms: Respir Care 2019;64(12):1545–1554
+- OHS obesity, hypercapnia, and absence of other causes. Does CHF count?
+- Lyon France, 4 ICUs, resp ward, sleep center: Resp failure w/ acidosis <7.35, PaCO2 of 45+, and need for ventilatory support + prior or later dx of OHS
+- 72% had OSA, 54% had “CHF” causing their acute respiratory failure.
+-  implication: clinicians apply label of OHS to patients with CHF
+### Slide 205
+- Reasons for Home NIV
+- Euroven: 6.6 per 100k DOI: 10.1183/09031936.05.00066704
+- Canada (Canuvent): DOI: https://doi.org/10.4187/respcare.03609
+- AUS/NZ: DOI: 10.1183/09031936.00206311
+- Percentage of users in each disease category by country (see Methods section for an explanation of disease categories). ▪: lung/airways; : thoracic cage; □: neuromuscular.
+- S. J. Lloyd-Owen et al. Eur Respir J 2005;25:1025-1031
+### Slide 206
+- Trends- DOI: https://doi.org/10.1016/j.chest.2020.02.064
+- “The population of patients under chronic NIV has also changed, from the initial predominantly restrictive indications (sequelae of TB, postpolio syndrome, chest wall disorders, and neuromuscular disorders) to a progressive increase of patients with chronic respiratory failure (CRF) because of obesity hypoventilation syndrome (OHS), COPD, and overlap syndromes which started in the late 1990s”
+- Obesity was highly prevalent: BMI was $ 30 kg/m2 in 270 patients (55%), $ 35 kg/m2 in 180 patients (37%), and $ 40 kg/m2 in 106 patients (22%).
+- NIV was initiated electively in 247 subjects (50%) vs in an emergency setting for 220 (45% of all patients; not specified for 22 patients; 5%). Most patients were started on NIV as inpatients (n ¼ 400; 82%) vs 73 (15%) as outpatients (not specified for 16 patients; 3%)
+### Slide 207
+- Home mechanical ventilation: Is there a change in prescription patterns in the last 10 years?
+- ERJ Open Research 2022 8: 41; DOI: 10.1183/23120541.RFMVC-2022.41
+- 1 clinic in portugal: 2011 (175), 2016 (257), 2021 (495 patients)
+- More men, older patients.
+- 45% in latest are OHS. COPD is also most common.
+### Slide 208
+- OHS - Epidemiology
+- ERS summary: https://err.ersjournals.com/content/28/151/180097
+- Either diagnosed at:
+- 1. 30-70% diagnosed during respiratory decompensation, often not at the first one. (Reportedly, affects 50% of hospitalized patients with BMI over 50) 9, 26, 29, 60, 69
+- 2. Or at the time of escalation outpatient care to a pulmonologist or sleep medicine physician. (Presentation resembles OSAS)
+- The cohorts (depending how they are identified) seem to have significant differences
+### Slide 209
+- OHS likely to track obesity
+- Updated obesity updates and forcasts - https://www.ajpmonline.org/article/S0749-3797(12)00146-8/fulltext
+- OSA trends - Peppard PE, Young T, Barnet JH, Palta M, Hagen EW, Hla KM. Increased prevalence of sleep-disordered breathing in adults. Am J Epidemiol. 2013;177(9):1006-14.
+### Slide 210
+- OHS prevalence – Enriched populations
+- Bariatric surgery screening - 67.8% - https://www.atsjournals.org/doi/10.1513/AnnalsATS.202002-135OC
+- Admitted to ICU due to hypercapneic respiratory failure – very high rate of missed diagnosis (previously diagnosed with COPD or CHF, for example)
+- BMI over 50 and hospitalized or undergoing surgery (Kaw et al)
+- Between 10% to 20% of patients referred to sleep laboratories have OHS (76, 242, 267), with the incidence increasing as the BMI range increases (265,283) - https://doi.org/10.1002/cphy.c140008
+- Simulation based on those prevalences: “Although not well known, the prevalence of OHS increases as the prevalence of obesity increases (7, 8), with an estimated prevalence of 0.3–0.4% in the general population, 10–20% in patients with sleep-related breathing disorders, and nearly 50% among hospitalized patients with BMI greater than 50 kg/m2.” - Mokhlesi B. Obesity hypoventilation syndrome: a state-of-the-art review. Respir Care 2010; 55:1347–1362.
+### Slide 211
+- TODO: No text extracted from this slide.
+### Slide 212
+- OHS Diagnosis
+- Review OHS diagnoses – how many of them meet objective criteria for obesity hypoventilation syndrome? Look at the converse: people with BMI 35 and compensated CO2 over 52 and see how many have the diagnoses vs other explenations vs no further workup. (this would represent a subset of all patients – as it would primarily include those who have had blood gas assessments, which would bias towards those that came in during exacerbations).
+- All ABG based work is going to have some hyperventilation. Has there been research into this?
+### Slide 213
+- OHS diagnosis
+- (interestingly, it seems like loop diuretic use likely can predispose to nocturnal -> daytime hypercapnia re: diagnosis of OHS. This seems like an area where renal physiology might get in the way… perhaps look in to this?)
+- What proportion of ‘OHS’ patients have loop diuretics on board?
+- “ OHS being more likely in the presence of morbid obesity, greater severity of pulmonary hypertension (dependent oedema more common) and more severe nocturnal oxygen desaturation”
+- - Banerjee D, Yee BJ, Piper AJ, Zwillich CW, Grunstein RR. Obesity hypoventilation syndrome: hypoxemia during continuous positive airway pressure. Chest 2007; 131: 1678–1684.
+- [ ] research question: how often is it that these patients are on a loop diuretic?
+### Slide 214
+- However, even among the morbidly obese (BMI >40 kg/m2) with OSA, less than one quarter develop OHS. (Laaban JP, Chailleux E. Daytime hypercapnia in adult patients with obstructive sleep apnea syndrome in France, before initiating nocturnal nasal continuous positive airway pressure therapy. Chest 2005; 127: 710–715.)
+### Slide 215
+- HCO3 utility in diagnosis:
+- a prevalence of 5% is typically seen in patients with SDB with BMI of 30 to 34.9 kg/m2, 10% is typically seen in patients with BMI of 35 to 40 kg/m2, and 20% is seen in patients with BMI >40 kg/m2
+- Balachandran JS, Masa JF, Mokhlesi B. Obesity hypoventilation syndrome epidemiology and diagnosis. Sleep Med Clin. 2014;9:341–347.
+- Pooled sensitivity of HCO3 27 or higher: 0.86, pooled specificity 0.77 among patients with high pre-test probability for OHS (e.g. sleep disordered breathing assessment).
+- +LR 3.7, -LR 0.18
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6680300
+### Slide 216
+- Arterial (calculated) vs Venous (measured)
+- DOI 10.1515/cclm-2015-0333
+- Comparison of measured venous carbon dioxide and calculated arterial bicarbonates according to the PaCO2 and PaO2 cut-off values of obesity hypoventilation syndrome
+- 41% of all patients presented a bias > 1 mmol/L between the two methodologies, and 52% of the selected patients (Table 1).
+- Respectively, these proportions were 11.5% and 24% if considering a bias > 2 mmol/L.
+- Calculated bicarbonate concentrations were increased compared to the measured ones. A previous study also showed higher calculated bicarbonate values compared to measured ones (+0.36±1.23 mmol/L)
+### Slide 217
+- Comparison of arterial and venous blood gases in patients with obesity hypoventilation syndrome andneuromuscular disease DOI: 10.4103/atm.ATM2919
+- 2017, Turkey. STABLE adult outpatients with NMD (46, most commonly ALS, muscular dystrophy, ) or OHS (32)
+- ABG and VBG w/n 5 minutes; 14 (38.9%) had hypercapnia at the time; 86.1% were on NIMV
+- “When all patients who had pCO2 >45 mmHg in ABG were analyzed, the cutoff value was found to be >50 mmHg for VBG (sensitivity 87.5% and specificity 72.4%).” HCO3 has higher concordance.
+- Regressions
+- pH artery 3.393 + 0.545 pH vein
+- PCO2 artery 8.940 + 0.663 pCO2 vein
+- HCO3 artery 6.844 + 0.739 HCO3 vein.
+### Slide 218
+- Peripheral venous and arterial blood gas analysis in adults: are they comparable? A systematic review and metaanalysisRespirology (2014) 19, 168–175 doi: 10.1111/resp.12225
+- SRMA; paired ABG VBG. 18 studies. 1750 subjects (for co2 and ph)
+- pH mean diff 0.033 (0.029 – 0.038) – high degree of heterogeneity. Summary limits of agreement -0.023 to 0.09.
+- Across a range (studies) of mean 29.6 – 79.5 mmHg paco2, -4.15 mmHg higher (2.77 – 5.54) in VBG. -> suggests 95% LOA of 55 mmHg would be needed
+### Slide 219
+- Cochrane Review 2014: VBG for T2 RFhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353148/
+- Differentiate “respiratory acidosis” as more analogous to “ventilatory failure” – acidosis when the resp system is unable to meet the demand.
+- [ ] never completed? Nice bbackground from authors who have thought about this
+### Slide 220
+- Inpatient Diagnostic Pathway for S.D.B. w Hypoventilation
+- “Because arterial blood gas (ABG) was not available on all patients, we utilized a broad definition of hypoventilation defined as ABG during index admission with partial pressure of carbon dioxide (PCO2) ≥ 45 mmHg or end-tidal CO2 (ETCO2)/transcutaneous CO2 (TCCO2) during PSG ≥ 50 mmHg for at least 10 minutes”; inpatient sleep study requested by medicine team or pulm/cards consult.
+- Retrospective Review
+- Most frequently OHS or HFpEF
+- Admitted with CHF exac, COPD exac, or other
+- 90-day readmission was 19.5% in patients who were adherent to PAP therapy vs 55.5% in nonadherent patients (a 65% reduction). 20 of 45 (44.4%) excluded patients with hypoventilation had 90-day readmission.
+- Minimal matching and control for healthy adherer bias
+### Slide 221
+- Stewart approach; Respir Care 2010;55(11):1453–1463 – may be better than corrected ion gap at identifying metabolic processes in hypercapnia
+- Non-respiratory disorders related to high strong ion difference were observed in 12% of patients with elevated HCO3–
+- Non-respiratory disorders related to low strong ion difference were observed in 9% of patients with non-elevated HCO3-
+- Stewart approach detected high effective strong ion difference in 13% of normal standardized base excess, and in 20% of normal anion gap corrected for albuminemia, and low effective strong ion difference in 22% of non-elevated HCO3
+### Slide 222
+- Frequency of missed diagnoses
+- “It is a condition underappreciated by clinicians; with one study showing among patients admitted to internal medicine services with OHS, only 23% were diagnosed and only 13% commenced on appropriate therapy”
+- - Nowbar S, Burkart KM, Gonzales R, Fedorowicz A, Gozansky WS, Gaudio JC, Taylor MR, Zwillich CW. Obesity-associated hypoventilation in hospitalized patients: prevalence, effects, and outcome. Am J Med 2004;116:1–7.
+- Characteristics of patients with the "malignant obesity hypoventilation syndrome" admitted to an ICU.
+- Marik PE, Desai H J Intensive Care Med. 2013 Mar-Apr; 28(2):124-30.
+- Marik and Desai found that 8% of all admissions to a general ICU met criteria for OHS. All OHS patients had been admitted with acute on chronic hypercarbic respiratory failure, and of these patients, nearly 75% were misdiagnosed and treated for obstructive lung disease despite having no evidence of obstruction on pulmonary function testing.
+### Slide 223
+- Obesity – Airway disease missed dx
+- Veterans (5000) in PNW - DOI: 10.1378/chest.13-2759
+- BMI category increase reduced likelihood of airflow limitation
+- In each higher category, likelihood of an inappropriate diagnostic label increased as did likelihood of being started (and remaining a year later) on inhalers, inappropriately.
+- Gershon and colleagues studied the healthcare burden of COPD overdiagnosis and demonstrated that individuals with overdiagnosed COPD had 89% higher rates of hospitalizations, 42% higher rates of emergency department visits, and 52% higher rates of ambulatory care visits compared with people without COPD after adjustment for age and sex (10).
+### Slide 224
+- Obesity physiology - https://onlinelibrary.wiley.com/doi/full/10.1111/j.1440-1843.2011.02096.x
+- In the two previously mentioned studies, the subjects with BMIs of 49–50 were free of pulmonary disease and had A-aO2 gradients of 22.6 ± 2.838 and 19 ± 9 mm Hg,40 respectively. Therefore, although obesity can cause a mild widening of the A-aO2 gradient, this is not sufficient to cause frank hypoxaemia.
+- 38. https://pubmed.ncbi.nlm.nih.gov/7212333/
+- 40. https://pubmed.ncbi.nlm.nih.gov/17296634/
+### Slide 225
+- OHS patients:
+- More cardiovascular disease if they have milder OSA https://pubmed.ncbi.nlm.nih.gov/26923627/
+- OHS patients are able to voluntary hyperventilate to eucapnia whereas patients with hypercapnia and obstructive airway disease cannot https://pubmed.ncbi.nlm.nih.gov/1935291/
+### Slide 226
+- OHS EMR phenotype
+- Study 3: Develop an EMR phenotype for OHS
+- (Challenge: identify patients from EMR) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6318047/
+- —use structured data (dx codes, labs, etc.) vs unstructured (would need NLP - my thought is to avoid this for now)
+- —Likely would need to initially establish PPV and NPV of the algorithm, ideally (maybe with random sampling / review of negatives): this seems likely to be it’s own small publication
+- “Alternatively, sensitivity (true positive rate) and specificity (true negative rate) can be calculated by applying the algorithm to already curated or gold-standard data. “
+### Slide 227
+- Issues around case definitionHx Discussed here: https://breathe.ersjournals.com/content/17/3/210089
+- awake hypoventilation (PaCO2 > 45 mm Hg at sea level; 42 mmHg at elevation)
+-  how should we adjust this for our elevation? Yes, possible instrumental variable
+- Is this known? We do lessen the ‘hypoxemic’ buffer
+- Should we include VBGs suggesting compensation (e.g. using the Farkas transformation)?
+- ‘We propose that the definition of OHS should be based on obesity, plus a PaCO 2 ≥45 mm Hg (6 kPa) OR an arterial base excess >3 mmol/L OR a standard HCO 3− >27 mmol/L (in the absence of another cause for a metabolic alkalosis)’
+- --https://thorax.bmj.com/content/thoraxjnl/69/1/83.full.pdf
+- Should bicarb 27 be used? (also can be quantified as base excess over 2 mmol/l - In this prospective observational cohort study, we have demonstrated that obese subjects with a raised BE, but with a normal daytime Pa co 2 , have a ventilatory response between those of normal obese subjects (with-out evidence of awake hypoventilation) and those with hypercapnia and, thus, conventionally defi ned OHS.
+- Effect of ABG on hyperventilation - https://www.heartandlung.org/article/S0147-9563(16)30304-1/fulltext - Respiratory rate increased slightly during arterial puncture without any change in PETCO2. Hence, acid–base status must be interpreted without the assumption of procedure induced hyperventilation.
+### Slide 228
+- OHS treatment
+- BiPAP (quicker blood gas normalization)
+- CPAP also usually works, and probably no long term difference
+- Bariatric Surgery: unknown,
+- Study idea: use our bariatric cohort (not known precisely how many have OHS) to see if bicarbonate improved significantly after.
+- Study 6: how many are inappropriately prescribed oxygen (hypercapnia with normal A-a gradient)? ERS: Monotherapy with oxygen reduces ventilation and increases hypercapnia. Oxygen should only be applied as an adjunct to NIV
+- ATS 2019 guideline: “ Should screening for comorbidities associated with OHS (i.e., metabolic syndrome, pulmonary hypertension, coronary artery disease) vs. no such screening be used in patients with OHS at the time of diagnosis?”
+- “ Should a bariatric procedure vs. no bariatric procedure be used as first-line therapy for OHS?”
+### Slide 229
+- OHS Readmissions
+- ATS 2019: Short-term rates of hospitalization were reduced by PAP, but the event rate was low and data were reported in only one RCT (19). Longer-term data suggest high rates of hospitalization in patients with OHS on PAP but without a comparison group (data from five observational studies: 10% at 3 mo to 49% at 5 yr) (20, 22, 65, 70, 74).
+### Slide 230
+- If OHS diagnosed at exacerbation:
+- 1162 hospitalized patients, 119 (10%) were discharged on NIV, 90% discharged without PAP.
+- 90d mortality: “After adjusting for age, sex, and baseline PaCO2, the odds ratios (ORs) for mortality were significantly lower in the group discharged on PAP (adjusted OR, 0.16; 95% CI, 0.08–0.33; P < 0.0001; estimated risk difference: 136 fewer deaths per 1,000 patients, with 95% CI from 105 fewer to 152 fewer deaths). ”
+- In the subgroup with baseline/hospitalization ABGs: “After adjusting for age and sex, the OR for mortality was lower in the group discharged on PAP (adjusted OR, 0.48; 95% CI, 0.19–1.24; estimated risk difference, 44 fewer deaths per 1,000 patients, with 95% CI from 72 fewer to 19 more).”
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6680300/ (ATS guideline)
+### Slide 231
+- PAP for OHS: 2 largest trials
+- Masa JF AJRCCM 2015
+- Masa JF Thorax 2016
+- Observational: http://refhub.elsevier.com/S0012-3692(21)01484-7/sref10 , http://refhub.elsevier.com/S0012-3692(21)01484-7/sref14
+### Slide 232
+- OHS Treatment
+- OHS: supplemental oxygen will increase CO2 and decrease pH
+- 58-59
+- Hollier 2013: RCT of 0.28 vs 0.5 fio2 for 20m – n14 w untreated OHS. Fio2 50 increased acidemia, vd/vt, and decreased Ve
+- Wijesinghe RCT of 100% fio2 vs room air for 20 mins – ptco2 increased 5, decreased Ve 1.4 l/min, increased Vd/Vt 0.067
+- Would ABGs with supraphysiologic high PaO2 make a reasonable surrogate for quality of care? (presumably only some period after presentation to the ED – where O2 levels ought to be titrated).
+- How accurate is inpatient HSAT? https://pubmed.ncbi.nlm.nih.gov/27992566/ , https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6045781/
+### Slide 233
+- OHS treatment
+- Current criteria encourage home ventilator when BiPAP S/T would suffice.
+- dOffice of Inspector General. Escalating Medicare Billing forVentilators Raises Concerns.https://www.oversight.gov/sites/default/files/oig-reports/oei-12-15-00370.pdf. 2016. AccessedMay 11, 2021.
+### Slide 234
+- OHS weight loss bariatric surgery
+- https://www.ncbi.nlm.nih.gov/pubmed/25702144/. n63, BMI 35+ and OSA or OHS; lap gastric band vs nutritional care. 25 with OHS/Mixed synd. 35% in surgery group (vs 13%) able to discontinue PAP; reduction in AHI 13 greater at 3 years.
+- https://www.ncbi.nlm.nih.gov/pubmed/28971973/ BMI 30+ and CO2 45. 37 patients, all NIV, but +/- intensive lifestyle or usual care (NO bariatric surgery). Similar reductions in PaCO2 at 3 months.
+- Observational data: Improvements in PaO2 and PaCO2 sustained up to 5 years. RVSP decreased 13 mmHg.
+### Slide 235
+- OHS study summaries from ERS supplement
+### Slide 236
+- Overlap syndrome epidemiology
+- Key source: CHEST 2017; 152(6):1318-1326
+- Frequency: Thus based on established prevalence figures, both disorders should coexist in about 1% of the adult general population, with even higher figures likely depending on the definitions used for diagnosis. Phenotypically, emphysema seems protective while chronic bronchitis predisposing. Overall, the relationship has been unclear whether COPD predisposes to OSA or vice versa.
+- [ ] is the risk of having overlap syndrome, given an admission for hypercapneic respiratory failure and COPD, known?
+### Slide 237
+- Chest 2021 Noct o2 rev - DOI: https://doi.org/10.1016/j.chest.2021.02.017
+- 29-66 % of patients with COPD have OSA 37-41
+- Conflicting results about O2 effect OSA generally – no direct evidence to overlap
+- O2 therapy doesn’t seem to increase risk of hypercapnia - NSO therapy at 2 L/min reduced the episodes of desaturation per hour and the time spent in desaturation, but there were no differences between air and oxygen in episodes of SDB per hour, the duration of episodes of SDB, baseline sleeping PaCO2 , or PaCO2 during episodes of desaturation or SDB (https://www.sciencedirect.com/science/article/abs/pii/S0012369216310984) , 44. (Goldstein RS, Ramcharan V, Bowes G, McNicholas WT, Bradley D, Phillipson EA. Effect of supplemental nocturnal oxygen on gas exchange in patients with severe obstructive lung disease. N Engl J Med. 1984;310(7):425-429.)
+- In one study, elevated venous bicarbonate, a surrogate of hypercapnia, was noted in patients with OSA (not just overlap) receiving NSO - https://www.atsjournals.org/doi/10.1164/rccm.201802-0240OC
+### Slide 238
+- Overlap syndrome diagnosis
+- What is the sensitivity and specificity of STOP bang different in this population? Or other ways to identify high risk patients (either to identify undiagnosed OSA or OHS)
+- —could you identify patients who have overlap syndrome based on the pattern of desaturation on PSG / HSAT + smoking? (PPV for also having COPD seems like it’d be pretty good)
+- do patients with overlap syndrome develop daytime hypercapnia at less obstructive levels than matched people without OSA? Yes, see Resta et al below
+- Meta-analysis on factors on predicting OSA in COPD
+-  https://doi.org/10.1016/j.smrv.2016.10.004
+- Although data are lacking, Resta and colleagues (71 - Resta O, Foschino Barbaro MP, Brindicci C, Nocerino MC, Caratozzolo G, Carbonara M. Hypercapnia in overlap syndrome: possible determinant factors. Sleep Breath 2002;6:11–18.) have demonstrated hypercapnia with relatively preserved lung function in patients with OSA–COPD compared with patients with COPD alone, a finding that may help clinicians recognize those patients. (From ATS guideline https://www.atsjournals.org/doi/10.1164/rccm.202006-2382ST)
+### Slide 239
+- Nocturnal oximetry cannot be used to diagnose or predict OVS in mod-sev COPD
+- https://pubmed.ncbi.nlm.nih.gov/31995805/
+### Slide 240
+- Resta O, Foschino Barbaro MP, Brindicci C, Nocerino MC, Caratozzolo G, Carbonara M. Hypercapnia in overlap syndrome: possible determinant factors. Sleep Breath 2002;6:11–18https://pubmed.ncbi.nlm.nih.gov/11917259/
+- Overlap patients vs OSA patients: higher PaCO2 (44.59 vs. 39.22 mm Hg; p < 0.01), similar AHI (40.46 vs. 41.59/h).
+- Overlap patients vs COPD patients: higher PaCO2 value (44.59 vs. 39.63 mm Hg; p < 0.005), less severe obstructive impairment (FEV 162.93 vs. 47.31%; FEV1 /FVC ratio 66.71 vs. 59.25%; p < 0.005)
+- Confounder: Obesity -> OSA; while severe COPD -> cachexia (another feature, in addition to tracheal traction, that may be protective); smoking may be a risk factor for poor control of OSA.
+- Obesity in COPD outside of OSA?
+- Smoking and OSA? [citation 33]
+- “In the Wisconsin Sleep Cohort Study it was found that an AHI of at least 5/hour was three times more likely in current smokers than in never-smokers. Heavy smokers (≥40 cigarettes/d) had an OR of 6.74 for AHI of at least 5/hour” [32].
+### Slide 241
+- 123: Malhotra A, Schwartz AR, Schneider H, et al. Research priorities in pathophysiology for sleep-disordered breathing in patients with chronic obstructive pulmonary disease. An official American Thoracic Society research statement. Am J Respir Crit Care Med 2018; 197: 289–299.
+- ”Overlap syndrome” – where does this term come from?
+- No definitive evidence of increased incidence beyond what is expected by two common conditions. (26, 27) – most evidence only pertains to mild COPD though
+- Both conditions are increasing – right? – due to aging population, historical smoking trends, obesity
+- However, the traditional definition of OSA (based on AHI) may not adequately capture the disordered breathing in COPD, particularly as increased upper airways resistance, hypoventilation, (+/- REM hypoxemia) and sleep fragmentation may occur independent of hypopneas and apneas. [citation 20]
+- This disorder sleep, in turn, can worsen daytime HRQOL – increased time in bed, more naps
+- Pathophysiology: smoking, rostral fluid shift, upper airway muscle weakness, inhaled corticosteroids.
+- Loss of drive to breath -> increased airflow resistance, decreased load compensation > hypoventilation. While not causing apnea, this may lead to systemic effects where similarly severe OSA (by AHI) would not -> thus, the COPD ‘enables’ deleterious effects of OSA (normal gas exchange can occur in healthy individuals, but can’t in COPD due to unmasking of some of the ways that the body compensates
+- Emphysema: protective due to traction that occurs with dynamic hyperinflation.
+### Slide 242
+- Adler D, Bailly S, Benmerad M, Joyeux-Faure M, Jullian-Desayes I, Soccal PM, et al. (2020) Clinical presentation and comorbidities of obstructive sleep apnea-COPD overlap syndrome. PLoS ONE 15(7): e0235331. https://doi.org/10.1371/journal.pone.0235331https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347183/pdf/pone.0235331.pdf
+- OVS: less snoring, morning headaches, and EDS including sleepiness while driving.
+- More common nocturia.
+- OVS has more comorbidities (HLD, HTN, Stroke, CAD/MI, PVD, CHF) – largely mediated by increased smoking.
+- Leads to more profound hypoxemia, higher Risk of pHTN and right heart failure.
+- Description of pathophysiology:
+- However: Overlap syndrome is actually a mix of separate pathophysiology: OSA, CSA, worsening airflow obstruction, hypoventilation, oxygen desaturation, and sleep fragmentation. - often a conflation of SDB and ‘OSA’, though there are some shared pathophysiologic constraints.
+- NREM: increased upper airway resistance, impaired load compensation, blunted chemosensitivity
+- REM: propensity for upper airway collapse and hypovenlation related to skeletal muscle atonia (loss of rib cage intercostal muscle contribution to ventilation.
+- Likely have different manifestations in COPD vs OSA.
+### Slide 243
+- Consequences of OVS – summarized from:Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- “Kwon et al. reported that increased severity of hyperinflation, which is the ratio of inspiratory capacity to total lung capacity (IC/TLC), is associated with worse sleep efficiency in overlap, independent of apnea and nocturnal hypoxemia [56,57].”
+- Argues that it may be not OSA mechanisms that are responsible for symptoms worsening.
+- Minute ventilation decreases with increasing depth of sleep in healthy individuals; this is mediated by decreased HCVR [64, 65]. With the addition of apneas, acute hypercapnia causing increased ventilation occurs. In OVS (or OHS) – if mechanical impairment is such that ventilation can’t compensate OR the HCVR becomes blunted, then hypercapnia develops [51,66,67].
+- [ ]What factors are known to explain why some become hypercapnic and some don’t?
+- Event severity and frequency “However, a correlation between hypercapnia and the frequency and duration of respiratory events during the night could not be observed [72,73].”
+- 2. Degree of ventilatory limitation
+- 3. Resetting of chemoreceptor set points (LTF?)
+- 4. “Finally, also constitutional or genetic factors may be responsible for lowered HCVR in hypercapnic patients [75].”
+### Slide 244
+- Overlap syndrome mediates the relationship between obesity and COPD readmission
+- PubMed: 34624200
+### Slide 245
+- Overlap syndrome(?) missed diagnosis
+- https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-425RL
+- In patients admitted to ICU with hypercapneic respiratory failure - severe sleep apnea was ultimately diagnosed in a majority - may be an opportunity to decrease re-admissions
+- “Consistent differences in key OSA traits were not observed between OVS and OSA alone.” - https://physoc.onlinelibrary.wiley.com/doi/full/10.14814/phy2.14371
+### Slide 246
+- Pathogenesis of obstructive sleep apnea in individuals with the COPD + OSA Overlap syndrome versus OSA alonePhysiological Reports. 2020;8:e14371. https://doi.org/10.14814/phy2.14371
+- OSA pathogenicity:
+- Anatomic factors: upper airway collapsibility (may stiffen when lung is hyper-inflated, but emphysema loss of elastic recoil may lessen this – hard to know a priori)
+- Neurologic / Physiologic factors: upper airway muscle response (worsened by ICS? Smoking?), respiratory-related arousability from sleep (may be lower in OVS due to frequent awakenings in the absence of upper airway collapse), control of breathing (respiratory drive generally increased)
+- Matched OSA (n15) to OVS (n15; most with moderate obstruction) on gender, age, BMI. Exclude: narcotics, sedatives, supp O2, recent exacerbation, BMI over 36, active smoking, heavy EtOH
+- PSG to determine Veupnea, Vpassive and Pcrit, Varousal/ArTh, Loop gain
+- “Consistent differences in key OSA traits were not observed between OVS and OSA alone.”. OVS: lower sleep efficiency, REM SpO2
+- Reduced upper airway response in those with air trapping; increased loop gain in those with worse airflow obstruction (contrary to expection; perhaps mediated by hypoxemia?). Somewhat lower arousal threshold – perhaps explains how hypercapnia can occur?
+- No difference in collapsibility: perhaps this is selection – if you have to have dx of OSA, then by definition the airway must be collapsable
+### Slide 247
+- Overlap syndrome - outcomes
+- Key source: CHEST 2017; 152(6):1318-1326
+- When OSA present, associated with deeper desaturations than non COPD matched controls – associated with increased risk of cor pulmonale. The oxygen desaturation index provides ameasure of intermittent hypoxemia, which is particularlyimportant in the generation of systemic inflammation,52and appears to be superior to the AHI in predictingcardiovascular comorbidity
+- Patients with both COPD and OSA are more likely to develop hypercapnia, pulmonary hypertension and right-sided heart failure than patients with COPD alone. Bradley TD, Rutherford R, Grossman RF, Lue F, Zamel N, Moldofsky H, Phillipson EA. Role of daytime hypoxemia in the pathogenesis of right heart failure in the obstructive sleep apnea syndrome. Am. Rev. Respir. Dis. 1985; 131: 835–839.
+### Slide 248
+- Differentiating OVS and OHS
+- doi:10.1186/1465-9921-14-132 Cite this article as: Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.
+- https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+### Slide 249
+- OVS outcomes
+- [ ] —Review: https://www.sciencedirect.com/science/article/pii/S0012369217307420
+- -Importantly, PAP is reported to improve daytime blood gases and reduce mortality, morbidity and exacerbation rates in patients with overlap syndrome [57, 58].’
+- Reduced all cause mortality (at 9.4 yrs) and time to COPD exacerbation. Methodology of Marin study?
+- 57 Marin JM, Soriano JB, Carrizo SJ, et al. Outcomes in patients with chronic obstructive pulmonary disease and obstructive sleep apnea: the overlap syndrome. Am J Respir Crit Care Med 2010; 182: 325–331.
+- 58 Schreiber A, Surbone S, Malovini A, et al. The effect of continuous positive airway pressure on pulmonary function may depend on the basal level of forced expiratory volume in 1 second. J Thorac Dis 2018; 10: 6819–6827
+- -Clinical cohort studies indicate that exacerbation rate and mortality is reduced in subjects compliant with PAP treatment [57].
+- No robust studies of the effect of oxygen in this population.
+- Machado et al DOI: 10.1183/09031936.00192008 , CPAP treated with 71% survival vs 26% in untreated in LTOT COPD clinic in Brazil
+### Slide 250
+- How do you differentiate whether COPD is severe enough to explain hypoventilation (and thus diagnose with OVS) vs not? With respect to diagnosis of OHS
+- What proportion of patients with overlap syndrome have hypercapnia?
+- “most trials evaluating NIV in COPD excluded patients with OSA and/or high body mass index (BMI), thus precluding subgroup analysis”
+- Study idea: how does the exclusion trials for known indications for use of NIV compare to the population presenting with hypercapneic respiratory failure?
+### Slide 251
+- Overlap syndrome diagnostic performance
+- Similar to other studies, a large proportion of patients were misdiagnosed as having COPD or left heart failure and likely received inappropriate therapy (including systemic steroids and inhalers)
+- (36). - Collins BF, Ramenofsky D, Au DH, Ma J, Uman JE, Feemster LC. The association of weight with the detection of airflow obstruction and inhaled treatment among patients with a clinical diagnosis of COPD. Chest 2014;146:1513‐1520.
+- “dyspneic obese patients are frequently misdiagnosed with asthma or COPD and treated with inappropriate pharmacologic agents (37).”
+- Sin DD, Jones RL, Man SF. Obesity is a risk factor for dyspnea but not for airflow obstruction. Arch Intern Med 2002;162:1477‐1481.
+### Slide 252
+- Pure stable hypercapnic chronic obstructive pulmonary disease (COPD)
+- Hypercapnea associated with dyspnea, decreased QOL, more frequent hospitalizations, and increased mortality:
+- Costello R, Deegan P, Fitzpatrick M, McNicholas WT. Reversible hypercapnia in chronic obstructive pulmonary disease: a distinct pattern of respiratory failure with a favorable prognosis. Am J Med 1997;102:239–244
+- Yang H, Xiang P, Zhang E, Guo W, Shi Y, Zhang S, et al. Is hypercapnia associated with poor prognosis in chronic obstructive pulmonary disease? A long-term follow-up cohort study. BMJ Open 2015;5:e008909.
+- Ahmadi Z, Bornefalk-Hermansson A, Franklin KA, Midgren B, Ekström MP. Hypo- and hypercapnia predict mortality in oxygen dependent chronic obstructive pulmonary disease: a population based prospective study. Respir Res. 2014;15(1):30.
+- HFNC might be an alternative: https://twitter.com/docBLocke/status/1544124929875910656?s20&thE6zlpMaxGbuJygLNlL8A
+### Slide 253
+- Sleep Related Hypovent in Stable CODP
+- https://www.dovepress.com/getfile.php?fileID19163
+- Pulm rehab hospital, pts with COPD enrolled > PSG w PetCO2
+- Daytime hypercap n24 vs not n76-> greater increase at night. Likely on O2, worse spiro.
+- Sleep hypovent n15 vs not n85 -> greater O2, higher median PaCO2 and BE, same spiro.
+### Slide 254
+- Medicare analysis (retrospective, claims)
+- https://www.sciencedirect.com/science/article/pii/S0954611122001858#bib7
+- Readmission, Utilization, and Mortality benefit in hypercapnic RF (not hypoxic or unspecified – though it’s not clear to me why these people would be on NIV?)
+- Better if started right away.
+- Concerns re: accuracy of billing codes (group determination) and ability to match on healthy-recipient bias
+- Excludes OSA
+### Slide 255
+- COPD demographics / changes
+- The number of patients worldwide affected by moderate-to-severe chronic obstructive pulmonary disease (COPD) was estimated to be 174.5 million individuals in 2015, and increased by 44.2% from 1990 to 2015.1 Between 2016 and 2040, COPD is forecasted to rise from the ninth to the fourth leading cause of life-years lost.2
+- COPD patients who have persistent hypercapnia after an episode of acute hypercapnic respiratory failure have a poor prognosis: almost half do not survive the first year after the index hospitalization, 80% require readmission to hospital and nearly two-thirds will have another life-threatening event.11
+### Slide 256
+- BMJ 2022 Review of NIV for COPDhttps://bmjmedicine.bmj.com/content/1/1/e000146
+### Slide 257
+- HOMEVENT Registry in Germany 2016-17
+- Among GOLD ¾ Patients who did not have acute acidosis (AECOPD) or already on NIV: 58/231 patients (25%) had PaCO2 ≥45 mmHg, and 20 (9%) had PaCO2 ≥50 mmH.
+- BMI (OR 2 for 5 BMI increase), forced vital capacity (FVC) and bicarbonate (HCO3 − ) levels were identified as being significantly associated with the presence of hypercapnia (defined as PaCO2 ≥45 mmHg).
+### Slide 258
+- ATS 2020 Home NIV guideline – Stable COPD
+- Fev1/FVC < 0.7 & PaCO2 45+ not during exacerbation
+- Screen for OSA first
+- Do NOT start at hospitalization; wait 2-4 weeks to see if acute on chronic becomes chronic.
+- Rec not using titration in lab PSG
+- Attempt to normalized CO2
+### Slide 259
+- Reasons it might work (ERS 2022)
+- Unloading the diaphragm
+- Reduction in dynamic hyperinflation during the day
+- Reduction in V/Q Mismatching from small airway/alveoli collapse
+- Reseting central chemosensitivity/drive to breath
+### Slide 260
+- Meta-analysis from ATS guideline on NIV in COPD
+- 13 RCTs; NIV vs std care
+- Mortality risk was reduced by 14% in the NIV group compared with those receiving usual care (RR, 0.86; 95% CI, 0.58 to 1.27; low certainty)
+- decrease in hospitalizations (MD, 1.26 fewer; 95% CI, 2.59 fewer to 0.08 more hospitalizations; low certainty)
+- improved QOL (standard MD [SMD], 0.48; 95% CI, 0.09 to 0.88; low certainty; improvement in dyspnea (SMD, −0.51; 95% CI, −0.95 to −0.06; moderate certainty)
+- NIV reduced awake PaCO2 (MD, 3.49 mm Hg lower; 95% CI, 1.3–5.67 mm Hg lower; moderate certainty), increased awake PaO2 (MD, 3.1 mm Hg; 95% CI, 1.45–4.74; moderate certainty
+### Slide 261
+- Kohnlein RCT
+- In 2014, Kohnlein et al7published a landmark prospective, multicenter, randomized controlled trial of BPAP ventilation compared with optimized standard therapy in patients with chronic stable hypercapnic COPD. Patients had stage IV COPD and a mean age of 64.4 years, with resting PaCO2$51.9 mm Hg and pH>7.35. BPAP ventilation was targeted to reduce baseline PaCO2by at least$20%, or to achieve values<48 mm Hg, using high inspiratory pressures and a backup rate. The difference in 1-year all-cause mortality was profound, with 12% in the BPAP group and 33% in the control group
+### Slide 262
+- Timing of NIV
+- four RCTs (maintaly RESCUE and HOT-HMV trials) evaluating the use of long-term NIV after an episode of acute hypercapnic respiratory failure. …no major differences in
+- mortality (RR, 0.92; 95% CI, 0.67 to 1.25; low certainty
+- exacerbations (MD, 0.3 fewer; 95% CI, 1.17 fewer to 0.57 more; low certainty)
+- the need for hospitalization (RR, 0.61; 95% CI, 0.30 to 1.24; very low certainty)
+- There was a significant reduction in PaCO2 (MD, 3.41 mm Hg lower; 95% CI, 4.09 to 2.73 mm Hg lower; moderate certainty), but there was no improvement in PaO2 (MD, 1.53 mm Hg lower; 95% CI, 4.24 mm Hg lower to 1.17 mm Hg higher; very low certainty)
+- “Indeed, these trials are complementary in that many (nearly 21%, and the largest reason for exclusion) potential HOT-HMV patients who were hypercapnic at hospital discharge were no longer hypercapnic 2–4 weeks later.”
+- Study idea: predicting who will normalize CO2? And over what time course?
+### Slide 263
+- Est 25% presenting with AECOPD have hypercapnia (?Not entirely clear what the source of this statistic is)
+- Moreover, 75-80% of patients hospitalized with hypercapnic respiratory failure due to AECOPD have persistent hypercapnia 6 weeks after discharge(4, 5) and hypercapnia is a strong predictor of re-hospitalization.(6)
+- Prognostic difference between AECOPD w/ hypercap -> resolution vs continued hypercapnia? - https://onlinelibrary.wiley.com/doi/10.1111/resp.12652
+### Slide 264
+- Phenotypes of patients underoing NIV for COPD - DOI: 10.1159/000525865
+- NIV in Geneva suggests that population undergoing NIV in the community do not match well with patients enrolled in trials (higher rates of overlap and obesity)
+- Phenotypes: “respiratory copd” (severe spiro; worse mortality) vs ”systemic copd” obesity/comorbidities
+### Slide 265
+- CHF as a cause of hypercapnia
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746960/
+- arterial blood gas analysis in 193 consecutive AHF patients (73 ± 12 years, 61% men) - Hypercapnia (PaCO2 at admission >45 mmHg) and hypocapnia (PaCO2 < 35 mmHg) were observed in 33.7% and 32.6%, respectively. Patients with hypercapnia are more likely to be in the New York Heart Association Class IV (96.9% vs. 78.9%, P < 0.001), to have acute onset within 6 h (50.8% vs. 25.0%, P < 0.001), and to have radiographic pulmonary oedema (84.6% vs. 57.8%, P < 0.001) than those with hypo‐normocapnia. Acute pulmonary edema > acute decompensated heart failure. No difference in pack years of smoking between hypo and hypercapnic groups. More likely to be treated with oxygen (unclear if this is cause or confounder). in: Konishi M, Akiyama E, Suzuki H, Iwahashi N, Maejima N, Tsukahara K, et al. Hypercapnia in patients with acute heart failure. ESC Hear Fail. 2015;2(1):12–9. https://doi.org/10.1002/ehf2.12023.
+- Of 106 patients included with pre-hospital Acute Heart Failure or Acute Pulmonary Edema – 58% had hypercapnia. https://bmcemergmed.biomedcentral.com/articles/10.1186/s12873-021-00411-9
+- RESEARCH QUESTION: Reverse probability is not known: how often does cardiogenic hydrostatic edema contribute to hypercapnia?
+### Slide 266
+- https://pubmed.ncbi.nlm.nih.gov/30594135/
+- Pulm edema NIV in ED cohort
+### Slide 267
+- CHF as a cause of hypercapnia
+- Miñana et al. retrospectively investigated arterial blood gas in 588 patients with ADHF, but they excluded 258 APE patients. In these authors' cohort, 9.2% of patients had hypercapnia (defined as PaCO2 at admission >50 mmHg)
+- Minana G, Nunez J, Banuls P, Sanchis J, Nunez E, Robles R, Mascarell B, Palau P, Chorro FJ, Llacer A. Prognostic implications of arterial blood gases in acute decompensated heart failure. Eur J Intern Med 2011;22:489–494.
+### Slide 268
+- CHF CO2
+- As demonstrated by a recent prospective study [33▪], patients with hypercapnia were more likely to be in severe functional class [New York Heart Association (NYHA) class IV], to have abrupt onset and to present with an usual ‘radiologic’ appearance of APE compared with hyponormocapnic patients
+- Konishi M, Akiyama E, Suzuki H, et al. Hypercapnia in patients with acute heart failure. ESC Heart Failure 2015; 2:12–19
+- https://academic.oup.com/ehjacc/article-abstract/9/5/399/6125564 – base excess (esp w CO2 over 40) correlated with mortality. Of 472, 95 (20%) were acidemic (either resp or met), 24.4% had high base excess. – perhaps related to compensation or excess diuresis?
+### Slide 269
+- CHF CO2 significance
+- Miñana et al.10 demonstrated that hypercapnia (PaCO2 >50 mmHg) was not associated with increased mortality in AHF patients. - Miñana, Gema, et al. "Prognostic implications of arterial blood gases in acute decompensated heart failure." European journal of internal medicine 22.5 (2011): 489-494.
+- N588; 9.2 with pCO2 over 50 – Female, DM, COPD, and peripheral edema associated.
+- elevated PCWP and/or pulmonary congestion induces hyperventilation and consequently, reduces PaCO217 by stimulating pulmonary vagal afferents. Kasai, Takatoshi, et al. "Contrasting effects of lower body positive pressure on upper airways resistance and partial pressure of carbon dioxide in men with heart failure and obstructive or central sleep apnea." Journal of the American College of Cardiology 61.11 (2013): 1157-1166.
+### Slide 270
+- Hypercapnia lung water clearance [ ] read
+- “Permissive hypercapnia allows for a lower tidal volume strategy in patients
+- with acute respiratory distress syndrome. However, recent translational studies have
+- suggested that elevated carbon dioxide (CO2) levels may impair clearance of
+- alveolar edema. Specifically, hypercapnia attenuated the maturation of the
+- regulatory β-subunit of sodium-potassium ATPase, which is responsible for the
+- proper assembly and delivery of sodium-potassium ATPase to the plasma
+- membrane to facilitate the clearance of alveolar fluid [39]. Although the downstream
+- signaling pathways for the loss of sodium-potassium ATPase have been illuminated,
+- the mechanism for CO2 sensing that initiated these pathways remains unclear [40].”
+- From DOI 10.1164/rccm.202202-0247UP
+### Slide 271
+- CO2 Kinetics - [ ] read
+- If CO2 removal is a potentially viable tool in the management of respiratory
+- failure, clarifying the kinetics of CO2 elimination becomes important. In preclinical
+- study in piglets, it was demonstrated that the majority of CO2 is stored in theslow
+- compartment (i.e. tissues) [41]. After a period of hypoventilation, extracorporeal
+- carbon dioxide removal (ECCO2R) was more effective at unloading the CO2 stores
+- than alveolar ventilation alone. This work clarifies the therapeutic rationale for how
+- intermittent ECCO2R or nocturnal noninvasive ventilation could unload CO2 stores
+- over time in patients with chronic respiratory failure [42].
+- From DOI 10.1164/rccm.202202-0247UP
+### Slide 272
+- OIRD mechanism
+- ---Opioid action at both mu and delta receptors has been linked to respiratory depression. Opioids produce this effect through two different mechanisms; decreased sensitivity of chemoreceptors and decreased activity in the central respiratory centers [34].
+- 34. White JM, Irvine RJ (1999) Mechanisms of fatal opioid overdose. Addiction 94:961–972
+- Chronic use daytime hypoventilation is mild; effects on sleep disordered breathing predominate (10% OSA, 8% CSA; hypoxemia common) – Chest Opiates and SDB
+- Decreased RR; decreased chemoreflex responses; reduced brain arousability
+- The most opioid sensitive aspect of respiration is rhythm generation, and changes in the respiratory pattern are observed at lower opioid doses than change in tidal volume.64
+- 2 patterns: cluster breathing (cycles of deep breaths) and Biot’s breathing (vs. ataxic breathing “Ataxic breathing and Biot respiration are sometimes referred to interchangeably, although generally ataxic breathing is characterized by irregular frequency and tidal volume interspersed with unpredictable pauses in breathing or periods of apnea,19whereas Biot respiration refers to a high frequency and regular tidal volume breathing interspersed with periods of apnea.”)
+### Slide 273
+- OIRD
+- the substantial variability in the observed respiratory effects of opioids in patients with OSA (61–64), where both harmful (62) and beneficial (63) effects on apnea severity during sleep have been demonstrated
+### Slide 274
+- OIRD prevalence
+- “There is evidence that with chronic opioid use, the balance between hypoxic and hypercapnic ventilatory drive changes, such that while the hypoxic ventilatory drive may recover or be augmented, depression of hypercapnic ventilation remains” (Ventilatory responses to hypoxia and hypercapnia in stable methadone maintenance treatment patients.Chest. 2005; 128: 1339-1347)
+- in this prospective study, mean (awake) Pco2 was 44.8 ± 4.1 mg, with a median Pco2 of 44.9 mg in the 24 included patients.26
+- Although the mean Pco2 was at the high end of the normal range, nine of the participants were reported to have hypercapnia (defined as Pco2 ≥ 45 mg) on daytime arterial blood gas (ABG) measurement, whereas two had even more pronounced hypercapnia.26, 27
+### Slide 275
+- https://doi.org/10.1016/B978-0-12-822963-7.00117-1
+- Manifestations of OIRD: breathing, ataxia, bradypnea ,central apneas, and hypoxemia
+- Thus, ‘hypoventilation’ is probably part of the abnormality, and part of the pathophysiology leading to adverse outcomes
+- Fatal apnea ultimate cause of death; ataxia contributes or predates? (analogous to hyperkalemia)
+### Slide 276
+- PubMed: 31184503
+- https://www.atsjournals.org/doi/10.1513/AnnalsATS.201902-100OC
+- Conclusions: In adults admitted with acute heart failure and found to be at high risk of SDB, opiate use in the hospital was highly prevalent and was associated with a greater likelihood of escalation of care
+### Slide 277
+- https://doi.org/10.1016/B978-0-12-822963-7.00117-1
+- Ventilation effects
+- Decreases hypercapnic and hypoxemic resp response
+- Tolerence eventually builds up
+- Daytime SpO2 lower in wakefulness in general patients – perhaps due to decreased ventilation?
+### Slide 278
+- OIRD - respiratory response to opioids is state dependent (sensitized by anesthesia, benzos, SDB)
+- J Neurophysiol 125: 1899–1919, 2021. First published April 7, 2021; doi:10.1152/jn.00017.2021
+- Distinct mechanism suggest that bradypnea and ataxic patterns are distinct. Ataxic breathing may be an early manifestation.
+### Slide 279
+- SDB and OIRD
+- Sensitivity to opioids heightened - https://journals.lww.com/co-anesthesiology/Fulltext/2016/02000/Obstructivesleepapnea,pain,andopioidsisthe.22.aspx
+- Effects exaggerated because of baseline hypoxemia and hypercapnia at night. https://journals.physiology.org/doi/full/10.1152/japplphysiol.00034.2015
+- Epidemiology of OIRD/CSA - Walker, J.M., Farney, R.J., Rhondeau, S.M., Boyle, K.M., Valentine, K., Cloward, T.V., Shilling, K.C., 2007. Chronic opioid use is a risk factor for the development of central sleep apnea and ataxic breathing. J. Clin. Sleep Med. 3 (5), 455–461
+### Slide 280
+- https://journals.physiology.org/doi/full/10.1152/japplphysiol.00034.2015
+- Exogenous administration of opioids causes a dose-dependent decrease in sensitivity to hypoxia and hypercarbia via inhibition of central and peripheral chemoreceptor activity
+- Hypoxic vent response several fold in normal, but hypercapnic vent response varies even more. However, both are more constant day to day (interindividual variation > day to day variation)
+- Hypercapnic vent response decreases with physical training.
+- Baseline hypercap vent response may predict OIRD
+### Slide 281
+- Review article ARJCCM 2022
+### Slide 282
+- Ampakines
+- Enhance glutaminergic transmission (hoped to increase cognitive capacity) but has effect on PreBotC neurons.
+- Double blind cross-over randomized design, alfentil admin – ampakine (CX717) administered prior. Reverses blunting from opiate but do not effect baseline breathing.
+### Slide 283
+- Neuromuscular disease
+- In addition to weak muscles-> hypoventilation, bulbar weakness also leads to sleep apneas.
+- 3 areas: vent func/muscles, cough funct (also glottic control), swallowing/airway protection.
+- Cochrane; moderate certainty of evidence for an improvement of QoL with ALS.
+- Most common reason to start: Hypercapnia. Most common goal? QoL
+### Slide 284
+- Neuromuscular disease often overlaps w SDB
+- Hypovent & noct desat are from reduced lung volumes and SDB. Worst in REM sleep
+- NIV reverses; PSG recommended to diagnose and titrate.
+### Slide 285
+- General Hypercapnia Epidemiology
+- Question: how often is each type of pathophysiology playing a roll?
+- How often is hypoventilation ‘pure’, ie normal-ish A-a gradient?
+- How often is the cause of hypercapneic respiratory failure identified?
+- How often is action taken based on this?
+- How often is it misdiagnosed (e.g., specifically OHS)
+- Should we be screening everyone with acute (on chronic) presentations of hypercapnia for sleep disordered breathing?
+- If so, how severe does SDB need to be for treatment to help? How do you treat?
+- Dx of asleep apnea after hypercapnic respiratory failure - https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-425RL
+### Slide 286
+- How well do we do at identifying causes of hypercapnia?
+### Slide 287
+- Part 5: Outcomes and management for patients with hypercapnia
+- Quantify the impact of the problem: Establish an estimate of the re-admission rate and healthcare expenditures for patients with acute on chronic hypercapnic respiratory failure.
+- UMich paper – Mortality and healthcare utilization of patients with compensated hypercapnia - https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202009-1197OC
+### Slide 288
+- DAG showing the differences between causal hypotheses
+### Slide 289
+- Which etiologies of Hypercapnic respiratory failure have consensus best/practice management with support?
+- Etiology
+- Intervention(s)
+- Support
+### Slide 290
+- e.g. Hypercapnia in COPD
+- N117 patients with stable copd and n123 with init after acute resp failure. IpAP 20-24, EPAP 4-6. 6h average compliance
+- “In the multivariate regression model, a higher baseline bicarbonate level and inspiratory pressure, initiation after an exacerbation instead of initiation in stable disease, and the presence of anxiety symptoms were related to a larger decrease in PaCO2 after 12 months
+- univariate regression, age, BMI, FEV1 , PaCO2 , bicarbonate levels, OSA, and timing of NIV initiation were significant determinants of survival (Table S2). Of note, the absolute and percentage of change in PaCO2 after 12 months were not associated with survival”
+- Timing of NIV initiation (or cousin, method of presentation/identification of hypercapnia) seems to be a pattern in all hypercapnic resp failure – 2 different groups.
+### Slide 291
+- Known management considerations
+- Explore possible interventions: Obesity is highly co-morbid with hypercapnic respiratory failure (whether caused by obesity hypoventilation or not). Using a cohort of patients who underwent bariatric surgery or were seen in a comprehensive weight loss clinic, I would identify if markers of fragility toward exacerbation (HCO3 - compensation for chronic hypercapnia - and resting SpO2 (all other things equal, lower when PaCO2 is higher) improve when obesity is treated optimally.
+### Slide 292
+- Management approach to hypercap:
+- 1. Temporizing measures to relieve hypoxemia (though these will often make hypoventilation worse
+- Does not take very much oxygen (see Right)
+- Important, as hypoxia kills quick, CO2 does slowly
+- 2. Efforts to improve the alveolar ventilation
+### Slide 293
+- OHS outcomes
+- Carrillo A, Ferrer M, Gonzalez-Diaz G, Lopez-Martinez A, Llamas N, Alcazar M, Capilla L, Torres A. Noninvasive ventilation in acute hypercapnic respiratory failure caused by obesity hypoventilation syndrome and chronic obstructive pulmonary disease. Am J Respir Crit Care Med 2012;186:1279–1285
+- (and its editorial -
+- Obesity hypoventilation syndrome: an underdiagnosed and undertreated condition.
+- Pépin JL, Borel JC, Janssens JP
+- Am J Respir Crit Care Med. 2012 Dec 15; 186(12):1205-7. https://www.atsjournals.org/doi/10.1164/rccm.201210-1922ED)
+### Slide 294
+- “For non-COPD patients recovering from an episode of AHRF, a referral to a home ventilation service for assessment of ‘domiciliary NIV use’ has been recommended, while continuing ‘nocturnal NIV’ till to the accomplishment of the evaluation.2
+- “Good practice point”, not recommendation based on empiric data
+- https://bmjopenrespres.bmj.com/content/3/1/e000133
+### Slide 295
+- TODO: No text extracted from this slide.
+### Slide 296
+- From https://doi.org/10.1016/j.jsmc.2022.07.004
+### Slide 297
+- O2 Hypercapnia
+- Excessive oxygen supplementation appears to worsen hypercapnia primarily by increasing ventilation-perfusion inequality and thereby decreasing efficiency of gas exchange, rather than by depressing ventilation.44 - Barbera JA, Roca J, Ferrer A, Felez MA, Diaz O, Roger N, Rodriguez-Roisin R. Mechanisms of worsening gas exchange during acute exacerbations of chronic obstructive pulmonary disease. Eur. Respir. J. 1997; 10: 1285–1291.
+- Also CHEST 2011 RCT confirms (in control of vent folder)
+### Slide 298
+- OHS outcomes
+- Compared to obese controls, OHS patients are more likely to be hospitalized, require more intensive care unit management, have longer lengths of stay and are more likely to be discharged to a long term facility (Berg et al., 2001; Nowbar et al., 2004).
+- Cphys: ” Similarly, in hospitalized patients with OHS discharged without respiratory management, mortality was fourfold higher than eucapnic obesity, with the majority of deaths occurring with 3 months of discharge (283)”
+### Slide 299
+- OHS CPAP vs NIV
+- https://pubmed.ncbi.nlm.nih.gov/31682462/ 196 – both CPAP and NIV improved pHTN and LV diastolic dsfxn similarly
+### Slide 300
+- OHS recs ATS 2019
+- https://pubmed.ncbi.nlm.nih.gov/31368798/
+- Low pre-test (<20%) and <27 HCO3 to exclude diagnosis; use PaCO2/ABG to confirm
+- Use PAP for stable outpatients (CPAP first if has OHS)
+- Hospitalization after exacerbation -> NIV until dx PSG and titration in sleep lab
+- Should undergo surgery (generally) to achieve 25-30% weight loss.
+### Slide 301
+- Is there analogous data of what portion of all patients presenting with hypercapnic respiratory failure have temporarily reversible hypercapnia vs normalized subsequently (as in AECOPD literature)?
+- Esp for buckets of OVS and OHS… and for the percentage of people who don’t fall into that bucket? (obesity + CHF for example).
+- This would be important to weigh in on the ability to start CPAP or NIV right away in OHS, vs wait for subsequent assessment (like NIV for COPD)
+- What is the (acute) reason for admission in patients subsequently diagnosed with OHS?
+### Slide 302
+- OHS management
+- From Mark and Chen 2015
+- “Non-invasive positive pressure ventilation is considered an important therapeutic intervention in patients with OHS (5). The benefits of NIPPV include an improvement in gas exchange, lung volumes and central respiratory drive to carbon dioxide (13,27,28,39,40). NIPPV may reduce the short-term mortality of OHS (5,29). Oxygen therapy is potentially hazardous in patients with OHS as it may cause hyperoxia, which will promote further hypercapnia (41–43). Priou et al. demonstrated that supplemental oxygen therapy was an independent predictor of mortality in patients with OHS (44). As OHS is frequently misdiagnosed as COPD or ‘chronic asthma’ and the vast majorities of patients never undergo formal polysomnography (which is required for NIPPV therapy in the US), it is likely that many patients are inappropriately treated with supplemental oxygen and corticosteroids while few are treated with NIPPV (30,32,45).
+### Slide 303
+- Gursel 2011
+- NIV in obese compared to non-obese – obese patients had 62%obstructive lung dz, 90% OSA+OHS, 3% neuromuscular dz. Not obese had 69% obstructive lung dz, OSAS+OHS 21%, neuromuscular 8%.
+- Reasons for readmissions: pulmonary edema (86% vs 48%), pulm infection (46 vs 62%), copd/asthma exa (54% vs 60%)
+- Meta-analysis in ATS 2020 – PAP in OHS: https://pubmed.ncbi.nlm.nih.gov/31726017/
+### Slide 304
+- Post Acute Pickwick study
+- Evaluating whether NIV at discharge is better than not
+- Enrolling starting in 2022
+- https://clinicaltrials.gov/ct2/show/NCT04317326?cond%22Obesity+Hypoventilation+Syndrome%22&draw4&rank30
+### Slide 305
+- Bariatric surgery in hypercapnia/OHS/OVS
+- VO2, respiratory drive decrease with weight loss on eucapneic sleep apnea patients, but increase in patients with OHS when they lose weight
+- El-Gamal H, Khayat A, Shikora S et al. Relationship of dyspnea to respiratory drive and pulmonary function tests in obese patients before and after weight loss. Chest 2005; 128: 3870–4.
+- A reduction in BMI from 47.3 ± 7.2 to 31.8 ± 5.1 as a result of gastric bypass led to a decrease in respiratory drive and decreased dyspnoea in 10 patients.54 - El-Gamal H, Khayat A, Shikora S et al. Relationship of dyspnea to respiratory drive and pulmonary function tests in obese patients before and after weight loss. Chest 2005; 128: 3870–4.
+### Slide 306
+- TODO: No text extracted from this slide.
+### Slide 307
+- Excessive hypercapnia with excess supplemental oxygen (Wijesinghe M, Williams M, Perrin K, Weatherall M, Beasley R. The effect of supplemental oxygen on hypercapnia in subjects with obesity-associated hypoventilation: a randomized, crossover, clinical study. Chest 2011;139:1018–1024; Hollier CA, Harmer AR, Maxwell LJ, Menadue C, Willson GN, Unger G, Flunt D, Black DA, Piper AJ. Moderate concentrations of supplemental oxygen worsen hypercapnia in obesity hypoventilation syndrome: a randomised crossover study. Thorax 2014;69:346–353)
+- “Hollier and colleagues compared the responses of 14 patients with OHS with matched, nonobese healthy controls to exposure to fractions of inspired oxygen (FiO2) of 0.28 and 0.5. In patients with OHS, hyperoxia (breathing at FiO2 of 0.5) led to hypoventilation, increased dead space/tidal volume ratio (VD/VT), and a reduced pH. Of note, the VD/VT was reduced in both groups but the normal group was compensated by an increase in minute ventilation above baseline”
+- “An earlier study indicated a more marked increase in PCO2 and reduction in minute ventilation in patients with an OHS breathing FiO2 of 1,50 indicating significant hyperoxia-induced respiratory depression.”
+-  could estimate this by how frequently these patients have a PaO2 of, above a certain threshold. (above what should be possible at our elevation.
+### Slide 308
+- Overlap syndrome outcomes
+- patients with overlap syndrome not treated with CPAPhad higher mortality (relative risk, 1.79; 95% CI, 1.16-2.77) and were more likely to experience a severe COPD exacerbation leading to hospitalization (relative risk,1.70; 95% CI, 1.21-2.38) vs the COPD-only group
+- Adding nocturnal BPAP in spontaneous timed mode to pulmonary rehabilitation for severe hypercapnic COPD was found to improve quality of life, mood, dyspnea, gas exchange, and decline in lung function.70 Other studies noted that COPD patients hospitalized with respiratory failure who were randomized to noninvasive nocturnal ventilation plus oxygen therapy as opposed to oxygen alone experienced improvement in health-related quality of life and reduction in intensive-care-unit length of stay but no difference in mortality or subsequent hospitalizations.69
+- Several observational studies (Marin, Stanchina, Jaoude) all suggest decreased mortality with PAP use among patients who are hypercapneic
+### Slide 309
+- TODO: No text extracted from this slide.
+### Slide 310
+- https://jcsm.aasm.org/doi/10.5664/jcsm.9506
+- PAP naïve, stable hypercapnic RF over 45, BMI over 30, and COPD
+- Randomize to CPAP vs BiPAP (S, no backup).
+- In lab PSG used to titrate settings.
+- Fig 1:n32, BMI 43+/- 7, PaCO2 54+/-7, FEV1 1.4+/-0.6L, AHI 59+-35
+- (Primary) 3 mo: PaCO2 9.4 mmHg lower in BiPAP group
+- No difference in adherence, sleepiness, sleep quality, neurocognitive
+- https://jcsm.aasm.org/doi/10.5664/jcsm.9710 editorial: strengths are broad inclusion criteria. Unclear if bigger DP would have led to more benefit. Pilot only; many more and longer endpoints needed.
+### Slide 311
+- DOI: 10.1164/rccm.202109-2035OCSterling, P epin, Linde-Zwirble, et al.: PAP Adherence and Outcomes in Overlap Syndrome
+- Resmed and Inovalon Insights, LLC payor claims database: pts with COPD x2 or AECOPD x1 identified in the year before device set up
+- Matching: sex, comorbidities, COPD/Mapel algorithm, prior yr util.
+- Propensity score for CPAP adherence.
+- Outcomes: HC utilization, resource use
+- Decreased hospitalizations, ER visits, healthcare use
+### Slide 312
+- COPD (non-OSA) - management
+- NIV – w use of backup rate and high driving pressure has been found helpful. Not used all that much in USA.
+- Köhnlein T, Windisch W, Köhler D, et al. Non-invasive positive pressure ventilation for the treatment of severe stable chronic obstructive pulmonary disease: a prospective, multicentre, randomised, controlled clinical trial. Lancet Respir Med. 2014;2(9):698–705. [PubMed] – NIV for severe stable COPD – RCT. Showing survival benefit at 1 year
+- Murphy in JAMA - https://jamanetwork.com/journals/jama/fullarticle/2627985 - similar findings with outcomes of admission free survival.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6219270/ 240 COPD patients on chronic NIV: level of bicarbonate, high driving pressures, anxiety, and initiation after exacerbation predict CO2; Change in PaCO2 not associated with survival.
+- Meta-analysis - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042860/
+### Slide 313
+- COPD Exac w Hypercapnia – post-course
+- DOI: 10.1159/000524845 , Respiration 2022
+### Slide 314
+- Neuromuscular Hypercapnia Management
+- Mata-analysis - https://pubmed.ncbi.nlm.nih.gov/25503955/
+- Cochrane Meta-analysis of RCTs- https://doi.org/10.1002/14651858.CD001941.pub3
+### Slide 315
+- Pneumonia and sepsis + hypercapnia
+- Pneumonia and hypercapnia – increased mort – Sin DD and Vonderbank studies below
+- Sepsis and hypercapnia – no independent association w/ inhospital mortality found in Australian retrospective cohort of patients hospitalized (not all critically ill), taken at a variety of time points to mitigate immortal time bias. 3000+ patients, 84000 PaCO2 measurements.Usually occurred in mechanically ventilated patients. https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.202102-104OC
+### Slide 316
+- Vonderbank S, Gibis N, Schulz A, Boyko M, Erbuth A, Gürleyen H, Bastian A. Hypercapnia at Hospital Admission as a Predictor of Mortality. Open access emergency medicine : OAEM 2020; 12: 173-180.
+- All patients with dyspnea or pulm disease admitted to hospital received capillary blood gas (some screening with VBG). Stratified by pH > 7.35 or pH < 7.35
+- Hospital specializing in lung disease (unclear referral pattern): 6750 admissions, 2710 with dyspnea or lung dz, 1626 normocapnic, 588 hypercapnic.
+- 32% 1yr mortality. Varied by type. Comparisons all seem very limited by collider bias.
+### Slide 317
+- DOI 10.1007/s00508-017-1182-2
+- Age 65+ at one institution in Germany. Dyspnea, RR over 22, and pH <7.35 + PaCO2 45+
+- Log reg for failure: age not sig. BMI protective. Lots of colliders.
+### Slide 318
+- Resolution after exacerbation
+- “To date, no studies have directly examined the timing of resolution of hypercapnia after an acute exacerbation to determine optimal timing of initiation of long-term NIV: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202009-1171AG . Could you send people out with capnography monitors (e.g. when they leave to the floor) to clarify this trajectory?
+### Slide 319
+- Other outcomes by cause:
+- OSA vs OHS https://onlinelibrary.wiley.com/doi/10.1111/crj.12054
+- In COPD exacerbation https://onlinelibrary.wiley.com/doi/10.1111/resp.12652
+- Also copd –
+- https://www.resmedjournal.com/article/S0954-6111(19)30134-9/pdf
+- CO2 in CAP - 10.1136/bmjopen-2016-013924
+- CO2 tension post arrest
+- 10.1097/ccm.0000000000000228
+- 10.1016/j.resuscitation.2021.01.035
+### Slide 320
+- Predictors of post-discharge supportive care (PDSC) in acute respiratory failure secondary to acute exacerbation of COPD
+- 89 patients with AE-COPD and respiratory failure.
+- Predictors of post-discharge NIV or BPAP: hyperinflation on CXR (OR 4.73) and prolonged duration of hospitalization (OR 1.32)
+- https://openres.ersjournals.com/content/8/suppl9/42.abstract
+### Slide 321
+- Variation in implementation
+### Slide 322
+- Summary points
+- Hypercapnia represents a failure of the control system (either sensors or effectors)
+- We are evolved to operate at the set point we have to allow an oxygenation buffer in the alveoli (Dalton’s law) – when this buffer decreases, it indicates that respiratory system is frail and perturbable
+- This likely epidemiologically shows up as risk for recurrent ‘exacerbations’, but this has not been systematically studied outside COPD
+- The amount that adverse outcomes are from the CO2 itself, vs the pathology leading to the CO2 elevation is not known, and is important to determine to guage whether interventions that lower the CO2 are likely to help prevent morbidity
+- If the relationship is not causal, CO2 still may be an important prognostic sign (AJRCCM paper)
+### Slide 323
+- https://www.hindawi.com/journals/crj/2016/6547180/
+- Systemic Review: 1 RCT, 25 observational studies. 4,425 patients (1687 NMD, 481 Restrictive, 293 OHS, 748 other)
+- Canada – guidelines don’t support COPD use there so less.
+- HRQL generally good – mental > physical domains improved. Caregiver burden is generally high.
+### Slide 324
+- Themes
+- Understanding the epidemiology of Acute (on chronic) ventilatory failure: study design, random sampling of a cohort identified by blood gas parameter -> chart review of a few hundred patients. Stratify by initial RR in patients unsupported
+- Understanding the current performance in diagnosis of ventilatory failure: cohort identified by blood gas (either based on chronic compensation, and/or normal A-a gradient) – with outcome of new(inappropriate) O2, diagnosis explaining ventilation, sleep referral
+- Understanding best practice management: cohort of bariatric surgery patients vs referrals who didn’t get surgery vs matched sleep-wake center referrals – already have the data. Outcome of bicarbonate normalization.
+### Slide 325
+- Research AIM
+- Hypercapnic Respiratory Failure a ‘decompensation’ event of the respiratory system.
+- Likely indicates a more frail state (increased morbidity)
+- Should it be thought similarly to decompensated liver cirrhosis? (risk stratification for more aggressive intervention)
+### Slide 326
+- Research AIM
+- How often is an acute exacerbation caused by something known to decrease controller gain / chemoreflex? (Opiates, oxygen)? Vs how often is it due to a decrease in respiratory system performance (e.g. plant gain limb of reflex)?
+- How much of hypercapnia is causally harmful, if any? Or is the association with morbidity due to what it indicates about the respiratory system performance?
+### Slide 327
+- Challenges to this research here:
+- Elevation:
+- Different normal values
+- Altitude corrections.
+- CO2 -> 42 threshold– Denver; Lee Brown
+- https://www.atsjournals.org/doi/pdf/10.1164/ajrccm.160.5.9806006
+- Nowbar 2003: Denver has useful comments on phrasing limitations and choices
+- Respiratory System Frailty is greater in Salt Lake City – thus morbidity probably higher from these
+- Presentation may be somewhat different as well, given that hypoxemia more apparent
+- Different Hypoxic and Hypercapneic drives to breath that might make
+### Slide 328
+- Altitude
+- Hyperventilatory response > allow more O2 by Dalton’s law
+- Renal compensation (retention of Cl- > increased H+, lowr HCO3-, decrease SID) > allows for increased sensivitity of HCVR.
+- Lowers the ‘buffer’ we are adapted for: smaller perturbations in CO2 will lead to apparent hypoxemia, for example.
+### Slide 329
+- Other related questions
+- Chronic ventilation clinic – how common is this?
+- Arguments for pulmonologist managing obviously have a listen syndrome, arguments for sleep medicine box viewing it. How do these corresponds to the other causes of hypercapnic respiratory failure?
+### Slide 330
+- Many chr. Resp cond > hypocapnia. Why not in CHF for example? Perhaps bicarb retention.
+- https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00363.2021
+### Slide 331
+- O2 in OHS – can increase CO2, similar as to in AECOPD
+- O2 in OHS - https://journal.chestnet.org/article/S0012-3692(11)60217-1/fulltext?msclkidbd8712a4b4fe11ec942da966c3501902
+- Oxygen for Obesity Hypoventilation Syndrome
+- A Double-edged Sword?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Hypercapnic Respiratory Failure
+- Key References
+- History:
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Hypercapnic Respiratory Failure
+- Key References
+- History:
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +1937,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Hypercapnia megadeck.pptx](archive/Presentations/Hypercapnia%20megadeck.pptx)
+- [Presentations/Hypercapnia megadeck.pptx](../../archive/Presentations/Hypercapnia%20megadeck.pptx)
 
 ## Source materials
-- [Presentations/Hypercapnia megadeck.pptx](archive/Presentations/Hypercapnia%20megadeck.pptx)
+- [Presentations/Hypercapnia megadeck.pptx](../../archive/Presentations/Hypercapnia%20megadeck.pptx)

@@ -4,19 +4,181 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Preliminary Results
+- ABG
+- For accurate determination of
+- Studies of hypercapnic respiratory failure using various definitions
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- [HCO3-] – day of surgery
+
+## Slide outline
+### Slide 1
+- TODO: No text extracted from this slide.
+### Slide 2
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+### Slide 3
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- J96.02 (acute hypercapnic respiratory failure)
+- J96.22 (acute and chronic respiratory failure with hypercapnia)
+- J96.92 (respiratory failure unspecified with hypercapnia)
+- J96.12 (chronic respiratory failure with hypercapnia)
+- E66.2 (morbid obesity with hypoventilation)
+- 30d Readmission rate: 23% (2/3 recurrence)
+- ~CHF. > than MI, AECOPD, PNa
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+- COPD (2/3)
+- No COPD (1/3)
+- AHI Median
+- [IQR]
+- 31.9
+- [14.3, 45.6]
+- 66.0
+- [48.0, 83.8]
+- AHI > 5 present
+- 66%
+- 94%
+- AHI > 15 present
+- 51%
+- 81%
+- 1. Admitted to the ICU
+- 2. PaCO2 greater than 47.25 mmHg
+- 3. Procedure code for non-invasive ventilation or invasive mechanical ventilation initiation
+- 163 hospitalizations with hypercapnia per 100,000 person-years. (Roughly the same as PE)
+- ABG PaCO2 > 45 mmHg w/n 24h of admission; exclude iatrogenic, arrest…
+### Slide 4
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Hypothesis 1: The methods used in prior studies of hypercapnic respiratory failure (billing code-, procedural code-, and blood-gas-based criteria) identify different patients.
+- Outcome: Relative Sensitivity; Positive Predictive Agreement
+- Hypothesis 2: The cohorts created by these differ methods differ in risk for outcomes of interest, which hampers interpretation of these studies.
+- Outcome: distribution of age, ethnicity, BMI, and frequency of coexisting diagnoses (OSA, opiate use disorder, COPD, CHF, and neuromuscular disease)
+- 69 Million MRNs aggregated from 50 academic medical centers
+- Deidentified patient level data, including admissions, diagnoses, medications, procedures, and lab values.
+- Missing data?
+### Slide 5
+- Preliminary Results
+- ICD Group:
+- Relative sensitivity (vs ABG): 19.8%
+- Positive Predictive Agreement (vs ABG): 47.0%
+- NIV Group:
+- Relative sensitivity (vs ABG): 15.2%
+- Positive Predictive Agreement (vs ABG): 45.2%
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 6
+- ABG
+- Group
+- ICD
+- NIV
+- Age
+- 62±18
+- 65±16
+- 62±17
+- % Female
+- 46%
+- 51%
+- 42%
+- % white
+- 66%
+- 71%
+- 65%
+- % Black
+- 18%
+- 19%
+- 17%
+- BMI
+- 30.4±8.3
+- 33.1±10.3
+- 29.1±8.2
+- % with CHF
+- 37%
+- 30%
+- % with COPD
+- 31%
+- 14%
+- % Opiate UD
+- 6%
+- 3%
+- % Sleep Apnea
+- 23%
+- 24%
+- 10%
+- Remaining Analyses:
+- Stratification by time of ABG
+- Data integrity checks:
+- Require each type of info from source during admission
+- Sensitivity analysis among patients with all 3 data-types
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 7
+- For accurate determination of
+- Frequency of different comorbidities or component causes
+- Morbidity and mortality associated with hypercapnia
+- Who should be included in future studies to determine frequency benefit from treatment
+- ... method of patient identification likely matters
+- Interpretability of current research could be improved using standard case definitions (EHR Phenotype)
+- How should we identify these patients for studies?
+- ATS ASPIRE grant
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 8
+- Studies of hypercapnic respiratory failure using various definitions
+### Slide 9
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- ERS 2018: Obesity-related hypoventilation paradigm
+### Slide 10
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- Hypothesis 1: [HCO3-] has low enough biologic variation to functional usable surrogate for nocturnal CO2 retention peri-bariatric surgery
+- Outcome: intra-patient variability in measurement, frequency of metabolic disturbances
+- Hypothesis 2: Δ[HCO3-] has construct validity as an index of response to interventions that decrease nocturnal CO2 loading
+- Δ[HCO3-] will be higher in patients who lose more weight, who start and adhere to CPAP.
+### Slide 11
+- [HCO3-] – day of surgery
+- Patients: n359 patients who underwent bariatric surgery (mostly bypass) 2011-2016 at U of U
+- Exposures: time of OSA dx, CPAP use, Maximum weight loss
+- Outcome: Change in 6-mo, 1-yr, 2-yr [HCO3-]
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- Other analyses:
+- % of patients meeting ERS II or higher OHS
+- % Excluded due to metabolic process
+### Slide 12
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- Exclusions:
+- (n32,27 w/o pre-, post- data)
+- n15 on diuretic
+- n20 on topiramate
+- n 24 on chronic opiates
+- n9 on other med
+- n9 sCr over 1.3
+- 26% have reason to expect
+- 59 of 222 (26.6%) patients with ERS 2+ OHS
+- Weight loss Nadir at 12 months then weight regain [median 5kg]
+- No HCO3 ‘regain’
+- Regression to the mean
+### Slide 13
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- Proposed re-analysis:
+- Missing data: multiple imputation with chained equations
+- What proportion of variability of [HCO3-] is inter-vs-intra person? Intraclass correlation coefficient
+- Multilevel (mixed effect) regression model of [HCO3-] with predictor variables: starting [HCO3-], OSA severity (or diagnosis), CPAP adherence, weight loss
+- Outputs continuous; loses interpretability of dichotomization
+- Parallel Coordinate plot (e.g. at side)
+### Slide 14
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Preliminary Results
+- ABG
+- For accurate determination of
+- Studies of hypercapnic respiratory failure using various definitions
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Preliminary Results
+- ABG
+- For accurate determination of
+- Studies of hypercapnic respiratory failure using various definitions
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +195,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/ATS Mini-RIP 4-28-22.pptx](archive/Presentations/ATS%20Mini-RIP%204-28-22.pptx)
+- [Presentations/ATS Mini-RIP 4-28-22.pptx](../../archive/Presentations/ATS%20Mini-RIP%204-28-22.pptx)
 
 ## Source materials
-- [Presentations/ATS Mini-RIP 4-28-22.pptx](archive/Presentations/ATS%20Mini-RIP%204-28-22.pptx)
+- [Presentations/ATS Mini-RIP 4-28-22.pptx](../../archive/Presentations/ATS%20Mini-RIP%204-28-22.pptx)

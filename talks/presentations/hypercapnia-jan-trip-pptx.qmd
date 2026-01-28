@@ -4,19 +4,371 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- TRIP: Jan 18, 2022Who has hypercapnic respiratory failure (and why)?
+- Respiratory Failure: failure to maintain O2 or CO2 levels in the blood
+- Sufficient-Component Cause Model
+- Causes of Hypercapnia
+- Causes of Hypercapnia: Hypothesis
+- Multicausality
+- Is there evidence for multicausality?
+- ”Yes, of course. Who cares?”
+- Inferential leaps:
+
+## Slide outline
+### Slide 1
+- TRIP: Jan 18, 2022Who has hypercapnic respiratory failure (and why)?
+- Brian Locke, MD Pulmonary and Critical Care Fellow; 1st year MSCI
+- Team:
+- Krishna Sundar, MD P/CCM
+- Jeanette Brown, MD PhD P/CCM
+- Ram Gouripeddi MBBS MS
+### Slide 2
+- Respiratory Failure: failure to maintain O2 or CO2 levels in the blood
+- If the R ‘sprocket’ (lung) turns too slowly relative to the L sprocket (muscle), CO2 build up in the blood
+- This is hypercapnic respiratory failure
+- Similar: ‘hypoventilation’, ‘hypercapnia’
+- There are 2 types of causes:
+- The lung ventilation is severely broken (sprocket can’t turn fast)
+- The ‘controller’ doesn’t crank up the speed of the sprocket.
+- Build up here CO2 in blood rises
+### Slide 3
+- Sufficient-Component Cause Model
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient cause sets, this component must be present
+- 3 Different Sufficient Causes
+- A – J Component Cause
+- A Necessary Cause
+### Slide 4
+- Causes of Hypercapnia
+- Severe COPD
+- Sufficient Cause
+- If PaCO2 > 52 mmHg, 2-4 weeks after exacerbation -> nighttime ventilation improves outcomes
+- no other causes of ↑️ CO2
+- [Area represents a population of patients]
+### Slide 5
+- Causes of Hypercapnia
+- Severe COPD
+- Obesity Hypovent
+- Sufficient Cause
+- BMI over 35, no other lung dz, PaCO2>45 – nocturnal ventilation improves outcomes
+- no other causes of ↑️ CO2
+### Slide 6
+- Causes of Hypercapnia
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- Sufficient Cause
+- FVC <50%, nocturnal hypoventilation or sleep problems -> nocturnal ventilation improves outcomes
+- no other causes of ↑️ CO2
+### Slide 7
+- Causes of Hypercapnia: Hypothesis
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+### Slide 8
+- Causes of Hypercapnia: Hypothesis
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+- Opiates as Component Cause
+- Loop Diuretics as Component Cause
+- Sleep Apnea as Component Cause
+### Slide 9
+- Multicausality
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient sets, this component must be present
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 10
+- Is there evidence for multicausality?
+- Admitted to ICU with PaCO2 over 45 mmHg and a pH less than 7.35
+- Overall prevalence of OSA ( AHI > 30 ) in survivors over 50%
+- P (OSA | Hypercapnia & ICU) >> P (OSA | ICU)
+- association, not causation
+### Slide 11
+- ”Yes, of course. Who cares?”
+- What are the common component causes of hypercapnia?
+- Need pretest probabilities to inform rational diagnostic testing
+- What proportion of cases do we have evidence to inform management decisions?
+- Might all the other patients benefit from nocturnal ventilation?
+- Payors won’t pay for machine without evidence.
+- Why haven’t these questions been answered?
+### Slide 12
+- Inferential leaps:
+- Are common comorbidities Associations vs Causes? Takes additionally robust study designs to know for sure.
+- Current proposal: e.g., risk of readmission
+- Inferences about effects who to generalize previously demonstrated treatments to: The Reference Class Problem.. Are patients with “component cause” COPD likely to benefit in the same way that “Sufficient cause” COPD are?
+- EBM: Reference class problem -> default to people included in the trial population, not necessarily “similar physiology”
+- NIV is PAYOR dependent – thus whether or not clinicians make this leap, payor’s will likely only pay for treatments under a population of interest.
+- For other intervention, it is at the clinician discretion.
+### Slide 13
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+- Opiates as Component Cause
+- Loop Diuretics as Component Cause
+- All cases of hypercapnic respiratory failure
+- Where do we draw this line? (who is included as a ’case’)
+- Sleep Apnea as Component Cause
+### Slide 14
+- Case definition: hypercapnic respiratory failure
+- PaCO2 over 45 mmHg (at sea level)
+- Up to 10 mmHg higher in REM sleep
+- Challenges:
+- Construct validity:
+- Hypercapnic respiratory failure can be transient, acute, or chronic.
+- Arbitrary thresholds
+- Informed presence bias; diagnosis frequently missed
+- People who have information in the EHR differ from those who do not.
+- Blood gasses hurt to obtain, not commonly obtained unless clinicians suspect diagnosis
+- There are no specific symptoms
+- What would the ABG have shown, if it were checked? Hard to predict
+- Acute Hypercapnic Respiratory Failure
+- Normalization of Hypercapnia
+- Chronic Hypercapnic Respiratory Failure
+- Stability
+### Slide 15
+- How is the current literature identifying hypercapnia?
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- J96.02 (acute hypercapnic respiratory failure)
+- J96.22 (acute and chronic respiratory failure with hypercapnia)
+- J96.92 (respiratory failure unspecifed with hypercapnia)
+- J96.12 (chronic respiratory failure with hypercapnia)
+- E66.2 (morbid obesity with hypoventilation)
+- Diagnostic Code-Based
+### Slide 16
+- Currently, how is hypercapnia identified?
+- Lab-Based
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+### Slide 17
+- Currently, how is hypercapnia identified?
+- Lab and procedure code-Based
+- Admitted to the ICU
+- PaCO2 greater than 47.25 mmHg
+- Procedure code for non-invasive ventilation or invasive mechanical ventilation initiation
+### Slide 18
+- Project 1: Hypotheses
+- The methods used in prior studies of hypercapnic respiratory failure identify different patients
+- Hypothesis 1: the sensitivity (aka recall) and positive predictive value (aka precision) for both billing code- and procedural code-based identification of hypercapnic respiratory failure will be below 80%, when compared to blood gas-based identification as the reference standard.
+- The populations identified by differ in risk for outcomes of interest, which hampers interpretation of these studies.
+- Hypothesis 2: The distribution of age, ethnicity, BMI, Elixhauser comorbidity score, and frequency of coexisting diagnoses (OSA, opiate use disorder, COPD, CHF, and neuromuscular disease) will differ between the cohorts identified by each method.
+### Slide 19
+- Data source:
+### Slide 20
+- Data source:
+- Data Available
+- Data unavailable
+- Demographics
+- Diagnosis
+- Medications
+- Procedures - what procedures were done. E.g. sleep study code
+- Labs
+- Cancer registry (NAACCR)
+- Allergies
+- Some notes
+- Diagnostic reports
+- DICOM image objects
+- Providers
+- Departments/clinics
+- Research Network: 73 million MRNs from ~53 academic medical centers (including U of U)
+- De-identified, patient-level data (not PHI, though recommended to be treated as such)
+### Slide 21
+- Data request:
+- 69 million MRNs; ~50 academic medical centers (including U of U)
+- De-identified data (not PHI, though recommended to be treated as such)
+- Cannot be geolocated or tracked to a specific center
+### Slide 22
+- We requested patient level data from all records with an inpatient encounter and any of:
+- Diagnostic code for hypercapnic respiratory failure
+- Arterial blood bas with hypercapnia (45 mmHg+)
+- Procedure code for initiation or management of non-invasive ventilation
+- N 501,925 patients.
+### Slide 23
+- Embedded data analysis tools
+### Slide 24
+- Statistical Analysis Plan: why not Se/Sp?
+- Example Calculation
+- ICD code ‘Prediction’
+- Blood gas reference standard
+- ICD Code for Hypercapnic RF
+- No ICD code for Hypercapnic RF
+- PaCO2 > 45mmHg
+- True Positive
+- False Negative
+- Sensitivity
+- TP / (TP + FN)
+- (Recall)
+- PaCO2 < 45mmHg (or no ABG)
+- False Positive
+- True Negative
+- [Huge Number, not very informative]
+- Specificity
+- TN / (TN + FP)
+- PPV
+- TP / (TP + FP)
+- (Precision)
+- NPV
+- TN / (TN + FN)
+### Slide 25
+- Preliminary Results
+- Using TriNetX Embedded Tools
+- ICD Group:
+- Relative sensitivity (vs ABG): 19.8%
+- Positive Predictive Agreement (vs ABG): 47.0%
+- NIV Group:
+- Relative sensitivity (vs ABG): 15.2%
+- Positive Predictive Agreement (vs ABG): 45.2%
+### Slide 26
+- Preliminary Results
+- ABG
+- Group
+- ICD
+- NIV
+- Age
+- 62±18
+- 65±16
+- 62±17
+- % Female
+- 46%
+- 51%
+- 42%
+- % white
+- 66%
+- 71%
+- 65%
+- % Black
+- 18%
+- 19%
+- 17%
+- BMI
+- 30.4±8.3
+- 33.1±10.3
+- 29.1±8.2
+- % with CHF
+- 37%
+- 30%
+- % with COPD
+- 31%
+- 14%
+- % Opiate UD
+- 6%
+- 3%
+- % Sleep Apnea
+- 23%
+- 24%
+- 10%
+- … + columns for each permutation
+### Slide 27
+- Implications:
+- For accurate determination of
+- Frequency of different comorbidities or causes
+- Morbidity and mortality associated with hypercapnia
+- Who should be included in studies to determine benefit from treatment
+- ... method of patient identification likely matters
+- Interpretability of current research could be improved using standard case definitions
+### Slide 28
+- Challenges: Data Quality
+- U of U does not submit ABG results to TriNetX
+- Each individual patient MUST have been eligible to be identified by each strategy.
+- How to avoid similar issues at other institutions?
+- presence of each type of information (blood gas, RT proc code, and ICD) associated with the encounter
+- Selection bias: restricts eligible patients. Ideally, want to know performance whether or not ABG obtained.
+- data check for submission of all 3 types of information from each institution
+- Assumption: data missingness determined by institution-level policies
+- Variability in practices by institution
+- Bug, or feature?
+### Slide 29
+- Challenges: Reference Standard
+- What should the reference standard be? (re: construct validity)
+- Does transient elevation PaCO2 after opiate administration imply respiratory failure?
+- Technically yes, but the implication of the diagnosis is much different
+- How much heterogeneity should the definition have?
+- Current PaCO2 threshold (45mmHg at sea level; 42 mmHg in SLC) are arbitrary
+- No epidemiologic data to support.
+- Different threshold used for different questions (NIV in COPD 52 mmHg; 45 mmHg other)
+### Slide 30
+- Computable Phenotype
+- Informed presence bias: people who have information in the EHR differ from those who do not.
+- EHR Computable Phenotype: an algorithm to classify patients based on the information present in the EHR
+- EHR Computable phenotype for Hypercapnic Respiratory Failure?
+- How should reference standard be determined?
+- Physician adjudication? Chart Review
+- Based on some outcome measure: ie, risk of mortality or readmission
+- Helpful for trial definitions
+### Slide 31
+- Next steps
+- To achieve initial aims:
+- Data quality checks; requires relational database processing. Currently ongoing
+- Additional aims?
+- TriNetX has record-linkage with mortality registries (Social Security; Obituary Databases). Does the cohort definition influence risk of mortality?
+- Stratification by ICU admission?
+### Slide 32
+- Summary; Where Will This Lead?
+- Hypercapnic Respiratory is better understood by multicausality
+- Which component causes commonly lead to disease? TBD
+- Are there component causes that are not generally mono-causal sufficient causes? Impact of loop diuretic prescription on risk of readmission with hypercapnia
+- Current methods identify meaningfully different cohorts; standard definitions needed to answer:
+- What are the costs/morbidity/mortality of hypercapnic patients?
+- How large is the burden to society (incidence, mortality)?
+- How small is the subset of patients we currently have evidence to treat?
+- Will treating other patients with hypercapnia improve outcomes?
+- Mechanistic reasoning suggests it should; we need data for payors
+### Slide 33
+- Questions?
+- Comments?
+- Ideas?
+- Email: brian.locke@hsc.utah.edu
+- References:
+- Sufficient-Component Cause Model:
+- Rothman, K. J. (1976). Causes. American journal of epidemiology, 104(6), 587-592.
+- Rothman, K. J., & Greenland, S. (2005). Causation and causal inference in epidemiology. American journal of public health, 95(S1), S144-S150.
+- Hypercapnia Graphic
+- Wasserman, Karlman, et al. "Principles of exercise testing and interpretation." Journal of Cardiopulmonary Rehabilitation and Prevention 7.4 (1987): 189.
+- Precision-Recall vs Sensitivity Specificity for Imbalanced Data
+- Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. PloS one, 10(3), e0118432.
+- Prior Hypercapnic Respiratory Failure Cohorts
+- Meservey, A. J., Burton, M. C., Priest, J., Teneback, C. C., & Dixon, A. E. (2020). Risk of Readmission and Mortality Following Hospitalization with Hypercapnic Respiratory Failure. Lung, 198(1), 121–134.
+- Ouanes-Besbes, L., Hammouda, Z., Besbes, S., Nouira, W., Lahmar, M., Ben Abdallah, S., Ouanes, I., Dachraoui, F., & Abroug, F. (2021). Diagnosis of Sleep Apnea Syndrome in the Intensive Care Unit: A Case Series of Survivors of Hypercapnic Respiratory Failure. Annals of the American Thoracic Society, 18(4), 727–729.
+- Wilson, M. W., Labaki, W. W., & Choi, P. J. (2021). Mortality and Healthcare Use of Patients with Compensated Hypercapnia. Annals of the American Thoracic Society, 18(12), 2027–2032.
+- Adler, D., Pépin, J. L., Dupuis-Lozeron, E., Espa-Cervena, K., Merlet-Violet, R., Muller, H., Janssens, J. P., & Brochard, L. (2017). Comorbidities and Subgroups of Patients Surviving Severe Acute Hypercapnic Respiratory Failure in the Intensive Care Unit. American journal of respiratory and critical care medicine, 196(2), 200–207.
+### Slide 34
+- ”Yes, of course. Who cares?”
+- Hypercapnia appears to be very bad
+### Slide 35
+- ”Yes, of course. Who cares?”
+- These component causes are becoming extremely common
+- BMI 40+: 1990 - 2030
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- TRIP: Jan 18, 2022Who has hypercapnic respiratory failure (and why)?
+- Respiratory Failure: failure to maintain O2 or CO2 levels in the blood
+- Sufficient-Component Cause Model
+- Causes of Hypercapnia
+- Causes of Hypercapnia: Hypothesis
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- TRIP: Jan 18, 2022Who has hypercapnic respiratory failure (and why)?
+- Respiratory Failure: failure to maintain O2 or CO2 levels in the blood
+- Sufficient-Component Cause Model
+- Causes of Hypercapnia
+- Causes of Hypercapnia: Hypothesis
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +385,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Hypercapnia Jan TRIP.pptx.pptx](archive/Presentations/Hypercapnia%20Jan%20TRIP.pptx.pptx)
+- [Presentations/Hypercapnia Jan TRIP.pptx.pptx](../../archive/Presentations/Hypercapnia%20Jan%20TRIP.pptx.pptx)
 
 ## Source materials
-- [Presentations/Hypercapnia Jan TRIP.pptx.pptx](archive/Presentations/Hypercapnia%20Jan%20TRIP.pptx.pptx)
+- [Presentations/Hypercapnia Jan TRIP.pptx.pptx](../../archive/Presentations/Hypercapnia%20Jan%20TRIP.pptx.pptx)

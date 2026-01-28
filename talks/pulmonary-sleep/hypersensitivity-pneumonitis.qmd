@@ -4,24 +4,28 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Antigen removal (worse prognosis if no antigen is identified - Noguieria et al Pulmonology 2019)
+- Steroids, but weak evidence base (RCT of 36 resulted in improvement in DLCo and FVC at 1 month but no difference at 5 years; matched cohort of 144 showed slower fibrosis progression on CT - esp early fibrosis)
+- AZA, MMF - need to exclude IPF (increased mortality). Less side effects than long-term steroids.
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Antigen removal (worse prognosis if no antigen is identified - Noguieria et al Pulmonology 2019)
+- Steroids, but weak evidence base (RCT of 36 resulted in improvement in DLCo and FVC at 1 month but no difference at 5 years; matched cohort of 144 showed slower fibrosis progression on CT - esp early fibrosis)
+- AZA, MMF - need to exclude IPF (increased mortality). Less side effects than long-term steroids.
+- ? Nintedanib - INBUILD study, progressive fibrosis including 26.1% who had chronic HP
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Extrinsic allergic alveolitis - to inhaled organic small particles.
+- CHEST: https://journal.chestnet.org/article/S0012-3692(21)00686-3/fulltext
+- ATS: https://www.atsjournals.org/doi/10.1164/rccm.202005-2032ST
+- ARUP's panel and what the significance of each result is:
+- Diagnostic algorithm (From ATS)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Antigen removal (worse prognosis if no antigen is identified - Noguieria et al Pulmonology 2019)
+2. Steroids, but weak evidence base (RCT of 36 resulted in improvement in DLCo and FVC at 1 month but no difference at 5 years; matched cohort of 144 showed slower fibrosis progression on CT - esp early fibrosis)
+3. AZA, MMF - need to exclude IPF (increased mortality). Less side effects than long-term steroids.
+4. ? Nintedanib - INBUILD study, progressive fibrosis including 26.1% who had chronic HP
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +34,12 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journal.chestnet.org/article/S0012-3692(21)00686-3/fulltext
+- https://www.atsjournals.org/doi/10.1164/rccm.202005-2032ST
+- https://photos.collectednotes.com/photos/5187/200a7dbe-8a3d-4fad-8c21-96b5118ae8b9
+- https://photos.collectednotes.com/photos/5187/6e91d6df-1bd2-4ee0-88e5-d93ce65f487b
+- https://photos.collectednotes.com/photos/5187/272e9096-095f-408b-8837-605c2de59229
+- https://photos.collectednotes.com/photos/5187/0fb15d68-dd72-41e1-a9fb-6aa26c076289
 
 ## Source notes
 
@@ -38,4 +47,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/hypersensitivity-pneumonitis.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/hypersensitivity-pneumonitis.md](archive/Clinical%20Practice%20Notes/hypersensitivity-pneumonitis.md)
+- [Clinical Practice Notes/hypersensitivity-pneumonitis.md](../../archive/Clinical%20Practice%20Notes/hypersensitivity-pneumonitis.md)

@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Nowbar et al. - 2004 - Obesity-associated hypoventilation in hospitalized patients prevalence, effects, and outcome..pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Nowbar%20et%20al.%20-%202004%20-%20Obesity-associated%20hypoventilation%20in%20hospitalized%20patients%20prevalence%2C%20effects%2C%20and%20outcome..pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Nowbar et al. - 2004 - Obesity-associated hypoventilation in hospitalized patients prevalence, effects, and outcome..pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Nowbar%20et%20al.%20-%202004%20-%20Obesity-associated%20hypoventilation%20in%20hospitalized%20patients%20prevalence%2C%20effects%2C%20and%20outcome..pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Nowbar et al. - 2004 - Obesity-associated hypoventilation in hospitalized patients prevalence, effects, and outcome..pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Nowbar%20et%20al.%20-%202004%20-%20Obesity-associated%20hypoventilation%20in%20hospitalized%20patients%20prevalence%2C%20effects%2C%20and%20outcome..pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Nowbar et al. - 2004 - Obesity-associated hypoventilation in hospitalized patients prevalence, effects, and outcome..pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Nowbar%20et%20al.%20-%202004%20-%20Obesity-associated%20hypoventilation%20in%20hospitalized%20patients%20prevalence%2C%20effects%2C%20and%20outcome..pdf)

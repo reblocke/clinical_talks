@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202014%20Python%20Trial%20Feeding%20Pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202014%20Python%20Trial%20Feeding%20Pancreatitis.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202014%20Python%20Trial%20Feeding%20Pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2014 Python Trial Feeding Pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202014%20Python%20Trial%20Feeding%20Pancreatitis.pdf)

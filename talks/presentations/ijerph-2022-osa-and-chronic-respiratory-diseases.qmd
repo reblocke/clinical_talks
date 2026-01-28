@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJERPH 2022 OSA and Chronic Respiratory Diseases.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/IJERPH%202022%20OSA%20and%20Chronic%20Respiratory%20Diseases.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJERPH 2022 OSA and Chronic Respiratory Diseases.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/IJERPH%202022%20OSA%20and%20Chronic%20Respiratory%20Diseases.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJERPH 2022 OSA and Chronic Respiratory Diseases.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/IJERPH%202022%20OSA%20and%20Chronic%20Respiratory%20Diseases.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/IJERPH 2022 OSA and Chronic Respiratory Diseases.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/IJERPH%202022%20OSA%20and%20Chronic%20Respiratory%20Diseases.pdf)

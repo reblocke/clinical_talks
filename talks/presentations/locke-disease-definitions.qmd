@@ -4,19 +4,59 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PGR: What’s in a definition?
+- In order of progressive ambiguity
+- Does it matter how we speak about it?
+- The only time a test can be absolutely “pathognomic” for a disease is when it is defined as such.
+- An argument for not conflating tests and diagnoses
+- ”The UA shows a UTI”
+- ”The CXR shows a Pna”
+
+## Slide outline
+### Slide 1
+- PGR: What’s in a definition?
+- An argument for not conflating tests and diagnoses
+### Slide 2
+- In order of progressive ambiguity
+- ”The UA shows a UTI”
+### Slide 3
+- In order of progressive ambiguity
+- ”The UA shows a UTI”
+- ”The CXR shows a Pna”
+### Slide 4
+- In order of progressive ambiguity
+- ”The UA shows a UTI”
+- ”The CXR shows a Pna”
+- “The Echo shows heart failure”
+### Slide 5
+- In order of progressive ambiguity
+- ”The UA shows a UTI”
+- ”The CXR shows a Pna”
+- “The Echo shows heart failure”
+- ”The EKG shows STEMI” - Poll
+### Slide 6
+- Does it matter how we speak about it?
+- STEMI / OMI – “STEMI EQUIVALENTS”
+- Prescribing antibiotics for asymptomatic bacteriuria
+- “Non-resolving pneumonia”
+### Slide 7
+- The only time a test can be absolutely “pathognomic” for a disease is when it is defined as such.
+- Can you think of any counter-examples?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PGR: What’s in a definition?
+- In order of progressive ambiguity
+- Does it matter how we speak about it?
+- The only time a test can be absolutely “pathognomic” for a disease is when it is defined as such.
+- An argument for not conflating tests and diagnoses
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PGR: What’s in a definition?
+- In order of progressive ambiguity
+- Does it matter how we speak about it?
+- The only time a test can be absolutely “pathognomic” for a disease is when it is defined as such.
+- An argument for not conflating tests and diagnoses
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +73,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - disease definitions.pptx](archive/Presentations/Locke%20-%20disease%20definitions.pptx)
+- [Presentations/Locke - disease definitions.pptx](../../archive/Presentations/Locke%20-%20disease%20definitions.pptx)
 
 ## Source materials
-- [Presentations/Locke - disease definitions.pptx](archive/Presentations/Locke%20-%20disease%20definitions.pptx)
+- [Presentations/Locke - disease definitions.pptx](../../archive/Presentations/Locke%20-%20disease%20definitions.pptx)

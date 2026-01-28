@@ -6,32 +6,45 @@ draft: true
 ## What this covers
 - Core IM Episode
 - Making Educational Content (e.g. videos, lectures, sims)
+- Generate hypotheses - noon conference style reports, humandx
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Core IM Episode
+- Making Educational Content (e.g. videos, lectures, sims)
+- Generate hypotheses - noon conference style reports, humandx
+- Gather data as guided by hypotheses - "Provide the learner a chief complaint, ask them for a tiered differential, then ask them to choose only five pieces of historical information and five physical exam findings to distinguish between the diagnoses they’re considering (Parsons et al, 2020).", "Provide the learner a printed history and physical and ask them to highlight only the information they believe is most relevant for building and narrowing their differential."
+- Problem representation - "Deconstruct the problem representation into its three primary components– patient demographics and risk factors, temporal pattern expressed using semantic qualifiers, and key symptoms and findings."
+- Refine hypotheses / Select working dx ???
+- challenging recall (ie testing) enhances retention more than passive rereading / reviewing (even though it is not always perceived as more durable)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- https://www.coreimpodcast.com/2020/12/09/hoofbeats-struggles-with-clinical-reasoning/
+- Diagnostic reasoning: diagnose the problem Reasoning process: Generate hypotheses → gather data → create a problem representation → refine hypotheses → select a working diagnosis
+- Problems at each step will lead to error and can be improved with specific tasks:
+- ##Make it stick notes
+- Rereading leads to the illusion of knowing the content (mastering the text, instead).
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Generate hypotheses - noon conference style reports, humandx
+2. Gather data as guided by hypotheses - "Provide the learner a chief complaint, ask them for a tiered differential, then ask them to choose only five pieces of historical information and five physical exam findings to distinguish between the diagnoses they’re considering (Parsons et al, 2020).", "Provide the learner a printed history and physical and ask them to highlight only the information they believe is most relevant for building and narrowing their differential."
+3. Problem representation - "Deconstruct the problem representation into its three primary components– patient demographics and risk factors, temporal pattern expressed using semantic qualifiers, and key symptoms and findings."
+4. Refine hypotheses / Select working dx ???
+5. challenging recall (ie testing) enhances retention more than passive rereading / reviewing (even though it is not always perceived as more durable)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Often we don't forget things - we are just unable to recall them because the cues haven't been used - difficulty of retrieval practice correlates with entrenched recall (desirable difficulty - if it's a little rusty, reconstructing the answer takes more effort.. despite feeling less confident).
+- avoid illusion of knowing by:
+- adopt growth mindset, avoid performance goals and embrace learning goals
+- Problems at each step will lead to error and can be improved with specific tasks:
+- Rereading leads to the illusion of knowing the content (mastering the text, instead). People who don't quiz themselves overestimate how much they know. Importantly - testing is a more effective learning tool (active retrieval) not just a method of evaluation. Factual knowledge is a prerequisite for higher level synthesis.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.coreimpodcast.com/2020/12/09/hoofbeats-struggles-with-clinical-reasoning/
+- https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013
+- https://photos.collectednotes.com/photos/5187/7a1be875-30cf-4bcf-86e7-8cbaa2d0bf57
 
 ## Source notes
 
@@ -39,4 +52,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/medical-education.md" >}}
 
 ## Source materials
-- [medical-education.md](archive/medical-education.md)
+- [medical-education.md](../../archive/medical-education.md)

@@ -4,24 +4,26 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- self contained generator and electrode that is implanted into the right ventricle for single chamber pacing.
+- benefit: no pocket infections, pacer wires, no incision (implanted via femoral vein), MRI compatible
+- down side: 1 chamber, can't defibrillate
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- self contained generator and electrode that is implanted into the right ventricle for single chamber pacing.
+- benefit: no pocket infections, pacer wires, no incision (implanted via femoral vein), MRI compatible
+- down side: 1 chamber, can't defibrillate
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- ###Leadless pacemaker
+- (Citation: The leadless pacemaker: An innovative design to enhance pacemaking capabilities.
+- JAAPA 2019;32:48-50.)
+- self contained generator and electrode that is implanted into the right ventricle for single chamber pacing.
+- benefit: no pocket infections, pacer wires, no incision (implanted via femoral vein), MRI compatible
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. self contained generator and electrode that is implanted into the right ventricle for single chamber pacing.
+2. benefit: no pocket infections, pacer wires, no incision (implanted via femoral vein), MRI compatible
+3. down side: 1 chamber, can't defibrillate
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -38,4 +40,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/pacemakers.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/pacemakers.md](archive/Clinical%20Practice%20Notes/pacemakers.md)
+- [Clinical Practice Notes/pacemakers.md](../../archive/Clinical%20Practice%20Notes/pacemakers.md)

@@ -4,19 +4,201 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Sleep Journal Club
+- Understanding sleep in relation to outcomes
+- Goals:
+- Imagine it’s 1950. You discover that OSA is very common. How do you figure out if it matters?
+- Structure of Observational Study ‘Argument’: Disjunctive Syllogism
+- Statistical Teaching point:
+- Design: Retrospective Cohort Cross-sectional
+- Cross-sectional vs Retrospective Cohort
+- Obstructive Sleep Apnea as a Risk Factor for Stroke and Death
+- Community vs Clinical Cohort
+- Prospective Study of Obstructive Sleep Apnea and Incident Coronary Heart Disease and Heart FailureThe Sleep Heart Health Study
+- Confounders, Regressions
+
+## Slide outline
+### Slide 1
+- Sleep Journal Club
+- Sept 2, 2022
+- Brian Locke MD
+- Krishna M. Sundar MD
+### Slide 2
+- Understanding sleep in relation to outcomes
+- Sleep as a behavior which unlike others occupies a finite portion of our lifetime
+- Alterations in behavior – measured through different metrics – relation to long term outcomes
+- New era of assessing relationships using statistical techniques (evolved since the Framingham heart study)
+- Problem with sleep
+- Measurement duration confined to one night (or 1-4 weeks)
+- Lack of sleep-derived biomarker (similar to HbA1C for DM) that can be used to assess sleep deprivation or degree of hypoxemia to long-term outcomes
+### Slide 3
+- Goals:
+- Understand that the disjunctive syllogism is the structure of a scientific argument
+- Know the limitations of a cross-sectional design as compared to cohort as compared to randomized trial viz-a-viz causal inference
+- Understand what a hazard ratio is and why they are so common in medical research
+- Know the determinants of a studies power.
+### Slide 4
+- Imagine it’s 1950. You discover that OSA is very common. How do you figure out if it matters?
+### Slide 5
+- Structure of Observational Study ‘Argument’: Disjunctive Syllogism
+### Slide 6
+- Statistical Teaching point:
+- Ascertainment of exposure status
+- Is “Have you ever been diagnosed with OSA?” accurate?
+- How would you expect the group assignment to change if PSG was used?
+- If you could design a perfect categorization of the groups, what would it be?
+- How would this effect the study conclusions?
+### Slide 7
+- TODO: No text extracted from this slide.
+### Slide 8
+- Design: Retrospective Cohort Cross-sectional
+- Population: Sleep Heart Health (1995-98), n6424 (-1200 missing data)
+- Exposed/Unexposed: AHI quartile (0-1.3, 1.4-4.4, 4.5-11.0, 11+)
+- Also, Sleep hypoxemia and arousal index
+- Outcome: Prevalent odds of CVD (why not incident?)
+- Statistics: Logistic regression with possible confounders
+- Findings: Quartile III and IV of AHI and %Hypoxemia indepdently associated with prevalent CVD (particularly HF and Stroke).
+- Sleep-disordered Breathing and Cardiovascular DiseaseCross-sectional Results of the Sleep Heart Health Study
+### Slide 9
+- Cross-sectional vs Retrospective Cohort
+- Cross-sectional study: exposure and outcome assess simultaneously
+- Cohort study: exposure assessed before outcome
+- Can only investigate prevalence of disease
+- Pros: easy, reliable if exposure doesn’t change (eg genetics), or prior exposure hard to remember (eg diet)
+- Cons: can’t determine direction of causality, current exposuresurrogate for past exposure, overrepresent longer duration cases.
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- Obstructive Sleep Apnea as a Risk Factor for Stroke and Death
+- Design: Prospective cohort (clinical)
+- Population: W/o pre-existing CVD referred for SDB eval @ Yale. 1997-2000, n1022
+- Exposed: Referred to clinic, AHI > 5 events/hr
+- Unexposed: Referred to clinic, AHI < 5 events/hr
+- Outcome: incident stroke or death, median follow-up 3.4 yr
+- Statistics: Cox-regression~Kaplan Meier/Log rank/proportional hazard
+- Findings: OSA associated with HR 1.97 for stroke or death after adjusting for confounders
+### Slide 12
+- Community vs Clinical Cohort
+- Community comparison:
+- (C+D) vs A
+- Clinical comparison:
+- C vs B
+- Any factor that changes the likelihood of B+C is a potential confounder
+- If, rather than population burden, you are interested in how to care for B+C, this may be the correct method
+- Population of interest
+- Seeks care
+- Has OSA
+- A
+- B
+- C
+- D
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- Prospective Study of Obstructive Sleep Apnea and Incident Coronary Heart Disease and Heart FailureThe Sleep Heart Health Study
+- Design: Prospective cohort (community)
+- Population: Sleep Heart Health (1995-98), n6441 (-2000 excluded))
+- Exposed: Mild (5-15), Moderate(15-30), Severe (30+) OSA by AHI. Mostly untreated (2.1% overall, 8.4% w mod-sev OSA treated)
+- Unexposed: AHI < 5 events/hr
+- Outcome: incident CHD before 4/1/06 (~8.7y)
+- Statistics: Cox-regression (HR)
+- Findings: More severe OSA independently associate with incident CHD (particularly CHF) in men, not women.
+### Slide 15
+- Confounders, Regressions
+- Regression: estimate effect with “all other things held equal”.
+- How do you decide what things to include?
+- Confounders
+- Mediators?
+- Colliders?
+- Is your understanding of what factors matter correct?
+- Can you measure everything you want to measure?
+### Slide 16
+- TODO: No text extracted from this slide.
+### Slide 17
+- Sleep-Disordered Breathing and Mortality: A Prospective Cohort Study
+- Design: Prospective cohort (community)
+- Population: Sleep Heart Health (1995-98), n6441 (-147 excluded d/t OSA treatment)
+- Exposed: Mild (5-15), Moderate(15-30), Severe (30+) OSA by AHI. Mostly untreated (2.1% overall, 8.4% w mod-sev OSA treated)
+- Unexposed: AHI < 5 events/hr
+- Outcome: (incident) death w/ ~8.2y avg follow-up
+- Statistics: Cox-regression (HR)
+- Findings: Mod-severe OSA (men) and severe OSA (women) associated with increased hazard of mortality. No relationship if age 70+
+### Slide 18
+- What is a Hazard Ratio / KM / Cox-regression?We’re all dead in the long run
+- 2 versions of Russian Roulette
+- X: 1:6 w/ bullet, Y: 1:4 w/ bullet
+- HR (1/6) / (1/4) 0.67
+- 1000 people play 11 rounds of each
+- On round
+- P(Surviving 10 rounds?)
+- X: (5/6)^10 16% -> 160 survivors
+- Y: (3/4)^10 5.6% -> 56 survivors
+- RR would be 84% / 94.6% 0.88
+- Round 11: X 27 die, Y 14 die yet HR higher in group Y!
+- What if Group Y says screw it after 7 rounds, but we want to maximize our data?
+- HR allows for “censoring of data”
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- Effect of continuous positive airway pressure therapy on recurrence of atrial fibrillation after pulmonary vein isolation in patients with obstructive sleepapnea: A randomized controlled trial
+- Design: Open-label RCT (A3 study, Oslo)
+- Population: new dx AHI 15+, ESS < 15 (etc), undergoing CA-PVI for Afib and able to tolerate CPAP during run-in period
+- Exposed: randomized to auto-CPAP
+- Unexposed: randomized to no CPAP
+- Outcome: 2+min Afib months 3-12 after CA-PVI by loop recorder
+- Statistics: logistic-regression yes/no recurrence
+- Findings: Mod-severe OSA (men) and severe OSA (women) associated with increased hazard of mortality. No relationship if age 70+
+### Slide 21
+- Negative RCT after positive observational study? power, adherence, & confounding
+- Power ~ Sample size/$$$, Alpha, minimally important absolute effect size, info per data point (Continuous > HR > dichotomous), non-adherence/loss f/u
+- ?
+- Disease+
+- Hypothesis+
+- Disease-
+- Hypothesis-
+- Test+
+- Study+
+- TP
+- FP
+- PPV: TP / T+
+- Test –
+- FN
+- TN
+- NPV: TN / T-
+- Se: TP / D+
+- Power: Se
+- Sp: TN / D-
+- Alpha: 1-Sp
+### Slide 22
+- TODO: No text extracted from this slide.
+### Slide 23
+- Why do phase 2 trials: Why surrogates? Why process measures?
+- Need to estimate each of the above parameters
+- Surrogates: Chosen to show a larger effect size smaller trial
+- Validity depends on them correlating with the outcome of interest
+- Do NOT trust a positive clinical-outcome on a phase 2 trial powered to find a difference in a surrogate: increased error rates (Type 1 and 2)
+- Power ~ Sample size/$$$, Alpha, minimally important absolute effect size, info per data point (Continuous > HR > dichotomous), non-adherence/loss f/u
+### Slide 24
+- Goals:
+- Understand that the disjunctive syllogism is the structure of a scientific argument
+- Know the limitations of a cross-sectional design as compared to cohort as compared to randomized trial viz-a-viz causal inference
+- Understand what a hazard ratio is and why they are so common in medical research
+- Know the determinants of a studies power.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Sleep Journal Club
+- Understanding sleep in relation to outcomes
+- Goals:
+- Imagine it’s 1950. You discover that OSA is very common. How do you figure out if it matters?
+- Structure of Observational Study ‘Argument’: Disjunctive Syllogism
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Sleep Journal Club
+- Understanding sleep in relation to outcomes
+- Goals:
+- Imagine it’s 1950. You discover that OSA is very common. How do you figure out if it matters?
+- Structure of Observational Study ‘Argument’: Disjunctive Syllogism
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +215,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/KS 9-1-22 Sleep JC Sept 2022.pptx after KS.pptx](archive/Presentations/KS%209-1-22%20Sleep%20JC%20Sept%202022.pptx%20after%20KS.pptx)
+- [Presentations/KS 9-1-22 Sleep JC Sept 2022.pptx after KS.pptx](../../archive/Presentations/KS%209-1-22%20Sleep%20JC%20Sept%202022.pptx%20after%20KS.pptx)
 
 ## Source materials
-- [Presentations/KS 9-1-22 Sleep JC Sept 2022.pptx after KS.pptx](archive/Presentations/KS%209-1-22%20Sleep%20JC%20Sept%202022.pptx%20after%20KS.pptx)
+- [Presentations/KS 9-1-22 Sleep JC Sept 2022.pptx after KS.pptx](../../archive/Presentations/KS%209-1-22%20Sleep%20JC%20Sept%202022.pptx%20after%20KS.pptx)

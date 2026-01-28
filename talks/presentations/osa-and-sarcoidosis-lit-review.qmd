@@ -4,19 +4,80 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- OSA and Sarcoidosis
+- (Sarcoidosis Vasc Diffuse Lung Dis 2020; 37 (2): 169-178) Mari
+- https://doi.org/10.1016/j.rmed.2018.03.021
+- Lal C, Medarov BI, Judson MA. Interrelationship between sleep disordered breathing and sarcoidosis. Chest. 2015;148(4):1105–1114. doi:10.1378/chest.15–0584
+- 14. Bingol Z, Pihtili A, Gulbaran Z, Kiyan E. Relationship between parenchymalinvolvement and obstructive sleep apnea in subjects withsarcoidosis. Clin Respir J. 2015;9(1):14–21. doi:10.1111/crj.12098
+- Respiration 2017;94:186-197https://doi.org/10.1159/000477352
+- https://link.springer.com/article/10.1007/s11325-021-02513-x
+- 13. Turner GA, Lower EE, Corser BC, Gunther KL, Baughman RP.Sleep apnea in sarcoidosis. Sarcoidosis, Vasc Diffus lung Dis Off JWASOG. 1997;14(1):61–64. http://www.ncbi.nlm.nih.gov/pubmed/9186990.
+- SARCOIDOSAS study; Italy. Sarcoidosis clinic, dx by ATS criteria.
+- 122 surveys, 84 responded, 68 included.
+- 8 AHI < 5; 25 AHI 5-15; 35 AHI > 15; 35 treated, 18 lost or declined. 20 treated for 3 months then reassessed. 50% mod-severe OSA
+- Elevated fatigue (extreme in ¼). Male gender, BMI, and Higher Scadding stage associated with increase risk. Scadding stage (lung parenchymal involvement also correlates with severity of OSA); fatigue wasn’t.
+
+## Slide outline
+### Slide 1
+- OSA and Sarcoidosis
+### Slide 2
+- (Sarcoidosis Vasc Diffuse Lung Dis 2020; 37 (2): 169-178) Mari
+- SARCOIDOSAS study; Italy. Sarcoidosis clinic, dx by ATS criteria.
+- 122 surveys, 84 responded, 68 included.
+- 8 AHI < 5; 25 AHI 5-15; 35 AHI > 15; 35 treated, 18 lost or declined. 20 treated for 3 months then reassessed. 50% mod-severe OSA
+- Elevated fatigue (extreme in ¼). Male gender, BMI, and Higher Scadding stage associated with increase risk. Scadding stage (lung parenchymal involvement also correlates with severity of OSA); fatigue wasn’t.
+- Implication: fatigue is common in sarcoidosis, but is not entirely explained by OSA.
+- Similarly, ESS can be caused by sarcoidosis outside of OSA?
+- AHI didn’t predict baseline symptoms well.
+- CPAP improved symptoms (though minority had elevated ESS at baseline). Single arm. High exclusion rate.
+- Both fatigue and ESS improved – however, with 1 group it’s not possible to know how much this is regression to the mean.
+### Slide 3
+- https://doi.org/10.1016/j.rmed.2018.03.021
+- Prospective, longitudinal. Sarcoidosis Jan 2010 – Dec 2015 at UCSF; N84 vs 30 controls.
+- High rate (the majority) of sleep complaints (vs few in matched controls) and sleep disordered breathing - not associated with scadding score of PFTs
+- No association with prednisone
+- No routine screening for OSA
+### Slide 4
+- Lal C, Medarov BI, Judson MA. Interrelationship between sleep disordered breathing and sarcoidosis. Chest. 2015;148(4):1105–1114. doi:10.1378/chest.15–0584
+- epidemiology: propose that sarcoid neuropathy, obesity due to steroids, upper airway resistance from airway involvement could contribute.
+- In addition, sarcoidosis of the upper respiratory tract (SURT) 8 may result in an increase in upper airways resistance, leading to OSA or related SDB syndromes. 9 (lupus pernio may be associated with this)
+- Fatigue present in 60% of patients with OSA (15), also in 60%ish patients with sarcoidosis (16). Vs EDS (can be caused by sarcoidosis – citation 6)
+- Sarcoidosis can cause pulmonary hypertension, and thus additive effects on the pulmonary vasculature are suspected and lead providers to treat even mild cases to avoid the risk. [ cite this article] PH occurs in 5-20% of sarcoidosis population (more if severe).
+- Not known if the inflammation from OSA influences sarcoid disease activity [cite this article]
+### Slide 5
+- 14. Bingol Z, Pihtili A, Gulbaran Z, Kiyan E. Relationship between parenchymalinvolvement and obstructive sleep apnea in subjects withsarcoidosis. Clin Respir J. 2015;9(1):14–21. doi:10.1111/crj.12098
+- higher Ahi if lung involvement.
+- 29 patients with sarcoidosis, 15 w lung involve vs 14 w/o. OSA prevalence 51.7%, more AHI and lower SaO2 in parenchymal group.
+- How selected?
+### Slide 6
+- Respiration 2017;94:186-197https://doi.org/10.1159/000477352
+- Germany, 2009 – survey distributed to members a patient group
+- 1197 sarcoidosis patients: Sleepiness (ESS), Fatigue (FAS)
+- Severe Fatigue 16%; Severe sleepiness 16%
+- EDS: OSA (OR 2.46), dyspnea, and multiorgan involvement
+- Fatigue: depression, anxiety, muscle pain
+### Slide 7
+- https://link.springer.com/article/10.1007/s11325-021-02513-x
+- Consecutive patients tested; 70% had sarcoidosis.
+- Higher in treated and treatment naïve patients; also more common in worse disease patients
+### Slide 8
+- 13. Turner GA, Lower EE, Corser BC, Gunther KL, Baughman RP.Sleep apnea in sarcoidosis. Sarcoidosis, Vasc Diffus lung Dis Off JWASOG. 1997;14(1):61–64. http://www.ncbi.nlm.nih.gov/pubmed/9186990.
+- 83 patients with sarcoidosis, 91 control. 17% vs 3 % OSA.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- OSA and Sarcoidosis
+- (Sarcoidosis Vasc Diffuse Lung Dis 2020; 37 (2): 169-178) Mari
+- https://doi.org/10.1016/j.rmed.2018.03.021
+- Lal C, Medarov BI, Judson MA. Interrelationship between sleep disordered breathing and sarcoidosis. Chest. 2015;148(4):1105–1114. doi:10.1378/chest.15–0584
+- 14. Bingol Z, Pihtili A, Gulbaran Z, Kiyan E. Relationship between parenchymalinvolvement and obstructive sleep apnea in subjects withsarcoidosis. Clin Respir J. 2015;9(1):14–21. doi:10.1111/crj.12098
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- OSA and Sarcoidosis
+- (Sarcoidosis Vasc Diffuse Lung Dis 2020; 37 (2): 169-178) Mari
+- https://doi.org/10.1016/j.rmed.2018.03.021
+- Lal C, Medarov BI, Judson MA. Interrelationship between sleep disordered breathing and sarcoidosis. Chest. 2015;148(4):1105–1114. doi:10.1378/chest.15–0584
+- 14. Bingol Z, Pihtili A, Gulbaran Z, Kiyan E. Relationship between parenchymalinvolvement and obstructive sleep apnea in subjects withsarcoidosis. Clin Respir J. 2015;9(1):14–21. doi:10.1111/crj.12098
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +94,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/OSA and Sarcoidosis Lit Review.pptx](archive/Presentations/OSA%20and%20Sarcoidosis%20Lit%20Review.pptx)
+- [Presentations/OSA and Sarcoidosis Lit Review.pptx](../../archive/Presentations/OSA%20and%20Sarcoidosis%20Lit%20Review.pptx)
 
 ## Source materials
-- [Presentations/OSA and Sarcoidosis Lit Review.pptx](archive/Presentations/OSA%20and%20Sarcoidosis%20Lit%20Review.pptx)
+- [Presentations/OSA and Sarcoidosis Lit Review.pptx](../../archive/Presentations/OSA%20and%20Sarcoidosis%20Lit%20Review.pptx)

@@ -9,30 +9,34 @@ draft: true
 - Goal-directed Echo
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Modes
+- Physics:
+- Goal-directed Echo
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Ultrasound in the ICU Series, ATS
+- (B) brightness mode conventional.
+- 2d (spatial) map of reflectiveness
+- (M)-mode - aka Time-motion mode: gives information on 1 slide through time..
+- Note: Duplex using doppler and b-mode
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. pulse wave doppler sends, then listens after (and not sending at the same time) gets artifacts due to Nyquist effect, also only gets motion vector coming directly to probe.
+2. Tissue doppler is a variation of this with filters eliminating blood
+3. Color wave doppler uses pulses and uses info from each pixel to determine a color (still has limitation of aliasing)
+4. continuous wave doppler continuously sending and listening simultaneously (2 elements / piezoelectric elements) no aliasing
+5. resolution of ultrasound depends on wavelength (frequency. b/c speed wavelength frequency).
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- ##Shock Assessment
 
 ## Common pitfalls
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.thoracic.org/professionals/career-development/residents-medical-students/ats-reading-list/adult/ultrasound-in-the-icu.php
+- https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.202008-948CME
+- https://www.thoracic.org/professionals/clinical-resources/critical-care/clinical-education/ultrasound.php
 
 ## Source notes
 
@@ -40,4 +44,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/ultrasound.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ultrasound.md](archive/Clinical%20Practice%20Notes/ultrasound.md)
+- [Clinical Practice Notes/ultrasound.md](../../archive/Clinical%20Practice%20Notes/ultrasound.md)

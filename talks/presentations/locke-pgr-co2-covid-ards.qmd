@@ -4,19 +4,294 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- How permissive, and for how long.
+- Case
+- PCO2?
+- Another Patient
+- What, if anything, should be done about this?
+- First Principles: What causes high CO2?
+- PaCO2 k VCO2 / VE (1-Vd/Vt)
+- Dead space in ARDS
+- Dead space in ARDS: Is COVID different?
+- Deadspace trajectory through ARDS
+
+## Slide outline
+### Slide 1
+- How permissive, and for how long.
+- Brian Locke MD
+- Fellow
+- C
+- 2
+### Slide 2
+- Case
+- 62 unvaccinated M was transferred from OSH after presenting with COVID-19 and DKA.
+- He was initially treated with meropenem->CTX, azithromycin, and vancomycin. For COVID-19, he received Remdesevir and Dexamethasone
+- 1 week into his hospitalization at the OSH, he was intubated and transferred to U of U
+- After transfer, he had the following sequence of chest imaging studies
+### Slide 3
+- TODO: No text extracted from this slide.
+### Slide 4
+- TODO: No text extracted from this slide.
+### Slide 5
+- TODO: No text extracted from this slide.
+### Slide 6
+- TODO: No text extracted from this slide.
+### Slide 7
+- TODO: No text extracted from this slide.
+### Slide 8
+- TODO: No text extracted from this slide.
+### Slide 9
+- TODO: No text extracted from this slide.
+### Slide 10
+- PCO2?
+### Slide 11
+- PCO2?
+- 2.2g CO2 1mol/44 g CO2 0.05 mol 50 mmol
+- 12 oz 355 mL
+- 50 mmol / 0.355 L 140 mmol/L
+- Cola Line
+### Slide 12
+- TODO: No text extracted from this slide.
+### Slide 13
+- Another Patient
+### Slide 14
+- What, if anything, should be done about this?
+- Review of CO2 kinetics
+- Why does this happen? Dead space fraction in COVID-ARDS
+- Tolerating Hypercapnia: Pros and Cons
+- Review of control of ventilation related to hypercapnia and acidosis
+### Slide 15
+- First Principles: What causes high CO2?
+- PaCO2 k VCO2 / VA
+- PaCO2 k VCO2 / VE (1-Vd/Vt)
+- If you hold VCO2 and Vd/Vt constant, you get the metabolic hyperbola (solid line) which relates PaCO2 to Ve
+### Slide 16
+- PaCO2 k VCO2 / VE (1-Vd/Vt)
+- VCO2: doesn’t vary all that much in covid
+- VE: we are often (mostly) in control in this in the situation of COVID ARDS. In health, the body regulates this incredibly tightly.
+- More on this soon
+- Vd/Vt: is this uniquely bad in COVID-ARDS versus other ARDS?
+- Vd/Vt (PaCO2 - PECO2) / PaCO2
+### Slide 17
+- Dead space in ARDS
+- MIGET studies (10-15cc/kg days): Vd/Vt ~0.60 in severe ARDS
+- Estimate using PECO2 (~EtCO2) to PaCO2 ratio (requires blood gasses)
+- VD/VT (PaCO2-PECO2)/PaCO2
+- Ventilatory ratio (VR): [minute ventilation (ml/min) × PaCO2 (mm Hg)]/[predicted body weight × 100 (ml/min) × 37.5 (mm Hg)]
+- VCO2 estimated based on body size.
+- Index of impaired ventilatory efficiency that correlates with Vd/Vt
+### Slide 18
+- What, if anything, should be done about this?
+- Review of CO2 kinetics
+- Why does this happen? Dead space fraction in COVID-ARDS
+- Tolerating Hypercapnia: Pros and Cons
+- Review of control of ventilation related to hypercapnia and acidosis
+### Slide 19
+- Dead space in ARDS: Is COVID different?
+- Beloncle et al 2021: n112 COVID-19 ARDS matched to n198 non-COVID pulmonary ARDS
+- Matched on age, SAPS2 score, P:F, PEEP
+- Found Crs was no different. VR was lower in COVID-19 at day 1 compared to non-COVID, but increased to similar degree by day 7.
+- Luca Grieco et al 2021: n30 COVID-19 matched to n30 non-COVID ARDS
+- Matched on P:F, FiO2, PEEP, tidal volume
+- Ventilatory ratio (2.1 [1.7–2.3] vs. 1.6 [1.4–2.1], p 0.032) slightly higher in COVID-19 group
+- Conclusion: mixed but underwhelming differences
+- COVID-19 patients are often otherwise healthy, present with single organ failure
+- Non-COVID ARDS matched for the degree is likely to either die or be cured (antibiotics). Bias due to Survivorship and illness duration?
+- Possible COVID-ARDS evolves differently than other lung injury
+### Slide 20
+- Deadspace trajectory through ARDS
+- https://twitter.com/danleisman/status/1468689855370702850?s11
+### Slide 21
+- Why is a normal PaCO2 33ish mmHg (SLC)?
+- Ventilation is metabolically expensive
+- work of breathing 2% of O2 at rest, but increases hugely with exercise or pathology
+- The same pH can be achieved at any PaCO2 by adjusting the bicarbonate: pH 6.1 + log [ HCO3 / (0.03 pCO2) ]
+- The existence of ‘compensation’ suggests pH is the defended variable
+- Why doesn’t the body operate with with a PaCO2 of 70? (and an HCO3 of 44 pH 7.42) This would be metabolically advantageous.
+- Especially in states where the work (power) of breathing is higher - such as lung disease
+- PaCO2 k VCO2 / VE (1-Vd/Vt)
+- VE (1-Vd/Vt) k VCO2 / PaCO2
+### Slide 22
+- Davenport Diagram: pH 6.1 + log [ HCO3 / (0.03 pCO2) ]
+- Hypoventilation
+- Renal Compensation
+- Why not live here?
+### Slide 23
+- What actually happens in this process:
+- 3-5 days to reach steady state metabolic compensation in dogs; unknown time in humans
+- Acute: 0.1 mEq/L per 1 mmHg – modified some by pre-existing degree of HCO3. Not dependent on kidney
+- Chronic: 1960s – 0.35 to 0.4 mEq/L per 1mmHg Co2 increase; 0.48 - 0.51 mEq/L per 1mmHg more recently; depends on renal function.
+- Summarized in doi: 10.1053/ j.ajkd.2019.05.029
+### Slide 24
+- How much CO2 is ‘sequestered’? From https://doi.org/10.1152/jappl.2000.88.1.257
+### Slide 25
+- In a world without supplemental oxygen…
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- (Patm – PH2O) FiO2 represents O2 arriving at the alveoli, which becomes saturated with H2O through the airways
+- PaCO2 / RQ represents the volume of O2 in the alveoli removed into the blood
+- FiO2 PaCO2 (1-RQ)/RQ represents the passive flow that must occur to maintain steady state when RQ / 1, because every O2 molecule leaving the alveoli is NOT replaced by 1 molecule of CO2.
+- Hypoventilation causes hypoxemia;
+- evolutionarily advantageous to have an oxygenation buffer?
+- severe hypercapnia is only possible with supplemental oxygen (Dalton’s Law)
+### Slide 26
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- Normal A-a gradient? 4 + (0.25 Age)
+- Critical PAO2 paO2 + (Normal A-a gradient)
+### Slide 27
+- When we control the alveolar gasses…
+- At 100% FiO2, hypercapnia will almost never cause hypoxemia
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- PaCO2 40: PAO2 (647 – 47) 1 – (40 / 0.8) + 1 40 (1-.8)/.8 556 mmHg
+- PaCO2 120: PAO2 (647 – 47) 1 – (120 / 0.8) + 1 120 (1-.8)/.8 534 mmHg
+- True effect might be different:
+- Moves O2-Dissociation curve to the right (could cause hypoxia)
+- Worsened V/Q matching (vasoconstriction in high VA zones)
+### Slide 28
+- What, if anything, should be done about this?
+- Review of CO2 kinetics
+- Why does this happen? Dead space fraction in COVID-ARDS
+- Tolerating Hypercapnia: Pros and Cons
+- Review of control of ventilation related to hypercapnia and acidosis
+### Slide 29
+- Argument for allowing hypercapnia
+- Could you ventilate at <6 cc/kg if you allow PaCO2 to increase?
+- k VCO2 / 40 mmHg vs k VCO2 /120 mmHg > 3x less VA; without the (probable) evolutionary reason we don’t do this (O2)
+- Direct Evidence: (Permissive Hypercapnia)
+- LTVV ARDS trials allow pH < 7.30 if RR 35+ or Pplat 25-30
+- What is attributable to the PHC, and what is the LTVV? Is PHC beneficial outside these indications? What about hypercapnia without acidosis?
+### Slide 30
+- Is it the hypercapnia, or the severity of ARDS that leads to mortality?
+- Nin et al, 2017: 1998-2010, 1899 patients with ARDS
+- Maximum PaCO2 within 48h <30, 30-9, 40-9, 50-9, 60-9, 70+ mmHg
+- Multivariable Logistic regression: age, SAPS2, P/F, PEEP, RR, Acidosis, vent stg
+- Causal? Many other pertinent confounders (baseline CO2, lung disease, other management)
+### Slide 31
+- Is it the hypercapnia, or the severity of ARDS that leads to mortality?
+- Muthu et al 2017: n415 with ARDS 2001-2016 at a single center
+- Multivariable logistic regression: APACHE2, pH, severity of ARDS
+- PaCO2 not independently associated with mortality (but pH is)
+### Slide 32
+- TODO: No text extracted from this slide.
+### Slide 33
+- CO2 ‘Narcosis’?
+- Less lipid soluble than N2;
+- CNS effects mediated by changes in intracellular pH and cerebral blood flow
+- Decreased LOC occurs when CO2 rises above 90-120 mmHg (Nunn’s and Lambs)
+- Likely contributes to encephalopathy in ICU patients
+- Adaptation almost certainly occurs
+- Healthy astronauts inhaling 8% CO2 (60 mmHg) experience >
+### Slide 34
+- What, if anything, should be done about this?
+- Review of CO2 kinetics
+- Why does this happen? Dead space fraction in COVID-ARDS
+- Tolerating Hypercapnia: Pros and Cons
+- Review of control of ventilation related to hypercapnia and acidosis
+### Slide 35
+- Sedation vacation:.
+- Will this patient feel more, less, or the same degree of dyspnea compared to a hypothetical patient with normal acid/base status?
+### Slide 36
+- Ventilator Dyssynchrony
+- Anxiolysis, Analgesia, and ‘Respirolysis’ are only weakly related when assessed by P 0.1
+- https://journals.lww.com/ccmjournal/fulltext/2021/12000/managingpatientventilatordyssynchrony.18.aspx
+- https://journals.lww.com/ccmjournal/fulltext/2021/12000/discordancebetweenrespiratorydriveandsedation.9.aspx
+### Slide 37
+- Haldane, Submarines, and Space Shuttles
+- What happens if you keep increasing FiCO2?
+- FiCO2 0 to 1.5%: VE increases, kidneys compensate, PaCO2 stable.
+- FICO2 1.5 to 3-6%: Partial renal compensation, VE increases to defend CO2
+- Bicarbonate excretion from kidneys 0, max renal effort (1963 - Operation Hideout).
+- FiCO2 3-6%+: somehow, the respiratory control system realizes it would be too costly to defend a given CO2 and PaCO2 levels are allowed to rise
+- This occurs before MVV
+- ’Comroe’s Law’
+### Slide 38
+- Drive to breath in 1 minute:
+- 4 sources:
+- Chemical drive – related to changes in arterial PO2 (NOT oxygen saturation), arterial and brain PCO2 and pH. Mediated by central and peripheral chemoreceptors.
+- Metabolic drive – related to metabolic rate and mediated by unknown mechanisms (e.g. how the Ve increases in CPET before blood gases change)
+- Wakefulness drive – disappears during sleep & anesthesia, a minor PaCO2 drop in presence of normoxia produces a central apnea
+- Voluntary / Supratentorial factors (anxiety hyperventilation, anticipation)
+### Slide 39
+- Ventilatory Control
+- Central Chemoreceptors
+- Ventral surface of medulla
+- Responds to H+ in ECF of CNS – this equilibrates with CO2 in blood (no charge) more than pH in blood. CSF HCO3 lessens response. No O2 sensing. Slower response
+- Peripheral Chemoreceptors
+- Carotid and Aortic bodies.
+- Aortic body contributes to sympathetic and cardiovascular response
+- Respond (rapidly) to PaO2, PaCO2, and pH
+- Experiments injecting acids into CSF of animals leads to increase in VA
+- When PaCO2 and pH differ? (DKA) Mediated by metabolic drive to breath and peripheral chemoreceptor.
+### Slide 40
+- Sensitivity of the controller system to CO2:
+- The PCO2/Ventilation Response ‘Curve’: straight/dashed line.
+- The amount that the respiratory system will respond to an increase in PaCO2
+- slope change in Ve / change in PaCO2
+- Steeper slope more sensitive, flatter less sensitive
+### Slide 41
+- Might HCO3 buffering.. reduce dyspnea?
+- Brain curve (line): Ve that would occur if the respiratory system could do what the brain wants
+- Ventilation curve (line): Actual Ve
+- Dissociation of brain and ventilation curves -> dyspnea
+### Slide 42
+- Returning to our patient:
+- Do you maximize VE within the parameters of ARMA to slowly correct? (RR 35, Plat 25-30)
+- Do you give acetazolamide?
+- Do you tolerate (or even encourage) hypercapnia to continue to minimize ventilator trauma and hope that eventually dead space improves?
+### Slide 43
+- The lung: an ultra-kidney for volatile acids.
+- ‘CO2 Clearance’: Analagous to creatinine kinetics
+- Urine volume : VE (exhaled volume)
+- [Ucr] : FExhaled CO2
+- Serum creatinine : PaCO2
+- GFR : CO
+- Implication:
+- Further down on the ventilation axis, right on the PaCO2 axis, or R shifted the curve (increased VCO2 or Vd/Vt)
+- Larger the change in CO2 that will occur from a given change in Ve
+- Analogy: sCr of 6 is not much different than 5; PaCO2 70 not much different than 80
+- Yet, impacts of CO2 on hypoxemia, CNS, CV system, and drive to breathe may be linear.
+### Slide 44
+- Does the PaCO2 ‘set-point’ change?
+- For example, in OHS:
+- Loop gain terminology primarily describes tendency toward stability of ventilation. ‘Gain’ of the feedback loop.
+- Controller gain: ventilatory response to PO2 and PCO2 )
+- Plant gain: changes in pulm capillary blood PO2 and PCO2 in response to changes in vent
+- Mixing gain: effective circulation time – time which cap blood changes are sensed by controller
+- Many changes are known to influence chemoreflex sensitivity
+- Ventillatory long-term facilitation is the process that should keep things on track
+- Ventilatory long-term facilitation is the term for adaptation to chronic stimulus (ie. sustained hypercapnia should increase loop gain to re-establish a baseline, and if this goes wrong you get a ‘wandering baseline’)
+### Slide 45
+- Acetazolamide?
+- No effect in this RCT – OHS and COPD
+- https://pubmed.ncbi.nlm.nih.gov/28286047/
+### Slide 46
+- Post-script: meta-analysis
+- https://link.springer.com/article/10.1007/s00134-022-06640-1
+- Found conflicting results
+- Positive results from protective ventilation
+- Negative from effects on pulmonary vascular dysfxn
+### Slide 47
+- https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-022-01006-8
+- COPD – ECCO2R
+- Faster normalization of blood gasses (CO2, pH) -> resolution of dyspnea.
+### Slide 48
+- Editorial for https://link.springer.com/article/10.1007/s00134-022-06640-1
+- https://doi.org/10.1007/s00134-022-06696-z
+- They object to “induced” vs “permissive” hypercapnia done in the study
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- How permissive, and for how long.
+- Case
+- PCO2?
+- Another Patient
+- What, if anything, should be done about this?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- How permissive, and for how long.
+- Case
+- PCO2?
+- Another Patient
+- What, if anything, should be done about this?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +308,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke PGR CO2 COVID ARDS.pptx](archive/Presentations/Locke%20PGR%20CO2%20COVID%20ARDS.pptx)
+- [Presentations/Locke PGR CO2 COVID ARDS.pptx](../../archive/Presentations/Locke%20PGR%20CO2%20COVID%20ARDS.pptx)
 
 ## Source materials
-- [Presentations/Locke PGR CO2 COVID ARDS.pptx](archive/Presentations/Locke%20PGR%20CO2%20COVID%20ARDS.pptx)
+- [Presentations/Locke PGR CO2 COVID ARDS.pptx](../../archive/Presentations/Locke%20PGR%20CO2%20COVID%20ARDS.pptx)

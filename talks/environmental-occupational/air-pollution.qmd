@@ -9,30 +9,40 @@ draft: true
 - Known adverse effects
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Definitions
+- Factors leading to disease
+- Known adverse effects
+- Indoor Air Pollution
+- Outdoor (ambient) Air Pollution
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Svante Arrhenius - 1896: CO2 content of the air influences the temperature of the atmosphere.
+- Mary Rice Slides !alt !alt !alt Wildfire
+- High Efficacy particular air purifiers filtration systems, do not remove ozone, nitrogen oxides .
+- Chest Summary 1 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6904855/
+- Chest Summary 2 - (nonpulm) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6904854/
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. particulate matter[PM] - subdivided by aerodynamic diameter less than
+2. PM2.5 (associated with all cause mortality, acute CV and pulm mort. 2.5 size that can make it to alveoli)
+3. 'Course particles' PM 10 but not PM 2.5 (aka diam 2.5-10 micro m)
+4. 'Ultrafine particles' PM 0.1 - passes through alv-blood barrier
+5. sulfur oxides (SO2)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Air Filters: MERV (corresponds to size of particle it can grab - higher MERV->smaller min particle size). HEPA filters at least 99.97% 0.3 micrometers or less. Two options: portable or central (HVAC, 75% of houses have them. Needs sufficient run time - meaning if furnace is only intermittent operation it won't work well). Portable is better for asthma kids. Don't use plasma/ion air cleaners.
+- High Efficacy particular air purifiers filtration systems, do not remove ozone, nitrogen oxides .
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/8c5a7356-2c86-4dd3-b01a-0777a363c185
+- https://photos.collectednotes.com/photos/5187/10b078a2-0926-4fcc-ba61-d5ae2516472a
+- https://photos.collectednotes.com/photos/5187/ecfbdc6e-83c7-4642-a894-eb79fbe67473
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6904855/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6904854/
+- https://www.atsjournals.org/doi/pdf/10.1164/rccm.202011-4168ED
 
 ## Source notes
 
@@ -40,4 +50,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/air-pollution.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/air-pollution.md](archive/Clinical%20Practice%20Notes/air-pollution.md)
+- [Clinical Practice Notes/air-pollution.md](../../archive/Clinical%20Practice%20Notes/air-pollution.md)

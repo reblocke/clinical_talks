@@ -4,19 +4,177 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PGR
+- Case: Otero [ ] maybe don’t give this all up front?
+- Study idea: could you model how well the reported sensitivity and specificity occur in TriNetX data? Do the ‘assumptions’ hold?
+- https://twitter.com/f2harrell/status/940595034121961472?langen
+- NYT article link in depression
+- What is the implied disease course?
+- Part 1: Empiric Trial of Inhalers as a method of diagnosing airways disease
+- Regression to the mean
+- Self-limited disease
+- The natural history:
+- Confusion on this point is widespread
+- Abductive Reasoning
+
+## Slide outline
+### Slide 1
+- PGR
+- Brian Locke
+- Disclosures: I plan to stir the pot
+### Slide 2
+- Case: Otero [ ] maybe don’t give this all up front?
+- 55M – presents with slowly progressive DOE, no particular triggers, not much day-day variation.
+- Used to Smoke, 1ppd x 30y. Quit 5 years ago
+- BMI 37
+- Felt better with ICS/LABA (empiric through PCP), feels albuterol helps
+- “COPD” diagnosis in the chart.
+- Untreated OSA
+- ABG: 7.39 / 46 / 65 on room air (A-a gradient normal) – uses O2 with exertion because it makes him feel better.
+- Mild restriction with +BD on Spiro
+### Slide 3
+- Study idea: could you model how well the reported sensitivity and specificity occur in TriNetX data? Do the ‘assumptions’ hold?
+### Slide 4
+- https://twitter.com/f2harrell/status/940595034121961472?langen
+- https://twitter.com/f2harrell/status/1085615414820958209
+### Slide 5
+- NYT article link in depression
+- https://www.nytimes.com/interactive/2022/09/27/opinion/how-to-treat-depression.html
+### Slide 6
+- What is the implied disease course?
+- Ex hoc ergo prompter hoc
+- Voltaire: ‘“The art of medicine consists in amusing the patient, while nature cures the disease”’
+### Slide 7
+- Part 1: Empiric Trial of Inhalers as a method of diagnosing airways disease
+- Randomized Controlled Trial example
+- [ ] Inhaler vs placebo? https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3154208/
+- A: The placebo effect of inhalers is large
+- B: Regression to the mean
+- C: Most asthma flairs are self-limited
+- D: there is some random error associated with dyspnea assessments.
+### Slide 8
+- Regression to the mean
+- Summarized nicely here by Senn: http://www.cambridgeblog.org/2022/12/the-mean-side-of-the-force-how-regression-to-the-mean-can-fool-us/
+### Slide 9
+- Self-limited disease
+- Azithromycin vs Placebo in Viral infections
+### Slide 10
+- The natural history:
+- The more variability in symptoms, the more regression to the mean
+- The more imprecision in measurement, the more regression to the mean
+- All the non-disease related factors that influence patients response to questionaires (hangry? Just want to be done? Etc.) are essentially random in this sense
+- The more predictably self-limited conditions are, the better pre-post comparisons will be
+### Slide 11
+- Confusion on this point is widespread
+- Pre-post comparison is not the placebo effect
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156905/
+- Meta-analysis of 202 trials (60. conditions) including a placebo and a no-treatment arm.
+- “We did not find that placebo interventions have important clinical effects in general. However, in certain settings placebo interventions can influence patient‐reported outcomes, especially pain and nausea, though it is difficult to distinguish patient‐reported effects of placebo from biased reporting. ”
+### Slide 12
+- Abductive Reasoning
+- ”I gave the patient an inhaler and they felt better. Odd coincidence, unless they have asthma”
+- Formally: “reason backwards from an effect to a cause that explains it”
+- Can yield robust knowledge:
+- Example: General relatively predicted that light would be bent around an eclipse
+- Eddington led an expedition to a small island of the coast of Africa in 1919- 1.75 seconds of arc deflection of light from Hyades start cluster.
+- reasoning backward: it must be that general relativity is true.
+### Slide 13
+- The likelihood principle explains how strong evidence is
+- Formally:
+- Likelihood of observing light bend if Relativity is true (HO): ~1
+- Likelihood of observing light bend under classical physics (H1): ~0
+- Likelihood ratio: the amount of support an observation gives in support of HO over H1.
+- Likelihood ratio(observing light bend) HUGE
+### Slide 14
+- The likelihood principle
+- “Bayesianism and likelihoodism “both interpret experimental results by using the law of likelihood”. The law of likelihood states: data x support H1 over H0 if the likelihood of H1 exceeds H0, that is, if the likelihood ratio Pr(x|H1)/Pr(x|H0) exceeds 1. The likelihood function is the probability (or density) of the observed value of the test statistic, regarded as a function of the unknown parameter(s). The likelihood principle (LP), which goes a bit further, asserts that all the evidence about the unknown parameter(s) resides in the likelihood ratio, once the data are observed”
+### Slide 15
+- Is ICS/LABA or SABA good evidence for asthma?
+- Likelihood of improvement if they have asthma? ~0.9
+- Likelihood of improvement without asthma? ~..0.5?
+- How variable are reports of dyspnea in general?
+- REGRESSION TO THE MEAN
+- Most people are starting medications on bad days: if they were having a good day, they’d say no to more meds.
+- Are people with asthma symptoms credibly more susceptible to placebo then people without asthma?
+- NOT REGRESSION TO THE MEAN
+- Likelihood of improvement in dyspnea in non-asthma conditions?
+- CHF trials? PAH trials? Morphine/palliative trials? (consider, dyspnea’s close relationship to panic)
+- LR – while this isn’t nothing, it certainly shouldn’t be the basis of a diagnosis.
+- sidebar: if you make the jump of representing your uncertainty as odds, then multiplying by the LR is provably the most efficient use of data as its represented – this is why Bayes is famous.
+### Slide 16
+- We’re prone to confusion of this sort in many forms:
+- https://en.wikipedia.org/wiki/Coldreading Cold reading - tie in severity?
+### Slide 17
+- https://link.springer.com/article/10.1007/s00024-022-03137-2
+- Humans are also bad at judging and creating randomness: we have apophenia and pareidolia, a tendency to see patterns in randomness
+### Slide 18
+- Some discussion of variability here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8483219/
+- MCID of dyspnea rating scales or st George questionnaire?
+- https://pubmed.ncbi.nlm.nih.gov/20843247/
+- https://pubmed.ncbi.nlm.nih.gov/8625661/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6387992/
+### Slide 19
+- Could we do this better?
+- N of 1 trials? Relation to this?
+- Control charts with asthma
+### Slide 20
+- Things that have a variable course are more likely to have “home remedies” - you take them and you get better
+- Vitamins for cold
+- Prune juice for UTIs
+- The kicker is that you would have gotten better just as much before.
+### Slide 21
+- In sum,
+- We should generally be skeptical of diagnoses structured as “I started a treatment for X and it worked, therefore the patient has X”
+- Especially in the cases where:
+- Most people get better from X regardless
+- There is a lot of variability in symptoms from X (regression to the mean)
+- The rare case where there are important placebo effects
+- Bronchodilators for asthma fit all of these
+### Slide 22
+- Responder fallacy? [ ] read and think about this from Senn – he’s done work in Asthma so there may be more of this he’s written about
+- https://errorstatistics.com/2014/07/26/s-senn-responder-despondency-myths-of-personalized-medicine-guest-post/
+### Slide 23
+- Part 2: Spectrum Bias and the problem with PFTs
+- [ ] Review this Lancet Paper: “After asthma - redefining airways diseases. A Lancet commission” Corresponding Author: Professor Ian Pavord, DM FRCP
+- “Q: What are the problems with "trial of ICS" as a method of diagnosing asthma? A: result of the relative difficulty of pulmonary function tests in in the primary care setting and the absence of rule out tests has been that primary care clinicians feel they have few options other than a ‘trial of treatment’ approach with ICS. This approach is flawed because the mimics of asthma (which often do not respond to corticosteroids) cause variable symptoms and may therefore improve spontaneously over time, leading to the mistaken belief that ICS treatment has been beneficial”
+- [ ] 16 Brenner S, Güder G, Berliner D, Deubner N, Fröhlich K, Ertl G, et al. Airway obstruction in systolic heart failure—COPD or congestion? Int J Cardiol. 2013 Oct 3;168(3):1910–6.
+- Why do we not do diagnostic PFTs inpatient?
+- Normal reference ranges compared to healthy individuals is a useful designation for determining whether a person is diseased or not diseased. However, it is not a useful designation for whether somebody who has symptoms has disease a or disease be, which requires different data
+### Slide 24
+- PGR test limits
+- https://www.ahajournals.org/doi/10.1161/JAHA.121.023422 good cohort and also good references supporting the point that PFTs measure lung function but are of limited value differentiating heart vs lung disease
+### Slide 25
+- Part 3: How good is a normal A-a gradient anyway?
+- Does normal A-a gradient exclude significant V/Q mismatching? A critical look
+### Slide 26
+- Take-aways
+- The placebo effect is widely misunderstood. It is actually rarely clinically meaningful. It’s place in popular/medical culture is more a result of its memetic power than it’s truth
+- We see patterns in everything. Treatment response in a highly variable indicator is prone to over-interpretation
+### Slide 27
+- Summary
+- Why do pulmonary patients receive so many different diagnoses from so many providers?
+- I think it is partly because pulmonary diagnostic tests are not very good
+- If the cumulative diagnosticity of your tests is not very high, then the pre-test likelihood of various disease states should guide comparatively more of your diagnosis
+- A panopoly of empirical evidence suggests humans are very bad at interpreting “weak signals” (ie. weak tests)
+- Some subfields of pulmonary medicine have come up with ways against us, for example the ILD multidisciplinary rounds idea. But, I don’t think this is formalized and other parts of pulm medicine.
+- We should only put the right amount of trust in our diagnostic tests – which is certainly less trust than I thought before fellowship
+### Slide 28
+- Addendum: would treating his OSA help his exertional capacity?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PGR
+- Case: Otero [ ] maybe don’t give this all up front?
+- Study idea: could you model how well the reported sensitivity and specificity occur in TriNetX data? Do the ‘assumptions’ hold?
+- https://twitter.com/f2harrell/status/940595034121961472?langen
+- NYT article link in depression
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PGR
+- Case: Otero [ ] maybe don’t give this all up front?
+- Study idea: could you model how well the reported sensitivity and specificity occur in TriNetX data? Do the ‘assumptions’ hold?
+- https://twitter.com/f2harrell/status/940595034121961472?langen
+- NYT article link in depression
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +191,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke PGR Randomness & Diagnostics 10-20-22.pptx](archive/Presentations/Locke%20PGR%20Randomness%20%26%20Diagnostics%2010-20-22.pptx)
+- [Presentations/Locke PGR Randomness & Diagnostics 10-20-22.pptx](../../archive/Presentations/Locke%20PGR%20Randomness%20%26%20Diagnostics%2010-20-22.pptx)
 
 ## Source materials
-- [Presentations/Locke PGR Randomness & Diagnostics 10-20-22.pptx](archive/Presentations/Locke%20PGR%20Randomness%20%26%20Diagnostics%2010-20-22.pptx)
+- [Presentations/Locke PGR Randomness & Diagnostics 10-20-22.pptx](../../archive/Presentations/Locke%20PGR%20Randomness%20%26%20Diagnostics%2010-20-22.pptx)

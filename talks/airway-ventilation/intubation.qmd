@@ -9,30 +9,51 @@ draft: true
 - Modified RSI
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Equipement:
+- Rapid Sequence Induction
+- Modified RSI
+- Delayed Sequence Intubation
+- Pre-oxygenation
+- Oxygenation
+- Ways to avoid aspiration / Peri-intubation risk
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Procedure for Endotracheal intubation: sterile cockpit environment.
+- More than 40% of adverse outcomes result from human factors.
+- Source: Difficult Airway Society Guideline 2015.
+- doi: 10.1093/bja/aev371
+- More thoughts here: https://emcrit.org/pulmcrit/10-pearls-from-the-levitan-airway-course/
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. prepare the patient: assess for indicators of difficult airway, reliable IV/IO access, optimize position (wedge if obese), find cricothyroid membrane, optimise hemodynamics e.g. for shock, consider C-spine protection
+2. prepare the equipment: drugs, equipment
+3. prepare people: allocate the roles of 1st intubator, 2nd intubator, who to apply cricoid force, who to pass ETT tube, who to push drugs, who to monitor the patient, who will scribe/track time, who will perform FONA if needed. Who we call for help. Consider location around the patient.
+4. Verbalize the plan: "Airway plan is": Plan A (Drugs and Laryngoscopy), Plan B and C (second incubator after 3 attempts, superglottic vs facemask), Plan D (FONA/Scalpel-bougie-tube)
+5. preoxygenation
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- prepare the patient: assess for indicators of difficult airway, reliable IV/IO access, optimize position (wedge if obese), find cricothyroid membrane, optimise hemodynamics e.g. for shock, consider C-spine protection
+- use titrated dose of induction agent to avoid hemodynamic compromise - 1/2 dose in elderly or patients with AMS. (also, perhaps smaller Vd in shock)
+- Risk factors: High BMI, SaO2 <92% despite pre-oxygenation (desat->arrest time is short), SBP <90 or Shock index > 0.9, failure to use pre-intubation checklist.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- induction agent but with the intent of keeping them ventilating (e.g. ketamine 1-2mg/kg. though Dr. Bott suggests a lower dose to avoid making them go apneic - e.g. 20mg ketamine)
+- IO is an option, however the infusion can be quite painful. Consider use of adjunctive lidocaine though the I/O first to avoid this.
+- use titrated dose of induction agent to avoid hemodynamic compromise - 1/2 dose in elderly or patients with AMS. (also, perhaps smaller Vd in shock)
+- avoid apnea worsening acidosis
+- History: in old days, used to avoid paralytics because it was thought that by avoiding respiratory arrest, failure to pass ETT would not be as big of a problem. However, this did not pan out because it also makes it much harder to bag.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/382e025f-28c3-493c-8f26-27a5d300bfc6
+- ###considerations-in-shock
+- ###Drugs
+- ##Equipment
+- ##steps
+- https://photos.collectednotes.com/photos/5187/063a7762-faa5-4787-b57a-6a7c1f6de121
+- https://emcrit.org/pulmcrit/10-pearls-from-the-levitan-airway-course/
+- https://photos.collectednotes.com/photos/5187/dbfd5830-7d5d-4b16-94ee-0d721214d37f
+- blob:https://collectednotes.com/efcc3114-e01c-4029-a3eb-6af2c2a97b5b
+- https://collectednotes.com/efcc3114-e01c-4029-a3eb-6af2c2a97b5b
 
 ## Source notes
 
@@ -40,4 +61,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/intubation.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/intubation.md](archive/Clinical%20Practice%20Notes/intubation.md)
+- [Clinical Practice Notes/intubation.md](../../archive/Clinical%20Practice%20Notes/intubation.md)

@@ -4,19 +4,180 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- How to approach: CODE BLUERAPID RESPONSE
+- 2020-2021 has been weird
+- Code Blues were becoming less common before COVID
+- What makes codes/RRTs stressful
+- Learning objectives:
+- Part 1: Team Dynamics
+- What’s the big picture?
+- ACLS isn’t hard… with some help from your friends
+- You want to immediately establish…
+- Step 1: Are you running this code or not?
+- Step 2. Signal that you will be the point person
+
+## Slide outline
+### Slide 1
+- How to approach: CODE BLUERAPID RESPONSE
+- Brian Locke
+- Pulm / CC Fellow
+### Slide 2
+- 2020-2021 has been weird
+- doi:10.1001/jamainternmed.2020.4796
+### Slide 3
+- Code Blues were becoming less common before COVID
+- Academic Medicine86(6):726-730, June 2011.
+### Slide 4
+- What makes codes/RRTs stressful
+### Slide 5
+- Learning objectives:
+- You should:
+- Have phrases ready to help avoid some of the major team-dynamic problems that occur in RRTs / Codes
+- Understand the key components to creating a productive team dynamic during a code
+- Understand the key decisions that need to be made in a RRT or code
+- Discuss a few medical pitfalls (if we have time)
+### Slide 6
+- Part 1: Team Dynamics
+- Tuckman’s stages of group development (1965)
+### Slide 7
+- What’s the big picture?
+- doi:10.1001/jamainternmed.2019.2420
+- Hello, nice to meet you. Let’s code
+### Slide 8
+- ACLS isn’t hard… with some help from your friends
+### Slide 9
+- ACLS isn’t hard… with some help from your friends
+### Slide 10
+- You want to immediately establish…
+- Collaboration / Trust
+- Lower the power distance
+- Proper tone
+- Are you the point person (in practice)?
+- Are you running the code/rapid in theory?
+### Slide 11
+- Step 1: Are you running this code or not?
+- "I'm Brian Locke, the resident on the the Code team/RRT. Is anyone running this code?"
+- “OK, I’m running this code” or “Can I take over?"
+### Slide 12
+- Step 2. Signal that you will be the point person
+- https://doi.org/10.1016/j.resuscitation.2020.11.018
+### Slide 13
+- Step 3: Set the proper tone - constructive
+- Calm, collected, and in control
+- Modulate your voice; no yelling
+- Coach, don’t reprimand.
+- Give encouragement.
+### Slide 14
+- Step 4: Lower the Power Distance
+- Lead like a president not like a monarch.
+- The first time anyone makes any suggestion that's not ludicrous address them and say: "great point/idea/catch .."
+- “Thinking out loud …”
+### Slide 15
+- PMID: 25977203
+- No MD or Resident in many places
+- The code could run without us– our role is to add value
+- This is very different from our simulations
+### Slide 16
+- In summary:
+- Codes / RRTs are stressful for many reasons.
+- The most common way for them to go wrong are problems with social dynamics, not with medical decision making
+- To avoid the biggest pitfalls:
+- Establish who is the leader, first by designation then by action
+- Signal that you want people’s input
+- Direct the group like a coach, don’t rule like a queen/king
+- Use your social capital on things that matter
+### Slide 17
+- You want to immediately establish…
+- Collaboration / Trust
+- Are you open to input?
+- Proper tone
+- Are you the point person (in practice)?
+- Are you running the code/rapid in theory?
+- Where to use your social capital?
+### Slide 18
+- What is the big picture?
+- In a Code:
+- If they don’t have a pulse, someone is compressing the chest with high quality CPR. NO significant breaks.
+- Minimize pauses to necessary position changes, pulse checks, and a little wiggle room to the Lucas or intubation (but only a little)
+- shock them if they have a shockable rhythm
+### Slide 19
+- What is the big picture?
+- Rapid Response:
+- Is this actually a code blue?
+- will it be in the next 10 minutes? Do I need airway people here?
+- Do they need to be in an ICU?
+- (this generally involves eyeballing the patient, asking orientation questions, and 1 set of vitals, and asking what happened leading up to the RRT). 10 minutes tops
+- Do we need to do anything to stabilize them before they go to the ICU?
+- What immediate workup or stabilization do they need if staying put? Hand off to primary team
+### Slide 20
+- Scenarios
+- A patient is in profound shock from GI bleeding. RRT called due to MEWS score of 8. There is ongoing bleeding. Transfer to ICU is initiated.
+- Initial VS are HR 150 and BP 70/30. Then, HR 160 and BP 60/30. Then your colleague can’t feel the femoral pulse so you start compression. After 1L of fluid and 1 prbc unit is pressured bagged in the patient regains a pulse.
+- When you arrive at the ICU – the MICU fellow gives you snark “was this really an arrest”? What do you think?
+### Slide 21
+- Mechanisms of PEA
+- Electromechanical Dissociation
+- Think of what would happen if the heart muscles, but not the nerves, run out of ATP (or O2, or any other reagent)
+- The extreme of shock
+- BY DEFINITION: this is shock so severe you can’t palpate a pulse. No BP criteria is needed
+- Beware of an art line telling you they have a BP of 40/20. If you can’t feel the pulse, that is not sufficient to perfuse and you should start compressions.
+### Slide 22
+- Forget the H’s and T’s
+- Littman Approach
+- Left column (narrow QRS) requires a mechanical fix
+- Right column requires a medical fix
+- doi: 10.1159/000354195
+### Slide 23
+- Scenarios
+- Patient is 90 years old, has a single BP of 75/60. Is mentating ok, making good urine, lactate is normal. RRT is called. You see that the blood pressure cuff is clearly too large. You have them swap it out and the measured blood pressure is now normal without intervention.
+- How do you address the RN that called the RRT?
+### Slide 24
+- Scenarios
+- Try your best not to implicitly snark people for ‘over-reacting’. Why?
+- People at lower levels of training are going to be less accurate at identifying big problems.
+- To avoid errors of not calling a code/RRT, we need to tolerate errors of calling excessive codes/RRTs
+### Slide 25
+- Scenarios
+- Pulse check
+- What do you do?
+### Slide 26
+- Scenarios
+- Pulse check
+- What do you do?
+### Slide 27
+- Scenarios
+- Young patient with AIDs becomes hypokalemic and arrests. You code for a very long time and are not successful in getting ROSC.
+- Eventually, you call the code. As soon as action stops, there is a very uneasy calm in the room and no-one is sure what to do next.
+### Slide 28
+- Debrief
+- Thank you everyone for their efforts.
+- “We’ll debrief in 5 minutes at the nursing station”
+### Slide 29
+- Summary Points
+- “I’m <Name>, the resident on the code team. Who is running this code?” ”Can I take over?”
+- Stand at the foot of the bed. Don’t move and don’t do tasks.
+- Set the tone; give encouragement to sharing information/suggestions
+- Keep the big picture in mind and use your social capital there:
+- Code: High quality compressions; shock if shockable
+- RRT: Is this a code? Does this patient need to go to the ICU?
+### Slide 30
+- Questions?
+- Brian.locke@hsc.Utah.edu
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- How to approach: CODE BLUERAPID RESPONSE
+- 2020-2021 has been weird
+- Code Blues were becoming less common before COVID
+- What makes codes/RRTs stressful
+- Learning objectives:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- How to approach: CODE BLUERAPID RESPONSE
+- 2020-2021 has been weird
+- Code Blues were becoming less common before COVID
+- What makes codes/RRTs stressful
+- Learning objectives:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +194,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke IRR 2021 RRT and Code presentation - compressed.pptx](archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation%20-%20compressed.pptx)
-- [Presentations/Locke IRR 2021 RRT and Code presentation.pdf](archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation.pdf)
+- [Presentations/Locke IRR 2021 RRT and Code presentation - compressed.pptx](../../archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation%20-%20compressed.pptx)
+- [Presentations/Locke IRR 2021 RRT and Code presentation.pdf](../../archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation.pdf)
 
 ## Source materials
-- [Presentations/Locke IRR 2021 RRT and Code presentation - compressed.pptx](archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation%20-%20compressed.pptx)
-- [Presentations/Locke IRR 2021 RRT and Code presentation.pdf](archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation.pdf)
+- [Presentations/Locke IRR 2021 RRT and Code presentation - compressed.pptx](../../archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation%20-%20compressed.pptx)
+- [Presentations/Locke IRR 2021 RRT and Code presentation.pdf](../../archive/Presentations/Locke%20IRR%202021%20RRT%20and%20Code%20presentation.pdf)

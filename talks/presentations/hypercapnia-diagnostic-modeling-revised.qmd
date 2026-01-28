@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/2024-4-21 Hypercapnia Diagnostic Modeling Revised.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/2024-4-21%20Hypercapnia%20Diagnostic%20Modeling%20Revised.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/2024-4-21 Hypercapnia Diagnostic Modeling Revised.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/2024-4-21%20Hypercapnia%20Diagnostic%20Modeling%20Revised.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/2024-4-21 Hypercapnia Diagnostic Modeling Revised.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/2024-4-21%20Hypercapnia%20Diagnostic%20Modeling%20Revised.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/2024-4-21 Hypercapnia Diagnostic Modeling Revised.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/2024-4-21%20Hypercapnia%20Diagnostic%20Modeling%20Revised.pdf)

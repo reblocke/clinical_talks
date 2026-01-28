@@ -528,14 +528,18 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary"><span class="header-section-number">164.1</span> Summary</a></li>
-  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives"><span class="header-section-number">164.2</span> Learning objectives</a></li>
-  <li><a href="#bottom-line-summary" id="toc-bottom-line-summary" class="nav-link" data-scroll-target="#bottom-line-summary"><span class="header-section-number">164.3</span> Bottom line / summary</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach"><span class="header-section-number">164.4</span> Approach</a></li>
-  <li><a href="#red-flags-when-to-escalate" id="toc-red-flags-when-to-escalate" class="nav-link" data-scroll-target="#red-flags-when-to-escalate"><span class="header-section-number">164.5</span> Red flags / when to escalate</a></li>
-  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls"><span class="header-section-number">164.6</span> Common pitfalls</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">164.7</span> References</a></li>
-  <li><a href="#slides-and-assets" id="toc-slides-and-assets" class="nav-link" data-scroll-target="#slides-and-assets"><span class="header-section-number">164.8</span> Slides and assets</a></li>
-  <li><a href="#source-materials" id="toc-source-materials" class="nav-link" data-scroll-target="#source-materials"><span class="header-section-number">164.9</span> Source materials</a></li>
+  <li><a href="#slide-outline" id="toc-slide-outline" class="nav-link" data-scroll-target="#slide-outline"><span class="header-section-number">164.2</span> Slide outline</a>
+  <ul class="collapse">
+  <li><a href="#slide-1" id="toc-slide-1" class="nav-link" data-scroll-target="#slide-1"><span class="header-section-number">164.2.1</span> Slide 1</a></li>
+  </ul></li>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives"><span class="header-section-number">164.3</span> Learning objectives</a></li>
+  <li><a href="#bottom-line-summary" id="toc-bottom-line-summary" class="nav-link" data-scroll-target="#bottom-line-summary"><span class="header-section-number">164.4</span> Bottom line / summary</a></li>
+  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach"><span class="header-section-number">164.5</span> Approach</a></li>
+  <li><a href="#red-flags-when-to-escalate" id="toc-red-flags-when-to-escalate" class="nav-link" data-scroll-target="#red-flags-when-to-escalate"><span class="header-section-number">164.6</span> Red flags / when to escalate</a></li>
+  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls"><span class="header-section-number">164.7</span> Common pitfalls</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">164.8</span> References</a></li>
+  <li><a href="#slides-and-assets" id="toc-slides-and-assets" class="nav-link" data-scroll-target="#slides-and-assets"><span class="header-section-number">164.9</span> Slides and assets</a></li>
+  <li><a href="#source-materials" id="toc-source-materials" class="nav-link" data-scroll-target="#source-materials"><span class="header-section-number">164.10</span> Source materials</a></li>
   </ul>
 </nav>
     </div>
@@ -564,60 +568,472 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="summary" class="level2" data-number="164.1">
 <h2 data-number="164.1" class="anchored" data-anchor-id="summary"><span class="header-section-number">164.1</span> Summary</h2>
-<p>TODO: Summarize the slide/PDF content once curated.</p>
-</section>
-<section id="learning-objectives" class="level2" data-number="164.2">
-<h2 data-number="164.2" class="anchored" data-anchor-id="learning-objectives"><span class="header-section-number">164.2</span> Learning objectives</h2>
 <ul>
-<li>TODO: Define the core learning goals for this topic.</li>
-<li>TODO: Identify 3–7 key takeaways for residents.</li>
-<li>TODO: Clarify what decisions this talk supports.</li>
+<li>Hypercapnia Research GroupJan 6 Meeting</li>
+<li>Goal of project</li>
+<li>Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)</li>
+<li>Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g.&nbsp;NIS) would perform and whether they are usable.</li>
+<li>Data pre-processing</li>
+<li>Data sanity checking</li>
+<li>Admission VS (skewed center) e.g.&nbsp;for BMI – version w missing data?</li>
+<li>Inpatient medication categories</li>
+<li>Procedures. No TTE, EMG/NCS, PSG. No crit care time?</li>
+<li>Chronic conditions: Heart failure high – rest not?</li>
+<li>for labs e.g.&nbsp;( value27441 (ABG pH) )- missing values are currently 0. They should be 7.4 (should we mean center?). Also exclude &lt;6.5 and above 7.8</li>
+<li>TODO: still need to sanity check acute diagnoses.</li>
 </ul>
 </section>
-<section id="bottom-line-summary" class="level2" data-number="164.3">
-<h2 data-number="164.3" class="anchored" data-anchor-id="bottom-line-summary"><span class="header-section-number">164.3</span> Bottom line / summary</h2>
+<section id="slide-outline" class="level2" data-number="164.2">
+<h2 data-number="164.2" class="anchored" data-anchor-id="slide-outline"><span class="header-section-number">164.2</span> Slide outline</h2>
+<section id="slide-1" class="level3" data-number="164.2.1">
+<h3 data-number="164.2.1" class="anchored" data-anchor-id="slide-1"><span class="header-section-number">164.2.1</span> Slide 1</h3>
 <ul>
-<li>TODO: Summarize the highest-yield point.</li>
-<li>TODO: Summarize the second-highest-yield point.</li>
-<li>TODO: Summarize the third-highest-yield point.</li>
-<li>TODO: Summarize the fourth-highest-yield point.</li>
-<li>TODO: Summarize the fifth-highest-yield point.</li>
+<li>Hypercapnia Research GroupJan 6 Meeting ### Slide 2</li>
+<li>Goal of project</li>
+<li>Hypothesis 1: Commonly used methods of identifying hypercapnia identify different patients, and those patients differ in ways expected to influence prognosis and distribution of effect modifiers to treatments.</li>
+<li>Question: how best to demonstrate this difference?</li>
+<li>Principal Components are Hard to Understand</li>
+<li>Stratification by a few key covarites (e.g.&nbsp;age, gender) by frequency of causative diagnoses. (or other features too?)</li>
+<li> idea, this improved stratification might allow better ‘conditional’ estimates knowing a patients comorbidities/clinical circumstance (as compared to more ‘marginal’ estimates that apply to the entire population. ### Slide 3</li>
+<li>Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)</li>
+<li>In some sense, the fundamental problem of the research endeavor is that the reference standard diagnostic test (ABG) is frequently missing</li>
+<li>Modeling P(obtaining ABG) and P(Hypercapnia | ABG obtained) may be one avenue.</li>
+<li>Partial verification formulation: clinicians only seek a reference standard test in cases where some other features suggest hypercapnia is likely</li>
+<li>If you make certain assumptions… can you do better? IPW can extend things to work if data is assumed to be missing at random. To what extent is it?</li>
+<li>in order to know if that assumption is valid (enough), you’d need a gold standard reference… which would require prospective study on the population of interest (enriched population) ### Slide 4</li>
+<li>Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g.&nbsp;NIS) would perform and whether they are usable. ### Slide 5</li>
+<li>Data pre-processing</li>
+<li>Missing data: For hypercapnia icd codes, treatment modalities, and ABG results -&gt; the missingness of the data is a feature of interest</li>
+<li>For other features: should we impute? ### Slide 6</li>
+<li>Data sanity checking</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>Asian</li>
+<li>1% (9,673)</li>
+<li>1% (8,420)</li>
+<li>1% (1,245)</li>
+<li>0% (8)</li>
+<li>Black</li>
+<li>18% (138,026)</li>
+<li>18% (119,911)</li>
+<li>17% (18,026)</li>
+<li>4% (89)</li>
+<li>Native American / Alaska Native</li>
+<li>0% (3,545)</li>
+<li>0% (3,041)</li>
+<li>0% (504)</li>
+<li>0% (0)</li>
+<li>Native Hawaiian / Pacific Islander</li>
+<li>0% (800)</li>
+<li>0% (644)</li>
+<li>0% (156)</li>
+<li>White</li>
+<li>62% (489,151)</li>
+<li>62% (418,632)</li>
+<li>66% (68,948)</li>
+<li>74% (1,571)</li>
+<li>Latino</li>
+<li>6% (31,744)</li>
+<li>6% (27,896)</li>
+<li>7% (3,818)</li>
+<li>2% (30)</li>
+<li>Location</li>
+<li>ex</li>
+<li>10% (73,473)</li>
+<li>11% (72,632)</li>
+<li>1% (841)</li>
+<li>midwest</li>
+<li>16% (123,411)</li>
+<li>17% (114,279)</li>
+<li>10% (9,132)</li>
+<li>northeast</li>
+<li>23% (177,929)</li>
+<li>22% (148,086)</li>
+<li>34% (29,843)</li>
+<li>south</li>
+<li>45% (348,616)</li>
+<li>47% (316,478)</li>
+<li>34% (30,021)</li>
+<li>100% (2,117)</li>
+<li>west</li>
+<li>6% (43,175)</li>
+<li>4% (23,934)</li>
+<li>22% (19,241)</li>
+<li>split out group membership into 3 binaries (yes/no ABG, yes/no ICD, yes/no Procedure)</li>
+<li><ul>
+<li>currently too few procedure. But, that may be a function of sequential evaluation of criteria? ### Slide 7</li>
+</ul></li>
+<li>Admission VS (skewed center) e.g.&nbsp;for BMI – version w missing data?</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>BMI</li>
+<li>24 (5)</li>
+<li>24 (6)</li>
+<li>24 (4)</li>
+<li>Respiratory Rate</li>
+<li>15 (3)</li>
+<li>14 (0)</li>
+<li>Temperature (C)</li>
+<li>37 (1)</li>
+<li>37 (0)</li>
+<li>Systolic BP</li>
+<li>123 (19)</li>
+<li>123 (17)</li>
+<li>122 (12)</li>
+<li>Diastolic BP</li>
+<li>73 (12)</li>
+<li>72 (12)</li>
+<li>74 (11)</li>
+<li>75 (7)</li>
+<li>Other features: [ ] spo2? o2? ### Slide 8</li>
+<li>Inpatient medication categories</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>PO Corticosteroid</li>
+<li>41% (320,131)</li>
+<li>41% (281,124)</li>
+<li>37% (38,901)</li>
+<li>5% (106)</li>
+<li>Narcan or other antidote</li>
+<li>23% (183,224)</li>
+<li>25% (167,285)</li>
+<li>15% (15,896)</li>
+<li>2% (43)</li>
+<li>Inhaled Treatments Rx’d</li>
+<li>37% (293,266)</li>
+<li>37% (252,748)</li>
+<li>38% (40,403)</li>
+<li>5% (115)</li>
+<li>Vasodilators</li>
+<li>14% (107,701)</li>
+<li>14% (97,077)</li>
+<li>10% (10,554)</li>
+<li>3% (70)</li>
+<li><label><input type="checkbox">inpatient diuretics??? ### Slide 9</label></li>
+<li>Procedures. No TTE, EMG/NCS, PSG. No crit care time?</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>CPAP proc. code</li>
+<li>7% (58,615)</li>
+<li>6% (43,070)</li>
+<li>15% (15,524)</li>
+<li>1% (21)</li>
+<li>Aerosolized Treatment</li>
+<li>15% (119,865)</li>
+<li>14% (97,697)</li>
+<li>21% (22,093)</li>
+<li>4% (75)</li>
+<li>Inhaler Teaching</li>
+<li>3% (22,402)</li>
+<li>3% (19,943)</li>
+<li>2% (2,401)</li>
+<li>3% (58)</li>
+<li>1 View CXR</li>
+<li>23% (177,806)</li>
+<li>22% (147,529)</li>
+<li>29% (30,156)</li>
+<li>6% (121)</li>
+<li>2 View CXR</li>
+<li>6% (46,579)</li>
+<li>6% (39,661)</li>
+<li>7% (6,903)</li>
+<li>1% (15)</li>
+<li>CT Chest Non-Contrast</li>
+<li>4% (32,650)</li>
+<li>4% (27,317)</li>
+<li>5% (5,325)</li>
+<li>0% (8)</li>
+<li>CT Chest w Contrast</li>
+<li>4% (30,349)</li>
+<li>4% (26,256)</li>
+<li>4% (4,072) ### Slide 10</li>
+<li>Chronic conditions: Heart failure high – rest not?</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>Asthma</li>
+<li>0% (2,934)</li>
+<li>0% (1,828)</li>
+<li>1% (1,106)</li>
+<li>0% (0)</li>
+<li>Cystic Fibrosis</li>
+<li>0% (1,226)</li>
+<li>0% (1,041)</li>
+<li>0% (185)</li>
+<li>CHF</li>
+<li>21% (166,238)</li>
+<li>19% (130,533)</li>
+<li>34% (35,641)</li>
+<li>3% (64)</li>
+<li>CKD</li>
+<li>1% (5,485)</li>
+<li>1% (3,698)</li>
+<li>2% (1,787)</li>
+<li>COPD</li>
+<li>0% (1,680)</li>
+<li>0% (1,232)</li>
+<li>0% (448)</li>
+<li>Connective Tissue Disease</li>
+<li>0% (1,112)</li>
+<li>0% (813)</li>
+<li>0% (299)</li>
+<li>Dementia</li>
+<li>0% (2,076)</li>
+<li>0% (1,394)</li>
+<li>1% (682)</li>
+<li>Diabetes</li>
+<li>1% (7,894)</li>
+<li>1% (5,274)</li>
+<li>2% (2,620)</li>
+<li>Nicotine dependence</li>
+<li>1% (4,727)</li>
+<li>0% (3,250)</li>
+<li>1% (1,477)</li>
+<li>Neuromuscular Disease</li>
+<li>0% (924)</li>
+<li>0% (673)</li>
+<li>0% (251)</li>
+<li>OSA</li>
+<li>1% (5,675)</li>
+<li>1% (3,523)</li>
+<li>2% (2,152)</li>
+<li>Opiate Use Disorder</li>
+<li>0% (936)</li>
+<li>0% (680)</li>
+<li>0% (256)</li>
+<li>Pulmonary Hypertension</li>
+<li>0% (2,703)</li>
+<li>0% (1,675)</li>
+<li>1% (1,028)</li>
+<li>Peripheral Vascular Disease</li>
+<li>0% (2,095)</li>
+<li>0% (1,666)</li>
+<li>0% (429)</li>
+<li>Stroke</li>
+<li>0% (2,124)</li>
+<li>0% (1,734)</li>
+<li>0% (390) ### Slide 11</li>
+<li>for labs e.g.&nbsp;( value27441 (ABG pH) )- missing values are currently 0. They should be 7.4 (should we mean center?). Also exclude &lt;6.5 and above 7.8</li>
+<li>Total</li>
+<li>ABG Group</li>
+<li>ICD Group</li>
+<li>Procedure Group</li>
+<li>p-value</li>
+<li>N785,667</li>
+<li>N678,424</li>
+<li>N105,126</li>
+<li>N2,117</li>
+<li>Age</li>
+<li>60 (16)</li>
+<li>60 (17)</li>
+<li>62 (16)</li>
+<li>52 (19)</li>
+<li>&lt;0.001</li>
+<li>Gender</li>
+<li>46% (360,445)</li>
+<li>45% (304,832)</li>
+<li>52% (54,726)</li>
+<li>42% (887)</li>
+<li>pH (ABG)</li>
+<li>7.32 (0.11)</li>
+<li>7.37 (0.12)</li>
+<li>HCO3 (ABG)</li>
+<li>24.8 (6.3)</li>
+<li>21.6 (5.8)</li>
+<li>pH (VBG)</li>
+<li>7.35 (0.12)</li>
+<li>7.33 (0.12)</li>
+<li>HCO3 (VBG)</li>
+<li>25.5 (6.6)</li>
+<li>25.4 (6.5)</li>
+<li>26.6 (7.4)</li>
+<li>Serum Sodium</li>
+<li>138 (5)</li>
+<li>137 (5)</li>
+<li>Serum Hemoglobin</li>
+<li>12.1 (2.5)</li>
+<li>12.2 (2.6)</li>
+<li>13.0 (2.5)</li>
+<li><label><input type="checkbox">— this is true for all of the values. Physiologic bicarb 0-60. Add robustness checks</label></li>
+<li>// what is value 21600? ### Slide 12</li>
+<li>TODO: still need to sanity check acute diagnoses. ### Slide 13</li>
+<li>PCA output</li>
+<li>Knowing which data features are the major contributors to the principal components might guide which data elements should be included in future models?</li>
+<li>Is the PCA useful on its own?</li>
+<li>PCA: feature generation for other algorithms</li>
+<li>Which algorithms and for what purpose?</li>
+<li>K-means clustering -&gt; what would this get us?</li>
+<li>Regression? ### Slide 14</li>
+<li>Partial verification formulation:</li>
+<li>ABG is reference standard, but how well can things like VBG work as imperfect standards?</li>
+<li>Latent class approach? ### Slide 15</li>
+<li>Expanded Data Set</li>
+<li>Target population: all patients in whom a clinician would consider that the patient has acute hypercapnic respiratory failure</li>
+<li>Analytic sample: widened criteria that includes both patients who had hypercapnic failure, and patients who might reasonably have been expected to. (at admission) ### Slide 16</li>
+<li>need robust truthfulness of data… integrity checks</li>
+<li>Aim: only patient admissions where all the types of data needed WOULD have been reported if they were obtained in clinical care.</li>
+<li>For diagnoses, only diagnosis that were known/made prior to that time. ### Slide 17</li>
+<li>Next steps:</li>
+<li><label><input type="checkbox">split out group membership into 3 binaries (yes/no ABG, yes/no ICD, yes/no Procedure)</label></li>
+<li><ul>
+<li>currently too few procedure. But, that may be a function of sequential evaluation of criteria?</li>
+</ul></li>
+<li><label><input type="checkbox">version with missing data left missing (as opposed to mean) - – how should we handle missing data?</label></li>
+<li><label><input type="checkbox">also a version with the “criteria” data – ie. ABG PaCO2, hypercapnia codes, and ICD for NIV included</label></li>
+<li>Problematic features: why no PSG EMG and NCS billed in the entire dataset? - restrictions on location of care?. Yet, TTE also isn’t but clearly that is done inpatient frequently.</li>
+<li>What pre-screening can we do to improve the completeness of the sample?</li>
+<li><ul>
+<li>require at least 1 result from all categories to be included?</li>
+</ul></li>
+<li><ul>
+<li>eliminate iatrogenic cases… somehow? ### Slide 18</li>
+</ul></li>
+<li>Structure to final paper:</li>
+<li>Currently used methods A, B, C, and D over-selected type and underselected type compared to</li>
+<li>Possible features from the data that could be used to identify, or phenotype, patients include</li>
+<li>For research that aims to enroll a representative sample of patients to estimates the prognosis, burden to the healthcare system, or improve processes of care should consider to identify these patients.</li>
+<li>A future prospective study evaluating the performance of these methods is warranted. ### Slide 19</li>
+<li>Stratifying causes</li>
+<li>Also from that - could I create —&gt; key figure of comorbidities by age in hypercapnia.</li>
+<li>By age? by BMI ; stratified by gender ### Slide 20</li>
+<li>U of U Data</li>
+<li><label><input type="checkbox">IRB and data request</label></li>
 </ul>
 </section>
-<section id="approach" class="level2" data-number="164.4">
-<h2 data-number="164.4" class="anchored" data-anchor-id="approach"><span class="header-section-number">164.4</span> Approach</h2>
+</section>
+<section id="learning-objectives" class="level2" data-number="164.3">
+<h2 data-number="164.3" class="anchored" data-anchor-id="learning-objectives"><span class="header-section-number">164.3</span> Learning objectives</h2>
+<ul>
+<li>Hypercapnia Research GroupJan 6 Meeting</li>
+<li>Goal of project</li>
+<li>Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)</li>
+<li>Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g.&nbsp;NIS) would perform and whether they are usable.</li>
+<li>Data pre-processing</li>
+</ul>
+</section>
+<section id="bottom-line-summary" class="level2" data-number="164.4">
+<h2 data-number="164.4" class="anchored" data-anchor-id="bottom-line-summary"><span class="header-section-number">164.4</span> Bottom line / summary</h2>
+<ul>
+<li>Hypercapnia Research GroupJan 6 Meeting</li>
+<li>Goal of project</li>
+<li>Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)</li>
+<li>Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g.&nbsp;NIS) would perform and whether they are usable.</li>
+<li>Data pre-processing</li>
+</ul>
+</section>
+<section id="approach" class="level2" data-number="164.5">
+<h2 data-number="164.5" class="anchored" data-anchor-id="approach"><span class="header-section-number">164.5</span> Approach</h2>
 <ol type="1">
 <li>TODO: Outline the initial assessment or decision point.</li>
 <li>TODO: Outline the next diagnostic or management step.</li>
 <li>TODO: Outline follow-up or escalation criteria.</li>
 </ol>
 </section>
-<section id="red-flags-when-to-escalate" class="level2" data-number="164.5">
-<h2 data-number="164.5" class="anchored" data-anchor-id="red-flags-when-to-escalate"><span class="header-section-number">164.5</span> Red flags / when to escalate</h2>
+<section id="red-flags-when-to-escalate" class="level2" data-number="164.6">
+<h2 data-number="164.6" class="anchored" data-anchor-id="red-flags-when-to-escalate"><span class="header-section-number">164.6</span> Red flags / when to escalate</h2>
 <ul>
 <li>TODO: List red flags that require urgent escalation.</li>
 </ul>
 </section>
-<section id="common-pitfalls" class="level2" data-number="164.6">
-<h2 data-number="164.6" class="anchored" data-anchor-id="common-pitfalls"><span class="header-section-number">164.6</span> Common pitfalls</h2>
+<section id="common-pitfalls" class="level2" data-number="164.7">
+<h2 data-number="164.7" class="anchored" data-anchor-id="common-pitfalls"><span class="header-section-number">164.7</span> Common pitfalls</h2>
 <ul>
 <li>TODO: Capture common errors or missed steps.</li>
 </ul>
 </section>
-<section id="references" class="level2" data-number="164.7">
-<h2 data-number="164.7" class="anchored" data-anchor-id="references"><span class="header-section-number">164.7</span> References</h2>
+<section id="references" class="level2" data-number="164.8">
+<h2 data-number="164.8" class="anchored" data-anchor-id="references"><span class="header-section-number">164.8</span> References</h2>
 <p>TODO: Add landmark references or guideline citations.</p>
 </section>
-<section id="slides-and-assets" class="level2" data-number="164.8">
-<h2 data-number="164.8" class="anchored" data-anchor-id="slides-and-assets"><span class="header-section-number">164.8</span> Slides and assets</h2>
+<section id="slides-and-assets" class="level2" data-number="164.9">
+<h2 data-number="164.9" class="anchored" data-anchor-id="slides-and-assets"><span class="header-section-number">164.9</span> Slides and assets</h2>
 <ul>
-<li><a href="archive/Presentations/Hypercapnia update Jan 2023.pptx">Presentations/Hypercapnia update Jan 2023.pptx</a></li>
+<li><a href="../../archive/Presentations/Hypercapnia update Jan 2023.pptx">Presentations/Hypercapnia update Jan 2023.pptx</a></li>
 </ul>
 </section>
-<section id="source-materials" class="level2" data-number="164.9">
-<h2 data-number="164.9" class="anchored" data-anchor-id="source-materials"><span class="header-section-number">164.9</span> Source materials</h2>
+<section id="source-materials" class="level2" data-number="164.10">
+<h2 data-number="164.10" class="anchored" data-anchor-id="source-materials"><span class="header-section-number">164.10</span> Source materials</h2>
 <ul>
-<li><a href="archive/Presentations/Hypercapnia update Jan 2023.pptx">Presentations/Hypercapnia update Jan 2023.pptx</a></li>
+<li><a href="../../archive/Presentations/Hypercapnia update Jan 2023.pptx">Presentations/Hypercapnia update Jan 2023.pptx</a></li>
 </ul>
 
 

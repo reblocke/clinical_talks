@@ -9,30 +9,41 @@ draft: true
 - Other, less common clinically
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Hypoventilation
+- Reduced Mixed Venous O2
+- Other, less common clinically
+- Diffusion limitation across the blood:gas barrier at alveoli
+- Reduced PiO2
+- Ways to quantify oxygenation efficiency
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- ##History Research started to explain why WW2 pilots crashed at high altitude.
+- Initially thought it was CO poisoning.
+- Rley and Cournand J Appl Physiol 1949
+- How this physiology was discovered: MIGET (Multiple Inert Gas Elimination Technique): 6 different gasses varying in solubility.
+- Don't react with body inert.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Highly Soluble (Acetone) differentiates high V/Q from deadspace.
+2. Poorly Soluble (sulfur hexafluoride) differentiates low V/Q from shunt
+3. SpO2: peripheral estimate of SaO2
+4. PaO2 chemical activity of O2
+5. CaO2 ml O2 per dL of blood (depends on Hgb)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- P (A-a) O2 (conceptually important, but always elevated if on supplemental O2. Additionally, deviations of R from 0.8 will introduce error)
+- How this physiology was discovered: MIGET (Multiple Inert Gas Elimination Technique): 6 different gasses varying in solubility. Don't react with body inert. Obey Henry's law
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/70f0a422-964e-4f5d-ab80-500f75a3e38b
+- https://photos.collectednotes.com/photos/5187/ddd646d2-9d32-4261-9176-10b11d0f97e3
+- https://photos.collectednotes.com/photos/5187/3656c981-7442-482b-8a5d-cf6aa76e8b56
+- https://photos.collectednotes.com/photos/5187/16866771-4e1c-4bde-83b8-38f4e3e1b1d4
+- https://photos.collectednotes.com/photos/5187/86decceb-85cd-4114-bfd3-0c45c16cd1df
+- https://photos.collectednotes.com/photos/5187/6b15cdbe-65a4-427e-984f-61f6682b2755
 
 ## Source notes
 
@@ -40,4 +51,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/mechanisms-of-hypoxia.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/mechanisms-of-hypoxia.md](archive/Clinical%20Practice%20Notes/mechanisms-of-hypoxia.md)
+- [Clinical Practice Notes/mechanisms-of-hypoxia.md](../../archive/Clinical%20Practice%20Notes/mechanisms-of-hypoxia.md)

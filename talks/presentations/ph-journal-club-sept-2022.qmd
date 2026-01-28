@@ -4,19 +4,75 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Released Aug 26, 2022
+- 2019: 6th World Symposium update to mPAP 20mHg
+- Diagnosis
+- Screening: SSc, PoPH prior to transplant. Not in PE
+- Risk stratification and Monitoring
+- PAH medications
+- ICU Management, Transplan t
+- Congenital Heart disease
+- Group 2 IpcPH: PVR<2WU, CpcPH: PVR>2WU
+- Group 3: Severe (PVR >5 WU), non-severe PH (PVR ≤5 WU)
+- CTEPD (+/- PH)
+
+## Slide outline
+### Slide 1
+- Released Aug 26, 2022
+- Brian Locke, MD
+### Slide 2
+- 2019: 6th World Symposium update to mPAP 20mHg
+- Treatment for mPAP 20-25, WU 2-3?
+- Exercise PH:
+- Normal range for mPAP/CO slope: 1.6 – 3.3 mmHg/L/min supine, age dependent (?60+)
+- Unclassified PH
+### Slide 3
+- TODO: No text extracted from this slide.
+### Slide 4
+- Diagnosis
+### Slide 5
+- Screening: SSc, PoPH prior to transplant. Not in PE
+### Slide 6
+- Risk stratification and Monitoring
+### Slide 7
+- TODO: No text extracted from this slide.
+### Slide 8
+- PAH medications
+### Slide 9
+- ICU Management, Transplan t
+### Slide 10
+- Congenital Heart disease
+### Slide 11
+- Group 2 IpcPH: PVR<2WU, CpcPH: PVR>2WU
+### Slide 12
+- Group 3: Severe (PVR >5 WU), non-severe PH (PVR ≤5 WU)
+- TTE less accurate
+- TRV unmeasurable >50%
+- Overestimates PAP
+- Severe PH indep of Spiro
+- Stronger assoc PaO2, DLCO, low CO2
+- ?OHS
+### Slide 13
+- CTEPD (+/- PH)
+### Slide 14
+- CTEPD (+/- PH)
+### Slide 15
+- The End
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Released Aug 26, 2022
+- 2019: 6th World Symposium update to mPAP 20mHg
+- Diagnosis
+- Screening: SSc, PoPH prior to transplant. Not in PE
+- Risk stratification and Monitoring
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Released Aug 26, 2022
+- 2019: 6th World Symposium update to mPAP 20mHg
+- Diagnosis
+- Screening: SSc, PoPH prior to transplant. Not in PE
+- Risk stratification and Monitoring
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +89,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PH Journal Club Sept 2022.pptx](archive/Presentations/PH%20Journal%20Club%20Sept%202022.pptx)
+- [Presentations/PH Journal Club Sept 2022.pptx](../../archive/Presentations/PH%20Journal%20Club%20Sept%202022.pptx)
 
 ## Source materials
-- [Presentations/PH Journal Club Sept 2022.pptx](archive/Presentations/PH%20Journal%20Club%20Sept%202022.pptx)
+- [Presentations/PH Journal Club Sept 2022.pptx](../../archive/Presentations/PH%20Journal%20Club%20Sept%202022.pptx)

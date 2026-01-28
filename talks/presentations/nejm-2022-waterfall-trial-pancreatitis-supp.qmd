@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis Supp.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202022%20WATERFALL%20trial%20Pancreatitis%20Supp.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis Supp.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202022%20WATERFALL%20trial%20Pancreatitis%20Supp.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis Supp.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202022%20WATERFALL%20trial%20Pancreatitis%20Supp.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2022 WATERFALL trial Pancreatitis Supp.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202022%20WATERFALL%20trial%20Pancreatitis%20Supp.pdf)

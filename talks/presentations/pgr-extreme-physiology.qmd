@@ -4,19 +4,106 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Extreme physiology in everyday life-ish
+- Fundamental question
+- Apneic oxygenation in man- Anesthesiology 1959
+- 16M fell into a 3-m deep transport wagon being filled with whole wheat grain and was immediately submersed…
+- Potkin RT, Swenson ER. Resuscitation from severe acute hypercapnia.
+- Everest climbers NEJM
+- Video of guy in low oxygen chamber
+- pH after rowing
+- Blood pressure changes during heavy resistance exercise / valsalva
+- Diving reflex bradycardia - Arnold RW. Extremes in human breath hold, facial immersion bradycardia.Undersea Biomed Res 12: 183-190, 1985
+- Temperature up to 41.5 in professional cyclists
+- Comparative physiology
+
+## Slide outline
+### Slide 1
+- Extreme physiology in everyday life-ish
+- And what they tell us about deranged physiology
+- Also, comaparative physiology pearls
+### Slide 2
+- Fundamental question
+- How much of the abnormalities that we follow is it that the abnormality ITSELF that is the problem, vs that the process causing the abnormality causing badness by a variety of mechanisms (and the degree of derangement is PROGNOSTIC, but not CAUSAL)
+- This matters in how aggressively we should try to fix these abnormalities.
+### Slide 3
+- Apneic oxygenation in man- Anesthesiology 1959
+### Slide 4
+- 16M fell into a 3-m deep transport wagon being filled with whole wheat grain and was immediately submersed…
+- the patient was intubated with a 7.5-mm endotracheal tube (ETT) after his mouth and pharynx were cleared of large amounts of packed grain
+- A 9-mm rigid ventilating bronchoscope was passed into the trachea, which was found to be packed with grains of wheat. The patient desaturated rapidly to 75% SpO2.
+- When the patient was placed in the Trendelenburg position for central line placement, it was noted that after each positive pressure inflation, several grain seeds would fall to the proximal end (now the most dependent portion) of the ETT during expiration.
+- During the subsequent 20 min, the surgeon performed manual chest percussions as the patient was moved alternately from supine to lateral and prone positions
+### Slide 5
+- Potkin RT, Swenson ER. Resuscitation from severe acute hypercapnia.
+- Determinants of tolerance and survival. Chest 102: 1742-1745, 1992.
+### Slide 6
+- Everest climbers NEJM
+### Slide 7
+- Video of guy in low oxygen chamber
+### Slide 8
+- pH after rowing
+- http://bionics.seas.ucla.edu/education/Rowing/Physiology199901.pdf
+### Slide 9
+- Blood pressure changes during heavy resistance exercise / valsalva
+- https://pubmed.ncbi.nlm.nih.gov/2632751/
+- Note, transmural pressure
+- https://doi.org/10.1016/S0140-6736(73)90974-4 measured transesophageal pressures as surrogates of intrathoracic pressure - ~200 mmHg
+- Subsequent work has demonstrated that the transient increase in MAP corresponds near 1:1 with increase in intrathoracic pressure -> Blood displaced from aorta to vessels
+### Slide 10
+- Diving reflex bradycardia - Arnold RW. Extremes in human breath hold, facial immersion bradycardia.Undersea Biomed Res 12: 183-190, 1985
+- Bradycardia develops faster on submerged dives
+- than during surface apnea of equivalent duration, and may
+- drop to 20 min−1 during descent (120). Arnold summarized
+- 14 published reports of extreme apneic bradycardia with heart
+- rates of 25 min−1 or less (20). Most were triggered by face
+- immersion in cold water, and a few were after exercise. One
+- subject had an interbeat interval of 6.8 s, corresponding to
+- a heart rate of 8.8 min−1. A marathon runner with a normal
+- resting heart rate of 45 to 50 min−1 developed periods of
+- junctional rhythm and sinus bradycardia down to 5.6 min−1
+- during a 45-s apnea with face immersion in ice water (20).
+- There were no episodes of syncope, and heart rates recovered
+- rapidly after cessation of apnea.
+- Note: bradycardia is more pronounced during winter months, with colder water, and with facial immersion
+### Slide 11
+- Temperature up to 41.5 in professional cyclists
+- Https://bjsm.bmj.com/content/53/7/426
+- GI probe
+- No adverse effects (short or long term)
+### Slide 12
+- Comparative physiology
+- Camels drink 50L of water at a time: how do they not getting osmotic lysis of cells? How do they not get cerebral edema?
+- https://twitter.com/WilliamAird4/status/1623285556867399685
+### Slide 13
+- Bird VO2
+- https://twitter.com/nickmmark/status/1481036276631437312
+- https://twitter.com/nickmmark/status/1346589425938010112
+- https://twitter.com/nickmmark/status/1352335092350238721?s20&tKUsDfpKGP1YkffpKKxSvw
+- https://twitter.com/nickmmark/status/1439666320774090752?s20&tKUsDfpKGP1YkffpKKxSvw
+- PaO2 in birds is lowwwww.Part 6 https://twitter.com/nickmmark/status/1518002885593772033?s20&tKUsDfpKGP1YkffpKKxSvw
+- https://twitter.com/WilliamAird4/status/1555940698762911744?s20&tKUsDfpKGP1YkffpKKxSvw
+- Also has a bunch of interesting other ones.
+- https://twitter.com/nickmmark/status/1434137938183344129?s20&tKUsDfpKGP1YkffpKKxSvw
+- https://twitter.com/nickmmark/status/1439682993950375938?s20&tKUsDfpKGP1YkffpKKxSvw
+### Slide 14
+- https://twitter.com/nickmmark/status/1626237650985455616 what organisms were possible when FiO2 was 35%
+-  would be good to pull in the hypercapnia mega-deck info for why we evolved to use CO2 as a controller of ventilation, rather than oxygen?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Extreme physiology in everyday life-ish
+- Fundamental question
+- Apneic oxygenation in man- Anesthesiology 1959
+- 16M fell into a 3-m deep transport wagon being filled with whole wheat grain and was immediately submersed…
+- Potkin RT, Swenson ER. Resuscitation from severe acute hypercapnia.
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Extreme physiology in everyday life-ish
+- Fundamental question
+- Apneic oxygenation in man- Anesthesiology 1959
+- 16M fell into a 3-m deep transport wagon being filled with whole wheat grain and was immediately submersed…
+- Potkin RT, Swenson ER. Resuscitation from severe acute hypercapnia.
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +120,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PGR - extreme physiology.pptx](archive/Presentations/PGR%20-%20extreme%20physiology.pptx)
+- [Presentations/PGR - extreme physiology.pptx](../../archive/Presentations/PGR%20-%20extreme%20physiology.pptx)
 
 ## Source materials
-- [Presentations/PGR - extreme physiology.pptx](archive/Presentations/PGR%20-%20extreme%20physiology.pptx)
+- [Presentations/PGR - extreme physiology.pptx](../../archive/Presentations/PGR%20-%20extreme%20physiology.pptx)

@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST 2013 Is Elevated HCO3 part of OHS.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/CHEST%202013%20Is%20Elevated%20HCO3%20part%20of%20OHS.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST 2013 Is Elevated HCO3 part of OHS.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/CHEST%202013%20Is%20Elevated%20HCO3%20part%20of%20OHS.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST 2013 Is Elevated HCO3 part of OHS.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/CHEST%202013%20Is%20Elevated%20HCO3%20part%20of%20OHS.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/CHEST 2013 Is Elevated HCO3 part of OHS.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/CHEST%202013%20Is%20Elevated%20HCO3%20part%20of%20OHS.pdf)

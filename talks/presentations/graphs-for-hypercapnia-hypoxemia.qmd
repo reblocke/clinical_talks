@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Graphs for Hypercapnia-Hypoxemia.xlsx](archive/Presentations/Graphs%20for%20Hypercapnia-Hypoxemia.xlsx)
+- [Presentations/Graphs for Hypercapnia-Hypoxemia.xlsx](../../archive/Presentations/Graphs%20for%20Hypercapnia-Hypoxemia.xlsx)
 
 ## Source materials
-- [Presentations/Graphs for Hypercapnia-Hypoxemia.xlsx](archive/Presentations/Graphs%20for%20Hypercapnia-Hypoxemia.xlsx)
+- [Presentations/Graphs for Hypercapnia-Hypoxemia.xlsx](../../archive/Presentations/Graphs%20for%20Hypercapnia-Hypoxemia.xlsx)

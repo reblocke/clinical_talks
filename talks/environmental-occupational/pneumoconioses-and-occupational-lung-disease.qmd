@@ -9,21 +9,27 @@ draft: true
 - Example associations:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Occupational lung disease: includes
+- Pneumoconioses
+- Example associations:
+- Radiographic findings:
+- Silicosis
+- Coal Worker's Pneumoconiosis
+- Asbestos
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Occupational lung disease criteria
+- disease resulting from inhaling inorganic particles that cause a reaction in the lung.
+- Asbestosis: shipyard workers, auto/railroad mechanics, asbestos miners
+- Silicosis: mining, construction (tunneling, sand blasting, concrete work), glass manufacturing, ceramics, foundries, denim sanblasting
+- Coal worker's pneumonitis: coal mining
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. pneumoconioses
+2. HP
+3. bronchiolitis
+4. occupational asthma
+5. (occupational pulmonary vascular disease)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -40,4 +46,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md](archive/Clinical%20Practice%20Notes/pneumoconioses-and-occupational-lung-disease.md)
+- [Clinical Practice Notes/pneumoconioses-and-occupational-lung-disease.md](../../archive/Clinical%20Practice%20Notes/pneumoconioses-and-occupational-lung-disease.md)

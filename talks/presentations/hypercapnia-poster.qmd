@@ -4,19 +4,108 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Non-Cognitive Predictors of Student Success:A Predictive Validity Comparison Between Domestic and International Students
+- The causes, prevalence, and consequences of hypercapnic respiratory failure are not well described. EHR data could help.
+- WHY? The gold-standard test (ABG showing PaCO2 > 45 mmHg) is unreliably obtained.
+- WHAT HAS BEEN DONE?
+- Prevalence ~ PE (150 per 100k/y)
+- Readmission ≥ CHF (23%, 30d)
+- Mortality ~ Cancer (~40% 1yr)
+- .
+- Yet, methods of identification select very different patients.
+- COMPUTABLE PHENOTYPE: (operational case definition)
+- - Efficacy trial: homogeneity, severity important
+- - Epi; QI: sensitivity, representativeness
+
+## Slide outline
+### Slide 1
+- Non-Cognitive Predictors of Student Success:A Predictive Validity Comparison Between Domestic and International Students
+- The causes, prevalence, and consequences of hypercapnic respiratory failure are not well described. EHR data could help.
+- WHY? The gold-standard test (ABG showing PaCO2 > 45 mmHg) is unreliably obtained.
+- WHAT HAS BEEN DONE?
+- Prevalence ~ PE (150 per 100k/y)
+- Readmission ≥ CHF (23%, 30d)
+- Mortality ~ Cancer (~40% 1yr)
+- .
+- Yet, methods of identification select very different patients.
+- COMPUTABLE PHENOTYPE: (operational case definition)
+- - Efficacy trial: homogeneity, severity important
+- - Epi; QI: sensitivity, representativeness
+- WHY IS THIS WORTH DOING?
+- Obesity, Opiates, Multimorbidity ↑
+- Common component causes? Unknown
+- Evidence: RCTs only of select subsets
+- Post-acute management?
+- Disorganized processes of care
+- Evidence needed to improve
+- Wayne Richards BS
+- Jeanette Brown MD PhD
+- Ram Gouripeddi MBBS MS
+- Krishna Sundar MD
+- PRESENTER:
+- Brian W Locke, MD
+- Ruth L. Kirschstein National Research Service Award 5T32HL105321
+- HOW CAN WE BETTER IDENTIFY PATIENTS WITH HYPERCAPNIA?
+- 1. Validate Traditional Data-Points
+- ABG
+- Group
+- ICD
+- NIV
+- Age
+- 62±18
+- 65±16
+- 62±17
+- % Female
+- 46%
+- 51%
+- 42%
+- % white
+- 66%
+- 71%
+- 65%
+- % Black
+- 18%
+- 19%
+- 17%
+- BMI
+- 30.4±8.3
+- 33.1±10.3
+- 29.1±8.2
+- % with CHF
+- 37%
+- 30%
+- % with COPD
+- 31%
+- 14%
+- % Opiate UD
+- 6%
+- 3%
+- % Sleep Apnea
+- 23%
+- 24%
+- 10%
+- 925,512 patients
+- 70 Healthcare organizations since 2017.
+- 20 gigabytes of data (billions of data points)
+- METHODS:
+- 2. Principal Component Analysis
+- 3. Propose and Evaluate Computable Phenotype(s)
+- Alzoubi et al. Electronics 2019 doi:10.3390/electronics8111235
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Non-Cognitive Predictors of Student Success:A Predictive Validity Comparison Between Domestic and International Students
+- The causes, prevalence, and consequences of hypercapnic respiratory failure are not well described. EHR data could help.
+- WHY? The gold-standard test (ABG showing PaCO2 > 45 mmHg) is unreliably obtained.
+- WHAT HAS BEEN DONE?
+- Prevalence ~ PE (150 per 100k/y)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Non-Cognitive Predictors of Student Success:A Predictive Validity Comparison Between Domestic and International Students
+- The causes, prevalence, and consequences of hypercapnic respiratory failure are not well described. EHR data could help.
+- WHY? The gold-standard test (ABG showing PaCO2 > 45 mmHg) is unreliably obtained.
+- WHAT HAS BEEN DONE?
+- Prevalence ~ PE (150 per 100k/y)
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +122,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2022-11-16 Hypercapnia Poster.pdf](archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pdf)
-- [Presentations/2022-11-16 Hypercapnia Poster.pptx](archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pptx)
+- [Presentations/2022-11-16 Hypercapnia Poster.pdf](../../archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pdf)
+- [Presentations/2022-11-16 Hypercapnia Poster.pptx](../../archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pptx)
 
 ## Source materials
-- [Presentations/2022-11-16 Hypercapnia Poster.pdf](archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pdf)
-- [Presentations/2022-11-16 Hypercapnia Poster.pptx](archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pptx)
+- [Presentations/2022-11-16 Hypercapnia Poster.pdf](../../archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pdf)
+- [Presentations/2022-11-16 Hypercapnia Poster.pptx](../../archive/Presentations/2022-11-16%20Hypercapnia%20Poster.pptx)

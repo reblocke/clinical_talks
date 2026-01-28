@@ -4,30 +4,39 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- PAH: PVR over 3.0, PCWP under 15. iPAH (idiopathic), aPAH (associated: SSC, HIV, asd/vsd, etc), hPAH (heritable)
+- L Heart: PCWP over 15. Echo hints - large atria, diastolic dysfxn
+- Lung dz: co-occuring with ILD, COPD, OSA/OHS, etc.
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PAH: PVR over 3.0, PCWP under 15. iPAH (idiopathic), aPAH (associated: SSC, HIV, asd/vsd, etc), hPAH (heritable)
+- L Heart: PCWP over 15. Echo hints - large atria, diastolic dysfxn
+- Lung dz: co-occuring with ILD, COPD, OSA/OHS, etc.
+- CTEPH
+- Grab bag that we don't understand (e.g. sarcoid)
+- NO (Nitric Oxide) - all oral - viagra, riocigual.
+- Endothelin - all oral - macitentan, ambrisentan
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PVR (mPAP - PCWP) / CO.
+- mPAP (PVR CO) + PCWP < increase each leads to mPAP (exercise, anemia for CO)
+- Definition: pHTN 21+ mmHg
+- "pHTN by echo" to avoid implication that a formal workup has been done to split into a WHO group.
+- ####Shunt Left to right: R Heart cath can be used to measure oxygen step up between chambers (if more than 7-8% increase, signficant)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. PAH: PVR over 3.0, PCWP under 15. iPAH (idiopathic), aPAH (associated: SSC, HIV, asd/vsd, etc), hPAH (heritable)
+2. L Heart: PCWP over 15. Echo hints - large atria, diastolic dysfxn
+3. Lung dz: co-occuring with ILD, COPD, OSA/OHS, etc.
+4. CTEPH
+5. Grab bag that we don't understand (e.g. sarcoid)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Grab bag that we don't understand (e.g. sarcoid)
+- "pHTN by echo" to avoid implication that a formal workup has been done to split into a WHO group.
 
 ## References
 TODO: Add landmark references or guideline citations.
@@ -38,4 +47,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/pulmonary-hypertension.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/pulmonary-hypertension.md](archive/Clinical%20Practice%20Notes/pulmonary-hypertension.md)
+- [Clinical Practice Notes/pulmonary-hypertension.md](../../archive/Clinical%20Practice%20Notes/pulmonary-hypertension.md)

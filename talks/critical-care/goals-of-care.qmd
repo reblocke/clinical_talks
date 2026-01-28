@@ -9,21 +9,23 @@ draft: true
 - Paternalism vs SDM vs Menu
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Preference Stability
+- Surrogate Decision-makers
+- Paternalism vs SDM vs Menu
+- identifying a patient who is acutely dying
+- Resource allocation
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- In a retrospective cohort study of nonsurgical patients from the California patient discharge database from 2016 to 2018, the authors found that DNR reversals at the time of readmission are common (45.1% of patients readmitted within 30 d following a first DNR hospitalization experienced DNR reversal upon readmission) and patients readmitted to a different hospital versus the same hospital were at higher risk of DNR reversal (p < 0.001).
+- They also found that patients readmitted to low versus high DNR rate hospitals were more likely to have DNR reversals, and patients readmitted to a different hospital and with DNR reversal had higher rates of mechanical ventilation and hospital death.
+- They also observed a strong hospital effect associated with DNR reversal rates.
+- It is unlikely that patients would choose a hospital based on DNR preferences, as hospital-level DNR practices are neither reported nor in the public domain.
+- This raises the important issue of the effect of hospital characteristics.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Goals of Care
+2. Preference Stability
+3. Surrogate Decision-makers
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +34,9 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journals-lww-com.ezproxy.lib.utah.edu/ccmjournal/Fulltext/2021/02000/DoNotResuscitateReversalsBigDataandthe.21.aspx
+- https://twitter.com/iwashyna/status/1311746137251024899?s21
+- https://journals.lww.com/ccmjournal/fulltext/2021/04000/theutilityofcostutilityanalysesincritical.14.aspx
 
 ## Source notes
 
@@ -40,4 +44,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/goals-of-care.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/goals-of-care.md](archive/Clinical%20Practice%20Notes/goals-of-care.md)
+- [Clinical Practice Notes/goals-of-care.md](../../archive/Clinical%20Practice%20Notes/goals-of-care.md)

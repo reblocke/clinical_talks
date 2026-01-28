@@ -9,30 +9,49 @@ draft: true
 - Sodium overload and 'fluid overload'
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Goals
+- Practical
+- Sodium overload and 'fluid overload'
+- Clinical impact?
+- Interventions
+- Harms of Fluid overload
+- Diuresis strategy
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Fluid restrictions do not work and do not matter.
+- In fact, they don't even make sense
+- "Sodium retention drives volume overload, with fluid retention largely a passive, secondary phenomenon.
+- However, parameters (urine output, body weight) used to monitor therapy in ADHF measure fluid rather than sodium balance.
+- Thus, the accuracy of fluid-based metrics hinges on the contested assumption that urinary sodium content is consistent."
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. do not wait 6h to redose lassie if attempting to find a threshold dose. If they haven't made urine in 2h when a foley is in place (or if you've done a bladder scan), they are not going to. Increase the dose
+2. Using the FeNa (simple conceptually) or NRPE [Na in mol eGFR BSA/1.73 (SerumCr/UrineCr) 60 minute 3.25h (Urine Na / 1000 ml)]. Cohorts: Rao, V.S. et al. J Am Coll Cardiol. 2021;77(6):695–708. , RCT pending: https://clinicaltrials.gov/ct2/show/NCT04481919
+3. should we be following I/O at all? Daily weights at all? If we can measure Natriuresis, which is what we care about - might that save significant resources?
+4. "In the DOSE(Diuretic Optimization Strategies Evaluation) trial, an National Institutes of Health–funded trial of diuretic strategies conducted at heart failure centers of excellence, the correlation between fluid and weight loss was r ¼ 0.55 (r2 ¼ 0.3). This correlation indicates
+5. Maintenance fluids are a huge source of this in people who use it.
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- After shock resolved, begin diuresis
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- do not wait 6h to redose lassie if attempting to find a threshold dose. If they haven't made urine in 2h when a foley is in place (or if you've done a bladder scan), they are not going to. Increase the dose
+- Fluid restrictions do not work and do not matter. In fact, they don't even make sense
+- Salt restrictions do not work: https://www.coreimpodcast.com/2020/05/20/salt-restriction-in-heart-failure-mind-the-gap-segment/
+- -starting dose: 2.5x outpatient dose, in IV form (per DOSE trial - https://pubmed.ncbi.nlm.nih.gov/21366472/) -do not discontinue ACEi for CHF exacerbation if BP can tolerate and you think their AKI is cardiorenal. Same for BB - https://pubmed.ncbi.nlm.nih.gov/29423950/
+- Don't use maintenance fluids often. If you do, use 1mmol Na / kg per day and 25 mL / kg per day.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.sciencedirect.com/science/article/abs/pii/S2213177919300289
+- https://www.coreimpodcast.com/2020/05/20/salt-restriction-in-heart-failure-mind-the-gap-segment/
+- https://pubmed.ncbi.nlm.nih.gov/21366472/
+- https://pubmed.ncbi.nlm.nih.gov/29423950/
+- https://clinicaltrials.gov/ct2/show/NCT04481919
+- https://twitter.com/ebtapper/status/1363237763143860233?s20
+- https://annalsofintensivecare.springeropen.com/track/pdf/10.1186/s13613-021-00851-3.pdf
+- https://pubmed.ncbi.nlm.nih.gov/30482136/]
+- https://photos.collectednotes.com/photos/5187/93303c08-20eb-4acb-a340-d487e8a2b032
+- https://pubmed.ncbi.nlm.nih.gov/26948252/
 
 ## Source notes
 
@@ -40,4 +59,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/diuresis-and-sodium-balance-in-the-icu.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/diuresis-and-sodium-balance-in-the-icu.md](archive/Clinical%20Practice%20Notes/diuresis-and-sodium-balance-in-the-icu.md)
+- [Clinical Practice Notes/diuresis-and-sodium-balance-in-the-icu.md](../../archive/Clinical%20Practice%20Notes/diuresis-and-sodium-balance-in-the-icu.md)

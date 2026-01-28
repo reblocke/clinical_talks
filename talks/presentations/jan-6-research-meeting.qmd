@@ -4,19 +4,433 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Hypercapnia Research GroupJan 6 Meeting
+- Goal of project
+- Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)
+- Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g. NIS) would perform and whether they are usable.
+- Data pre-processing
+- Data sanity checking
+- Admission VS (skewed center) e.g. for BMI – version w missing data?
+- Inpatient medication categories
+- Procedures. No TTE, EMG/NCS, PSG. No crit care time?
+- Chronic conditions: Heart failure high – rest not?
+- for labs e.g. ( value27441 (ABG pH) )- missing values are currently 0. They should be 7.4 (should we mean center?). Also exclude <6.5 and above 7.8
+- TODO: still need to sanity check acute diagnoses.
+
+## Slide outline
+### Slide 1
+- Hypercapnia Research GroupJan 6 Meeting
+### Slide 2
+- Goal of project
+- Hypothesis 1: Commonly used methods of identifying hypercapnia identify different patients, and those patients differ in ways expected to influence prognosis and distribution of effect modifiers to treatments.
+- Question: how best to demonstrate this difference?
+- Principal Components are Hard to Understand
+- Stratification by a few key covarites (e.g. age, gender) by frequency of causative diagnoses. (or other features too?)
+-  idea, this improved stratification might allow better ‘conditional’ estimates knowing a patients comorbidities/clinical circumstance (as compared to more ‘marginal’ estimates that apply to the entire population.
+### Slide 3
+- Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)
+- In some sense, the fundamental problem of the research endeavor is that the reference standard diagnostic test (ABG) is frequently missing
+- Modeling P(obtaining ABG) and P(Hypercapnia | ABG obtained) may be one avenue.
+- Partial verification formulation: clinicians only seek a reference standard test in cases where some other features suggest hypercapnia is likely
+- If you make certain assumptions… can you do better? IPW can extend things to work if data is assumed to be missing at random. To what extent is it?
+- in order to know if that assumption is valid (enough), you’d need a gold standard reference… which would require prospective study on the population of interest (enriched population)
+### Slide 4
+- Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g. NIS) would perform and whether they are usable.
+### Slide 5
+- Data pre-processing
+- Missing data: For hypercapnia icd codes, treatment modalities, and ABG results -> the missingness of the data is a feature of interest
+- For other features: should we impute?
+### Slide 6
+- Data sanity checking
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- Asian
+- 1% (9,673)
+- 1% (8,420)
+- 1% (1,245)
+- 0% (8)
+- Black
+- 18% (138,026)
+- 18% (119,911)
+- 17% (18,026)
+- 4% (89)
+- Native American / Alaska Native
+- 0% (3,545)
+- 0% (3,041)
+- 0% (504)
+- 0% (0)
+- Native Hawaiian / Pacific Islander
+- 0% (800)
+- 0% (644)
+- 0% (156)
+- White
+- 62% (489,151)
+- 62% (418,632)
+- 66% (68,948)
+- 74% (1,571)
+- Latino
+- 6% (31,744)
+- 6% (27,896)
+- 7% (3,818)
+- 2% (30)
+- Location
+- ex
+- 10% (73,473)
+- 11% (72,632)
+- 1% (841)
+- midwest
+- 16% (123,411)
+- 17% (114,279)
+- 10% (9,132)
+- northeast
+- 23% (177,929)
+- 22% (148,086)
+- 34% (29,843)
+- south
+- 45% (348,616)
+- 47% (316,478)
+- 34% (30,021)
+- 100% (2,117)
+- west
+- 6% (43,175)
+- 4% (23,934)
+- 22% (19,241)
+- split out group membership into 3 binaries (yes/no ABG, yes/no ICD, yes/no Procedure)
+- - currently too few procedure. But, that may be a function of sequential evaluation of criteria?
+### Slide 7
+- Admission VS (skewed center) e.g. for BMI – version w missing data?
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- BMI
+- 24 (5)
+- 24 (6)
+- 24 (4)
+- Respiratory Rate
+- 15 (3)
+- 14 (0)
+- Temperature (C)
+- 37 (1)
+- 37 (0)
+- Systolic BP
+- 123 (19)
+- 123 (17)
+- 122 (12)
+- Diastolic BP
+- 73 (12)
+- 72 (12)
+- 74 (11)
+- 75 (7)
+- Other features: [ ] spo2? o2?
+### Slide 8
+- Inpatient medication categories
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- PO Corticosteroid
+- 41% (320,131)
+- 41% (281,124)
+- 37% (38,901)
+- 5% (106)
+- Narcan or other antidote
+- 23% (183,224)
+- 25% (167,285)
+- 15% (15,896)
+- 2% (43)
+- Inhaled Treatments Rx'd
+- 37% (293,266)
+- 37% (252,748)
+- 38% (40,403)
+- 5% (115)
+- Vasodilators
+- 14% (107,701)
+- 14% (97,077)
+- 10% (10,554)
+- 3% (70)
+- [ ] inpatient diuretics???
+### Slide 9
+- Procedures. No TTE, EMG/NCS, PSG. No crit care time?
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- CPAP proc. code
+- 7% (58,615)
+- 6% (43,070)
+- 15% (15,524)
+- 1% (21)
+- Aerosolized Treatment
+- 15% (119,865)
+- 14% (97,697)
+- 21% (22,093)
+- 4% (75)
+- Inhaler Teaching
+- 3% (22,402)
+- 3% (19,943)
+- 2% (2,401)
+- 3% (58)
+- 1 View CXR
+- 23% (177,806)
+- 22% (147,529)
+- 29% (30,156)
+- 6% (121)
+- 2 View CXR
+- 6% (46,579)
+- 6% (39,661)
+- 7% (6,903)
+- 1% (15)
+- CT Chest Non-Contrast
+- 4% (32,650)
+- 4% (27,317)
+- 5% (5,325)
+- 0% (8)
+- CT Chest w Contrast
+- 4% (30,349)
+- 4% (26,256)
+- 4% (4,072)
+### Slide 10
+- Chronic conditions: Heart failure high – rest not?
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- Asthma
+- 0% (2,934)
+- 0% (1,828)
+- 1% (1,106)
+- 0% (0)
+- Cystic Fibrosis
+- 0% (1,226)
+- 0% (1,041)
+- 0% (185)
+- CHF
+- 21% (166,238)
+- 19% (130,533)
+- 34% (35,641)
+- 3% (64)
+- CKD
+- 1% (5,485)
+- 1% (3,698)
+- 2% (1,787)
+- COPD
+- 0% (1,680)
+- 0% (1,232)
+- 0% (448)
+- Connective Tissue Disease
+- 0% (1,112)
+- 0% (813)
+- 0% (299)
+- Dementia
+- 0% (2,076)
+- 0% (1,394)
+- 1% (682)
+- Diabetes
+- 1% (7,894)
+- 1% (5,274)
+- 2% (2,620)
+- Nicotine dependence
+- 1% (4,727)
+- 0% (3,250)
+- 1% (1,477)
+- Neuromuscular Disease
+- 0% (924)
+- 0% (673)
+- 0% (251)
+- OSA
+- 1% (5,675)
+- 1% (3,523)
+- 2% (2,152)
+- Opiate Use Disorder
+- 0% (936)
+- 0% (680)
+- 0% (256)
+- Pulmonary Hypertension
+- 0% (2,703)
+- 0% (1,675)
+- 1% (1,028)
+- Peripheral Vascular Disease
+- 0% (2,095)
+- 0% (1,666)
+- 0% (429)
+- Stroke
+- 0% (2,124)
+- 0% (1,734)
+- 0% (390)
+### Slide 11
+- for labs e.g. ( value27441 (ABG pH) )- missing values are currently 0. They should be 7.4 (should we mean center?). Also exclude <6.5 and above 7.8
+- Total
+- ABG Group
+- ICD Group
+- Procedure Group
+- p-value
+- N785,667
+- N678,424
+- N105,126
+- N2,117
+- Age
+- 60 (16)
+- 60 (17)
+- 62 (16)
+- 52 (19)
+- <0.001
+- Gender
+- 46% (360,445)
+- 45% (304,832)
+- 52% (54,726)
+- 42% (887)
+- pH (ABG)
+- 7.32 (0.11)
+- 7.37 (0.12)
+- HCO3 (ABG)
+- 24.8 (6.3)
+- 21.6 (5.8)
+- pH (VBG)
+- 7.35 (0.12)
+- 7.33 (0.12)
+- HCO3 (VBG)
+- 25.5 (6.6)
+- 25.4 (6.5)
+- 26.6 (7.4)
+- Serum Sodium
+- 138 (5)
+- 137 (5)
+- Serum Hemoglobin
+- 12.1 (2.5)
+- 12.2 (2.6)
+- 13.0 (2.5)
+- [ ] --- this is true for all of the values. Physiologic bicarb 0-60. Add robustness checks
+- // what is value 21600?
+### Slide 12
+- TODO: still need to sanity check acute diagnoses.
+### Slide 13
+- PCA output
+- Knowing which data features are the major contributors to the principal components might guide which data elements should be included in future models?
+- Is the PCA useful on its own?
+- PCA: feature generation for other algorithms
+- Which algorithms and for what purpose?
+- K-means clustering -> what would this get us?
+- Regression?
+### Slide 14
+- Expanded Data Set
+- Target population: all patients in whom a clinician would consider that the patient has acute hypercapnic respiratory failure
+- Analytic sample: widened criteria that includes both patients who had hypercapnic failure, and patients who might reasonably have been expected to. (at admission)
+### Slide 15
+- need robust truthfulness of data… integrity checks
+- Aim: only patient admissions where all the types of data needed WOULD have been reported if they were obtained in clinical care.
+- For diagnoses, only diagnosis that were known/made prior to that time.
+### Slide 16
+- Next steps:
+- [ ] split out group membership into 3 binaries (yes/no ABG, yes/no ICD, yes/no Procedure)
+- - currently too few procedure. But, that may be a function of sequential evaluation of criteria?
+- [ ] version with missing data left missing (as opposed to mean) - -- how should we handle missing data?
+- [ ] also a version with the “criteria” data – ie. ABG PaCO2, hypercapnia codes, and ICD for NIV included
+- Problematic features: why no PSG EMG and NCS billed in the entire dataset? - restrictions on location of care?. Yet, TTE also isn't but clearly that is done inpatient frequently.
+- What pre-screening can we do to improve the completeness of the sample?
+- - require at least 1 result from all categories to be included?
+- - eliminate iatrogenic cases... somehow?
+### Slide 17
+- Structure to final paper:
+- Currently used methods A, B, C, and D over-selected type and underselected type compared to
+- Possible features from the data that could be used to identify, or phenotype, patients include
+- For research that aims to enroll a representative sample of patients to estimates the prognosis, burden to the healthcare system, or improve processes of care should consider to identify these patients.
+- A future prospective study evaluating the performance of these methods is warranted.
+### Slide 18
+- Stratifying causes
+- Also from that - could I create —> key figure of comorbidities by age in hypercapnia.
+- also, BMI
+- By age? by BMI ; stratified by gender
+### Slide 19
+- U of U Data
+- IRB and data request
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Hypercapnia Research GroupJan 6 Meeting
+- Goal of project
+- Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)
+- Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g. NIS) would perform and whether they are usable.
+- Data pre-processing
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Hypercapnia Research GroupJan 6 Meeting
+- Goal of project
+- Hypothesis 2: We can construct methods that select a more representative sample of patients (would require expanded data)
+- Hypothesis 3: validate how well hypercapnia definitions that can be based on features that can be created from other datasets (e.g. NIS) would perform and whether they are usable.
+- Data pre-processing
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +447,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Jan 6 Research Meeting.pptx](archive/Presentations/Jan%206%20Research%20Meeting.pptx)
+- [Presentations/Jan 6 Research Meeting.pptx](../../archive/Presentations/Jan%206%20Research%20Meeting.pptx)
 
 ## Source materials
-- [Presentations/Jan 6 Research Meeting.pptx](archive/Presentations/Jan%206%20Research%20Meeting.pptx)
+- [Presentations/Jan 6 Research Meeting.pptx](../../archive/Presentations/Jan%206%20Research%20Meeting.pptx)

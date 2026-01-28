@@ -9,21 +9,21 @@ draft: true
 - Ohmic Resistors / Ohms Law
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Starling Resistors
+- Convective Acceleration
+- Ohmic Resistors / Ohms Law
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Gases and Liquids are both fluids.
+- Pressure Force / Area (Force x Distance) / (Area x Distance) Work / Volume Energy / Volume Energy Density.
+- Fluids move from high pressure aka energy density to low pressure aka energy density.
+- Gauge pressure referenced to atmospheric pressure.
+- Pressure transducer deformable membrane between two fluids - deformation indicated difference in pressure.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Pulmonary Mechanics
+2. Starling Resistors
+3. Convective Acceleration
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +32,9 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journals.physiology.org/doi/full/10.1152/nips.01374.2001
+- https://photos.collectednotes.com/photos/5187/1bf89cb8-6031-4461-9785-e9f33a8ac00d
+- https://photos.collectednotes.com/photos/5187/efee90d2-5996-4687-b433-120e581e32da
 
 ## Source notes
 
@@ -40,4 +42,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/pulmonary-mechanics.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/pulmonary-mechanics.md](archive/Clinical%20Practice%20Notes/pulmonary-mechanics.md)
+- [Clinical Practice Notes/pulmonary-mechanics.md](../../archive/Clinical%20Practice%20Notes/pulmonary-mechanics.md)

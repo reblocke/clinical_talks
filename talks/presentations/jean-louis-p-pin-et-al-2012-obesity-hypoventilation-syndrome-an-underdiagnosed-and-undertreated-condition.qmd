@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jean-Louis Pépin et al. - 2012 - Obesity Hypoventilation Syndrome An Underdiagnosed and Undertreated Condition.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jean-Louis%20P%C3%A9pin%20et%20al.%20-%202012%20-%20Obesity%20Hypoventilation%20Syndrome%20An%20Underdiagnosed%20and%20Undertreated%20Condition.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jean-Louis Pépin et al. - 2012 - Obesity Hypoventilation Syndrome An Underdiagnosed and Undertreated Condition.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jean-Louis%20P%C3%A9pin%20et%20al.%20-%202012%20-%20Obesity%20Hypoventilation%20Syndrome%20An%20Underdiagnosed%20and%20Undertreated%20Condition.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jean-Louis Pépin et al. - 2012 - Obesity Hypoventilation Syndrome An Underdiagnosed and Undertreated Condition.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jean-Louis%20P%C3%A9pin%20et%20al.%20-%202012%20-%20Obesity%20Hypoventilation%20Syndrome%20An%20Underdiagnosed%20and%20Undertreated%20Condition.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Jean-Louis Pépin et al. - 2012 - Obesity Hypoventilation Syndrome An Underdiagnosed and Undertreated Condition.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Jean-Louis%20P%C3%A9pin%20et%20al.%20-%202012%20-%20Obesity%20Hypoventilation%20Syndrome%20An%20Underdiagnosed%20and%20Undertreated%20Condition.pdf)

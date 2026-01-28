@@ -4,19 +4,330 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Intermountain Project ECHOTeleCritical Care Medicine Recent Evidence on the Management of Acute Pancreatitis
+- Learning Objectives
+- MAP 75, HR 115, room air. 70kg
+- Pancreatitis vs. Sepsis
+- Method:
+- Trial 1:Fluids
+- WATERFALL TRIAL
+- 2024 ACG Guidelines say:
+- MAP 70, HR 130, room air. 70kg
+- Rationale
+
+## Slide outline
+### Slide 1
+- Intermountain Project ECHOTeleCritical Care Medicine Recent Evidence on the Management of Acute Pancreatitis
+- Brian Locke, MD MSCI
+- Assistant Professor of Research
+- Pulmonary and Critical Care
+- Intermountain Medical Center
+- 12/2/25
+- COI: Equity Interest MTN Biometrics
+- Notebook of references
+### Slide 2
+- Learning Objectives
+- Compare fluid-shift mechanisms in acute pancreatitis vs sepsis
+- Explain the relevance of hematocrit for guiding resuscitation.
+- Use recent trial data to estimate a usual fluid resuscitation strategy
+- Diagnose non-gallstone pancreatitis, gallstone pancreatitis without cholangitis and gallstone pancreatitis with cholangitis and recognize the management implications.
+- Evaluate when pancreatic fluid collections ought to be drained and when antibiotics should be started.
+- Explain when enteral nutrition should be started, and for what purpose.
+- 12/2/25
+### Slide 3
+- MAP 75, HR 115, room air. 70kg
+- WBC: 16, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 1.5
+- Lipase: 5000, Lactate 3
+- AST/ALT 300/150, Bili 2
+- How much fluid do you order?
+- Case 1: 45 M with EtOH use disorder presents with pancreatitis
+- 12/2/25
+- a.) a bolus of a 1-2L, then 100/hr LR
+- b.) a bolus of 2-4L, then 200/hr LR
+- C.) a bolus of 4-6L, then 300/hr LR
+- d.) no bolus, 150/hr LR
+### Slide 4
+- Pancreatitis vs. Sepsis
+- 12/2/25
+- Compare and Contrast
+- Pancreatitis
+- Physiology: endothelial injury, substantial 3rd spacing to perit.
+- Symptoms: N/V/Pain, impaired intake
+- Manifestation: hemoconcentration
+- Consequence: Impaired perfusion to pancreas -> necrosis
+- Sepsis
+- Physiology: vasodilation, low stressed volume -> impaired venous return.
+- Symptoms: variable by site.
+- Manifestation: no hemoconcentration
+- Consequence: global hypotension and organ dysfunction.
+### Slide 5
+- Method:
+- For aggressive fluid resuscitation in A.P.
+- Goal: restore perfusion to the pancreas to avoid subsequent necrosis (rather than maintain MAP)
+- Follow HCT (& BUN) – 6-hr and 24-hr recheck.
+- If HCT rising or above baseline – more fluid.
+- BUN functions similarly (but reflects renal function)
+- Goal: restore perfusion fast -> first 6 hours (maybe 24h) matter
+- beyond that, not so much.
+- 12/2/25
+- 2024 ACG Acute Pancreatitis Guideline
+### Slide 6
+- Trial 1:Fluids
+- WATERFALL Trial
+- NEJM 2022
+- 12/2/25
+### Slide 7
+- WATERFALL TRIAL
+- 12/2/25
+- NEJM 2022: RCT, 18 centers, 249 patients
+- India, Italy, Mexico, and Spain
+- Inclusion: AP, w/n 24h of pain onset and 8h of diagnosis.
+- Exclusion: already mod-severe disease
+- Outcome: New Mod-Sev dz (local complication, sCr 1.9+, hypotension, hypoxemia)
+- WATERFALL Trial, NEJM 2022
+### Slide 8
+- WATERFALL TRIAL
+- 12/2/25
+- Stopped @ 1/3 expected n for safety
+- Aggressive Fluid (LR) Resus.
+- 7.8L in 24h [IQR 6.5 – 9.8]
+- 1: 22.1% got moderately severe or severe pancreatitis
+- 20.5% of patients with fluid overload (2 of sympt, signs, imaging evidence of overload)
+- RR 2.85 (95% CI, 1.36 to 5.94)
+- Moderate Fluid (LR) Resus.
+- 5.5L in 24h [IQR 4.0 to 6.8]
+- 1: 17.3% got moderately severe or severe pancreatitis
+- 6.3% of patients with fluid overload
+### Slide 9
+- 2024 ACG Guidelines say:
+- 12/2/25
+- Moderate fluid resuscitation
+- More important early (6h)
+- Reassess (q6 initially)
+### Slide 10
+- MAP 75, HR 115, room air. 70kg
+- WBC: 16, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 1.5
+- Lipase: 5000, Lactate 3
+- AST/ALT 300/150, Bili 2
+- How much fluid do you order?
+- Case 1: 45 M with EtOH use disorder presents with pancreatitis
+- 12/2/25
+- a.) a bolus of a 1-2L, then 100/hr LR
+- b.) a bolus of 2-4L, then 200/hr LR
+- C.) a bolus of 4-6L, then 300/hr LR
+- d.) no bolus, 150/hr LR
+### Slide 11
+- MAP 70, HR 130, room air. 70kg
+- WBC: 20, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 3
+- Lipase: 5000, Lactate 7. T 37.2
+- AST/ALT 300/700, Bili 4
+- Does this patient need a transfer?
+- Case 2: 45 F with recent weight loss presents with pancreatitis
+- 12/2/25
+- a.) no, supportive care for severe biliary AP
+- b.) yes, needs immediate ERCP
+- c.) yes, needs immediate MRCP
+- d.) yes, will need cholecystectomy anyway.
+### Slide 12
+- Rationale
+- Terms
+- Microlithasis [small stones] and sludge [viscous gall fluid] are common causes of pancreatitis by obstructing the distal common bile duct
+- Cystic duct + common hepatic > Common bile duct
+- Common bile duct + Pancreatic duct > (distal) CBD
+- Choledocholithiasis [persistent CBD stone]
+- (Ascending) Cholangitis [biliary duct infection]
+- 12/2/25
+- Wikipedia, “Bile Duct”
+### Slide 13
+- Rationale
+- For early ERCP
+- How do you differentiate gallstone vs non-gallstone pancreatitis?
+- ALT > ~3x ULN (95% PPV). Lower ALT does NOT rule out (50% spec)
+- OR visualization of stone or dilated CBD (& no other etio). MRCP gold.
+- How do you differentiate gallstone pancreatitis associated with cholangitis and without.
+- Fever & either direct visualization of a CBD stone (US, MRCP, EUS) or evidence of its presence (dilated CBD, progressive cholestasis)
+- Establishing when a transient obstruction vs persistent stone is present is hard, and maybe it’s best to just make sure the drainage is relieved?
+- 12/2/25
+### Slide 14
+- Trial 2:ERCP
+- APEC Trial
+- Lancet 2020
+- 12/2/25
+### Slide 15
+- APEC TRIAL
+- 12/2/25
+- Lancet 2020: RCT, 26 centers, n 232
+- Inclusion: gallstone pancreatitis and predicted severe dz (APACHE > 8, Imrie > 3, or CRP>150 mg/dL)
+- Exclusion: 24+ hrs in, cholangitis fever + (CBD stone, dil CBD, progressive cholestasis)
+- Outcome: 6 mo. mortality or major complication (organ failure, necrosis, bacteremia, cholangitis, Pna, or exocrine insufficiency)
+- APEC Trial, Lancet 2020
+### Slide 16
+- APEC TRIAL
+- 12/2/25
+- Outcomes
+- Early (24h from hosp, 72h from symptom) ERCP & sphincterotomy
+- 1: 38%
+- 0.87 (0.64–1.18), P.37
+- Cholangitis: 2%
+- Recurrent Biliary Panc: 0
+- ICU admission: 21%
+- Std, w/ ERCP & sphincterotomy if cholangitis developed. [31%]
+- 1: 44%
+- Cholangitis: 10% (P 0.01)
+- Recurrent Biliary Panc: 9% (P .001)
+- ICU admission: 12% (P .06)
+### Slide 17
+- Guidelines say:
+- 12/2/25
+- only when there’s cholangitis or clear persistent biliary obstruction (bili ≥ 3-5)
+- not just “severe” biliary AP – many transient.
+### Slide 18
+- MAP 70, HR 130, room air. 70kg
+- WBC: 20, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 3
+- Lipase: 5000, Lactate 7. T 37.2
+- AST/ALT 300/700, Bili 4
+- Does this patient need a transfer?
+- Case 2: 45 F with recent weight loss presents with pancreatitis
+- 12/2/25
+- a.) no, supportive care for severe biliary AP
+- b.) yes, needs immediate ERCP
+- c.) yes, needs immediate MRCP
+- d.) yes, will need cholecystectomy anyway.
+### Slide 19
+- GLP-1 RA (probably) do not cause pancreatitis
+- 12/2/25
+- Fang et al. Diabetes Care 2025
+### Slide 20
+- MAP 80, HR 110, room air. 60kg
+- WBC: 20, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 1.5
+- T 38.5C
+- CT A/P: Necrosis, Peri-panc fluid collection with gas. Next move(s)?
+- Case 3: 45 F is 14 days into severe AP. Fevers and abd pain worsen
+- 12/2/25
+- a.) antibiotics
+- b.) antifungals
+- C.) fine-needle aspiration
+- d.) surgery
+- e.) endoscopic drainage
+### Slide 21
+- Early antibiotics
+- Would it prevent this?
+- Infectious complications drive mortality; patients with infections fair badly.
+- “There have been 11 prospective randomized trials of evaluating the use of prophylactic antibiotics in severe AP, with rigorous study design, participants, and outcome measures since 1993. Similarly, there were 10 meta-analyses reported since 2006 describing the abovementioned RCT”
+- “Subsequent better-designed trials have consistently failed to show a benefit in preventing infectious complications in patients with sterile necrosis, compared to earlier, often unblinded, trials that suggested a benefit”
+- 12/2/25
+### Slide 22
+- Pancreatic Necrosis
+- Infected or not? (Quotes from ACG Guideline)
+- Infected pancreatic necrosis has a higher mortality rate (mean 30%, range 14%–69%)
+- Although early unblinded trials suggested a benefit in providing antibiotics to patients with sterile necrosis by preventing infectious complications subsequent better-designed trials have consistently failed to show a benefit
+- Because patients with infected necrosis and sterile necrosis may appear similar with leukocytosis and fever and organ failure (67,68) it is [often] impossible to separate these entities without CT-FNA
+- 12/2/25
+### Slide 23
+- Guidelines
+- CT-FNA
+- 12/2/25
+- Don’t get a Fine Needle Aspirate if:
+- Nec Panc in the setting of blood stream infection (likely seeded)
+- Gas on imagine (likely infected)
+- Unstable warranting intervention
+- Get a Fine Needle Aspirate if:
+- The decision about antibiotics hinges on the result
+- It would influence whether to do a procedure or timing
+### Slide 24
+- Trial 3:Drainage
+- POINTER Trial
+- NEJM 2021
+- 12/2/25
+### Slide 25
+- APEC TRIAL
+- 12/2/25
+- NEJM 2021: 22 centers, n 104
+- Inclusion: infected peripancreatic and pancreatic necrosis by FNA or CTgas. eligible for endoscopic / percutaneous drainage. Onset of AP w/n 35d
+- Exclusion: prior intervention
+- Outcome: Complications up to 6 mo. [weighted by severity; new organ failure, bleeding, perforation, fistula, exocrine insufficiency.)
+- POINTER Trial, NEJM 2021
+### Slide 26
+- POINTER TRIAL
+- 12/2/25
+- Outcomes
+- Immediate Drainage [mean day 24]
+- Comprehensive Complication Index [CCI] of 57
+- Mortality 13%
+- LOS 59 days(!!)
+- 4.4 mean interventions
+- Postponed drainage [mean day 34]
+- CCI of 58 (P.90)
+- Mortality 10% (RR 0.42-3.68)
+- LOS 51 days (!!)
+- 2.6 mean interventions (diff 1.8, 0.6-3.0), 39% no intervention.
+### Slide 27
+- Guidelines
+- Abx + Drainage
+- While antibiotics should not be used in patients with sterile necrosis, antibiotics are an important part of treatment in infected necrosis along with debridement/necrosectomy.
+- In patients with infected necrosis, antibiotics known to penetrate pancreatic necrosis should be used largely to delay surgical, endoscopic, and radiologic drainage beyond 4 weeks. Some patients may avoid drainage altogether because the infection may completely resolve with antibiotics.
+- 12/2/25
+### Slide 28
+- MAP 80, HR 110, room air. 60kg
+- WBC: 20, Hgb 16.5, Plt 550
+- BMP: 135 / 3.2 / 99 / 16 / 50 / 1.5
+- T 38.5C
+- CT A/P: Necrosis, Peri-panc fluid collection with gas. Next move(s)?
+- Case 3: 45 F is 14 days into severe AP. Fevers and abd pain worsen
+- 12/2/25
+- a.) antibiotics
+- b.) antifungals
+- C.) fine-needle aspiration
+- d.) surgery
+- e.) endoscopic drainage
+### Slide 29
+- What’s the detail with enteral feeding?
+- 12/2/25
+- Nutrition: Brief Summary
+- Parenteral nutrition should be avoided, unless the enteral route is not possible, not tolerated, or not meeting the caloric needs
+- Using a nasogastric rather than nasojejunal route for delivery of enteral feeding is preferred because of comparable safety and efficacy
+### Slide 30
+- Python Trial, NEJM 2014
+- 12/2/25
+- Early tube feeding (w/n 24h) vs On-Demand Tube Feeding (po 72h)
+- Predicted severe pancreatitis
+- 13 centers, n205
+- No difference in major infection (infected necrosis, bacteremia, pneumonia) or death to 6 months
+- 69% of the on-demand group never required a feeding tube.
+### Slide 31
+- 12/2/25
+- Bibliography/References
+- Trials:
+- WATERFALL TRIAL: N Engl J Med 2022
+- 2. APEC Trial: Lancet 2020
+- 3. POINTER Trial N Engl J Med 2020
+- 4. PYTHON Trial N Engl J Med 2014
+- Guideline:
+- 2024 ACG Guideline: DOI: 10.14309/ajg.0000000000002645
+- Notebook:
+### Slide 32
+- Questions?brian.locke@imail.org
+- 12/2/25
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Intermountain Project ECHOTeleCritical Care Medicine Recent Evidence on the Management of Acute Pancreatitis
+- Learning Objectives
+- MAP 75, HR 115, room air. 70kg
+- Pancreatitis vs. Sepsis
+- Method:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Intermountain Project ECHOTeleCritical Care Medicine Recent Evidence on the Management of Acute Pancreatitis
+- Learning Objectives
+- MAP 75, HR 115, room air. 70kg
+- Pancreatitis vs. Sepsis
+- Method:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +344,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2025-11-30 Locke Pancreatitis TCC.pptx](archive/Presentations/2025-11-30%20Locke%20Pancreatitis%20TCC.pptx)
+- [Presentations/2025-11-30 Locke Pancreatitis TCC.pptx](../../archive/Presentations/2025-11-30%20Locke%20Pancreatitis%20TCC.pptx)
 
 ## Source materials
-- [Presentations/2025-11-30 Locke Pancreatitis TCC.pptx](archive/Presentations/2025-11-30%20Locke%20Pancreatitis%20TCC.pptx)
+- [Presentations/2025-11-30 Locke Pancreatitis TCC.pptx](../../archive/Presentations/2025-11-30%20Locke%20Pancreatitis%20TCC.pptx)

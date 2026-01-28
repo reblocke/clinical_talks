@@ -4,19 +4,356 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- The PaCO21, the pH2, and why they are what they are3,4
+- Team:
+- Goals:
+- About the PaCO2
+- Acute Hypercapnic Respiratory Failure
+- 1970s vs 2010s
+- Obesity rates: 1990 - 2030 (predicted)
+- Overall prevalence of OSA ( AHI > 30 ) in survivors over 50%
+- 1. Theoretical distribution of causes of hypercapnic respiratory failure
+- Causal? Associated?
+- Say you get the cause right.. now what?
+- What is the opportunity?
+
+## Slide outline
+### Slide 1
+- The PaCO21, the pH2, and why they are what they are3,4
+- 1. Hypercapnic respiratory failure.
+- 2. Describing the clinical course
+- 3. Describing the causes
+- 4. Describing what happens when CO2 regulation goes amiss.
+- Brian Locke. Research in Progress Fall 2021
+### Slide 2
+- Team:
+- Krishna Sundar, MD – PCCM
+- Ram Gouripeddi, MBBS – Bioinformatics
+- Jeanette Brown, MD PhD – PCCM
+- Conrad Addison, MD – Fellow, Sleep Medicine
+- Somya Mishra, MD – Resident, Anesthesia
+- Acknowledgement – Scott Aberegg, MD MPH; Karl Sanders MD, Rob Paine, MD
+### Slide 3
+- Goals:
+- I hope to convince you that the clinical epidemiology of hypercapnia needs further characterization
+- Project: Ways of identifying patients with hypercapnic respiratory failure in EMR data
+- Next steps
+### Slide 4
+- About the PaCO2
+### Slide 5
+- Acute Hypercapnic Respiratory Failure
+- Recurrent Acute Hypercapnic Respiratory Failure
+- Chronic Hypercapnic Respiratory Failure (Acute Presentation)
+- Chronic Hypercapnic Respiratory Failure (Stable Presentation)
+- Hypercapnia nosology
+- Chronic Hypercapnic Respiratory Failure
+- Normalization of Hypercapnia
+- Stability
+### Slide 6
+- TODO: No text extracted from this slide.
+### Slide 7
+- TODO: No text extracted from this slide.
+### Slide 8
+- 1970s vs 2010s
+### Slide 9
+- Obesity rates: 1990 - 2030 (predicted)
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- TODO: No text extracted from this slide.
+### Slide 12
+- Overall prevalence of OSA ( AHI > 30 ) in survivors over 50%
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- 1. Theoretical distribution of causes of hypercapnic respiratory failure
+- Weak testing evidence required
+- Strong testing evidence required
+- Diagnosis
+- 2. Conditional probabilities:
+- P (Hypercapnic Resp Failure | Condition) P ( HRF and condition) / P (Condition)
+- Prevalence Estimates (USA):
+- CHF: AHA estimate 1.8%
+- COPD: CDC estimate 6.3%.
+- OSA w/ AHI over 15: 7% (Wisconsin Sleep Cohort Study)
+### Slide 16
+- Causal? Associated?
+- If we improve hypercapnia without improving the cause, do we improve outcomes?
+### Slide 17
+- Say you get the cause right.. now what?
+- Cause
+- Treatment
+- Outcome Improved
+- LOE (Cochrane or ATS)
+- Criteria (Resmed)
+- Restrictive Thoracic Dz
+- NIV
+- Hospitalization, Mortality
+- Meta-analysis of 3+ 3(mixed) RCTs
+- Low
+- ABG w/ PaCO2 over 45
+- Sleep oximetry SpO2 < 88%
+- OHS
+- CPAP or BiPAP
+- CO2, O2, ED visits, and mortality.
+- Meta-analysis of 3 RCTs and 12 nonrandomized studies
+- CPAP: Sleep study
+- BiPAP: PaCO2 awake > 45 mmHg and FEV1 > FVC 70%
+- COPD
+- CO2 Hospitalization, QOL, dyspnea
+- Meta-analysis of 14 RCTs
+- Moderate
+- PaCO2 over 45 or 52
+- Sleep oximetry SpO2 < 5 mintues on 2L or usual O2
+- OSA excluded or CPAP tried
+- 2-4 weeks recovery from exac.
+- Neuromuscular Dz
+- Meta-analysis of 4+3 (mixed) RCTs
+- MIP < 60cmH2o or FVC < 50%
+### Slide 18
+- What is the opportunity?
+- Two ways you can address hypercapnia:
+- Fix can’t breathe
+- NIV.  Data here
+- ONLY limited subset with chronic hypercapnia. Not recurrent acute hypercapnia
+- Addressing strength (Pulm Rehab?)
+- Reversing cause (Weight loss?)
+- Fix won’t breathe
+- Reduce medications that decrease hypercapnic ventilatory response
+- Increase hypercapnic ventilatory response (acetazolamide)
+- What do you do on discharge, if anything?
+### Slide 19
+- General hypotheses regarding hypercapnia
+- The causes of hypercapnia have changed due to increased rates of obesity, opiate use, and multimorbidity (e.g. CHF+Loop diuretics)
+- OSA (OHS, or not); CHF/Diuretics are major drivers.
+- More than COPD and NMD
+- Both the presence of hypercapnia and the cause of hypercapnia are frequently missed. Management that could be instituted is not. Outcomes suffer as a result
+- There is little evidence to guide the management of these patients, partly due to suboptimal disease classification and partly due to absence of adequate investigation.
+- So… where do we start?
+### Slide 20
+- Step 1: Who is the source population?
+- Definition of Respiratory Failure (Nunn and Lamb’s Applied Respiratory Physiology, 9th Edition):
+- “Failure of maintenance of normal arterial gas partial pressures”
+- Normal (sea level) 95% range 38.3 +/- 7.5 mmHg > 45 mmHg threshold.
+- Who meets these criteria?
+### Slide 21
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- J96.02 (acute hypercapnic respiratory failure)
+- J96.22 (acute and chronic respiratory failure with hypercapnia)
+- J96.92 (respiratory failure unspecifed with hypercapnia)
+- J96.12 (chronic respiratory failure with hypercapnia)
+- E66.2 (morbid obesity with hypoventilation)
+### Slide 22
+- Admitted to ICU with PaCO2 over 45 mmHg and a pH less than 7.35
+### Slide 23
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+### Slide 24
+- Admitted to the ICU
+- PaCO2 greater than 47.25 mmHg
+- Procedure code for non-invasive ventilation or invasive mechanical ventilation initiation
+### Slide 25
+- Hypotheses:
+- The various methods used in studies of hypercapnic respiratory failure identify different patients
+- Hypothesis 1: the sensitivity (aka recall) and positive predictive value (aka precision) for both billing code- and procedural code-based identification of hypercapnic respiratory failure will be below 80%, when compared to blood gas-based identification as the reference standard.
+- These populations differ in risk for outcomes of interest which hampers interpretation of these studies.
+- Hypothesis 2: The distribution of age, ethnicity, BMI, Elixhauser comorbidity score, and frequency of coexisting diagnoses (OSA, opiate use disorder, COPD, CHF, and neuromuscular disease) will differ between the cohorts identified by each method.
+### Slide 26
+- Data source:
+### Slide 27
+- Data source:
+- Data Available
+- Data unavailable
+- Demographics
+- Diagnosis
+- Medications
+- Procedures - what procedures were done. E.g. sleep study code
+- Labs
+- Cancer registry (NAACCR)
+- Allergies
+- Some notes
+- Diagnostic reports
+- DICOM image objects
+- Providers
+- Departments/clinics
+- 69 million MRNs; ~50 academic medical centers (including U of U)
+- De-identified, patient-level data (not PHI, though recommended to be treated as such)
+### Slide 28
+- Data request:
+- 69 million MRNs; ~50 academic medical centers (including U of U)
+- De-identified data (not PHI, though recommended to be treated as such)
+- Cannot be geolocated or tracked to a specific center
+### Slide 29
+- Data request:
+- 69 million MRNs; ~50 academic medical centers (including U of U)
+- De-identified data (not PHI, though recommended to be treated as such)
+- Cannot be geolocated or tracked to a specific center
+### Slide 30
+- TODO: No text extracted from this slide.
+### Slide 31
+- TODO: No text extracted from this slide.
+### Slide 32
+- TODO: No text extracted from this slide.
+### Slide 33
+- We requested patient level data from all records with an inpatient encounter and any of:
+- Diagnostic code for respiratory failure
+- Included all types
+- Arterial Blood gas with hypercapnia (45 mmHg+)
+- Procedure code for initiation or management of NIV or IMV
+- N~800,000 patients.
+### Slide 34
+- TODO: No text extracted from this slide.
+### Slide 35
+- Statistical Analysis Plan: why not Se/Sp?
+- Example Calculation
+- ICD code ‘Prediction’
+- Blood gas reference standard
+- ICD Code for Hypercapnic RF
+- No ICD code for Hypercapnic RF
+- PaCO2 > 45mmHg
+- True Positive
+- False Negative
+- Sensitivity
+- TP / (TP + FN)
+- PaCO2 < 45mmHg (or no ABG)
+- False Positive
+- True Negative
+- [We will not have these]
+- Specificity
+- TN / (TN + FP)
+- PPV
+- TP / (TP + FP)
+- NPV
+- TN / (TN + FN)
+### Slide 36
+- Statistical Analysis Plan: why ABG as ref std?
+- Example Calculation
+- ICD code ‘Prediction’
+- Blood gas reference standard
+- ICD Code for Hypercapnic RF
+- No ICD code for Hypercapnic RF
+- PaCO2 > 45mmHg
+- True Positive
+- False Negative
+- Sensitivity
+- TP / (TP + FN)
+- PaCO2 < 45mmHg (or no ABG)
+- False Positive
+- True Negative
+- [We will not have these]
+- Specificity
+- TN / (TN + FP)
+- PPV
+- TP / (TP + FP)
+- NPV
+- TN / (TN + FN)
+### Slide 37
+- Example figure
+- ICD-10 Code
+- Vent. Proc Code
+- ABG PaCO2 45+
+- HRF
+### Slide 38
+- Preliminary analysis (in aggregate, without data control, only addressing hypothesis 2)
+### Slide 39
+- Demographics – older get labels
+### Slide 40
+- Heart Disease – more common in those labeled… and very common overall
+- Conditional probabilities:
+- P (Hypercapnic Resp Failure | Condition) P ( HRF and condition) / P (Condition)
+### Slide 41
+- BMI – appears heavier patients are more likely to be labeled
+### Slide 42
+- Bicarbonate (adaptation/chronicity) - similar
+### Slide 43
+- Ventilation
+### Slide 44
+- Strengths
+- Not PHI: speed of the project
+- Broadly representative database
+- Large enough sample size that we can restrict analysis and maintain sufficient power
+- Demonstrates a very high frequency of CHF in folks who are diagnosed with hypercapnia by any measure
+### Slide 45
+- Anticipated challenges
+- Data completeness
+- U of U does not submit blood gasses. Other variations at other sites?
+- No PaCO2 over 45 mmHg
+- Could be it was never checked
+- Could be it was checked and <45
+- Could be it was checked and >45 but not uploaded
+- Plan: restrict an analysis to only patients who have a blood gas with any PaCO2
+- Example Calculation
+- ICD code ‘Prediction’
+- Blood gas reference standard
+- ICD Code for Hypercapnic RF
+- No ICD code for Hypercapnic RF
+- PaCO2 > 45mmHg
+- True Positive
+- False Negative
+- Sensitivity
+- TP / (TP + FN)
+- PaCO2 < 45mmHg (or no ABG)
+- False Positive
+- True Negative
+- [We will not have these]
+- Specificity
+- TN / (TN + FP)
+- PPV
+- TP / (TP + FP)
+- NPV
+- TN / (TN + FN)
+### Slide 46
+- Anticipated challenges
+- Who, exactly, is the source population and what sampling effects distort the database?
+- How often is the same patient included multiple times?
+- How to handle patients receiving invasive mechanical ventilation?
+- Other iatrogenic hypercapnia?
+### Slide 47
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- Normal A-a gradient? 4 + (0.25 Age)
+- Critical PAO2 paO2 + (Normal A-a gradient)
+### Slide 48
+- Next Steps
+- Data (~25 GB) pre-processing underway with Dr. Gouripeddi
+- Perform analysis and generate table/figures
+- Submit abstract for ATS (Due date end of October)
+### Slide 49
+- Implications:
+- Are prior studies interpretable? Comparable?
+- How should we define hypercapnic respiratory failure for the purposes of EHR-based studies?
+### Slide 50
+- Follow-up study
+- Computable Phenotype: pheno- , showing. –type, typology aka classification scheme -> Algorithm to classify patients based on available data
+### Slide 51
+- How might that be done?
+- Goal: accurately label patients based on a combination of blood gas, bicarbonate, medications, procedural codes, diagnostic codes.
+- Requires “reference standard” – this time, needs expert adjudication (ie. chart review)
+- A reference standard labeled cohort of patients with hypercapnic respiratory failure could also be be used for other studies.
+- What data source? Limitations to generalizability at 4500 ft and mostly white?
+- Chart Review
+### Slide 52
+- Summary:
+- Patients with hypercapnic respiratory failure have high morbidity, mortality, and healthcare utilization; there is an opportunity for research to help improve their management.
+- On a population level not much is known about why they are hypercapnic, or what we should do to manage them. I think CHF/loop diuretics and OSA are more common contributors than generally realized.
+- Our first step: ground-work defining the population of interest for future studies based on the TrinetX dataset
+### Slide 53
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- The PaCO21, the pH2, and why they are what they are3,4
+- Team:
+- Goals:
+- About the PaCO2
+- Acute Hypercapnic Respiratory Failure
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- The PaCO21, the pH2, and why they are what they are3,4
+- Team:
+- Goals:
+- About the PaCO2
+- Acute Hypercapnic Respiratory Failure
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +370,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke 9-23-21 Fall 2021 RIP.pptx](archive/Presentations/Locke%209-23-21%20Fall%202021%20RIP.pptx)
+- [Presentations/Locke 9-23-21 Fall 2021 RIP.pptx](../../archive/Presentations/Locke%209-23-21%20Fall%202021%20RIP.pptx)
 
 ## Source materials
-- [Presentations/Locke 9-23-21 Fall 2021 RIP.pptx](archive/Presentations/Locke%209-23-21%20Fall%202021%20RIP.pptx)
+- [Presentations/Locke 9-23-21 Fall 2021 RIP.pptx](../../archive/Presentations/Locke%209-23-21%20Fall%202021%20RIP.pptx)

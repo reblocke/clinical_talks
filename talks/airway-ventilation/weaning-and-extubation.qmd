@@ -9,21 +9,25 @@ draft: true
 - How would you study "readiness criteria"?
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Weaning
+- Is this patient ready to extubate?
+- How would you study "readiness criteria"?
+- Clinical Parameters
+- The cause of respiratory failure must be improved
+- Secretions
+- Adequate Mental Status
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- decreasing the amount of ventilator support
+- Approximately 26% to 39% of patients experience difficulty weaning from the ventilator.
+- In practice: Assist/Control ('CMV'), Pressure Support, SBT: 5/5 vs CPAP (0/5)
+- ATS/CHEST recommend 5/5 or 8/5 over CPAP.
+- https://journal.chestnet.org/article/S0012-3692(16)62324-3/pdf
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Weaning and Extubation
+2. Weaning
+3. Is this patient ready to extubate?
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +36,14 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journal.chestnet.org/article/S0012-3692(16)62324-3/pdf
+- https://pubmed.ncbi.nlm.nih.gov/8948561/
+- https://pubmed.ncbi.nlm.nih.gov/31184740/
+- https://doi.org/10.1016/j.chest.2020.12.003
+- https://erj.ersjournals.com/content/50/2/1602426
+- https://www.nejm.org/doi/full/10.1056/NEJMoa032736
+- https://jamanetwork.com/journals/jama/fullarticle/2752582
+- https://www.atsjournals.org/doi/pdf/10.1164/rccm.202006-2312RR
 
 ## Source notes
 
@@ -40,4 +51,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/weaning-and-extubation.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/weaning-and-extubation.md](archive/Clinical%20Practice%20Notes/weaning-and-extubation.md)
+- [Clinical Practice Notes/weaning-and-extubation.md](../../archive/Clinical%20Practice%20Notes/weaning-and-extubation.md)

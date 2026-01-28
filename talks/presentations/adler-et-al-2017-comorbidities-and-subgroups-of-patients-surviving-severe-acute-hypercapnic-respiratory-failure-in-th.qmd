@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Adler et al. - 2017 - Comorbidities and Subgroups of Patients Surviving Severe Acute Hypercapnic Respiratory Failure in th.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Adler%20et%20al.%20-%202017%20-%20Comorbidities%20and%20Subgroups%20of%20Patients%20Surviving%20Severe%20Acute%20Hypercapnic%20Respiratory%20Failure%20in%20th.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Adler et al. - 2017 - Comorbidities and Subgroups of Patients Surviving Severe Acute Hypercapnic Respiratory Failure in th.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Adler%20et%20al.%20-%202017%20-%20Comorbidities%20and%20Subgroups%20of%20Patients%20Surviving%20Severe%20Acute%20Hypercapnic%20Respiratory%20Failure%20in%20th.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Adler et al. - 2017 - Comorbidities and Subgroups of Patients Surviving Severe Acute Hypercapnic Respiratory Failure in th.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Adler%20et%20al.%20-%202017%20-%20Comorbidities%20and%20Subgroups%20of%20Patients%20Surviving%20Severe%20Acute%20Hypercapnic%20Respiratory%20Failure%20in%20th.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Adler et al. - 2017 - Comorbidities and Subgroups of Patients Surviving Severe Acute Hypercapnic Respiratory Failure in th.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Adler%20et%20al.%20-%202017%20-%20Comorbidities%20and%20Subgroups%20of%20Patients%20Surviving%20Severe%20Acute%20Hypercapnic%20Respiratory%20Failure%20in%20th.pdf)

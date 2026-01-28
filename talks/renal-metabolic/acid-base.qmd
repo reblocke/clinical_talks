@@ -5,25 +5,30 @@ draft: true
 
 ## What this covers
 - Compensation
-- Metabolic Acidosis PCO2 = last 2 digits of pH PCO2 =
-- Metabolic Alkalosis PCO2 = 40 + .6 \* (HCO3-24) aka the change in
+- Metabolic Acidosis PCO2 last 2 digits of pH PCO2
+- Metabolic Alkalosis PCO2 40 + .6 \ (HCO3-24) aka the change in
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Compensation
+- Metabolic Acidosis PCO2 last 2 digits of pH PCO2
+- Metabolic Alkalosis PCO2 40 + .6 \ (HCO3-24) aka the change in
+- Respiratory Acidosis Acute: HCO3 deltaPaCO2 / 10 OR pH change
+- Respiratory Alkalosis Acute: HCO3 delta PaCO2 / 10
+- Stewart Approach
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- If \< 22, concomitant NAGMA.
+- If \> 26, concomitant Met Alk
+- Chronic: HCO3 (deltaPaCO2 / 10) \ 3.5 or pH change 0.003 \ CO2 Change
+- Chronic: HCO3 (deltaPaCO2 / 10) \ 3.5
+- Strong ion approach -<https://journals.lww.com/ccmjournal/Abstract/2007/11000/Disordersofacidbasebalance.23.aspx>
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Acidemia vs Alkalemia
+2. Calculate anion gap: Na - (HCO+Cl)
+3. Calculate the change in Anion Gap: AG - 12
+4. Calculate the delta delta: Change in Anion Gap + HCO3 should
+5. Assess if compensation is adequate.
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +37,7 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://journals.lww.com/ccmjournal/Abstract/2007/11000/Disordersofacidbasebalance.23.aspx>
 
 ## Source notes
 
@@ -40,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/acid-base.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/acid-base.md](archive/Clinical%20Practice%20Notes/acid-base.md)
+- [Clinical Practice Notes/acid-base.md](../../archive/Clinical%20Practice%20Notes/acid-base.md)

@@ -9,30 +9,41 @@ draft: true
 - Exercise
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Analogy to Creatinine Clearance
+- Hypoventilation
+- Exercise
+- Changes In CHF:
+- Mechanisms of hypercapnia (or under ventilation for demand)
+- Acute Decompensation of OHS
+- Oxygen in SDB
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Source: DOI: 10.1183/09031936.00048514
+- [ ] Deranged physiology slides?
+- Application: Bilateral denervation of the carotid bodies leads to ABSENCE of hypoxemia drive to breath AND blunting of H+ response to breathe.
+- (Dahan A, Nieuwenhuijs D, Teppema L.
+- Plasticity of central chemoreceptors: effect of bilateral carotid body resection on central CO2 sensitivity.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. central medullary rhythm/pattern generator and integrator (brainstem) - primarily in the pre-Botzinger complex and pontine raphe. Bilateral (thus, not destroyed by acute ischemic stroke in the absence of catastrophe)
+2. Sensory inputs Chemoreceptors - carotid body (peripheral - sense a variety of stimuli such as O2 levels) and medulla (central - H+, linear increase in VA to increase in H+ in CSF - whose changes are moderate by active H+ transport at the BBB). Stimulation of the peripheral chemoreceptors increases the slope of the central H+ receptors (meaning, a given increase in H+ will result in a larger increase in ventilation). Note: carotid BODY (chemoreceptor) / carotid sinuses (baroreceptors, blood pressure)
+3. precise synchronous distribution of motor output to the respiratory musculature of the upper airway as well as the chest and abdominal walls (via C3-4-5, phrenic keeps the diaphragm alive).
+4. Anticipatory, feed forward mechanism: allows increase in VA to occur prior to drop in pH (increase in CO2).
+5. Muscles provide feedback (blocking muscle afferents with curare lowers Va similar to drop from intrathecal fentanyl - interestingly this blockage can improve exercise performance in those with COPD)
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Or at the time of escalation outpatient care to a pulmonologist or sleep medicine physician
+- Can be related to unstable breathing caused by high loop gain or decrease central neuron output (e.g. narcotics, one of the few circumstances this occurs - 'ataxic breathing'. This is separate from the decreased response to hypercapnia caused by opiates).
+- Treatment emergent and persistent CSA: Post-hyperventilation apnea? Revisit pathology here
+- do not use the diagnosis of treatment-emergent CSA for CSA in patients with underlying cardiovascular, endocrine, renal or neurological diseases, or for pre-existing CSA prior to initiation of PAP and transient CSA
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Carotid body doesn't increase VA slope in response to hypoxemia unitl PaO2 <55-60 mmHg. Consequence (and question): anemia, CO inhalation do NOT cause hyperventilation.
+- do not use the diagnosis of treatment-emergent CSA for CSA in patients with underlying cardiovascular, endocrine, renal or neurological diseases, or for pre-existing CSA prior to initiation of PAP and transient CSA
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://thorax.bmj.com/content/69/4/346
+- https://www.sciencedirect.com/science/article/abs/pii/S0012369211602250
 
 ## Source notes
 
@@ -40,4 +51,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/control-of-ventilation.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/control-of-ventilation.md](archive/Clinical%20Practice%20Notes/control-of-ventilation.md)
+- [Clinical Practice Notes/control-of-ventilation.md](../../archive/Clinical%20Practice%20Notes/control-of-ventilation.md)

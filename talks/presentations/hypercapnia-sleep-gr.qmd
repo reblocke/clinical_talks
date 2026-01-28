@@ -4,19 +4,332 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- OHS as a model:
+- ERS 2018: Obesity-related hypoventilation paradigm
+- [ ] add summary of evidence behind the hco3 -> paco2 stuff
+- How good is HCO > 27 mEq/L at predicting PaCO2 > 45 mmHg?
+- Pathophysiology
+- Component Causes
+- COPD, Very Severe
+- COPD (2/3)
+- How common is hypercapnic respiratory failure?
+
+## Slide outline
+### Slide 1
+- OHS as a model:
+- Definition:
+- BMI > 30 kg/m2
+- Sleep-disordered breathing
+- 90% of patients with OHS have sleep apnea (AHI ≥ 5), 70% have severe sleep apnea (AHI ≥ 30). Other 10% have sleep hypoventilation
+- Awake hypercapnia (45 mmHg at sea-level; 42-43 mmHg at SLC)
+- Exclusion of other causes of hypoventilation
+- Problematic practically and philosophically
+- insurers disagree
+### Slide 2
+- ERS 2018: Obesity-related hypoventilation paradigm
+### Slide 3
+- [ ] add summary of evidence behind the hco3 -> paco2 stuff
+- Why did the ERS propose that classification and what evidence supports it?
+### Slide 4
+- How good is HCO > 27 mEq/L at predicting PaCO2 > 45 mmHg?
+- 3.7 times higher odds if above 27 mEq/L
+- 0.18 times lower odds if below 27 mEq/L
+### Slide 5
+- Pathophysiology
+### Slide 6
+- Component Causes
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+### Slide 7
+- Component Causes
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+### Slide 8
+- Component Causes
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- PaCO2 40 mmHg
+- Vs
+- OSA is ‘component’ cause
+- Component cause: if OSA weren’t there, the patient would not have the disease
+### Slide 9
+- Component Causes
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- PaCO2 40 mmHg
+- Vs
+- Loop is ‘component’ cause
+- Met. Alk loop diur
+### Slide 10
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- Met. Alk loop diur
+- Trial Data
+- Decent Epi
+- Few Cohorts
+- Some Epi
+- No tx data
+- Limited epi data
+- Swap any combination of:
+- Muscular weakness
+- Obesity
+- Opiate use
+- Lung disease
+- Etc.
+### Slide 11
+- COPD (2/3)
+- No COPD (1/3)
+- Median [IQR] AHI
+- 31.9 [14.3, 45.6]
+- 66.0 [48.0, 83.8]
+- AHI > 5 present
+- 66%
+- 94%
+- AHI > 15 present
+- 51%
+- 81%
+- Component cause paradigm predictions:
+- If OSA is a common component cause, it ought to be present in more patients with hypercapnic respiratory failure than expected
+- [weakest level of evidence]
+### Slide 12
+- How common is hypercapnic respiratory failure?
+- Diagnosis occurs either at sleep/pulmonology referral, or acute decompensation (hospitalization, worse prognosis)
+- There is 0 data on prevalence of outpatient all-cause hypercapnia.
+- Why? Fewer data sources, ABGs are invasive, less morbid population
+- Based on indications for NIV prescription, OHS is probably most common
+- Fermi Estimate of Prevalence: 1 in 260 US adults
+- 7.6% of adults US population BMI 40+
+- Rate of mod+ OSA in BMI 40+ ~ 50%
+- Rate of OHS in mod+ OSA ~10%
+### Slide 13
+- Cleveland Clinic; universal etCO2 before bariatric surgery
+- Prevalence: 68.4% by EtCO2 > 45 or HCO3 over 27.
+- However, Conrad Addison, Somya Mishra, Krishna Sundar, and I found only 59 of 222 (26%) of patients undergoing bariatric surgery had HCO3 over 25 mEq/L at U of U
+- -ATS SRN Abstract Award
+- [HCO3-] – day of surgery
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- Prevalence of hypercapnic resp failure inpatient
+- Australia, 2013-2017. First ABG w/n 24h of presentation: PaCO2 45+ (min. est)
+- Excluded VBG, out-of-hospital cardiac arrest, traumatic injury, or sedation
+- 163 per 100k person-year (~PE)
+- “Compared to those aged 45 to 54 years, each successive decade of life conferred increases [risk] by 2.1, 6.2, 15.7 and 26.2 times”
+- Acidosis (acute) in 55%
+### Slide 16
+- Recurrent Acute Hypercapnic Respiratory Failure (subtle diff. from chronic)
+- Acute Hypercapnic Respiratory Failure
+- Transient Hypercapnia? (hard to capture, hypothetical – opiates?)
+- Chronic Hypercapnic Respiratory Failure
+- Hypercapnia Trajectories
+- Hypercapnia (not identified)
+- Normalization of Hypercapnia
+- Normal CO2 on labs
+- Hypercapnia on labs
+- Increasing CO2
+- Assessment 1
+- Between Assessments
+- Assessment 2
+- Common: COPD, UT?
+- Common: OHS
+### Slide 17
+- Frequency of missed diagnoses: Inpatients
+- 2005, Denver. Consecutive admissions of patients with BMI over 35. Excluded COPD or prior lung resection. 31% had PaCO2 over 45. In subgroup of BMI over 50, 48% did.
+- Only 23% diagnosed with OHS, 13% commenced on PAP after discharge.
+- Reviewed all admissions with PaCO2 over 45 and BMI over 40.
+- 75% misdiagnosed with OHS despite not having evidence of obstruction on PFTs
+### Slide 18
+- TODO: No text extracted from this slide.
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 5 events/hr
+- Met. Alk loop diur
+- What proportion of hypercapnia is caused by each etiology? UnknownDo these mixed causes of hypercapnia benefit from the same therapy? Unknown
+- Swap any combination of:
+- Muscular weakness
+- Obesity
+- Opiate use
+- Etc.
+- ?
+### Slide 21
+- How is the current literature identifying hypercapnia?
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- J96.02 (acute hypercapnic respiratory failure)
+- J96.22 (acute and chronic respiratory failure with hypercapnia)
+- J96.92 (respiratory failure unspecifed with hypercapnia)
+- J96.12 (chronic respiratory failure with hypercapnia)
+- E66.2 (morbid obesity with hypoventilation)
+- Diagnostic Code-Based
+### Slide 22
+- Currently, how is hypercapnia identified?
+- Lab-Based
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+### Slide 23
+- Currently, how is hypercapnia identified?
+- Lab and procedure code-Based
+- Admitted to the ICU
+- PaCO2 greater than 47.25 mmHg
+- Procedure code for non-invasive ventilation or invasive mechanical ventilation initiation
+### Slide 24
+- Project 1: HypothesesBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- The methods used in prior studies of hypercapnic respiratory failure identify different patients
+- Hypothesis 1: the sensitivity (aka recall) and positive predictive value (aka precision) for both billing code- and procedural code-based identification of hypercapnic respiratory failure will be below 80%, when compared to blood gas-based identification as the reference standard.
+- The populations identified by differ in risk for outcomes of interest, which hampers interpretation of these studies.
+- Hypothesis 2: The distribution of age, ethnicity, BMI, Elixhauser comorbidity score, and frequency of coexisting diagnoses (OSA, opiate use disorder, COPD, CHF, and neuromuscular disease) will differ between the cohorts identified by each method.
+### Slide 25
+- Data source:
+- Data Available
+- Data unavailable
+- Demographics
+- Diagnosis
+- Medications
+- Procedures - what procedures were done. E.g. sleep study code
+- Labs
+- Cancer registry (NAACCR)
+- Allergies
+- Some notes
+- Diagnostic reports
+- DICOM image objects
+- Providers
+- Departments/clinics
+- 69 million MRNs; ~50 academic medical centers (including U of U)
+- De-identified, patient-level data (not PHI, though recommended to be treated as such)
+- Missing Data?
+### Slide 26
+- We requested patient level data from all records with an inpatient encounter and any of:
+- Diagnostic code for respiratory failure
+- Included all types
+- Arterial Blood gas with hypercapnia (45 mmHg+)
+- Procedure code for initiation or management of NIV or IMV
+- N~800,000 patients.
+### Slide 27
+- Preliminary Results
+- Using TriNetX Embedded Tools
+- ICD Group:
+- Relative sensitivity (vs ABG): 19.8%
+- Positive Predictive Agreement (vs ABG): 47.0%
+- NIV Group:
+- Relative sensitivity (vs ABG): 15.2%
+- Positive Predictive Agreement (vs ABG): 45.2%
+### Slide 28
+- Preliminary Results
+- ABG
+- Group
+- ICD
+- NIV
+- Age
+- 62±18
+- 65±16
+- 62±17
+- % Female
+- 46%
+- 51%
+- 42%
+- % white
+- 66%
+- 71%
+- 65%
+- % Black
+- 18%
+- 19%
+- 17%
+- BMI
+- 30.4±8.3
+- 33.1±10.3
+- 29.1±8.2
+- % with CHF
+- 37%
+- 30%
+- % with COPD
+- 31%
+- 14%
+- % Opiate UD
+- 6%
+- 3%
+- % Sleep Apnea
+- 23%
+- 24%
+- 10%
+### Slide 29
+- Implications:
+- For accurate determination of
+- Frequency of different comorbidities or causes
+- Morbidity and mortality associated with hypercapnia
+- Who should be included in studies to determine benefit from treatment
+- ... method of patient identification likely matters
+- Interpretability of current research could be improved using standard case definitions
+### Slide 30
+- How should we identify these patients (for studies)? Next Steps
+- What should the reference standard be?
+- Does transient elevation PaCO2 after opiate administration imply respiratory failure?
+- Technically yes, but the implication of the diagnosis is much different
+- How much heterogeneity should the definition have?
+- Current PaCO2 threshold (45mmHg at sea level; 42-3 mmHg in SLC) are arbitrary (No epidemiologic data to support).
+- Different threshold by cause (NIV in COPD 52 mmHg; 45 mmHg other)
+- Informed presence bias: people who have information in the EHR differ from those who do not.
+- Who should get an ABG?
+- Can we use HCO3-, VBG, or other data sources to identify patients?
+### Slide 31
+- 5 Takeaways:
+- HCO3- elevation may be part of the disease spectrum and a useful screen for OHS. Applicability to hypercapnia as a whole is unknown
+- OSA is common in patients with hypercapnic respiratory failure of any cause, and may contribute to its development as a component cause.
+- Hypercapnia is frequently undiagnosed. When diagnosed, it’s usually in sleep/pulm clinic or at hospitalization.
+- Hospitalization with hypercapnia is about as common as PE. Readmission rates are higher than MI, pneumonia, and COPD exacerbations. Mortality rates are high.
+- Better epidemiologic definitions are to better characterized all-cause hypercapnia, particularly when multiple component causes contribute.
+- [ ] questions about what to do predominated – perhaps add more as a call to action (ie. this is common, morbid, but we don’t know)
+### Slide 32
+- Questions? Suggestions? Comments?
+- Brian.Locke@hsc.Utah.edu
+- Krishna.Sundar@hsc.Utah.edu
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- OHS as a model:
+- ERS 2018: Obesity-related hypoventilation paradigm
+- [ ] add summary of evidence behind the hco3 -> paco2 stuff
+- How good is HCO > 27 mEq/L at predicting PaCO2 > 45 mmHg?
+- Pathophysiology
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- OHS as a model:
+- ERS 2018: Obesity-related hypoventilation paradigm
+- [ ] add summary of evidence behind the hco3 -> paco2 stuff
+- How good is HCO > 27 mEq/L at predicting PaCO2 > 45 mmHg?
+- Pathophysiology
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,11 +346,11 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx](archive/Presentations/Final%20-%20Hypercapnia%20Sleep%20GR%204-26-22.pptx)
-- [Presentations/Hypercapnia Sleep GR 4-22-22.pptx](archive/Presentations/Hypercapnia%20Sleep%20GR%204-22-22.pptx)
-- [Presentations/Hypercapnia Sleep GR 4-26-22.pptx](archive/Presentations/Hypercapnia%20Sleep%20GR%204-26-22.pptx)
+- [Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx](../../archive/Presentations/Final%20-%20Hypercapnia%20Sleep%20GR%204-26-22.pptx)
+- [Presentations/Hypercapnia Sleep GR 4-22-22.pptx](../../archive/Presentations/Hypercapnia%20Sleep%20GR%204-22-22.pptx)
+- [Presentations/Hypercapnia Sleep GR 4-26-22.pptx](../../archive/Presentations/Hypercapnia%20Sleep%20GR%204-26-22.pptx)
 
 ## Source materials
-- [Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx](archive/Presentations/Final%20-%20Hypercapnia%20Sleep%20GR%204-26-22.pptx)
-- [Presentations/Hypercapnia Sleep GR 4-22-22.pptx](archive/Presentations/Hypercapnia%20Sleep%20GR%204-22-22.pptx)
-- [Presentations/Hypercapnia Sleep GR 4-26-22.pptx](archive/Presentations/Hypercapnia%20Sleep%20GR%204-26-22.pptx)
+- [Presentations/Final - Hypercapnia Sleep GR 4-26-22.pptx](../../archive/Presentations/Final%20-%20Hypercapnia%20Sleep%20GR%204-26-22.pptx)
+- [Presentations/Hypercapnia Sleep GR 4-22-22.pptx](../../archive/Presentations/Hypercapnia%20Sleep%20GR%204-22-22.pptx)
+- [Presentations/Hypercapnia Sleep GR 4-26-22.pptx](../../archive/Presentations/Hypercapnia%20Sleep%20GR%204-26-22.pptx)

@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/JCM 2025 Pancreatitis Complication Management.pdf](archive/Presentations/Pancreatitis%20Lit/JCM%202025%20Pancreatitis%20Complication%20Management.pdf)
+- [Presentations/Pancreatitis Lit/JCM 2025 Pancreatitis Complication Management.pdf](../../archive/Presentations/Pancreatitis%20Lit/JCM%202025%20Pancreatitis%20Complication%20Management.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/JCM 2025 Pancreatitis Complication Management.pdf](archive/Presentations/Pancreatitis%20Lit/JCM%202025%20Pancreatitis%20Complication%20Management.pdf)
+- [Presentations/Pancreatitis Lit/JCM 2025 Pancreatitis Complication Management.pdf](../../archive/Presentations/Pancreatitis%20Lit/JCM%202025%20Pancreatitis%20Complication%20Management.pdf)

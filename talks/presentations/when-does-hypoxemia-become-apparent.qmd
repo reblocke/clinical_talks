@@ -4,19 +4,119 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- When doe hypercapnia cause hypoxemia in SLC?
+- Remember, hypercapnia in general is PaCO2 over 45 mmHg. However, at SLC elevation a PaCO2 of 42 mmHg has the same prognostic significance due to altitude induced hyperventilation.
+- Standard Equation, explained
+- Standard Equation, assumptions
+- Extended Equation Justification
+- Extended Equation, Explained
+- SLC Average values
+- When is hypoxemia noticeable?
+- Empirical measures: Crapo et al.
+- Critical PaCO2 with normal A-a gradient?
+
+## Slide outline
+### Slide 1
+- When doe hypercapnia cause hypoxemia in SLC?
+- Brian Locke, MD
+- Pulmonary and Critical Care Fellow
+### Slide 2
+- Remember, hypercapnia in general is PaCO2 over 45 mmHg. However, at SLC elevation a PaCO2 of 42 mmHg has the same prognostic significance due to altitude induced hyperventilation.
+- More on this later.
+### Slide 3
+- Standard Equation, explained
+- PAO2 PiO2 – (PaCO2 / RQ)
+- PiO2 represents O2 arriving at the alveoli, which becomes saturated with H2O through the airways
+- PiO2 (Patm – PH2O) FiO2, PH2O taken to be 47, but varies w/ Temp
+- PaCO2 / RQ represents the volume of O2 in the alveoli removed into the blood
+### Slide 4
+- Standard Equation, assumptions
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ)
+- Gases obey Dalton’s Law – Total pressure equals the sum of all the partial pressures (PAtm PN2 + PO2 + PCO2 + PH2O). Not quite true but close
+- Alveolar Gases are completely saturated with water vapor. True
+- CO2 in Alveoli is in equilibrium with CO2 in in pulmonary capillaries: PACO2 PaCO2. Essentially always true
+- Inspired gas contains no CO2. Not quite true but close if breathing atm air
+- Amount of gas inspired/utilized is equal to amount of gas expired/created by metabolism (e.g. RQ 1) – not true, but close in most circumstances.
+- Addressed by complete equation on next slide
+### Slide 5
+- Extended Equation Justification
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ)
+- (Patm – PH2O) FiO2 represents O2 arriving at the alveoli, which becomes saturated with H2O through the airways
+- PaCO2 / RQ represents the volume of O2 in the alveoli removed into the blood
+- However: if RQ / 1, we know that every O2 molecule leaving the alveoli is NOT replaced by 1 molecule of CO2.
+- E.g. RQ 0.8, VO2 might be 0.25 L/min, VCO2 might be 0.20 L/min
+- Thus, at steady state – 0.05 L/min must passively diffuse into the alveoli
+### Slide 6
+- Extended Equation Justification
+- However: if RQ / 1, we know that every O2 molecule leaving the alveoli is NOT replaced by 1 molecule of CO2.
+- Vp (passive) |VO2 – VCO2|
+- DOI 10.1093/bjaceaccp/mkh008
+### Slide 7
+- Extended Equation Justification
+- However: if RQ / 1, we know that every O2 molecule leaving the alveoli is NOT replaced by 1 molecule of CO2.
+- Vp (passive) |VO2 – VCO2|
+- When FiO2 (1-RQ) is much less than 1, this term is small and can be safely ignored.
+- DOI 10.1093/bjaceaccp/mkh008
+### Slide 8
+- Extended Equation, Explained
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- (Patm – PH2O) FiO2 represents O2 arriving at the alveoli, which becomes saturated with H2O through the airways
+- PaCO2 / RQ represents the volume of O2 in the alveoli removed into the blood
+- FiO2 PaCO2 (1-RQ)/RQ represents the passive flow that must occur to maintain steady state when RQ / 1, because every O2 molecule leaving the alveoli is NOT replaced by 1 molecule of CO2.
+### Slide 9
+- SLC Average values
+- PAO2 (Patm – PH2O) FiO2 – (PaCO2 / RQ) + FiO2 PaCO2 (1-RQ)/RQ
+- PAO2 (650 – 47) 0.21 – (PaCO2 / 0.8) + 0.21 PaCO2 (1-0.8)/0.8
+- PAO2 126.63 – (PaCO2 / 0.8) + 0.05 PaCO2
+- PAO2 126.63 – 1.3 PaCO2
+### Slide 10
+- When is hypoxemia noticeable?
+- SpO2 <90% catches people’s attention
+- Corresponds to a PaO2 of ~55 mmHg (depending exactly on the individual’s oxygen hemoglobin dissociation curve.
+- Normal A-a gradient? 4 + (0.25 Age)
+- Critical PAO2 paO2 + (A-a gradient)
+- Critical PAO2 51 + 0.25 Age
+### Slide 11
+- Empirical measures: Crapo et al.
+- PaO2 by age:
+- -0.25 mmHg / yr
+### Slide 12
+- Critical PaCO2 with normal A-a gradient?
+- Combining critical PAO2 with expected PAO2 by CO2:
+- 51 + (0.25 Age) 126.63 – 1.3 PaCO2
+- 75.63 - 0.25Age 1.3 PaCO2
+- 58.17 - .19 Age PaCO2
+- For someone who is 60?
+- PaCO2 46.77 mmHg
+### Slide 13
+- Comparison: at sea level
+- Sea level:
+- PAO2 149.73 – 1.3 PaCO2
+- 51 + (0.25 Age) 149.73 – 1.3 PaCO2
+- 75.95 - .19 Age PaCO2
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- How elevation plays in to this
+- pAtm 760 e(Elevation/-7000)
+- Expected PaCO2 by elevation?
+### Slide 16
+- Expected compensation (From Grissom)
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- When doe hypercapnia cause hypoxemia in SLC?
+- Remember, hypercapnia in general is PaCO2 over 45 mmHg. However, at SLC elevation a PaCO2 of 42 mmHg has the same prognostic significance due to altitude induced hyperventilation.
+- Standard Equation, explained
+- Standard Equation, assumptions
+- Extended Equation Justification
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- When doe hypercapnia cause hypoxemia in SLC?
+- Remember, hypercapnia in general is PaCO2 over 45 mmHg. However, at SLC elevation a PaCO2 of 42 mmHg has the same prognostic significance due to altitude induced hyperventilation.
+- Standard Equation, explained
+- Standard Equation, assumptions
+- Extended Equation Justification
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +133,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/When does hypoxemia become apparent.pptx](archive/Presentations/When%20does%20hypoxemia%20become%20apparent.pptx)
+- [Presentations/When does hypoxemia become apparent.pptx](../../archive/Presentations/When%20does%20hypoxemia%20become%20apparent.pptx)
 
 ## Source materials
-- [Presentations/When does hypoxemia become apparent.pptx](archive/Presentations/When%20does%20hypoxemia%20become%20apparent.pptx)
+- [Presentations/When does hypoxemia become apparent.pptx](../../archive/Presentations/When%20does%20hypoxemia%20become%20apparent.pptx)

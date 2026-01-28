@@ -4,19 +4,102 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- OSA – Cancer (generally)
+- OSA – Cancer (Lung)
+- Obstructive Sleep Apnea – Lung Cancer
+- Sleep Apnea in Lung Cancer: A Prospective Study (SAIL)https://pubmed.ncbi.nlm.nih.gov/30261487/
+- SAILS
+- https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-018-0645-1
+- https://pubmed.ncbi.nlm.nih.gov/25096668/
+- Gozal D, Ham SA, Mokhlesi B. Sleep apnea and cancer: analysisof a nationwide population sample. Sleep (Basel) 2016;39:1493–1500.
+- https://journals.physiology.org/doi/full/10.1152/ajpregu.00036.2018
+- META-analysis of OSA-Lung Cancer riskhttps://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202108-960OC
+- https://erj.ersjournals.com/content/53/2/1800893.short
+- OSA and VTE - https://doi.org/10.1016/j.smrv.2019.101233
+
+## Slide outline
+### Slide 1
+- OSA – Cancer (generally)
+- Wisconsin Sleep Cohort – SDB -> cancer mortality https://doi.org/10.1164/rccm.201201-0130OC
+- 22 year follow-up; adjusting for age, BMI, smoking: adjusted HR 1.1 (mild), 2.0 moderate, and 4.8 for severe. Hypoxemia index was even stronger association (1.6, 2.9, and 8.6)
+### Slide 2
+- OSA – Cancer (Lung)
+- Multicenter Spanish cohort. 5000 patients https://doi.org/10.1164/rccm.201209-1671OC
+- Evaluated overnight hypoxia (Time Spent <90) and AHI; Cancer incidence
+- Multivariable adjustment cox proportional hazards regression models: age, sex, BMI, smoking status, alcohol intake, HSAT, hospital.
+- Tsat but no AHI was associated with increasing cancer incidence in adjusted models.
+- Particularly, younger than 65 and male sex.
+- No difference in association whether treated or not (under assumption that even treated had had cumulative exposure to untreated OSA)
+### Slide 3
+- Obstructive Sleep Apnea – Lung Cancer
+- Animal models: nocturnal hypoxemia predicts lung ca incidence and progression
+- Mechanisms:
+- Inflammation from repetitive reoxygenation -> enhanced angiogenesis, immune evasion, and metastasis
+- Adrenergic activationand macrophage recruitment
+- Hypoxia -> proangiogenesis
+- Also: poor sleep (fragmentation ->sympathetic activation, inflammation, and immune dysregulation) (citations 36-38 below)
+- HIFs (see citations below)
+### Slide 4
+- Sleep Apnea in Lung Cancer: A Prospective Study (SAIL)https://pubmed.ncbi.nlm.nih.gov/30261487/
+- Intermittent hypoxemia –as been linked to progression of cancer in animal models.
+- Goal: determine prevalence of SDB in patients with newly diagnosed lung cancer.
+- Enrolled 83 patients with recent diagnosis of lung ca in Spain -> all undergo HSAT
+### Slide 5
+- SAILS
+- Prevalence of OSA and Nocturnal Hypoxemia in those undergoing LDCT lung ca screening.
+- Prospective; N279, 236 took HSAT. Most without excessive daytime somnolence.
+- Sleep apnea was present in 77.5% (86 of 236 were mild, 55 moderate, 42 severe).
+- Subjects with hypoxemia (time below spo2 90%) was correlated with screening findings after multivariate analysis (OR 2.6) accounting for prior smoking (though they did not account for whether emphysema was taken into account)
+### Slide 6
+- https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-018-0645-1
+- SDB prevalence in 100 consecutive pts with newly dx Lung Ca in Germany
+- 32% had mild, 17% had moderate-severe.
+- Critique – selection pressures? Is this higher than expected given comorbid conditions? Several inferences required to make leap to causal connection.
+### Slide 7
+- https://pubmed.ncbi.nlm.nih.gov/25096668/
+- No independent association with prevalent or incident lung cancer– 10149 patients referred for sleep testing. 5.1% had cancer at referra, 6.5% had new first incident cancer.
+- Ontario cancer registry
+### Slide 8
+- Gozal D, Ham SA, Mokhlesi B. Sleep apnea and cancer: analysisof a nationwide population sample. Sleep (Basel) 2016;39:1493–1500.
+- Oddly, protective effect of OSA on risk of metastasis and mortality.
+- This study is included in the met—analysis shown below.
+### Slide 9
+- https://journals.physiology.org/doi/full/10.1152/ajpregu.00036.2018
+- Overview of intermittent hypoxia mechanisms to explain cancer risk.
+- Link to this for in – depth discussion.
+### Slide 10
+- META-analysis of OSA-Lung Cancer riskhttps://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202108-960OC
+- 7 studies; 4 included in meta-analysis.
+- Low quality of evidence (due to heterogeneity and low number of studies) – problems of inadequate adjustment (no smoking adjustment in sum studies)
+- 4.8 million patients included; HR 1.25
+### Slide 11
+- https://erj.ersjournals.com/content/53/2/1800893.short
+- Mechanisms review
+- Contains overview of mechanisms, as well as summary of trial data that evaluates changes in hypercoagulability after starting CPAP
+### Slide 12
+- OSA and VTE - https://doi.org/10.1016/j.smrv.2019.101233
+- Obesity, sedentary behavior, and Age are major risk factors for both OSA and are major risk factors for VTE
+- Mechanistic theory: increased oxidative stress and endothelial activation; evidence by fibrinogen, ddimer, platelet activity, and HCT are found in patients with OSA.
+- Systematic review of 18 studies OSA-VTE suggested a 2-4x increase risk of venous thromboembolism, through a variety of methods (peri-operative, prospective cohorts in enriched populations, and population based methods). However, adequate confounder adjustments remains problematic, and improvement of the risk with treatment have not been shown and thus should be viewed as tentative.
+### Slide 13
+- https://doi.org/10.1016/j.chest.2021.12.630
+- Single largest center – Pitt review of 30k patients
+- OSA associated with VTE, but relationship disappeared once BMI added to multivariable model.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- OSA – Cancer (generally)
+- OSA – Cancer (Lung)
+- Obstructive Sleep Apnea – Lung Cancer
+- Sleep Apnea in Lung Cancer: A Prospective Study (SAIL)https://pubmed.ncbi.nlm.nih.gov/30261487/
+- SAILS
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- OSA – Cancer (generally)
+- OSA – Cancer (Lung)
+- Obstructive Sleep Apnea – Lung Cancer
+- Sleep Apnea in Lung Cancer: A Prospective Study (SAIL)https://pubmed.ncbi.nlm.nih.gov/30261487/
+- SAILS
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +116,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)
+- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](../../archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)
 
 ## Source materials
-- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)
+- [Presentations/OSA-VTE & Lung Ca Evidence.pptx](../../archive/Presentations/OSA-VTE%20%26%20Lung%20Ca%20Evidence.pptx)

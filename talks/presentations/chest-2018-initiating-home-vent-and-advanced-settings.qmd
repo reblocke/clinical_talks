@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest 2018 Initiating home vent and advanced settings.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chest%202018%20Initiating%20home%20vent%20and%20advanced%20settings.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest 2018 Initiating home vent and advanced settings.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chest%202018%20Initiating%20home%20vent%20and%20advanced%20settings.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest 2018 Initiating home vent and advanced settings.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chest%202018%20Initiating%20home%20vent%20and%20advanced%20settings.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chest 2018 Initiating home vent and advanced settings.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chest%202018%20Initiating%20home%20vent%20and%20advanced%20settings.pdf)

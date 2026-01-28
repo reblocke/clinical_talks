@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Sleep Journal Club Lit/Prospective study of OSA and incident CAD and HF Gottlieb 2010.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Prospective%20study%20of%20OSA%20and%20incident%20CAD%20and%20HF%20Gottlieb%202010.pdf)
+- [Presentations/Sleep Journal Club Lit/Prospective study of OSA and incident CAD and HF Gottlieb 2010.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Prospective%20study%20of%20OSA%20and%20incident%20CAD%20and%20HF%20Gottlieb%202010.pdf)
 
 ## Source materials
-- [Presentations/Sleep Journal Club Lit/Prospective study of OSA and incident CAD and HF Gottlieb 2010.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Prospective%20study%20of%20OSA%20and%20incident%20CAD%20and%20HF%20Gottlieb%202010.pdf)
+- [Presentations/Sleep Journal Club Lit/Prospective study of OSA and incident CAD and HF Gottlieb 2010.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Prospective%20study%20of%20OSA%20and%20incident%20CAD%20and%20HF%20Gottlieb%202010.pdf)

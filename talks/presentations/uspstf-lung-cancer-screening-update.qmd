@@ -4,19 +4,94 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- USPSTF Lung Cancer Screening Update
+- Morning conference on the new US PSTF recommendations and residual unknowns in lung cancer screening
+- Lung Ca Screening - via Emily Beck. Large amounts of data online.
+- What to do with incidentalomas
+- Current USPSTF
+- NLST
+- NELSON
+- However, a meta-analysis of 7 randomized controlled trials using LDCT also showed no difference in all-cause mortality (RR 0.96; 95%CI 0.92-1.00; p0.67)(5)
+- Breathe easy July 21 2020 – shared decision making in lung cancer screening.
+- Nishi – retrospective analysis of Clinformatics Data Mart health insurance database - RWD
+- Absolute benefits and harms
+- https://pubmed.ncbi.nlm.nih.gov/35167780/
+
+## Slide outline
+### Slide 1
+- USPSTF Lung Cancer Screening Update
+### Slide 2
+- TODO: No text extracted from this slide.
+### Slide 3
+- Morning conference on the new US PSTF recommendations and residual unknowns in lung cancer screening
+- Plenary session Nelson review, JAMA March 2021 addition, conversation with Dr. Buacner podcast
+- LUNGRADS introduction, rate of surgical resection
+- “if candidate for surgical resection – no mention of radiation
+### Slide 4
+- Lung Ca Screening - via Emily Beck. Large amounts of data online.
+- Do we have incidence and follow-up data on inceidentalomas and their management?
+- “14. We suggest that low-dose CT screening programs develop strategies to guide the management of non-nodule findings. (Ungraded Consensus-Based Statement)
+### Slide 5
+- What to do with incidentalomas
+- Remark: Examples include coronary artery calcification, thyroid nodules, adrenal nodules, kidney and liver lesions, thoracic aortic aneurysms, pleural effusions, and parenchymal lung disease.”
+### Slide 6
+- Current USPSTF
+- Mar 2021 USPSTF update -> age now 55->50 to 80; minimum pack years 30->20 and quit within the last 15 years. https://jamanetwork.com/journals/jama/fullarticle/2777244
+### Slide 7
+- NLST
+- N53,454
+- 3 annual rounds of LDCT
+- 24.2% had abnormal results, 96% of which did not lead to ca diagnosis; 11% required invasive procedure.
+### Slide 8
+- NELSON
+- RCT – LDCT at yr (0,1,3,5.5) vs no screening
+- Inclusion (current/former wn 10 y smokers; 50-74) – 13,195 men
+- Primary: lung ca mortality: 156 men (screened) 206 (control) dead at 10y from lung ca. RR 0.76.
+- Secondary: all cause mortality (RR 1.01 - no difference), lung cancer dx
+- Diff from NLST: volume-based nodule-management in NELSON vs diameter-based in NLST.
+### Slide 9
+- However, a meta-analysis of 7 randomized controlled trials using LDCT also showed no difference in all-cause mortality (RR 0.96; 95%CI 0.92-1.00; p0.67)(5)
+- Sadate A, Occean BV, Beregi JP, Hamard A, Addala T, de Forges H, Fabbro-Peray P, Frandon J. Systematic review and meta-analysis on the impact of lung cancer screening by low-dose computed tomography. Eur J Cancer 2020; 134: 107-114.
+### Slide 10
+- Breathe easy July 21 2020 – shared decision making in lung cancer screening.
+- Prediction model - https://www.atsjournals.org/doi/pdf/10.1164/rccm.202104-1009ED
+- - notably, they state that ~10% of eligible patients currently get screened. Authors state 50% might be reasonable (not clear what this is based on)
+- PLCOm2012 is another prediction score
+- The eligibility criteria are another inherent prediction model
+### Slide 11
+- Nishi – retrospective analysis of Clinformatics Data Mart health insurance database - RWD
+- N11,520 who underwent LDCT screening in 2016 compared to matched controls who did not undergo screening.
+- 20.7% (vs 6.8% in control) underwent CT w/n 1 yr. 0.3% PET-CT, 0.05% MRI.
+- 0.9% (vs 0.3% in NLST) underwent thorascopy, 1.3% vs 0.6% w CT-guided biopsy, 2.0 vs 1.2% for bronchoscopy.
+- Thus, the difference in CT between screened vs not (13.8%) was actually less than imaging rate in NLST (21.7%)
+- Nishi SPE, Zhou J, Okereke I, Kuo YF, Goodwin J. Use of Imaging and Diagnostic Procedures After Low-Dose CT Screening for Lung Cancer. Chest 2020; 157: 427-434.
+### Slide 12
+- Absolute benefits and harms
+- ### Editorial of chance of benefits and risk of harm: JAMA. 2020;324(10):937-938. doi:10.1001/jama.2020.0354
+- Lung cancer specific mortality RRR of 20-33% in high-risk populations
+- Number needed to screen: Misleading comparison between other screening tests (such as breast cancer, colon cancer) due to differing baseline risk of death from the cancer being screened for. (Ie. NNS is not a surrogate for strength of the test)
+### Slide 13
+- https://pubmed.ncbi.nlm.nih.gov/35167780/
+- The Chain of Adherence for Incidentally-detected Pulmonary Nodules after an Initial Radiologic Imaging Study: A Multi-system Observational Study
+### Slide 14
+- Review: https://www.plenarysessionpodcast.com/episodes/jw9w58yrajfyr6r-7b8sr-6xwsz-6m9zm-y9bgz-wkczr-rkbad-5knrb-cr2ah-mrfaz-r3b96-fnstm-x4xlp
+- Expansions in screening [52:00]
+- Association of Computed Tomographic Screening Promotion With Lung Cancer Overdiagnosis Among Asian Women
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- USPSTF Lung Cancer Screening Update
+- Morning conference on the new US PSTF recommendations and residual unknowns in lung cancer screening
+- Lung Ca Screening - via Emily Beck. Large amounts of data online.
+- What to do with incidentalomas
+- Current USPSTF
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- USPSTF Lung Cancer Screening Update
+- Morning conference on the new US PSTF recommendations and residual unknowns in lung cancer screening
+- Lung Ca Screening - via Emily Beck. Large amounts of data online.
+- What to do with incidentalomas
+- Current USPSTF
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +108,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/USPSTF Lung Cancer screening update.pptx](archive/Presentations/USPSTF%20Lung%20Cancer%20screening%20update.pptx)
+- [Presentations/USPSTF Lung Cancer screening update.pptx](../../archive/Presentations/USPSTF%20Lung%20Cancer%20screening%20update.pptx)
 
 ## Source materials
-- [Presentations/USPSTF Lung Cancer screening update.pptx](archive/Presentations/USPSTF%20Lung%20Cancer%20screening%20update.pptx)
+- [Presentations/USPSTF Lung Cancer screening update.pptx](../../archive/Presentations/USPSTF%20Lung%20Cancer%20screening%20update.pptx)

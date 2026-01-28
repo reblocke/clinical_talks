@@ -4,24 +4,24 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- ##DKA
+- Sodium Abnormalities in DKA - AnnalsATS
+- Acid Base Problems in DKA - NEJM
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- ##DKA
+- Sodium Abnormalities in DKA - AnnalsATS
+- Acid Base Problems in DKA - NEJM
+- Electrolyte Problems in DKA - NEJM
+- ##HHS (aka HONK)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Sodium Abnormalities in DKA - AnnalsATS
+- Acid Base Problems in DKA - NEJM
+- Electrolyte Problems in DKA - NEJM
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Hyperglycemic Crises
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +30,9 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202004-360CC
+- https://www.nejm.org/doi/full/10.1056/NEJMra1207788
+- https://www.nejm.org/doi/full/10.1056/nejmra1503102
 
 ## Source notes
 
@@ -38,4 +40,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/hyperglycemic-crises.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/hyperglycemic-crises.md](archive/Clinical%20Practice%20Notes/hyperglycemic-crises.md)
+- [Clinical Practice Notes/hyperglycemic-crises.md](../../archive/Clinical%20Practice%20Notes/hyperglycemic-crises.md)

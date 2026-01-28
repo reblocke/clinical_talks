@@ -4,27 +4,27 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Consider how is it possible to be hypoxic without being hypoxemic? How is it possible to be hypoxemic without being hypoxic
+- ￼￼￼
+- Hypoxic without hypoxemic Therefore ways you can be hypoxic: Hypoxemia, low cardiac output, anemia, or cytopathy (Something interfering with the ability of the cells to undergo oxidative phosphorylation, examples being cyanide poisoning, salicylates, septic shock)￼￼
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Consider how is it possible to be hypoxic without being hypoxemic? How is it possible to be hypoxemic without being hypoxic
+- ￼￼￼
+- Hypoxic without hypoxemic Therefore ways you can be hypoxic: Hypoxemia, low cardiac output, anemia, or cytopathy (Something interfering with the ability of the cells to undergo oxidative phosphorylation, examples being cyanide poisoning, salicylates, septic shock)￼￼
+- Hypoxemic without hypoxia Increasing cardiac output￼￼
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Consider how is it possible to be hypoxic without being hypoxemic?
+- How is it possible to be hypoxemic without being hypoxic
+- Hypoxic without hypoxemic Therefore ways you can be hypoxic: Hypoxemia, low cardiac output, anemia, or cytopathy (Something interfering with the ability of the cells to undergo oxidative phosphorylation, examples being cyanide poisoning, salicylates, septic shock)￼￼
+- Hypoxemic without hypoxia Increasing cardiac output￼￼
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. oxygen delivery
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Hypoxic without hypoxemic Therefore ways you can be hypoxic: Hypoxemia, low cardiac output, anemia, or cytopathy (Something interfering with the ability of the cells to undergo oxidative phosphorylation, examples being cyanide poisoning, salicylates, septic shock)￼￼
 
 ## Common pitfalls
 - TODO: Capture common errors or missed steps.
@@ -38,4 +38,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/oxygen-delivery.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/oxygen-delivery.md](archive/Clinical%20Practice%20Notes/oxygen-delivery.md)
+- [Clinical Practice Notes/oxygen-delivery.md](../../archive/Clinical%20Practice%20Notes/oxygen-delivery.md)

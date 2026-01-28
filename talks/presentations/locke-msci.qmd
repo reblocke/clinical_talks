@@ -4,19 +4,515 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Building a Better Cohort of Patients with Hypercapnic Respiratory Failure
+- Overview
+- What is Hypercapnic Respiratory Failure?
+- Hypercapnia is common…
+- Age
+- Hypercapnia is associated with high - and likely increasing - morbidity, mortality, and cost
+- Patients with hypercapnia are identified unreliably and late in their illness
+- Hypothesis: We Can Identify Them & It Would Help?
+- Evidence Islands
+- Recognized Hypercapnia
+- All Hypercapnia
+- Disease Paradigm Doesn’t Mirror Practice
+
+## Slide outline
+### Slide 1
+- Building a Better Cohort of Patients with Hypercapnic Respiratory Failure
+- Brian Locke, MD
+- T32 Fellow. Division of Pulmonary, Critical Care, and Occupational Pulmonary Medicine
+- Wayne Richards MS, Joseph Finkelstein MD PhD MA, Jeanette Brown MD PhD, Ramkiran Gouripeddi MBBS MS, Krishna M Sundar MDDepartments of Internal Medicine and Biomedical Informatics
+- This research was supported by the National Institutes of Health under Ruth L. Kirschstein National Research Service Award 5T32HL105321 and the American Thoracic Society Academic Sleep and Pulmonary Integrated Research/Clinical Fellowship (ASPIRE) Program
+### Slide 2
+- Overview
+- 10 slides on the problem
+- 10 slides on what we’ve done
+- 10 slides on what we plan to do
+### Slide 3
+- What is Hypercapnic Respiratory Failure?
+- 𝐴𝑟𝑡𝑒𝑟𝑖𝑎𝑙 𝐶𝑂2 ∝𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑇𝑜𝑡𝑎𝑙 𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 −𝑊𝑎𝑠𝑡𝑒𝑑 𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛
+- Diseases that cause hypercapnia (↑ Arterial CO2)
+- ↑ Requirement
+- ↓ Capacity
+- ↓ Drive
+- COPD (inefficient ventilation)
+- Obesity (more CO2 production)
+- Neuro-musc. disease
+- COPD
+- Obesity
+- Opiates
+- Metabolic Alkalosis
+### Slide 4
+- Hypercapnia is common…
+- Common contributors to Hypercapnic Respiratory Failure:
+- Advanced Age
+- Opiate Use
+- Obesity
+- Advanced Lung Dz
+- Multimorbidity
+- Population-standardized prevalence PaCO2 > 45 mmHg after excluding iatrogenic causes:
+- 150 per 100,000 person/year
+- Only inpatients, only those with blood gasses checked
+- Comparison: Decompensated Cirrhosis 94.9 (US, 2017) per 100,000 person-year
+### Slide 5
+- Age
+- Group
+- Prevalence
+- Per 100,000 p.yr.
+- 15-24
+- 14 (9-22)
+- 25-34
+- 29 (22-39)
+- 35-44
+- 42 (33-54)
+- 45-54
+- 80 (66-96)
+- 55-64
+- 196 (71-225)
+- 65-74
+- 517 (463-577)
+- 75-84
+- 1160 (1046-1286)
+- 85+
+- 1712 (1481-1980)
+### Slide 6
+- Hypercapnia is associated with high - and likely increasing - morbidity, mortality, and cost
+- Inpatient ICD code for Hypercapnic Respiratory Failure
+- 23% 30d readmission rate
+- Same as CHF, more than MI
+- 66% with recurrence
+- Decompensated Cirrhosis, for reference
+### Slide 7
+- Patients with hypercapnia are identified unreliably and late in their illness
+- Published 2003; 3 hospitals, Denver
+- ABG on all inpatients BMI 35+
+- 31% with unrecognized with hypercapnia
+### Slide 8
+- Hypothesis: We Can Identify Them & It Would Help?
+### Slide 9
+- Evidence Islands
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD: PaCO2 > 52 mmHg when stable, OSA noncontributory
+- OHS: PaCO2 > 45 mmHg; No obstruction, AM Co2 up by 7 or PSG
+- Restrictive (including NMD) ABG 45>, or FVC < 50% or low muscle strength.
+### Slide 10
+- Recognized Hypercapnia
+- All Recognized Cases
+- (Multifactorial Causes,
+- Relapsing-Recurrent)
+- What portion have applicable evidence-based management?
+- What portion of patients with hypercapnic respiratory failure qualify for NIV?
+- Does treatment help the others?
+- ???
+- Severe COPD
+- Obesity Hypovent
+- ALS
+### Slide 11
+- All Hypercapnia
+- All Recognized Cases
+- (Multifactorial Causes,
+- Relapsing-Recurrent)
+- ???
+- What portion of patients are missed?
+- Are the patients who are missed consequential?
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- All Cases
+### Slide 12
+- Disease Paradigm Doesn’t Mirror Practice
+- Disease-based
+- Syndrome-based
+- Understand the physiology
+- Mirrors Diagnostic Order (↑CO2 often recognized first)
+- Homogenous Sample for Clinical trials
+- Different Causes Managed Similarly
+- Quality Improvement (Presentation → Treatment)
+### Slide 13
+- Non-invasive ventilation is not the only option
+- Obesity and OSA are contributors to many cases
+- MDCRC 6200 Systematic Review and Meta-analysis
+- All RCTs: Pharmacologic and Surgical Weight Loss
+- Expected effect of Tirzepatide: AHI -13.3 events/hr [-8.9 to -17.7]; 44% improvement.
+- Decrease of 0.45 (95% CI: 0.18-0.73 events/hour) events per hour for each 1% body weight loss
+- The Association of Weight Loss from Antiobesity Medications or Bariatric Surgery and Apnea-Hypopnea Index in Obstructive Sleep Apnea: A Systematic Review and Meta-Regression. Brian W. Locke MD; Ainhoa Gomez Lumbreras MD, PhD; Chia Jie Tan PhD; Teerawat Nonthasawadsri PharmD; Sajesh Veettil MSPharm, PhD; Chanthawat Patikorn PharmD; Nathorn Chaiyakaunapruk PharmD, PhD
+### Slide 14
+- Impact of Doing this Research
+- Patients with hypercapnic respiratory failure are not well served by our scientific knowledge base
+- Identified cases are at high risk, but often we don’t know what to do
+- We unreliably diagnose hypercapnia (even when best management practices known)
+- Better identification of patients with hypercapnia will allow:
+- Improved care for patients with understood best management
+- Improve the rigor of research on multifactorial hypercapnia
+- Allow for hypercapnic respiratory failure as a study outcome
+- Benchmark current health system performance at diagnosis and treatment
+### Slide 15
+- Approach to the Solution
+- Hypothesis: Health Record Data contains enough information to helpfully stratify patients with hypercapnic respiratory failure.
+- Consider:
+- Example OSA
+- STOP BANG
+- Subjective measures:
+- Loud snoring, tired/fatigued/sleepy, observed apneas? Report of HTN
+- Objective measures:
+- BMI, Age, Neck Circumference, Gender
+- High-risk increased perioperative complications
+### Slide 16
+- Pulse Oximeter vs ???? For CO2.
+- Hypoxemic (Low O2) Respiratory Failure
+- Hypercapnic (High CO2) Respiratory Failure
+- Low arterial blood oxygen tension
+- High arterial blood carbon dioxide tension
+- Definitive diagnosis by Arterial Blood Gas
+- Reliably Identified by Pulse Oximetry
+- Limited non-invasive testing
+- Immediate Life Threat if Severe
+- Indicates potentially treatable excess risk
+- Applied widely since 1980s with improved recognition
+- No systematic Identification
+### Slide 17
+- Role of HCO3- in Diagnosis of Hypercapnia
+- 𝐻2𝑂+𝐶𝑂2 ⇋𝐻2𝐶𝑂3 ⇋ H+ + HCO3-
+- Boston Acid-Base “Rules”:
+- Acute: ↑ CO2 by 10 mmHg ↑ HCO3- by 1 mEq/L
+- Chronic: ↑ CO2 by 10 mmHg ↑ HCO3- by 4 mEq/L
+- Thus,
+- If CO2 has been ↑ enough, for long enough, and kidneys work well enough: cases of hypercapnia will have ↑ HCO3-
+- If there is no other cause of metabolic alkalosis, non-cases will not have ↑ HCO3-
+### Slide 18
+- Does HCO3- work in other situations?
+- Target population: patients whom a clinicians should consider hypercapnia
+- Spectrum bias/effect
+- Data source: all encounters in TriNetX research network during 2022 who met:
+- Predisposing condition: COPD, CHF, Obesity…
+- Diagnostic Testing Sent: VBG, ABG
+- Related Diagnosis: Other Resp Failure
+- Related Management: Vent. Support
+- Inpatient, Outpatient, Emergency Visits
+- De-identified, patient-level data
+- Federated Health Record Data
+- 80 US Healthcare Orgs (mostly AMCs)
+- Allegedly, Reconciled Inter-institution Linkage
+- NOT able to identify institution
+### Slide 19
+- Add slide with what Wayne did
+### Slide 20
+- Data Cleaning
+- Types of Missing Data:
+- For a given encounter, the institution must have submitted some data (any data) for each of the data elements requested.
+- Data validation measures:
+- Positive controls: if paralytic, expect intubation
+- Negative controls: <BMI 30 in OHS
+- True (patho)physiologic state
+- What the clinician recognizes
+- What the clinician documents
+- What information is structured
+- What data is aggregated in TriNetX
+- Problem for our study
+- Missing data here is part of what we want to study
+### Slide 21
+- Results:
+- Total
+- No ABG Obtained
+- ABG Obtained
+- N879,019
+- N675,620
+- N203,399
+- Encounter Characteristics
+- Ambulatory
+- 39% (343,699)
+- 50% (334,457)
+- 5% (9,242)
+- Emergency
+- 20% (175,792)
+- 22% (146,066)
+- 15% (29,726)
+- Inpatient
+- 41% (359,528)
+- 29% (195,097)
+- 81% (164,431)
+- Critical Care Services Billed
+- 13% (111,320)
+- 6% (41,976)
+- 34% (69,344)
+- Patient Characteristics
+- Age (years)
+- 58 (±18)
+- 57 (±18)
+- 61 (±17)
+- Female
+- 53% (465,854)
+- 55% (373,158)
+- 46% (92,696)
+- BMI kg/m2
+- 34 (±9)
+- 35 (±9)
+- 29 (±7)
+- CHF
+- 17% (145,615)
+- 16% (106,492)
+- 19% (39,123)
+- CKD
+- 15% (128,047)
+- 14% (94,048)
+- 17% (33,999)
+- COPD
+- 16% (144,127)
+- 16% (106,788)
+- 18% (37,339)
+- Neuromuscular Disease
+- 4% (35,539)
+- 4% (27,725)
+- 4% (7,814)
+- OSA
+- 21% (188,757)
+- 24% (160,082)
+- 14% (28,675)
+- Diuretics (outpatient)
+- 38% (334,400)
+- 38% (256,188)
+- 38% (78,212)
+- Opiate (outpatient)
+- 59% (518,493)
+- 57% (387,725)
+- 64% (130,768)
+- Serum Bicarbonate (mEq/L)
+- 24.6 (±4.7)
+- 25.0 (±4.1)
+- 23.6 (±5.7)
+- Outcomes
+- Non-invasive Ventilation?
+- 4% (32,542)
+- 2% (15,352)
+- 8% (17,190)
+- Invasive Mechanical Ventilation
+- 6% (52,533)
+- 1% (10,054)
+- 21% (42,479)
+- CO2 > 45 mmHg?
+- 32% (64,544)
+### Slide 22
+- Statistical Analyses:
+- Receiver Operating Characteristic (ROC) Curve Analysis
+- ROC-Generalized Linear Modeling
+- Interval Likelihood Ratios (iLR)
+- How well does HCO3- separate patients with ↑CO2 from those without (discrimination)?
+- What characteristics independently associate with better or worse discrimination?
+- How much does a particular HCO3- value change the likelihood of ↑CO2 being present?
+- (Exposure) HCO3- and (Outcome) ABG obtained on 1st day of encounter.
+### Slide 23
+- Results:
+### Slide 24
+- Results:
+### Slide 25
+- Results:
+### Slide 26
+- Additional hypothesis: Potassium levels will improve accuracy.
+- Rationale:
+- False positives are caused by metabolic alkaloses
+- Most metabolic alkaloses cause hypokalemia (diuretics, vomiting, hypovol.)
+- Therefore, high bicarbonate with normal/high potassium is more likely a true positive
+### Slide 27
+- Results:
+### Slide 28
+- Conclusions
+- Serum bicarbonate is potentially diagnostically useful in a variety of previously unvalidated situations
+- Some factors correlate with better performance (e.g. Loop diuretic, COPD, CHF, female sex, older age) and others with worse (ER, CKD, Opiate use)
+- Loop diuretic performance contradicts prior hypothesis: while they increase false positives, they decrease false negatives more.
+- New Finding: Potassium levels and bicarbonate together provide stronger evidence for or against hypercapnia being present.
+### Slide 29
+- Limitations:
+- Partial verification: not everyone gets an arterial blood gas to verify if they have hypercapnia or not.
+- Current Finding applies to type of patients who get ABGs
+- Probability of obtaining an ABG is variable and idiosyncratic
+- Inverse probability of blood-gas weighting? Missing data is tricky
+- ‘Acute’, transient hypercapnia will be under-identified.
+- Will miss if inadequate time for kidneys to retain HCO3-
+- Calendar-day time matching
+- Is this a bad thing?
+- Is the data quality sufficient?
+- Restricted analyses to single-encounter data (cross-sectional)
+### Slide 30
+- Future: More Predictors Better?
+- Traditional clinical test evaluation → bioinformatics
+- (priority from easy to understand → works better)
+- Approach: Cross-validation
+- Bias
+- Variance
+- Miss the signal (underfitting)
+- Fitting the noise(overfitting)
+- Too far in either direction worse performance with new data.
+### Slide 31
+- Approach:
+- Same Dataset
+- Take structured data elements that are immediately available in HER
+- Age, Sex, Serum HCO3- , Serum K+, Serum Creatinine, BMI, Hgb, Venous BG
+- Modeling approach: Logistic regression with restricted cubic splines
+- Random-forest decision trees: more flexible, less interpretable.
+- Output: Predicted (log-odds) of Hypercapnia
+### Slide 32
+- Preliminary Results
+- TBD
+### Slide 33
+- How can this be put to clinical use?
+- Computable Phenotype: algorithms that use more information to label whether a patient has a disease.
+- How you decide who ”counts” as having hypercapnic respiratory failure influences the types of patients included..
+- Inaccurate disease status classification is a problem for existing EHR-based research
+- Use for: Exposure, Covariable Adjustment, Outcomes
+### Slide 34
+- Probabilistic Modeling Likelihood of Hypercapnia
+- Validation & Tuning
+- Aim 1: Add Unstructured Data
+- Aim 2: Prospective Validation of PPV
+- Aim 3: Evaluation of Prognostic Significance
+- K23:5-yr
+- Refinement and Validation of a method for constructing cohorts of patients with hypercapnia – robust to variable diagnostic performance.
+### Slide 35
+- Aim 1: Incorporate Unstructured Data
+- Natural Language Processing, Large Language Models
+- BioBERT: LLM (like ChatGPT) pre-trained on medical text (PubMed/PMC)
+- Train to recognize hypercapnia predictors using MIMIC4: 65,000 ICU admissions MGH/BWH
+- Nursing triage assessments, Chest XR
+- Apply with model to retrospective data from the University of Utah.
+- Reference standard: patients who had arterial blood gasses obtained.
+- Adjust model weights
+- Generate measures of model performance (discrimination and calibration) to inform other aims
+- OSA
+- Pulmonary Embolism
+- STOP BANG
+- WELLS Score
+- Subjective measures:
+- Loud snoring, tired/fatigued/sleepy, observed apneas? Report of HTN
+- Objective measures:
+- BMI, Age, Neck Circumference, Gender
+- Signs/Symptoms of DVT
+- PE is most likely
+- HR over 100
+- Immobilized/Surgery w/n 4 weeks
+- Prior PE,
+- Hemoptysis
+- Malignancy
+- High-risk increased perioperative complications
+- 0-1 points <1.2% prevalence
+- 2-3 points 16.2% prevalence
+- 4+ points 37.5% prevalence
+- Prior efforts use data points you can’t get from structured fields
+- (can only take specific values)
+- 1990: Run a big enough prospective study and ask everyone
+- 2023: Get ChatGPT to do it from what people document
+### Slide 36
+- Aim 2: Prospectively Validate: UUH Inpatients
+- Deferred consent (CO2 Narcosis)
+- Verify Positive Predictive Value (precision) in predicted high-risk patients with Transcutaneous CO2
+- Smaller sample stratified sampling of the whole population.
+- Prioritizes proof of concept, rather than delineate scope of the problem (initially)
+- Sample Size Calculation: stata diagsampsi
+- Rate of presentation to hospital: (TriNetX)
+- % Predicted High Risk: (10%)
+- % of eligible enrolled
+- 25% ‘prevalence’ (Nowbar); model AUC; Se/Sp TcCO2 for true reference standard 85%/85%
+### Slide 37
+- Prior work:
+- …
+- 49: Correct 93%, Wrong 7%: weight: 1.98%
+- 48: Correct 88%, Wrong 12%: weight: 2.39%
+- 47: Correct 80%, Wrong 20%: weight: 2.47%
+- 46: Correct 69%, Wrong 31%: weight: 2.92%
+- 45: Correct 57%, Wrong 43%: weight: 3.11%
+- SENSITIVITY
+- SPECIFICITY
+- 44: Correct 57%, Wrong 43% 3.56%
+- 43: Correct 69%, Wrong 31% weight 3.73
+- 42: Correct 80%, Wrong 20% weight 4.16%
+- 41: Correct 88%, Wrong 12% weight 4.25%
+- 40: Correct 93%, Wrong 7% weight 4.58%
+- ….
+- Expected test characteristics:
+- sensitivity 89%
+- specificity 92%
+- if
+- agreement ~6 mmHg
+- same distribution of CO2
+- Tool
+- Health Record-Based Modeling
+- Transcutaneous CO2
+- Purpose
+- Refine Estimation of Pre-test Odds of Hypercapnia
+- Allow non-invasive CO2 assessment (patients unlikely to consent for research ABGs)
+- Limitation
+- Approach only externally validated in outpatient OHS assessment
+- Prior 95% agreement +/- 6 mmHg insufficient for unstratified clinical use
+### Slide 38
+- Aim 3: Estimate the potential impact
+- Overdiagnosis: people who meet the definition of disease, but do not benefit from it
+- PaCO2 is an imperfect reference standard for what we care about: future harm
+- Possible – though not likely – clinicians already identify the important cases
+- Need a ‘loyalty cohort’: patients whose rehospitalizations would be captured.
+- Veterans Affairs – or artificially constructed one from another data source.
+- Hypothesis: Patients predicted to have had hypercapnia that was not recognized have a similar or excess risk of subsequent readmission as those identified (by blood gas and/or ICD code)
+- Prior efforts use data points you can’t get from structured fields
+- (can only take specific values)
+### Slide 39
+- OVERALL: Patients with Consequentially Missed Hypercapnia can be Identified Using Health Record Elements
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- 3 aims
+- Aim 1: Model Refinement and Local Optimization
+- Aim 2: Prospective Validation
+- Aim 3: Assess Potential Impact
+- Hypothesis
+- Fine-tuning and refining previously derived model will improve local performance
+- Patients with hypercapnia that are not recognized are common can be identified using health record elements with high positive-predictive value.
+- Inpatients who were predicted, but not confirmed, to have hypercapnic respiratory failure are at high risk of adverse outcomes.
+- Rationale
+- The model should be optimized for local performance
+- Must be verified that model identifies unrecognized hypercapnia
+- Need to confirm that the identified patients face elevated risk (ABG PaCO2 is an imperfect reference standard).
+- Approach
+- Optimizing model performance +/- use of NLP tools) applied to U of U data
+- Non-invasively sample (with TcCO2) patients predicted to have hypercapnia that teams have not recognized
+- Among patients with an admission for hypercapnia that is identified, how many had preceding admissions likely to have hypercapnia?
+- Design
+- Retrospective, U of U
+- Prospective, U of U
+- Retrospective, VA
+- Payoff: This work will evaluate the potential for improved recognition of hypercapnia to help a particularly high-risk, enlarging, and understudied group of patients.
+- Career Development: Prospective validations of bioinformatic tools require a unique skillset
+### Slide 40
+- Summary
+- Considering hypercapnic respiratory failure as a syndrome offers insight into its attributable health burden
+- Current diagnosis is haphazard and suboptimal
+- This introduces problems for patient care and reliable research.
+- Better use of health record data can help address both problems.
+- Preliminary work has led to new clinical features, but more sophisiticated modeling is needed for impact.
+- Related Questions
+- Methods of handling of partial verification
+- Regression-based vs Random Forest (or other ML)
+- Clinical and modeling Incorporation of Venous BG
+- Socio-technical barriers to diagnosis
+- Longitudinal Cohort Creation
+- Is UT atypical? (elevation)
+- Sources of provider/unit/institution variation?
+- Brian.Locke@hsc.utah.edu
+### Slide 41
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Building a Better Cohort of Patients with Hypercapnic Respiratory Failure
+- Overview
+- What is Hypercapnic Respiratory Failure?
+- Hypercapnia is common…
+- Age
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Building a Better Cohort of Patients with Hypercapnic Respiratory Failure
+- Overview
+- What is Hypercapnic Respiratory Failure?
+- Hypercapnia is common…
+- Age
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +529,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-11-23 Locke MSCI.pptx](archive/Presentations/2023-11-23%20Locke%20MSCI.pptx)
-- [Presentations/2023-12-8 Locke MSCI.pptx](archive/Presentations/2023-12-8%20Locke%20MSCI.pptx)
+- [Presentations/2023-11-23 Locke MSCI.pptx](../../archive/Presentations/2023-11-23%20Locke%20MSCI.pptx)
+- [Presentations/2023-12-8 Locke MSCI.pptx](../../archive/Presentations/2023-12-8%20Locke%20MSCI.pptx)
 
 ## Source materials
-- [Presentations/2023-11-23 Locke MSCI.pptx](archive/Presentations/2023-11-23%20Locke%20MSCI.pptx)
-- [Presentations/2023-12-8 Locke MSCI.pptx](archive/Presentations/2023-12-8%20Locke%20MSCI.pptx)
+- [Presentations/2023-11-23 Locke MSCI.pptx](../../archive/Presentations/2023-11-23%20Locke%20MSCI.pptx)
+- [Presentations/2023-12-8 Locke MSCI.pptx](../../archive/Presentations/2023-12-8%20Locke%20MSCI.pptx)

@@ -4,33 +4,43 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Likelihood Ratios
+- Application
+- People with MRSA pneumonia: 9 test positive, 3 test negative
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Likelihood Ratios
+- Application
+- People with MRSA pneumonia: 9 test positive, 3 test negative
+- People without MRSA pneumonia: 17 test positive, 71 test negative
+- Sensitivity: 76.2% chance in somebody who does NOT have the disease (no MRSA PNa) that you get it right (says no MRSA)
+- Specificity: 80.3% chance in somebody who has the disease that the test gets it right
+- Positive predictive value: 35% chance in somebody who has a positive test that it gets it right
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- ##VA dataset CID 2019 DOI: 2020;71(5):1142–8
+- All patients 18+ screened with MRSA nasal swab at admission - 245,000 patients.
+- Positive MRSA Nares in 22%.
+- They looked at the subsequent likelihood of cultures being positive for various pathogens at various sites.
+- Note: this does not establish true infection vs colonization: reference standard is just subsequent culture.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. People with MRSA pneumonia: 9 test positive, 3 test negative
+2. People without MRSA pneumonia: 17 test positive, 71 test negative
+3. Sensitivity: 76.2% chance in somebody who does NOT have the disease (no MRSA PNa) that you get it right (says no MRSA)
+4. Specificity: 80.3% chance in somebody who has the disease that the test gets it right
+5. Positive predictive value: 35% chance in somebody who has a positive test that it gets it right
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Model: 100ish people with pneumonia. 12 have MRSA PNa. 88 do not
+- However, when practicing medicine - we don't know who has the disease vs not (that's the point of the workup). We just know the test result.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/2fe27f09-108b-488c-b74a-2ed0b20638d7
+- https://calculator.testingwisely.com/playground/5/76.2/80.3/positive
 
 ## Source notes
 
@@ -38,4 +48,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/mrsa-nasal-swab.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/mrsa-nasal-swab.md](archive/Clinical%20Practice%20Notes/mrsa-nasal-swab.md)
+- [Clinical Practice Notes/mrsa-nasal-swab.md](../../archive/Clinical%20Practice%20Notes/mrsa-nasal-swab.md)

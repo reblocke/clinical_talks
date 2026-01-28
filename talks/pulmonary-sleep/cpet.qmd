@@ -6,33 +6,43 @@ draft: true
 ## What this covers
 - Adequate
 - Oxygenation
-- Ventilatory Indices
+- Exertional Hypoxemia in COPD
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Adequate
+- Oxygenation
+- Exertional Hypoxemia in COPD
+- Exertional Hypoxemia in ILD / pHTN
+- Ventilatory Indices
+- Patterns
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Ref: DOI: 10.1002/cphy.c110048
+- !alt from https://journal.chestnet.org/article/S0012-3692(20)31415-X/pdf
+- 2 ways to calc vo2 that correspond to the 2 systems of bulk flow / convective O2 transport: the respiratory system (measuring directly via douglas bag) and the CV system (measure via blood gasses and Fick Equation).
+- VO2 VE (PIO2 - PEO2) Qt (CaO2 - CvO2)
+- ##RER (or equiv at cellular level RQ)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Mechanisms of residual DOE: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202004-398FR
+2. Grading severity of heart failure (<14L risk of dying of HF > transplant)
+3. Lung resection stratification
+4. HR 80%+
+5. RER > 1.15
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- treated as a non-invasive surrogate of stroke volume (assuming you don't have an extraction of O2 problem)
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202004-398FR
+- https://photos.collectednotes.com/photos/5187/8607dc22-d92d-4356-be22-a4f23e56ba8c
+- https://journal.chestnet.org/article/S0012-3692(20)31415-X/pdf
+- https://photos.collectednotes.com/photos/5187/c04b089a-785b-4a2c-8fa6-508649d21ea0
+- https://photos.collectednotes.com/photos/5187/2ee92559-9087-479c-a6fe-a1f4514232b9
+- https://photos.collectednotes.com/photos/5187/65d70d99-2e34-492f-9502-cecd019b13f8
 
 ## Source notes
 
@@ -40,4 +50,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/cpet.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/cpet.md](archive/Clinical%20Practice%20Notes/cpet.md)
+- [Clinical Practice Notes/cpet.md](../../archive/Clinical%20Practice%20Notes/cpet.md)

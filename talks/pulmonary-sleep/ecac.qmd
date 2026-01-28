@@ -6,23 +6,28 @@ draft: true
 ## What this covers
 - Excessive (or expiratory) dynamic airway collapse of the posterior membrane (EDAC)
 - Tracheobronchomalacia (TBM)
+- aka expiratory central airway collapse.
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Excessive (or expiratory) dynamic airway collapse of the posterior membrane (EDAC)
+- Tracheobronchomalacia (TBM)
+- aka expiratory central airway collapse.
+- Reference: https://www.mayoclinicproceedings.org/article/S0025-6196(20)30258-5/fulltext
+- Often comorbid COPD, GERD/LPR, autoimmune/RP. ICS postulated to be causal in some cases.
+- Presentation: nonspecific - 'seal-bark like cough', impaired secretion clearance.
+- PFT may be obstructive (45%), restrictive (20%) or normal (20%)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- aka expiratory central airway collapse.
+- Reference: https://www.mayoclinicproceedings.org/article/S0025-6196(20)30258-5/fulltext
+- Often comorbid COPD, GERD/LPR, autoimmune/RP.
+- ICS postulated to be causal in some cases.
+- Presentation: nonspecific - 'seal-bark like cough', impaired secretion clearance.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. ECAC
+2. Excessive (or expiratory) dynamic airway collapse of the posterior membrane (EDAC)
+3. Tracheobronchomalacia (TBM)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -31,7 +36,8 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.mayoclinicproceedings.org/article/S0025-6196(20)30258-5/fulltext
+- https://photos.collectednotes.com/photos/5187/54348f54-151d-4bda-bfe2-19717d33dbc1
 
 ## Source notes
 
@@ -39,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/ecac.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ecac.md](archive/Clinical%20Practice%20Notes/ecac.md)
+- [Clinical Practice Notes/ecac.md](../../archive/Clinical%20Practice%20Notes/ecac.md)

@@ -9,30 +9,45 @@ draft: true
 - Midline:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- When do you start pressors?
+- Peripheral Pressors
+- Midline:
+- Infusion rate
+- Types of Central Lines and their complications
+- Subclavian
+- Internal Jugular
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Old school teaching: volume to fill the tank (3rd space losses, constriction might impair circulation, need line).
+- However, digit necrosis etc.
+- New school: venodilation and arterial dilation also contribute.
+- Also sometimes cardiomyopathy.
+- Pressors address these components, instead of just hypovol.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Line complications
+2. When do you start pressors?
+3. Peripheral Pressors
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Censer trial: blinded RCT of 0.05 mcg/kg/min x 24h through PIV vs placebo & std of care (surviving sepsis) in suspected septic shock. Primary outcome 65+ MAP & 0.5L/kg/hr UOP or 10% decrease in lactate in 6h: 76.1 NE vs 48.4 Placebo. Nonstatstically significant decrease in mortality. https://pubmed.ncbi.nlm.nih.gov/30704260/
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Better: 18g or 20g in AC fossa or proximal (less risk, and less risk of damage), protocoled extremity check (e.g. q2h), flushes and draws, ideally wasn't a b to place (e.g. deep US guided PIV harder to monitor extrav). Don't have BP cough on that arm.
+- Agent: epinephrine won't cause tissue necrosis. NE phentolamine to reverse. Vasopressin no reversal, so probably avoid.
+- Benefit: long enough they don't dislodge, and that ideally the site of infusion is far enough from the puncture site to avoid extravasation there.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://pubmed.ncbi.nlm.nih.gov/22158679/
+- https://pubmed.ncbi.nlm.nih.gov/30704260/
+- http://www.ncbi.nlm.nih.gov/pubmed/23782969
+- http://www.ncbi.nlm.nih.gov/pubmed/31698544
+- https://emcrit.org/wp-content/uploads/2015/07/Mayo-Peripheral-Pressors.pdf
+- https://emcrit.org/emcrit/midlines-1/
+- https://www.nejm.org/doi/10.1056/NEJMoa1500964
+- https://pubmed.ncbi.nlm.nih.gov/26398070/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613416/
+- https://pubmed.ncbi.nlm.nih.gov/23697825/
 
 ## Source notes
 
@@ -40,4 +55,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/line-complications.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/line-complications.md](archive/Clinical%20Practice%20Notes/line-complications.md)
+- [Clinical Practice Notes/line-complications.md](../../archive/Clinical%20Practice%20Notes/line-complications.md)

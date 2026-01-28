@@ -4,19 +4,108 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PGR – Value Concordant care in the ICU
+- McFadden
+- Twitter poll: from my twitter – do DNR orders (in the absence of other specified restrictions) ever applicable to patients with a pulse?
+- Question 1 – is this a consistent preference?
+- Clinical Momentum in the Intensive Care Unit
+- Ethical Frameworks to make decisions
+- Pitfalls of deontologicalism (actual reasoning behind commitments to individual patients, ethical normative frameworks)
+- Actualism vs Possibilism
+- How many times do we address “code status”
+- Was this an error?
+- the idea of preference-sensitive decisions
+- Advance directives have been standardized for a good reason. Health care providers must be able to immediately understand and act on them without requiring a lawyer’s interpretation. Without the patient’s input or that of a knowledgeable surrogate, neither the patient’s reason for the nonstandard directive nor his or her present wishes concerning resuscitation can be independently known.
+
+## Slide outline
+### Slide 1
+- PGR – Value Concordant care in the ICU
+### Slide 2
+- McFadden
+- Choosing Wisely critical care: goal discordant care
+- Discussed risks/benfits. Full code but does not want to undergo EGD due to the risk of intubation associated with the procedure.
+- Discussion: if surviving is your priority, due the procedure now. If you prioritize not being intubated over surviving, ok to wait.
+- https://twitter.com/vitaincerta/status/1334265070164070403
+### Slide 3
+- Twitter poll: from my twitter – do DNR orders (in the absence of other specified restrictions) ever applicable to patients with a pulse?
+- Follow-up: should every patient admitted admitted to the hospital have some variation on the discussion of “if your heart were to stop,…”
+- What percentage of patients do you think have
+- Is code status documentation: Goals of care theater? (pretending we are engaging with the question, when in fact we are not)
+### Slide 4
+- Question 1 – is this a consistent preference?
+- Relevant in determination of whether the patient has capacity
+- Gut reaction: no, either commit to maximizing chance of survival or maximizing chance of avoiding suffering.
+- However say you place the value of the following outcomes as: death after intubation 0/100, death without intubation 5/100, surviving with intubation, 10/100, surviving without intervention 90/100
+- Say ,further, I expect the chance of rebleed is 50%, and the chance of death with rebleed and out intubation is 75%. How would this play out? What is the expected value of the various decision-making strategies?
+### Slide 5
+- Clinical Momentum in the Intensive Care Unit
+- A Latent Contributor to Unwanted Care
+- DOI: 10.1513/AnnalsATS.201611-931OI
+### Slide 6
+- Ethical Frameworks to make decisions
+- Consequentialist – take the course of action that produces the best outcomes
+- Possibly involves disagreeing with a patient’s stated preference if it achieves their stated goals
+- Non-consequentialists – behave in a way in which we encourage being the type of people we would want to take care of us
+- E.g. deontologist – duty guided non-consequentialism
+- Ignoring patient’s stated preferred course of action disregards patient autonomy – which we would not want to be that type of healthcare provider.
+- https://plato.stanford.edu/entries/actualism-possibilism-ethics/
+### Slide 7
+- Pitfalls of deontologicalism (actual reasoning behind commitments to individual patients, ethical normative frameworks)
+- Pitfalls of consequentialism (beneficence to society, but justifies Machiavellian things)
+- Appealing, but in this case would argue that I should push harder to commit to a course of action that produced stated goals, even if it puts them through situations they don’t want to do. We have generally agreed not to do this in medicine.
+### Slide 8
+- Actualism vs Possibilism
+- You have 3 options: go to the pub, stay home and study, or stay home and watch TV. Utility of the actions are stay home and study > go to the pub > stay home and watch TV. You know, in practice, if you stay home and try to study you’ll probably watch TV. What should you do?
+- Actualism: go to the pub
+- Possibilism: stay home and study
+### Slide 9
+- How many times do we address “code status”
+- https://twitter.com/drsamuelbrown/status/1359353395996368897?s12
+- What do patient’s remember about the care team after?
+### Slide 10
+- Was this an error?
+- Do you define an error based on outcomes, or based on decision-making?
+- Meaning, if we played our hand well (statistically), but lost - is it still an error?
+- Most would say no, but consider out of the 2x2 grid of options, which ones do we investigate?
+### Slide 11
+- the idea of preference-sensitive decisions
+- https://www.nejm.org/doi/full/10.1056/NEJMc1713344
+- https://www.uptodate.com/contents/ethical-issues-in-palliative-care?searchcough%20assist&topicRef5124&sourceseelink
+### Slide 12
+- Advance directives have been standardized for a good reason. Health care providers must be able to immediately understand and act on them without requiring a lawyer’s interpretation. Without the patient’s input or that of a knowledgeable surrogate, neither the patient’s reason for the nonstandard directive nor his or her present wishes concerning resuscitation can be independently known.
+### Slide 13
+- Lit review
+- https://www.sciencedirect.com/science/article/abs/pii/S2213260019300876
+- https://agsjournals.onlinelibrary.wiley.com/doi/full/10.1111/jgs.16801
+- https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2735460
+- https://pubmed.ncbi.nlm.nih.gov/7474243/
+- https://www.bmj.com/content/340/bmj.c1345.long
+- https://www.atsjournals.org/doi/abs/10.1164/ajrccm.155.1.9001282
+- https://www.nejm.org/doi/full/10.1056/NEJMoa1802637
+### Slide 14
+- https://pubmed.ncbi.nlm.nih.gov/28099054/
+- https://pubmed.ncbi.nlm.nih.gov/33264125/
+- https://pubmed.ncbi.nlm.nih.gov/31625037/
+- https://pubmed.ncbi.nlm.nih.gov/21286839/
+### Slide 15
+- How do you choose who to spend time on ?
+- Can we predict who is at risk for mortality?
+- If not: how often to patients change their mind?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PGR – Value Concordant care in the ICU
+- McFadden
+- Twitter poll: from my twitter – do DNR orders (in the absence of other specified restrictions) ever applicable to patients with a pulse?
+- Question 1 – is this a consistent preference?
+- Clinical Momentum in the Intensive Care Unit
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PGR – Value Concordant care in the ICU
+- McFadden
+- Twitter poll: from my twitter – do DNR orders (in the absence of other specified restrictions) ever applicable to patients with a pulse?
+- Question 1 – is this a consistent preference?
+- Clinical Momentum in the Intensive Care Unit
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +122,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - patient preference scenarios.pptx](archive/Presentations/Locke%20-%20patient%20preference%20scenarios.pptx)
+- [Presentations/Locke - patient preference scenarios.pptx](../../archive/Presentations/Locke%20-%20patient%20preference%20scenarios.pptx)
 
 ## Source materials
-- [Presentations/Locke - patient preference scenarios.pptx](archive/Presentations/Locke%20-%20patient%20preference%20scenarios.pptx)
+- [Presentations/Locke - patient preference scenarios.pptx](../../archive/Presentations/Locke%20-%20patient%20preference%20scenarios.pptx)

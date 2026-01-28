@@ -4,35 +4,51 @@ draft: true
 ---
 
 ## What this covers
+- Terms (Fleischner 1 based. Fleischner 2 is more focused on CT terms)
+- Lateral XR
+- CT
+
+## Learning objectives
+- Terms (Fleischner 1 based. Fleischner 2 is more focused on CT terms)
 - Lateral XR
 - CT
 - General Approach
-
-## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Classification of Centrilobular Abnormalities
+- Bronchiectasis
+- Atelectasis vs Consolidation
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Optical Density (aka the amount of blackening): factor of amount of tissue and physical density of tissue the photon must pass through, leading to attenuation of strength ( whiter) > lower optical density an opacity
+- Infiltrate: something (e.g.
+- cells, fluids) in the lung in greater than expected amounts.
+- This is a pathologic diagnosis.
+- Not to be used in radiology.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. ## CXR
+2. Quantified as total pulmonary, lobar, segmental, subsegmental (discoid, platelike).
+3. Obstructive (bronchial) vs non-obstructive
+4. can describe extent (subsegmental, segmental, multisegmental, lobar)
+5. R upper hilum: superior vein is lateral to adjacent pulmonary artery.
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Inflation: state of being expanded with gas, Aeration: to be full of air. (Don't say expiratory or inspiratory - radiographs don't breath)
+- Vascular prominence: increase in caliber or number (though, caution because the expected range of normal is large)... because this is noncommital, it probably should be avoided.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/6446169c-a6fc-4442-9552-cc9b5972417c
+- https://photos.collectednotes.com/photos/5187/39186339-5c68-41d5-8b41-a3134feb9d3a
+- https://photos.collectednotes.com/photos/5187/66c3c689-4e23-43e2-8cb9-44c35f8336c7
+- https://photos.collectednotes.com/photos/5187/7d5e177a-bdb5-487f-a804-26fd39ea3215
+- https://photos.collectednotes.com/photos/5187/364e3309-7479-4220-b964-9ce4e181ceb4
+- https://photos.collectednotes.com/photos/5187/e481217d-ffee-4b87-9e11-4621ae607d50
+- https://photos.collectednotes.com/photos/5187/6c4bfc86-1a6b-40b9-81c0-598dfe3b126f
+- https://photos.collectednotes.com/photos/5187/b1ee54e4-37c9-4866-8bde-e4d6491efe49
+- https://photos.collectednotes.com/photos/5187/67ceb5a7-a29d-4a79-b3ae-3ff650b23042
+- https://photos.collectednotes.com/photos/5187/9e2c1a2d-6d4d-4389-a23d-7177a105e724
 
 ## Source notes
 
@@ -40,4 +56,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/cxr.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/cxr.md](archive/Clinical%20Practice%20Notes/cxr.md)
+- [Clinical Practice Notes/cxr.md](../../archive/Clinical%20Practice%20Notes/cxr.md)

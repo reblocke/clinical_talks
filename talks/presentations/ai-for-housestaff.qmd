@@ -4,19 +4,200 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- ARTIFICIAL INTELLIGENCE FOR HOUSESTAFF
+- Goal 1: Demystify LLMs (etc.) work
+- Logistic Regression
+- Neural Networks
+- Embeddings: represent the meaning of text with numbers (‘word vectors’)
+- Transformer Models:
+- What is a large-language model (LLM)?
+- What does this enable?
+- Transfer learning: (this is the secret sauce)
+- Review: How (and why) do LLMs work?
+- Mundane Stuff
+- GPT 3-4 vs Physician’s on their boards (Israel)
+
+## Slide outline
+### Slide 1
+- ARTIFICIAL INTELLIGENCE FOR HOUSESTAFF
+### Slide 2
+- Goal 1: Demystify LLMs (etc.) work
+- Goal 2: Current uses
+- Goal 3: Pitfalls
+- BSc in computer science (2009).
+- (Twitter)
+- Disclosure: I claim equity in Mountain Biometrics, Inc., a local startup using machine learning on continuous sensor data to detect decompensation and withdrawal in lightly monitored settings.
+### Slide 3
+- Logistic Regression
+- man
+- woman
+- What is machine learning?
+- Need to know if M/F (labels)
+- Linear Regression
+### Slide 4
+- Neural Networks
+- Perceptron
+- Parameters
+- https://mlu-explain.github.io/
+### Slide 5
+- Embeddings: represent the meaning of text with numbers (‘word vectors’)
+### Slide 6
+- Transformer Models:
+- Variant of neural network + attention Transformer
+- Context window how big the attention frame is
+- This, and overall model size, are the main metrics of performance.
+### Slide 7
+- What is a large-language model (LLM)?
+- Foundational model trained on an enormous amount of text
+### Slide 8
+- What does this enable?
+- Parallel processing on GPUs (instead of CPUs)
+- You can make HUGE models [e.g. the entire internet]
+- 1. predict the next token [~word]
+- 2. See if you were right
+- 3. re-weight parameters to improve
+- 4. repeat for billions of times
+### Slide 9
+- Transfer learning: (this is the secret sauce)
+- Previously: define a task, label a set to train the model in (expensive) and then evaluate it’s performance. Repeat. $$$
+- limited by the amount of annotated data.
+- Now: ”Pre-train” ( unsupervised learning) on a huge amount of data to learn general data – termed a foundational model. Do this once ($$$)
+- Can do tasks not in the training data (actual learning)
+### Slide 10
+- Review: How (and why) do LLMs work?
+- They are statistical machine learning algorithms called transformers (work very well on text)
+- Flexible machine-learning method built on neural networks
+- Attention mechanism allows it to handle references (context window)
+- Images, time-series, etc. require modified algorithms.
+- They learn patterns of co-occurrence in massive data sets and numerical representations of meaning.
+- It turns out this works well enough to apply to novel problems (transfer learning)
+### Slide 11
+- Mundane Stuff
+### Slide 12
+- TODO: No text extracted from this slide.
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- GPT 3-4 vs Physician’s on their boards (Israel)
+### Slide 16
+- Are we going to be out of job?
+- Pulm/CC Case conference for recurrent hospitalizations with hemoptysis
+- Before vs after clarifying a recent pulmonary vein ablation
+- 1. Bronchogenic Carcinoma (35%)
+- 2. Recurrent Coccidioidomycosis (Valley Fever) (25%)
+- 3. Pulmonary Tuberculosis (15%)
+- 4. Pulmonary Vasculitis (e.g., Granulomatosis with Polyangiitis) (15%)
+- 5. Pulmonary Embolism with Infarction (10%)
+### Slide 17
+- TODO: No text extracted from this slide.
+### Slide 18
+- Objective To determine whether an LLM can transform discharge summaries into a format that is more readable and understandable.
+- →less accurate
+- Not a promising use
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- Statistical Coding:
+### Slide 21
+- Clinical Research Informatics
+### Slide 22
+- Clinical Research Informatics
+- Goal: Predict who has hypercapnia
+- Current: use structured data like lab values in a logistic regression
+- Ideal: extract unstructured data like symptoms to use a predictors
+- ED Triage Notes
+- (Data must be present when the model runs)
+- Locally-deployed LLM
+- Possible tasks
+- Use as predictor in diagnostic model
+- Tasks:
+- “Did this patient present for confusion?”
+- “How likely is it this patient has confusion?”
+- “How likely is it this patient has hypercapnia?”
+- Evaluation:
+- How well does the LLM identify patients with confusion (vs. human reader)
+- Requires annotation of ‘answers’
+- How much does the LLM improve hypercapnia predictions?
+- Does not require annotation
+### Slide 23
+- Scientific Writing?
+- Act like the editor for a popular science publisher.
+- I need feedback on how to make the following sentence easier to read and less ambiguous.
+- you will restate the main point of the following sentence (it’s OK to do this in several sentences). Then, give 5 reformulation of the sentence. Each should be in a different style, but all should emphasize clarity.
+- in the process, you should explain what changes you made. ,
+- please do not use jargon.
+- The sentence is for you to rewrite is… “
+### Slide 24
+- TODO: No text extracted from this slide.
+### Slide 25
+- Clinical Reasoning
+### Slide 26
+- (Google’s regular LLM)
+- Differential Diagnosis
+### Slide 27
+- Fundamental Theory of Informatics… but is it true?
+### Slide 28
+- TODO: No text extracted from this slide.
+### Slide 29
+- TODO: No text extracted from this slide.
+### Slide 30
+- TODO: No text extracted from this slide.
+### Slide 31
+- Problem: PHI cannot go to these companies
+- Leaves protected environment:
+- need a Business Associate Agreement.
+- Real issue of consent
+### Slide 32
+- How deidentified is deidentified enough?
+### Slide 33
+- Local deployments
+### Slide 34
+- Prompt Engineering:
+- Zero shot prompting just ask for the answer out of the blue ”The patient has heart failure and rales. Why is she short of breath?”
+- N-shot prompting ask a sequence of questions and rely on in-context learning. “What’s your differential?” ”Why do you think heart failure is most likely?” “What tests would you order?”
+- Chain of thought prompting: “The patient has xyz medical history and presents with shortness of breath. First, summarize the case, then provide an ordered different diagnosis. Gives pros and cons for each possibility. Then, provide recommendations on which test to order.
+### Slide 35
+- Prompt engineering is hard
+- Act like a [Specify a role],
+- I need a [What do you need?],
+- you will [Enter a task],
+- in the process, you should [Enter details; often in a chain of steps],
+- please [Enter exclusion],
+- input the final result in a [Select a format],
+- here is an example: [Enter an example].
+- Act like an expert diagnostician,
+- I need a prioritized differential diagnosis that includes all of the likely diagnoses and all the diagnoses it would be important not to miss,
+- you will first generate a list of the most likely diagnoses, you will then order them from most to least likely, then you will give a probability for each,
+- in the process, you should consider all the most likely or dangerous diagnoses. Consider the pretest probability of each diagnosis, then modify it by the cumulative strength of evidence to get a final probability.
+- please Prioritize accuracy.,
+- input the final result in a list format, with percentage likelihoods and a short explanation,
+- Here is the case: …
+### Slide 36
+- Summary?
+- You should probably be using these tools
+- It takes skill to use them well
+- They are not infallible and raise tricky issues
+- For this invention will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them.
+- -Socrates, on writing
+### Slide 37
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- ARTIFICIAL INTELLIGENCE FOR HOUSESTAFF
+- Goal 1: Demystify LLMs (etc.) work
+- Logistic Regression
+- Neural Networks
+- Embeddings: represent the meaning of text with numbers (‘word vectors’)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- ARTIFICIAL INTELLIGENCE FOR HOUSESTAFF
+- Goal 1: Demystify LLMs (etc.) work
+- Logistic Regression
+- Neural Networks
+- Embeddings: represent the meaning of text with numbers (‘word vectors’)
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +214,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/AI for Housestaff.pptx](archive/Presentations/AI%20for%20Housestaff.pptx)
+- [Presentations/AI for Housestaff.pptx](../../archive/Presentations/AI%20for%20Housestaff.pptx)
 
 ## Source materials
-- [Presentations/AI for Housestaff.pptx](archive/Presentations/AI%20for%20Housestaff.pptx)
+- [Presentations/AI for Housestaff.pptx](../../archive/Presentations/AI%20for%20Housestaff.pptx)

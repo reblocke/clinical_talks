@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Sleep Journal Club Lit/Reducing CV risk through treatment of OSA - two methodological approaches Am Heart J 2016.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Reducing%20CV%20risk%20through%20treatment%20of%20OSA%20-%20two%20methodological%20approaches%20Am%20Heart%20J%202016.pdf)
+- [Presentations/Sleep Journal Club Lit/Reducing CV risk through treatment of OSA - two methodological approaches Am Heart J 2016.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Reducing%20CV%20risk%20through%20treatment%20of%20OSA%20-%20two%20methodological%20approaches%20Am%20Heart%20J%202016.pdf)
 
 ## Source materials
-- [Presentations/Sleep Journal Club Lit/Reducing CV risk through treatment of OSA - two methodological approaches Am Heart J 2016.pdf](archive/Presentations/Sleep%20Journal%20Club%20Lit/Reducing%20CV%20risk%20through%20treatment%20of%20OSA%20-%20two%20methodological%20approaches%20Am%20Heart%20J%202016.pdf)
+- [Presentations/Sleep Journal Club Lit/Reducing CV risk through treatment of OSA - two methodological approaches Am Heart J 2016.pdf](../../archive/Presentations/Sleep%20Journal%20Club%20Lit/Reducing%20CV%20risk%20through%20treatment%20of%20OSA%20-%20two%20methodological%20approaches%20Am%20Heart%20J%202016.pdf)

@@ -4,19 +4,246 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Improved Recognition of Inpatient Hypercapnic Respiratory Failure
+- Hypercapnic Respiratory Failure
+- E.g.: Home PAP improves mortality in ↑CO2-COPD
+- By the time patients are caught: ↑morbidity
+- Prior work:
+- Probabilistic Modeling Likelihood of Hypercapnia
+- Aim 1: Optimize (and externally validate) local performance of statistical model
+- Aim 2: To estimate the prevalence of unrecognized hypercapnia in inpatients
+- Aim 3: Estimate the potential impact of early & reliable identification
+- Aim 3: To estimate the potential impact of early & reliable identification
+- OVERALL: Patients with Consequentially Missed Hypercapnia can be Identified Using Health Record Elements
+
+## Slide outline
+### Slide 1
+- Improved Recognition of Inpatient Hypercapnic Respiratory Failure
+- Brian Locke, MD
+- T32 Fellow
+- Division of Pulmonary, Critical Care, and Occupational Pulmonary Medicine
+- Department of Internal Medicine
+- University of Utah School of Medicine
+- This research was supported by the National Institutes of Health under Ruth L. Kirschstein National Research Service Award 5T32HL105321 from the NIH
+- and The American Thoracic Society through the Academic Sleep and Pulmonary Integrated Research/Clinical Fellowship (ASPIRE) Program
+### Slide 2
+- Hypercapnic Respiratory Failure
+- Hypoxemic (Low O2) Respiratory Failure
+- Hypercapnic (High CO2) Respiratory Failure
+- Low arterial blood oxygen tension
+- High arterial blood carbon dioxide tension
+- (Relatively) Reliably Identified by Pulse Oximetry
+- No routine non-invasive testing
+- Build up here CO2 in blood rises
+- Patients with hypercapnia are identified unreliably and late in their illness
+### Slide 3
+- E.g.: Home PAP improves mortality in ↑CO2-COPD
+- Weight loss
+- Medication Adjustment
+- Pulmonary Rehab
+- Hypercapnia is common, is probably becoming more common, and is treatable.
+- Common contributors to Hypercapnic Respiratory Failure:
+- Advanced Age
+- Opiate Use
+- Obesity
+- Advanced Lung Dz
+- Multimorbidity
+- Population-standardized prevalence PaCO2 > 45 mmHg after excluding iatrogenic causes:
+- 150 per 100,000 person/year
+- Only inpatients, only those with blood gasses checked
+- Comparison: Decompensated Cirrhosis 94.9 (US, 2017) per 100,000 person year
+### Slide 4
+- By the time patients are caught: ↑morbidity
+- Inpatient ICD code for Hypercapnic Respiratory Failure
+- 23% 30d readmission rate
+- Same as CHF, more than MI
+- 66% with recurrence
+- Could we catch them earlier? Would it help?
+- Decompensated Cirrhosis, for reference
+### Slide 5
+- Prior work:
+- Tool
+- Health Record-Based Modeling
+- Transcutaneous CO2
+- Purpose
+- Refine Estimation of Pre-test Odds of Hypercapnia
+- Allow non-invasive CO2 assessment (patients unlikely to consent for research ABGs)
+- Limitation
+- Approach only externally validated in outpatient OHS assessment
+- Prior 95% agreement +/- 6 mmHg insufficient for unstratified clinical use
+- Total
+- No ABG Obtained
+- ABG Obtained
+- N
+- 879,019
+- 675,620
+- 203,399
+- Ambulatory
+- 39% (343,699)
+- 50% (334,457)
+- 5% (9,242)
+- Emergency
+- 20% (175,792)
+- 22% (146,066)
+- 15% (29,726)
+- Inpatient
+- 41% (359,528)
+- 29% (195,097)
+- 81% (164,431)
+- Candidate Predictors
+- (LASSO)
+- Age
+- Sex
+- Serum HCO3-
+- Serum Potassium
+- Serum Creatinine
+- Admitting Dx
+### Slide 6
+- Probabilistic Modeling Likelihood of Hypercapnia
+- Validation & Tuning
+- Aim 1: Integration of NLP/LLM
+- Aim 2: Prospective Validation of PPV
+- Aim 3: Evaluation of Prognostic Significance
+### Slide 7
+- Aim 1: Optimize (and externally validate) local performance of statistical model
+- Apply TriNetX model to retrospective data from the University of Utah.
+- Reference standard: patients who had arterial blood gasses obtained.
+- Add natural language processing using established tools / pipelines (CLAMP, LLM )
+- Adjust model weights
+- Generate measures of model performance (discrimination and calibration) to inform other aims
+### Slide 8
+- Aim 2: To estimate the prevalence of unrecognized hypercapnia in inpatients
+- Methods:
+- Deferred consent (CO2 Narcosis)
+- Verifying Positive Predictive Value (precision) in high-risk patients is more efficient than stratified sampling of the whole population.
+- Aim demonstrate possible benefit in highest risk, rathern than delineate scope of the probably (initially)
+- Sample Size Calculation:
+- 25% ‘prevalence’ (Nowbar); model AUC; Se/Sp TcCO2 for true reference standard 85%/85%
+- How will this fail?
+- Aim 1 results will influence needed sample size
+- Can I access EHR data fast enough?
+- Hawthorne effect? Due to hypoxemia (elevation), do they get identified earlier?
+### Slide 9
+- Prior work:
+- Statistical Insights:
+- Accuracy needed for clinical care ≠ Required accuracy for model verification
+- Pre-test probability estimate allows stratified sampling → efficiency
+- …
+- 49: Correct 93%, Wrong 7%: weight: 1.98%
+- 48: Correct 88%, Wrong 12%: weight: 2.39%
+- 47: Correct 80%, Wrong 20%: weight: 2.47%
+- 46: Correct 69%, Wrong 31%: weight: 2.92%
+- 45: Correct 57%, Wrong 43%: weight: 3.11%
+- SENSITIVITY
+- SPECIFICITY
+- 44: Correct 57%, Wrong 43% 3.56%
+- 43: Correct 69%, Wrong 31% weight 3.73
+- 42: Correct 80%, Wrong 20% weight 4.16%
+- 41: Correct 88%, Wrong 12% weight 4.25%
+- 40: Correct 93%, Wrong 7% weight 4.58%
+- ….
+- Expected test characteristics:
+- sensitivity 89%
+- specificity 92%
+- if
+- agreement ~6 mmHg
+- same distribution of CO2
+- Nowbar et al. 2004: All w/ BMI ≥35 kg/m2 admitted to inpatient medicine service at the Denver VA. Everyone (n277) gets an ABG. 31% had hypercapnia. Only 1/3 of those had therapy started (teams were told)
+### Slide 10
+- Aim 3: Estimate the potential impact of early & reliable identification
+- Might clinicians already identify intervenable cases?
+- Prior (limited) research:
+- Marik et al. 2013: patient diagnosed with OHS are repeatedly admitted and missed diagnosed prior to their ultimate recognition
+- Meservey et al. 2020: most readmissions are recurrence
+- Hypothesis: Patients predicted to have had hypercapnia that was not recognized have a similar or excess risk of subsequent readmission as those identified (by blood gas and/or ICD code)
+- Analogy to Cancer Screening
+- The diagnostic barnyard ‘fence’:
+- Birds won’t get caught
+- Turtles won’t benefit form being caught
+- Rabbits are the ones to focus on
+### Slide 11
+- Aim 3: To estimate the potential impact of early & reliable identification
+- Study Design:
+- Retrospective EHR-based review
+- Dataset: Longitudinal, ideal self-contained system
+- Exposures of interest:
+- Hypercapnic Respiratory Failure by ICD code
+- Hypercapnic Respiratory Failure by ABG (or by VBG) & not ICD code
+- Predicted Risk of Hypercapnic Respiratory Failure by commonly-obtained data-elements
+- Effect modifier: PAP/NIV therapy
+- Outcome: Hazard of death or rehospitalization with hypercapnia
+- Threats to validity:
+- Is it the hypercapnia risk, per-se? (negative controls)
+- Risk might be ameliorated by treatment
+- Risk among patients with hypercapnia is not binary [ie risk PaCO290 >>> 50]
+- Those who likely had hypercapnia, but were not sampled
+- Model predicted to have hypercapnia
+- Comparison in consequences
+### Slide 12
+- OVERALL: Patients with Consequentially Missed Hypercapnia can be Identified Using Health Record Elements
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- 3 aims
+- Aim 1: Model Refinement and Local Optimization
+- Aim 2: Prospective Validation
+- Aim 3: Assess Potential Impact
+- Hypothesis
+- Fine-tuning and refining previously derived model will improve local performance
+- Patients with hypercapnia that are not recognized are common can be identified using health record elements with high positive-predictive value.
+- Inpatients who were predicted, but not confirmed, to have hypercapnic respiratory failure are at high risk of adverse outcomes.
+- Rationale
+- The model should be optimized for local performance
+- Must be verified that model identifies unrecognized hypercapnia
+- Need to confirm that the identified patients face elevated risk (ABG PaCO2 is an imperfect reference standard).
+- Approach
+- Optimizing model performance +/- use of NLP tools) applied to U of U data
+- Non-invasively sample (with TcCO2) patients predicted to have hypercapnia that teams have not recognized
+- Among patients with an admission for hypercapnia that is identified, how many had preceding admissions likely to have hypercapnia?
+- Design
+- Retrospective, U of U
+- Prospective, U of U
+- Retrospective, VA
+- Payoff: This work will evaluate the potential for improved recognition of hypercapnia to help a particularly high-risk, enlarging, and understudied group of patients.
+- Career Development: Prospective validations of bioinformatic tools require a unique skillset
+### Slide 13
+- Research Team: Wayne Richards1,2 MSJoseph Finkelstein2 MD PhD MAJeanette Brown1 MD PhDRamkiran Gouripeddi2 MBBS MSKrishna M Sundar1 MDDivisions of 1Internal Medicine and 2Biomedical InformaticsThanks for advice from: Robert Paine, MD; Barb Jones MD MSCI; Ken Kawamoto MD PhD MHS; MDCRC6450
+- Additional Questions
+- Handling of partial verification
+- Incorporation of Venous BG
+- Prospective validation logistics
+- Other modeling end-points
+- Realtime availability of data
+- VA aata access time/effort
+- PPV vs Se/Sp/Prevalence?
+- Socio-technological barriers
+- Sources of provider/unit/institution variation?
+- Brian.Locke@hsc.utah.edu
+### Slide 14
+- What is expected to come from this research?
+- Validation of a method of stratification that can be used to:
+- Facilitate the identification of patients with high CO2 → improved patient care
+- Identify patients with hypercapnia (± a verification method) for study inclusion → more representative cohorts of patients.
+- Enable future studies assessing:
+- Overall burden of disease from hypercapnic respiratory failure
+- Effect of exposures (medications, environmental, policy) on risk of hypercapnia
+- Test the effect of treatment interventions on broader types of high-risk patients.
+- Career-development:
+- Development of models (statistical, ML, etc.) exploding in healthcare
+- Bottle-neck is in prospective validation of uses, which takes a unique skillset to evaluate.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Improved Recognition of Inpatient Hypercapnic Respiratory Failure
+- Hypercapnic Respiratory Failure
+- E.g.: Home PAP improves mortality in ↑CO2-COPD
+- By the time patients are caught: ↑morbidity
+- Prior work:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Improved Recognition of Inpatient Hypercapnic Respiratory Failure
+- Hypercapnic Respiratory Failure
+- E.g.: Home PAP improves mortality in ↑CO2-COPD
+- By the time patients are caught: ↑morbidity
+- Prior work:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,13 +260,13 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-10-30 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-10-30%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
-- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk [Autosaved].pptx](archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk%20%5BAutosaved%5D.pptx)
-- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
-- [Presentations/2023-11-17 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-11-17%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-10-30 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-10-30%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk [Autosaved].pptx](../../archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk%20%5BAutosaved%5D.pptx)
+- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-11-17 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-11-17%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
 
 ## Source materials
-- [Presentations/2023-10-30 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-10-30%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
-- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk [Autosaved].pptx](archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk%20%5BAutosaved%5D.pptx)
-- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
-- [Presentations/2023-11-17 Locke CTSI Translational Research Trainee Symposium Talk.pptx](archive/Presentations/2023-11-17%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-10-30 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-10-30%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk [Autosaved].pptx](../../archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk%20%5BAutosaved%5D.pptx)
+- [Presentations/2023-11-1 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-11-1%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)
+- [Presentations/2023-11-17 Locke CTSI Translational Research Trainee Symposium Talk.pptx](../../archive/Presentations/2023-11-17%20Locke%20CTSI%20Translational%20Research%20Trainee%20Symposium%20Talk.pptx)

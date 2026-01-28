@@ -4,19 +4,102 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Immersive Virtual Reality
+- Gap:
+- Enrollment Flow
+- Interventions
+- Outcomes:
+- VR: immersive (headset) vs non-immersive (computer game)
+- Immersion is the experience of being absorbed (termed, ‘presence’), forgetting their embodied presence and thus responding as if the environment is real.
+- ICU Use cases: Relaxation (several feasibility studies), Cognitive/physical mobilization (1 RCT), Distraction/pain control (1 RCT pre-op), Delirium, Sleep (1 +RCT)
+- →all are small, variable definitions/procedures, limited generalizability (barriers likely local)
+- Under-replicated
+- Barriers likely local
+- Provider and Patient perceptions under investigated: is there a gap?
+
+## Slide outline
+### Slide 1
+- Immersive Virtual Reality
+- VR: immersive (headset) vs non-immersive (computer game)
+- Immersion is the experience of being absorbed (termed, ‘presence’), forgetting their embodied presence and thus responding as if the environment is real.
+- ICU Use cases: Relaxation (several feasibility studies), Cognitive/physical mobilization (1 RCT), Distraction/pain control (1 RCT pre-op), Delirium, Sleep (1 +RCT)
+- →all are small, variable definitions/procedures, limited generalizability (barriers likely local)
+### Slide 2
+- Gap:
+- Under-replicated
+- Barriers likely local
+- Provider and Patient perceptions under investigated: is there a gap?
+- Is participation actually lower than other types of interventions (vs general research effect?
+- Who participates?
+- Aims:
+- Determine if VR devices are usable in our ICU
+- Assess the logistical barriers
+- Understand current provider (RN) and patient perceptions
+- Do they change pre-post?
+- Barriers
+- Patient
+- Providers
+- System
+- Apprehension
+- Loss of control?
+- Digital divide?
+- “Cyber Sickness”
+- Isolation
+- Competing goals
+- Skepticism
+- Perceptions re: pt
+- Ethical? (delirium)
+- Competing tasks
+- Equipment
+### Slide 3
+- Enrollment Flow
+- Inclusion
+- Exclusion
+- 18+
+- No severe visual/auditory impairments
+- No ID precautions
+- Awake/Alert, Eyes open for 30s
+- Inability to provide informed consent
+- Head/facial abnormality precluding headset
+- Psychotic d/o
+- Recent MDD, Epilepsy, TBI
+- Admission for OD
+### Slide 4
+- Interventions
+- Apply VR headset:
+- content of their choosing,
+- aim for 5-15 minutes
+- Apply Biopac:
+- ppg, oximeter, plethy belt, ekg
+- No EHR, No Vital Signs
+### Slide 5
+- Outcomes:
+- Single visit, no PHI [minimal risk, oral consent]
+- Qualitative Interview:
+- Please describe your experience using the VR headset
+- In what ways did this help you feel better?
+- What problems did you have using this headset?
+- How did this compare to what your initial expectations?
+- How do you think we could use this in the future with other patients?
+- Quantitative:
+- Vital signs: HR, SpO2, RR (belt), Adrenergic tone (ppg)
+- Mood analysis (pre- and post-)
+- RN discrimination/calibration predicting interest.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Immersive Virtual Reality
+- Gap:
+- Enrollment Flow
+- Interventions
+- Outcomes:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Immersive Virtual Reality
+- Gap:
+- Enrollment Flow
+- Interventions
+- Outcomes:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +116,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/VR ICU Feasibility Overview.pptx](archive/Presentations/VR%20ICU%20Feasibility%20Overview.pptx)
+- [Presentations/VR ICU Feasibility Overview.pptx](../../archive/Presentations/VR%20ICU%20Feasibility%20Overview.pptx)
 
 ## Source materials
-- [Presentations/VR ICU Feasibility Overview.pptx](archive/Presentations/VR%20ICU%20Feasibility%20Overview.pptx)
+- [Presentations/VR ICU Feasibility Overview.pptx](../../archive/Presentations/VR%20ICU%20Feasibility%20Overview.pptx)

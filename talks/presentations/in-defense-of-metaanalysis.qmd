@@ -4,19 +4,98 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PGR-In defense of meta-analysis
+- Claim
+- How big of a problem is under-powering?
+- Is there actually a replicability crisis?
+- GIGO: vs wisdom of crowds? What is the likelihood that all the studies are off in the same way?
+- Myth: you can’t make good estimates from junk evidence
+- Point:
+- Poorly done meta-analysis; over- or –nder-stating the evidence
+- Outside view vs Inside view
+- Scout mindset vs soldier mindset:
+- If RCTs are a test: it may give you a yes/no to a hypothesis to a certain error rate—— but it does not give you an accurate point estimate.
+- Trial sequential analysis -> when should we have stopped objecting
+
+## Slide outline
+### Slide 1
+- PGR-In defense of meta-analysis
+### Slide 2
+- Claim
+- I’d argue that for most problems in pulmonary critical care, the best source of evidence is the best meta-analysis, not the best individual trial.
+- The way trials are currently funded leads to them being systematically underpowered and not fit to answer the relevant question.
+- GIGO is a problem, but it’s less of one than you might think
+### Slide 3
+- How big of a problem is under-powering?
+- How, in practice, trials are powered
+- Reference under powering our cities as a threat to using them as the only acceptable sort of knowledge. Or more precisely saying our cities have not shown in affect therefore, there is none. Because I see Peter systematically under powered to find important effects I’ll give a defensive met and I’ll see you in the talk next time
+- ‘Minimum Important Difference Is Minimally Important in Sample Size Calculations | Trials | Full Text -> the best guess should be the delta
+- We are OFF in how we estimate this (scott’s article, CHEST underpowered) – this might be because people powering trials are incentivized to be off (for someone to let them run the trial), or because we really are just bad at it… thus trials are systematically under-powered
+- If 0.8 several trials is likely to give conflicting results… 0.7 or 0.6 etc. is WAY likely to give conflicting results (thus, you need to combine)
+- Power? This is a bigger problem than recognized. Which do you trust, a meta-analysis, or an underpowered trial. What do you trust for subgroups and heterogeneity… can almost never make conclusions from a signle trial
+### Slide 4
+- Is there actually a replicability crisis?
+- It is incorrect to view some studies being “positive” and some studies being “negative” as conflicting
+### Slide 5
+- GIGO: vs wisdom of crowds? What is the likelihood that all the studies are off in the same way?
+### Slide 6
+- Myth: you can’t make good estimates from junk evidence
+### Slide 7
+- Point:
+- Myth: Garbage-in-garbage-out is why meta-analyses are
+- The goal of a meta-analysis is to make a claim precisely as strong as the evidence
+- https://twitter.com/dnunan79/status/1620366744971014145?s12&tu13LZ0WKG90XsOBRpngPrA
+### Slide 8
+- Poorly done meta-analysis; over- or –nder-stating the evidence
+- Difference between systematic review and meta-analysis - the way you meta-analyze is the point of contention.
+- Note: this isn’t arguing that quality of the studies doesn’t matter - it clearly does matter. It’s arguing that even flawed studies provide some information and shouldn’t be ignored altogether - not binary.
+- Note: GRADE framework -
+- Design of primary studies
+- Quality of primary studies (risk of bias)
+- Inconsistency
+- Indirectness
+- Imprecision
+- Others (publication bias, large effect, dose-response gradient, plausible confounding?)
+### Slide 9
+- Outside view vs Inside view
+- Experts are often overly drawn to the inside view
+- Outside view can be given by mata-analyses and improves
+- From: https://onlinelibrary.wiley.com/doi/10.1002/9781119099369.ch10
+### Slide 10
+- Scout mindset vs soldier mindset:
+- Can I believe this? Vs Must I believe this?
+- —> we can find flaws in the studies, but how certain are we that those flaws ARE WHY the trial result is what it is.
+- Problem: does the flaw explain the deviation? Would you equally point out the same flaw in a different study with the opposite answer?
+- — how large is the noise/chance associated with the most rigorous study?
+- — what extent are there concerns about generalizability?
+- —— if generalizability is a concern, isn’t various settings a benefit?
+- — shouldn’t use still systematically synthesize all the data, just weighted appropriately for it’s methodology flaws?
+### Slide 11
+- If RCTs are a test: it may give you a yes/no to a hypothesis to a certain error rate—— but it does not give you an accurate point estimate.
+- Go through the Ioannidis argument: why should you question even a great study? Likelihood of passing a single test.
+### Slide 12
+- Trial sequential analysis -> when should we have stopped objecting
+### Slide 13
+- Problems with subgroups / effect modifiers
+- A single huge trial could be the best convincing answer, but you’re still left with uncertainty about applicability (maybe – though I think this is over-rated: effect modifiers are rarer than we think)
+### Slide 14
+- Final argument: epistemic
+- Numerical justification that your prediction of future studies are better.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PGR-In defense of meta-analysis
+- Claim
+- How big of a problem is under-powering?
+- Is there actually a replicability crisis?
+- GIGO: vs wisdom of crowds? What is the likelihood that all the studies are off in the same way?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PGR-In defense of meta-analysis
+- Claim
+- How big of a problem is under-powering?
+- Is there actually a replicability crisis?
+- GIGO: vs wisdom of crowds? What is the likelihood that all the studies are off in the same way?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +112,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/In defense of metaanalysis.pptx](archive/Presentations/In%20defense%20of%20metaanalysis.pptx)
+- [Presentations/In defense of metaanalysis.pptx](../../archive/Presentations/In%20defense%20of%20metaanalysis.pptx)
 
 ## Source materials
-- [Presentations/In defense of metaanalysis.pptx](archive/Presentations/In%20defense%20of%20metaanalysis.pptx)
+- [Presentations/In defense of metaanalysis.pptx](../../archive/Presentations/In%20defense%20of%20metaanalysis.pptx)

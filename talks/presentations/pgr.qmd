@@ -4,19 +4,209 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- The Harder You Try….
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Other past medical history
+- Exam:
+- Workup:
+- Serologic Testing
+- Physiologic Testing:
+
+## Slide outline
+### Slide 1
+- The Harder You Try….
+- Brian Locke
+- PGR 10-20-2022
+### Slide 2
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Played football in high school – no limitation
+- Diagnosed with asthma during his 20s while in the military. Had exacerbations leading to ED visits. Inhalers helped dramatically.
+- Heavy artillery in Bosnia & Iraq. 23 years of service. +burn pits and other fumes (and dusts)
+- Diagnosed with sleep apnea. On PAP
+### Slide 3
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Early 2010s – living in ID. Several admissions for respiratory failure.
+- 2019 referred to National Jewish. Collapse and peri-respiratory arrest during pulmonary function tests. Intubated in PFT lab with reportedly normal respiratory mechanics immediately after.
+- Referred to U of U. Tracheostomy placed by local expert for laryngospasm (not noted on laryngoscope)
+- Ongoing dyspnea, coughing paroxysms after tracheostomy placed. “Airway inspected during forced expiration and coughing with mild dynamic airway collapse observed.”
+### Slide 4
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- 5/2021 Subsequent bronchoscopy reveals severe anterior-posterior trachea-bronchial collapse. TBM diagnosed
+- 5-10/2021 – silicon Y-stent placed. Symptoms improve.
+- However, has recurrent episodes of mucus plugging in the Y-stent lead to severe, acute respiratory failure requiring intubation and therapeutic suctioning.
+- Y-sent has to be removed (9/2021)
+- Continues on BPAP through
+- tracheostomy when at rest or
+- asleep for ‘sleep apnea’
+### Slide 5
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Given occupational exposure and ’restrictive spirometry’, undergoes lung biopsy to evaluate for burn-pit lung
+- 7/2017: Not acceptable/repeatable: TET, unable to obtain inspiratory loop.
+- Robotic LUL&LLL Wedge Resection shows: ‘MILD CHRONIC BRONCHIOLITIS, SCATTERED INTRA-ALVEOLAR PIGMENTED MACROPHAGES, AND MODERATE TO FOCALLY SEVERE MYOINTIMAL THICKENING OF SMALL ARTERIES ’ Rare carbon-pigment deposition, rare hemosiderin-laden macrophages. No granulomas, no fibrosis or muscular hypertrophy. No evidence of constrictive bronchiolitis. No polarizable material notded. No cellular interstitial infiltrates.
+### Slide 6
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Continues to have copious mucus secretions requiring around the clock secretion suction (wakes up at night to suction).
+- Hospitalized for COVID respiratory failure and superimposed bacterial pneumonia.
+- Has grown acinitobacter (R to zosyn), Enterobacter (R to unasyn), Psuedomonas (non aerogunosa), serratia (R to CTX), aspergillus fumigatus,
+- Recurrent antibiotic course as outpatient through PICC – ertapenem, micafungin 4-6 weeks.
+- Steroid dependent, 10mg daily but q1-2 month 40mg prednisone courses for exacerbations.
+- These have not helped.
+### Slide 7
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- 9/2021 Consultation with thoracic surgeons re: tracheal reconstruction
+- High risk surgery given recurrent pulmonary infections, high risk for peri-operative respiratory failure.
+- ‘Would like for XXX to have a good 6 months with stability: improvement and no hospitalizations and then discuss proceeding with surgical intervention.’
+- After discussing risks of harms and chance of benefit, opts against
+### Slide 8
+- Other past medical history
+- PMHx: severe PTSD. ‘HFpEF’, paroxysmal AFib, GERD, Hypothyr
+- Surgical history: Surgical tracheostomy 2019, surgical lung biopsy 2020, AF ablation 2014. Thyroidectomy 2014 (apparently due to concern for tracheal compression), Neck Fusion C6-7 (2014)
+- Meds: roflumilast, triple inhalers, 9% saline, anti-histamine, clonazepam for anxiety, flecainide, apixaban, torsemide, omeprazole, spironolactone, amitiptylene, LT4
+- Social: lives in rural ID w/ girlfriend. Medically retired. Lifetime nonsmoker / non-vaper.
+### Slide 9
+- Exam:
+- BMI 40
+- 8-0 uncuffed XLT trach in place. Able to speak in full sentences with occlusion of the tracheostomy. BPAP adapter fits well. Using humidified trach mask (via AIRVO). Whitish sputum suctioned. Mild purulent material at stoma
+- Regular rhythm without murmurs. Appears euvolemic.
+- Tachypneic (RR 40-60). 2-3 word dyspnea. ‘Guppy breathing’
+- Absolutely cannot lie flatter than 30 degrees, regardless whether on BPAP.
+### Slide 10
+- Workup:
+- TTE: moderately enlarged LA, but normal LVEF, normal E/e’, normal TAPSE, normal RV function, collapsible IVC.
+- CT Scan:
+### Slide 11
+- Serologic Testing
+- IgE 1142
+- Aspergillus specific IgE 5.31
+- Aspergillus IgG negative
+- Aspergillus from respiratory culture
+- Eos 290 on prednisone 10mg (recent 40mg)
+- HCO3- always 22-24
+- pH, PaCO2, PaO2 always normal (uses o2 via Airvo for humidification and dyspnea)
+### Slide 12
+- Physiologic Testing:
+### Slide 13
+- Physiologic Testing: Precedex, Seated +30
+### Slide 14
+- Physiologic Testing: Precedex, Supine
+### Slide 15
+- Applied Respiratory Physiology
+- Why can this patient not lie flat, even while on BPAP?
+- Does/did this patient really have both TBM and laryngospasm? Why?
+- Is the tracheostomy helping or hurting?
+- Does this patient still have sleep apnea?
+- Why does he develop ‘guppy breathing’
+- What workup do y’all want to figure out what to do?
+### Slide 16
+- Is this sleep apnea?
+- Definitely obstructive, probabe hypopneas
+- Any relation to sleep? (supine/seated)
+- Anatomic propensity to airway collapse
+- Dilator Muscle Control (ish – membraneous trachea has smooth muscle)
+- Sleep Arousal Threshold
+- Ventilatory Control (opposite influence)
+- TBM
+- OSA
+- Obstruction during exhalation
+- Obstruction during inhalation
+- Increased intrathoracic pressure during episodes
+- Decreased intrathoracic pressure during episodes
+- Pneumatic splint (PEEP) works
+### Slide 17
+- Re: laryngospasm and tracheostomy?
+- Methods to increase end-expiratory pressure are adaptive
+- Pursed lip breathing
+- Laryngospasm (exh?)
+- Tracheostomy’s influence on PEEP?
+- He thinks it helped (diagnosis by therapeutic response is challenging)
+- Currently in place to help facilitate mucus secretions…
+### Slide 18
+- Graham J. Annals of PGR (2022)
+- ISHAM Criteria for ABPA-S
+- Existing Asthma dx
+- Imaging limited, no known bronchiectasis but definitely large volume mucus
+- Aspergillus on cx
+- On 10mg+ prednisone
+- IgE 1200 (x2)
+- Eos 300ish range (x many)
+### Slide 19
+- Why Orthopnea?
+- Usual mechanisms of orthopnea
+- Increased venous return
+- Upward displacement of abdomen
+- Increased diaphragm dependence
+- Could increased superior intrapleural pressure cause collapse?
+- … but would sedation change?
+### Slide 20
+- Why Orthopnea?
+- Patient S.M. 44F bilateral amygdala destruction due to Urbach-Wiethe Dz
+- No experience of fear in everyday life or conventional experimental stimuli (e.g. exposure to large spiders) since childhood
+- FiCO2 35% → panic
+- Fear from air hunger bypasses amygdala
+- We don’t fear asphyxiation the same way we fear anything else
+### Slide 21
+- Air Hunger: Risk of PTSD?
+- 55 survivors of torture: asphyxiation (waterboarding) strongest predictor of PTSD
+- No ceiling effect (risk of PTSD) to repeat episodes: nearly unique
+- 279 survivors of torture in Eastern block: uncontrollability leads to hopelessness, second most aversive (only after rape)
+- DyStress – REVA Network prospective cohort
+- 2016-2018; N612. Patients requiring 24+ hrs of IMV, enrolled once able to communicate. Assessed daily
+- 762 assessed but not enrolled – mostly couldn’t communicate.
+- Exposure: “Are you having trouble breathing now”, 0-10 VAS to quantify
+- Choose between: air hunger, excessive respiratory effort. Also, anxiety+pain
+- Outcomes: 34% dyspnea @ enrollment (71% air hunger), severity 5
+- ICU LOS: 6d vs 6d for dyspneic and non-dyspneic
+- 90d interview: PTSD – 29% vs 13%; rate highest in patients choosing “Air Hunger”
+- Independently associated in multivariable model (OR 2.47) account for other chars
+- Limitation: unknown if the rate of dyspnea (or recollection) is ↑ or ↓ in patients unable to communicate.
+### Slide 22
+- Does Starling Explain This?
+- Review: Effort independent portion of exhalation curve – increases in driving pressure no longer increase flow
+- Starling: airway collapses whenever Poutside > Pinside
+- Quiet breathing -> Ohmic resistor (intrapleural pressure remains subatmospheric or close, airway remains stented open)
+- Forced exhalation -> Starling resistor (muscle activity increases intrapleural pressure earlier collapse of the airway)
+- Equal Pressure Point:
+- Upstream, airway behaves like an Ohmic resistor
+- Downstream, airway behaves like a Starling Resistor
+- Normal airway: some limit to maximal “Starling-ness”
+- TBM: no limit? Would not lead to full flow cessation, but may reduce flow
+### Slide 23
+- Negative effort dependence
+- Starling model predicts no effort dependence.
+- In practice, negative effort dependence is observed (~50% of airway obstruction events for OSA)
+- Flow-mediated suction? Tissue folding? Greater proportional obstruction of mucus?
+### Slide 24
+- Why ‘Guppy Breathing’
+- Dynamic hyper-inflation
+- Elevated work for same Ve
+- Mal-adaptive response
+### Slide 25
+- Why Torsemide?
+- Totally normal echo
+- Periodic increase in RV afterload?
+- Opposite effect of classic Post-obstructive Pulmonary Edema/POPE (positive, not negative, intrathoracic pressure)
+- Clear lungs, but congested right heart?
+### Slide 26
+- What do we do?
+- CBT (rather unique skillset needed; pulmonary rehab has been counterproductive)
+- Downsize / decannulate tracheostomy?
+- Mepolizumab? (or higher dose pred & antifungal)
+- Revisit tracheoplasty?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- The Harder You Try….
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Other past medical history
+- Exam:
+- Workup:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- The Harder You Try….
+- Case: 60M Veteran from ID to establish in VA pulmonary clinic due to recurrent infections, tracheostomy, and dyspnea.
+- Other past medical history
+- Exam:
+- Workup:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +223,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PGR 2022-10-20.pptx](archive/Presentations/PGR%202022-10-20.pptx)
+- [Presentations/PGR 2022-10-20.pptx](../../archive/Presentations/PGR%202022-10-20.pptx)
 
 ## Source materials
-- [Presentations/PGR 2022-10-20.pptx](archive/Presentations/PGR%202022-10-20.pptx)
+- [Presentations/PGR 2022-10-20.pptx](../../archive/Presentations/PGR%202022-10-20.pptx)

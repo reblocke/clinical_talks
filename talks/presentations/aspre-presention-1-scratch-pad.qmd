@@ -4,19 +4,74 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Brian Locke ASPIRE Presentation
+- What I’m All About:
+- Why Hypercapnia:
+- Syndromes; Nosology
+- Goal: identify everyone who fits the syndrome of Hypercapnic RF – so that we can begin this process.
+- Critique of the Sufficient-Component Model
+- Consider this as a missing data problem? What is the propensity of p(ABG)?
+- Comp Sci. Dorks like systems.
+- Initially: believer in the IHI / Evidence-Practice gap: If we could just get people to do the right (known) thing, we’d drastically improve care
+- Overton window: range of policies acceptable to the population
+- -> Exchange policies w process improvements: In healthcare, there is a narrow Overton Window of improvements one can make to improve care: ie. Sepsis 30cc/kg
+- Drive to research: I’m interested in how we know what to do for each patient: how can we move the window? Start w “Clinical Epidemiology”?
+
+## Slide outline
+### Slide 1
+- Brian Locke ASPIRE Presentation
+### Slide 2
+- What I’m All About:
+- Comp Sci. Dorks like systems.
+- Initially: believer in the IHI / Evidence-Practice gap: If we could just get people to do the right (known) thing, we’d drastically improve care
+- Overton window: range of policies acceptable to the population
+- -> Exchange policies w process improvements: In healthcare, there is a narrow Overton Window of improvements one can make to improve care: ie. Sepsis 30cc/kg
+- Drive to research: I’m interested in how we know what to do for each patient: how can we move the window? Start w “Clinical Epidemiology”?
+- How do we predict what will happen to a patient? Diagnose+Data
+- How to do this? Think more sharply, collect and analyze data better.
+### Slide 3
+- Why Hypercapnia:
+- Presenting my framing here not because the data is new, but I’m curious if y’all agree with the framework as I propose it:
+- Why Hypercapnic Respiratory Failure?
+- 80,000 hours argument
+### Slide 4
+- Syndromes; Nosology
+- Is this the right approach? Studying Hypercap RF vs Each cause.
+- Several underwhelming records: we still don’t really know what to do for sepsis; ARDs is slightly better but not clear benefits are specific to that group
+- Not diseases
+- Benefit of syndromes: easily clinically recognizable: think improvements in Sepsis quality of care.
+- Bad for: identifying who will benefit from a given intervention – as patients presumably respond to diseases based on their physiologic state (ie. interventions have their effect by changing physiology: this is modern medicines ‘cosmology’). – key is to identify prognostic features; relative effect modifiers
+- Promise is in phenotyping – breaking down the syndromes into subsets with predictable responses / implications, presumably based on physiology. Maybe it corresponds to current diagnosis, maybe other info (? For hypercap: maybe it has to do with cant vs wont breathe, or markers of control system stability vs respiratory frailty; the PIRO model (predisposition, insult, response, organ dysfunction)
+### Slide 5
+- Goal: identify everyone who fits the syndrome of Hypercapnic RF – so that we can begin this process.
+- Why do this? I think our current definitions – E.g. OHS – miss a lot of people who share physiologic barriers.
+### Slide 6
+- Critique of the Sufficient-Component Model
+- Consider PKU: Genetic defect causes disease when phenylalinine consumed.
+- -> in practice, everyone eats phenylalinine: genetic attributable fraction 100%
+- -> however, modification of diet avoids development. Thus, if phenylalanine consumption varies then environment contributes
+- Consider, the hypothetical world where everyone has the PKU gene, but phenylalanine varies (lower diagram) – then, the disease is ALL environmental.
+- what is the relationship to mendelian randomization?
+- -> population attributable fraction (and percent variance explained) is not generalizable, and changes as covariates change. Applied to Hypercapnia?
+### Slide 7
+- Consider this as a missing data problem? What is the propensity of p(ABG)?
+- Could P(ABG) – by provider ideall (or institution) work as an instrument? (to wiggle the likelihood of a diagnosis… could you test that? Are high p(ABG) environments or providers more likely to apply the diagnosis?
+- [ ] casual inference podcast on instrumental variables.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Brian Locke ASPIRE Presentation
+- What I’m All About:
+- Why Hypercapnia:
+- Syndromes; Nosology
+- Goal: identify everyone who fits the syndrome of Hypercapnic RF – so that we can begin this process.
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Brian Locke ASPIRE Presentation
+- What I’m All About:
+- Why Hypercapnia:
+- Syndromes; Nosology
+- Goal: identify everyone who fits the syndrome of Hypercapnic RF – so that we can begin this process.
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +88,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/ASPRE Presention 1 Scratch Pad.pptx](archive/Presentations/ASPRE%20Presention%201%20Scratch%20Pad.pptx)
+- [Presentations/ASPRE Presention 1 Scratch Pad.pptx](../../archive/Presentations/ASPRE%20Presention%201%20Scratch%20Pad.pptx)
 
 ## Source materials
-- [Presentations/ASPRE Presention 1 Scratch Pad.pptx](archive/Presentations/ASPRE%20Presention%201%20Scratch%20Pad.pptx)
+- [Presentations/ASPRE Presention 1 Scratch Pad.pptx](../../archive/Presentations/ASPRE%20Presention%201%20Scratch%20Pad.pptx)

@@ -4,19 +4,194 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- OSA and Hypoventilation Literature Review
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- New set point: Long term facilitation
+- Current classification scheme: chronic OHS
+- Why might hypercapnic respiratory failure commonly result from sleep disordered breathing?
+- Sufficient-Component Cause Model
+- Causes of Hypercapnia: Hypothesis
+- Multicausality
+- Untreated OSA and hypoventilation disorders: mechanisms of interaction
+- OSA that is severe can lead to hypercapnia
+- Contribution of Apneas – CO2 loading and unloading
+
+## Slide outline
+### Slide 1
+- OSA and Hypoventilation Literature Review
+### Slide 2
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+### Slide 3
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- Can’t breathe - won’t breathe distinction initially noted between whether patients with hypercapnia were generating the maximal amount of ventilation they could.
+### Slide 4
+- New set point: Long term facilitation
+- Ventilatory Long-Term-Facilitation: generally an INCREASED CO2 response in response to intermittent hypoxemia.
+- Is there a converse term for decreased ventilatory responsiveness in response to hypercapnia?
+- Although ventilatory LTF has not been reported as such in OSA patients, when compared to age, sex and BMI matched non-OSA participants, untreated OSA patients exhibit a reduced PETCO2, reduced CO2 reserve and increased CO2 sensitivity below eupnea, which reflects the expression of ventilatory LTF and ventilatory feedback (47, 55). Following CPAP treatment PETCO2 and the CO2 reserve increased in the OSA patients, further supporting the possible presence of ventilatory LTF in untreated OSA patients (47).
+- x ] https://www.frontiersin.org/articles/10.3389/fneur.2018.00896/full
+### Slide 5
+- Current classification scheme: chronic OHS
+- When OSA occurs in conjunction with chronic hypercapnia – it is termed obesity hypoventilation syndrome if there are no other contributing factors. (it should be noted, that 10% of patients meeting OHS criteria do not have diagnosable OSA)
+- However, there are no unique symptoms that differentiate OHS from OSA. Can be considered as a spectrum of abnormality as in the ERS classification system.
+- Vs Component cause chronic hypercapnia
+- Vs Acute (or acute recurrent hypercapnia; or acute on chronic?)
+### Slide 6
+- Why might hypercapnic respiratory failure commonly result from sleep disordered breathing?
+- 1. Loss of the wakefulness drive to breath
+- 2. Lower chemoreflex sensitivity
+- Numerous studies have documented blunted responsiveness to CO2 during sleep attributable to both an increase in the set point for CO2 and to a decrease in the ventilatory response slope to increasing PCO2. 7–11 (from doi:10.1016/j.jsmc.2014.05.014 )
+- In addition to changes in body mechanics making the reserve smaller
+- This occurs first/mostly in REM (both because drive and mechanics are most altered)
+- REM sleep hypoventilation is the first to develop, as ventilation in this stage of sleep is dependent on only the diaphragm and the central drive to breath. (normal PaCO2 increased 4-6 mmHg)
+- So more properly, anything cause daytime hypercapnia is likely to show up as nocturnal hypercapnia first.
+### Slide 7
+- Sufficient-Component Cause Model
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient cause sets, this component must be present
+- 3 Different Sufficient Causes
+- A – J Component Cause
+- A Necessary Cause
+### Slide 8
+- Causes of Hypercapnia: Hypothesis
+- Severe COPD
+- Obesity Hypovent
+- ALS
+- COPD as Component Cause
+- Muscular weakness as Component Cause
+- Obesity as Component Cause
+- Opiates as Component Cause
+- Loop Diuretics as Component Cause
+- Sleep Apnea as Component Cause
+### Slide 9
+- Multicausality
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- Component cause: a factor that, if not present, no disease would occur
+- Necessary cause: in all sufficient sets, this component must be present
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- Untreated OSA and hypoventilation disorders: mechanisms of interaction
+- Hypercapnic drive to breath decreased by narcotics and sleep. Decreased by sleep deprivation (Cooper KR, Phillips BA. Effect of short-term sleep loss on breathing. J. Appl. Physiol. 1982; 53: 855–8.)
+### Slide 12
+- OSA that is severe can lead to hypercapnia
+- During apneic events there is no ventilation. Thus, in order to maintain eucapnia, hyperventilation has to make up this deficit. If inter-event duration is >3:1, accumulation can occur. If this goes on, the bicarbonate retention may lead to daytime hypercapnia
+- Berger KI, Ayappa I, Sorkin IB, Norman RG, Rapoport DM, Goldring RM. CO(2) homeostasis during periodic breathing in obstructive sleep apnea. J. Appl. Physiol. (1985) 2000; 88: 257–264.
+- Norman RG, Goldring RM, Clain JM, Oppenheimer BW, Charney AN, Rapoport DM, Berger KI. Transition from acute to chronic hypercapnia in patients with periodic breathing: predictions from a computer model. J. Appl. Physiol. (1985) 2006; 100: 1733–1741.
+- Ayappa I, Berger KI, Norman RG, Oppenheimer BW, Rapoport DM, Goldring RM. Hypercapnia and ventilatory periodicity in obstructive sleep apnea syndrome. Am J Respir Crit Care Med. 2002;166(8):1112-1115
+### Slide 13
+- Contribution of Apneas – CO2 loading and unloading
+### Slide 14
+- OHS pathophysiology
+- Complex and multifactorial:
+- Can’t breathe components (limited ability to increase ventilation) from external compression of the thorax, increased VO2 creation due to enlarged body size.
+- However, most patients with BMI < 50 don’t have spirometric abnormalities; obese patients are often able to voluntarily decrease their PaCO2 to normal range by volitional hypoventilation.
+- Won’t breathe components
+- OHS differentiated from obese by decreased HCVR – though unclear if this is cause or effect
+- Role of Leptin here?
+- HCO3 retention in the day (ie. diuretics or renal dysfunction)
+- Mechanisms that explain why HCVR not fully explored; may relate to sensitization; inherent optimization for increased work of breathing
+- May be some variation of how much is attributable to severe OSA vs respiratory mechanic issues between different people diagnosed with OHS.
+### Slide 15
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- “In subjects with chronic hypercapnia, there is an increased blood bicarbonate concentration, which may inhibit the ventilatory response to CO2 and decreases mouth occlusion pressure response during wakefulness and sleep [50]. When normocapnic, overlap patients can however have a normal or even enhanced ventilatory response to CO2 [51]. This is in contrast to the data on decreased hypercapnic (HCVR) and hypoxic (HVR) ventilatory response in OHS, as compared to obese, non-hypercapnic subjects [52].” – all these are pretty old references
+- Differentiation of OHS and OVS
+- OVS: can be non-obese, can have either maintained/elevated chemical drive to breath or decreased drive to breath
+- Reflects the gradual adaptation of chemoreceptors to hypercapnia / HCO3 elevation.
+- OHS: must be obese, must not have another chronic pulmonary condition; generally, seems to be mediated by a decreased drive to breath
+- Obesity: default is increased HCVR; if this fails, you get OHS find citation for this.
+### Slide 16
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- Spirometric abnormalities re: OHS pathogenesis
+- Note: for the purposes of this manuscript, it may make sense to point out that these are CONSEQUENCES of respiratory derangments, not consequences of them
+- “Various compensatory mechanisms are adopted by morbidly obese subjects to maintain eucapnia, despite chronically loaded breathing [82], but are impaired or overwhelmed in OHS.
+- Piper AJ, Grunstein RR: Big breathing: the complex interaction of obesity, hypoventilation, weight loss, and respiratory function. J Appl Physiol 2010,108:199–205.
+- Summary of Spirometry changes:
+- FVC, TLC, RV – 0.5% decrease per BMI
+- FRC and ERV – 1% decrease per BMI unit
+- 99. Jones RL, Nzekuwu MU: The effects of body mass index on lung volumes. Chest 2006, 130(3):827–833.
+- Due to ventilating at a lower volume, compliance decreases by:
+- 20% in eucapnic obese
+- 60% in hypercapnic obese (OHS only) - so possibly some component of can’t breathe
+- [110.] Sharp JT, Henry JP, Sweany SK, Meadows WR, Pietras RJ: The total work of breathing in normal and obese men. J Clin Invest 1964, 43:728–739.
+- Abdominal obesity, particularly when the patient is supine – also increased respiratory system inertance – leading to three fold increase work of breathing
+- [110,115]. 115. Lee MY, Linn CC, Shen SY, Chiu CH, Liaw SF: Work of breathing in eucapnic and hypercapnic sleep apnea syndrome. Respiration 2009, 77:146–153
+### Slide 17
+- Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- Ventilation control abnormalities in OHS
+- VO2 higher, even at rest. Thus, higher drive to breath required [126, 127]
+- OHS patients fail to increase [52, 95]; can voluntarily regain eucapnia [86]
+- “hypercapnic ventilatory response is < 1 l/min/mmHg in OHS, between 1.5 and 2.5 l/min/mmHg in eucapnic obese individuals and 2-3 l/min/mmHg in healthy subjects [51,128,129].”
+- Improves with PAP [130, 131]
+- “It has been hypothesized that elevated leptin levels may be a compensatory mechanism by which obese subjects remain normocapnic, but resistance to leptin may develop [140].”
+- “Strikingly, leptin levels are a better predictor of hypercapnia than the degree of adiposity [148]”
+### Slide 18
+- Untreated OSA and hypoventilation disorders: individual effects
+- Note: because OHS is defined as requiring the development of hypercapnic respiratory failure for diagnosis, it will have a worse morbidity than the overlap syndrome, which allows for patients both with respiratory failure, and those who have not developed it.
+- Thus, OVS only develops the ventilation control issues present in all cases of OHS at the end-stage.
+### Slide 19
+- Untreated OSA and hypoventilation disorders: societal effects
+- 90% of patients with OSA have OSA, with the remainder having sleep hypoventilation - Olson AL, Zwillich C: The obesity hypoventilation syndrome. Am J Med 2005, 118:948–956.
+- - add this to earlier slide
+- Conversely, only <25% with OSA and BMI over 40 develop OHS – thus clearly these are both component causes.
+- [ ] Review: Laaban JP, Chailleux E. Daytime hypercapnia in adult patients with obstructive sleep apnea syndrome in France, before initiating nocturnal nasal continuous positive airway pressure therapy. Chest 2005; 127: 710–715.
+### Slide 20
+- Societal burdens.
+- Both syndromes share a high prevalence, namely 10 to 20% for OHS in patients with OSA [96]
+- COPD found in 10% with OSA - [20-24 – 24 best].
+- The prevalence of overlap and OHS in the general population is estimated to be 1% and 0.37% respectively [20-23,96-98].
+- Effects:
+- [x]Overlap patients also more often present with COPD exacerbations than simple COPD patients (relative risk of 1.70) [16] and show a trend to less prednisolone use after treatment [28]. OHS patients who refused treatment with noninvasive ventilation, had a mortality rate of 46% over an average follow-up period of 50 months [88]. In overlap, reduced survival was reported in those refusing CPAP therapy (relative risk of 1.79) [15,184] of treatment
+### Slide 21
+- [ ] 1 - . Mokhlesi B, Tulaimat A, Faibussowitsch I, et al. Obesity hypoventilation syndrome: prevalence and predictors in patients with obstructive sleep apnea. Sleep Breath 2007;11:117–24.
+- [ ] Patients with OHS have higher healthcare utilization than comparable eucapnic obese patients - The use of health-care resources in obesity-hypoventilation syndrome.Berg G, Delaive K, Manfreda J, Walld R, Kryger MH Chest. 2001 Aug; 120(2):377-83.
+### Slide 22
+- Obesity as shared (or component) cause
+- Sleep is a period of vulnerability to the respiratory system in the obese: due to recumbent position (abdominal girth -> greater reduction in the already reduced ERV).
+- This can predispose to reduced tracheal traction on the pharynx -> increased collapsibility of the upper airway.
+- Additively, can lead to sleep hypoventilation, which in turn predisposes to hypoventilation.
+### Slide 23
+- PMID: 30359410
+- Acute Hypercap survivors Geneva 2012-2015 (n197) -> 78 enrolled. 53 completed sleep study 3 months after discharge. AHI 20+ used for dx. Spiro, STOP-Bang also performed.
+- 36 had Mod-severe OSA, 17 had no or mild OSA.
+- Univeriate Analsysi: FEV1 & RV/TLC better (collider bias?), BMI higher. No diff in symptoms, Age, gender, comorbidities
+- Multivariate: FEV1, RV/TLC, ESS (ish), neck circumference indep predictors
+- STOP-BANG AUROC 0.58!!! (worthless)
+### Slide 24
+- Differentiating OVS and OHS
+- doi:10.1186/1465-9921-14-132 Cite this article as: Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.
+- https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+### Slide 25
+- Hypercapnia treatment after exacerbation slide: wait 2-4 weeks in hypercapnia COPD, immediatelely in OHS. Not known what to do in OVS.
+### Slide 26
+- Sleep disruption – impaired co2 handling
+- 66. Li Y , Panossian LA , Zhang J , et al . Eff ects of chronic sleep fragmentation
+- on wake-active neurons and the hypercapnic arousal
+- response . Sleep . 2014 ; 37 ( 1 ): 51 - 64 .
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- OSA and Hypoventilation Literature Review
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- New set point: Long term facilitation
+- Current classification scheme: chronic OHS
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- OSA and Hypoventilation Literature Review
+- https://pubs.asahq.org/anesthesiology/article/22/2/324/15815/Hypercapnia-versus-Hypercarbia
+- Fahey PJ, Hyde RW. “Won’t breathe” vs “can’t breathe”. Detection of depressed ventilatory drive in patients with obstructive pulmonary disease. Chest 1983;84:19-25. PMID: 6407808
+- New set point: Long term facilitation
+- Current classification scheme: chronic OHS
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +208,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/OSA & Hypoventilation lit review.pptx](archive/Presentations/OSA%20%26%20Hypoventilation%20lit%20review.pptx)
+- [Presentations/OSA & Hypoventilation lit review.pptx](../../archive/Presentations/OSA%20%26%20Hypoventilation%20lit%20review.pptx)
 
 ## Source materials
-- [Presentations/OSA & Hypoventilation lit review.pptx](archive/Presentations/OSA%20%26%20Hypoventilation%20lit%20review.pptx)
+- [Presentations/OSA & Hypoventilation lit review.pptx](../../archive/Presentations/OSA%20%26%20Hypoventilation%20lit%20review.pptx)

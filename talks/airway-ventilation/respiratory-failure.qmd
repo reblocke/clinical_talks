@@ -4,24 +4,28 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- ##Ventilatory Failure
+- Work of breathing
+- Not synonymous with respiratory rate
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- ##Ventilatory Failure
+- Work of breathing
+- Not synonymous with respiratory rate
+- Phasic contraction of sternocleinomastoid is most sensitive exam maneuver.
+- Think about the effect of deadspace (Vd/Vt) - increase will lead to an increased minute ventilation required to maintain a given pCO2.
+- Consider requirements (not necessarily hypercarbic, e.g. in DKA)
+- Why do we get short of breath in pneumonia? TODO
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- ##Ventilatory Failure
+- Not synonymous with respiratory rate
+- Phasic contraction of sternocleinomastoid is most sensitive exam maneuver.
+- Think about the effect of deadspace (Vd/Vt) - increase will lead to an increased minute ventilation required to maintain a given pCO2.
+- Consider requirements (not necessarily hypercarbic, e.g.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Respiratory Failure
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +34,7 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/5191101d-2ab3-4827-93bb-7a01313a6380
 
 ## Source notes
 
@@ -38,4 +42,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/respiratory-failure.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/respiratory-failure.md](archive/Clinical%20Practice%20Notes/respiratory-failure.md)
+- [Clinical Practice Notes/respiratory-failure.md](../../archive/Clinical%20Practice%20Notes/respiratory-failure.md)

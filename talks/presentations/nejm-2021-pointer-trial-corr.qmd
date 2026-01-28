@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial corr.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202021%20POINTER%20trial%20corr.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial corr.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202021%20POINTER%20trial%20corr.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial corr.pdf](archive/Presentations/Pancreatitis%20Lit/NEJM%202021%20POINTER%20trial%20corr.pdf)
+- [Presentations/Pancreatitis Lit/NEJM 2021 POINTER trial corr.pdf](../../archive/Presentations/Pancreatitis%20Lit/NEJM%202021%20POINTER%20trial%20corr.pdf)

@@ -4,19 +4,140 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Pathophysiology of Hypercapnia
+- CO2: Exhaust of Metabolism
+- Why is PaCO2 so tightly controlled?
+- There is no apparent harm from transient CO2 elevation
+- CO2 Kinetics
+- Why does the body use PaCO2 35?
+- Why doesn’t PE cause hypercapnia?
+- Metabolic Parabola
+- How much demand can people handle?
+- The PCO2/Ventilation Response ‘Curve’
+- Measuring Controller Sensitivity
+- Breath Holds
+
+## Slide outline
+### Slide 1
+- Pathophysiology of Hypercapnia
+- Brian Locke, MD
+### Slide 2
+- CO2: Exhaust of Metabolism
+- Aerobic respiration:
+- carbohydrates: C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + 38 ATP
+- RER: VCO2/VO2 6 / 6 1
+- Fat (palmitic acid): C16H32O2 + 23 O2 → 16 CO2 + 16 H2O + 129 ATP
+- RER: VCO2/VO2 16 / 23 ~0.7
+- Glycolysis:
+- Glucose + 2[NAD+] + 2[ADP] + 2[Pi] → 2 Pyruvate + 2[NADH] + 2H+ + 2[ATP] + 2H2O
+- H+ accumulates, H+ + HCO3 → H2CO3 → H2O + CO2
+- RER: VCO2/VO2 1 / 0 ∞, combined with aerobic respiration RER increases.
+### Slide 3
+- Why is PaCO2 so tightly controlled?
+- What is a normal PaCO2? 95% of ‘normals‘ fall within this range
+- Sea level: 38.3 mmHg, 2 SD (95% CI) +/- 7.5 mmHg. ULN 45 mmHg
+- Elevation (4500 ft): 33.5 mmHg, 42 mmHg is ULN
+- Consider: during exercise there is no change in PaCO2 across a very wide range of VCO2
+- The PaCO2 value is kept with 3 mmHg throughout the Day (Nunn’s) except for transient elevations up to 10 mmHg during REM sleep.
+- The expected PaO2 declines with age (roughly 0.24 mmHg/year), PaCO2 does not change.
+### Slide 4
+- There is no apparent harm from transient CO2 elevation
+- Respiratory failure: defined as failure to maintain normal arterial blood gas partial pressures.
+### Slide 5
+- CO2 Kinetics
+- VA K VCO2 / PaCO2
+- Alveolar ventilation is proportional to the ratio between CO2 production and the level of CO2 in the blood.
+- VA VE (1- [Vd/Vt])
+- Alveolar ventilation is the minute ventilation minus the fraction of minute ventilation that does not participate in gas-exchange (aka wasted ventilation fraction, or deadspace fraction)
+- PaCO2 K VCO2 / VE (1-[Vd/Vt])
+### Slide 6
+- Why does the body use PaCO2 35?
+- ⬇️ VA K VCO2 / PaCO2 ⬆️
+- The same pH can be achieved at any PaCO2 by adjusting the bicarbonate: pH 6.1 + log [ HCO3 / (0.03 pCO2) ]
+- Ventilation is metabolically expensive
+- work of breathing 2% of O2 at rest
+- increases hugely with exercise or pathology
+- Why doesn’t the body operate with with a PaCO2 of 70? (and an HCO3 of 44 pH 7.42)
+- Davenport Diagram; visualizes Henderson-Hasselbach Relationships
+### Slide 7
+- Why doesn’t PE cause hypercapnia?
+- ⬆️ PaCO2 K VCO2 / VE (1-[Vd/Vt ⬆️])
+- PaCO2 changing ALWAYS must indicate either a failure of the control system (won’t breathe), the mechanical systems response to an increase in demand or a constraint (can’t breathe), or both
+- Increase in demand for VE: increase in VCO2, increased in Vd/Vt, (compensation for metabolic acidosis)
+- Constraints: load on respiratory muscles or reduction in their strength
+### Slide 8
+- Metabolic Parabola
+- If you hold VCO2 and Vd/Vt constant and plot:
+- PaCO2 K VCO2 / VE (1-[Vd/Vt])
+- Hypothetical move toward a new higher CO2 set-point to reduce work of breathing
+- Controller Response: Hypercapnic Response to Ventilation
+- Hypothetical demand from metabolic acidosis
+### Slide 9
+- How much demand can people handle?
+- Back-of-the-envelope math with CPET normal values give a sense
+- Normal 70kg, 60-year-old female VO2 at peak 1.66 L/min (24.5 mL/kg/min)
+- 3.5 mL/min/kg 1 met; thus, normal capacity of 7 Mets
+- Normal ventilatory reserve is 15% or more
+- Thus, normal individuals can tolerate ~8.8-fold increase in VCO2 without a change in PaCO2
+- Equivalent to an 89% Vd/Vt; this is why PE does not cause hypercapnia in the absence of control or mechanical system failure
+- TODO: normal values for MVV?
+### Slide 10
+- The PCO2/Ventilation Response ‘Curve’
+- Sensitivity of controller system: force an increase in PaCO2 and observe how much VE increases.
+- Represented by the straight, dashed line
+- Ventilation S (PCO2– B)
+- S is slope (Δ VE / Δ PaCO2)
+- B is the intercept at zero ventilation.
+- Steeper: more sensitive. Flatter: less sensitive
+- Normal range 0.5-8.0 L/min/mmHg (surprisingly wide)
+- 80% of subjects have a response between 1.5 and 5 L/min/mmHg
+- Controller Response: Hypercapnic Response to Ventilation
+### Slide 11
+- Measuring Controller Sensitivity
+### Slide 12
+- Breath Holds
+- PaCO2 causes an irresistibly strong urge to breathe in individuals with normal respiratory systems
+- on room air, typically near 50 mmHg (diaphragmatic contractions occur at PaCO2 ~46-49)
+- on supplemental oxygen, can tolerate much longer (highly trained apneass can increase their conventional breakpoint to critical hypoxia, which is 20-30 mmHg O2)
+- can be extended by rebreathing gas (the sensation of air hunger is partially mediated by lack of movement in / out)
+### Slide 13
+- Things that change controller sensitivity
+- Normal Controller: A
+- Opiate Controller: B (50% reduction in sensitivity)
+- Note: if opiate is administered, apnea can occur due to the absence of ‘hockey stick’ portion
+- Note2: PaCO2 doesn’t change all that much (7mmHg) despite decreased sensitivity (50%)
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- Can’t Breathe
+- Brain Curve
+- Ve the respiratory controller wants (if mechanical system intact)
+- Ventilation Curve
+- Actual Ve the mechanical system can achieve
+- Dissociation of the curves is air hunger
+- metabolic acidosis and hypoxemia steepens the brain curve slope
+- increased VCO2 and deadspace (metabolic parabola moves up)
+- Decreased compliance flattens ventilation curve
+- B. Pneumonia
+### Slide 16
+- How well does nl a-a exchange exclude obstructive lung da?
+- Mechanism of paco2 - not v/q matching bc co2 dissociation is linear so over and under ventilation CAN compensate - unlike V/Q matching’s effect on hypoxemia
+- Additionally, it is directly sensed and thus respiratory compensation occurs
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Pathophysiology of Hypercapnia
+- CO2: Exhaust of Metabolism
+- Why is PaCO2 so tightly controlled?
+- There is no apparent harm from transient CO2 elevation
+- CO2 Kinetics
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Pathophysiology of Hypercapnia
+- CO2: Exhaust of Metabolism
+- Why is PaCO2 so tightly controlled?
+- There is no apparent harm from transient CO2 elevation
+- CO2 Kinetics
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +154,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Hypercapnia Pathophysiology.pptx](archive/Presentations/Hypercapnia%20Pathophysiology.pptx)
+- [Presentations/Hypercapnia Pathophysiology.pptx](../../archive/Presentations/Hypercapnia%20Pathophysiology.pptx)
 
 ## Source materials
-- [Presentations/Hypercapnia Pathophysiology.pptx](archive/Presentations/Hypercapnia%20Pathophysiology.pptx)
+- [Presentations/Hypercapnia Pathophysiology.pptx](../../archive/Presentations/Hypercapnia%20Pathophysiology.pptx)

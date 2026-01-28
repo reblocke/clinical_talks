@@ -4,19 +4,553 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PGR Jan 30: What’s new with CO2Clinical Epidemiology of Hypercapnic Respiratory Failure
+- Overarching hypothesis
+- Background: Hypercapnic Respiratory Failure
+- Hypercapnia Projects
+- Utah Population Database
+- All Payor Claims DataUtah licensed payers and Medicaid report information on their members’ eligibilities and paid medical and pharmacy claims.Pre-research request: summary-level data (600$+150/hr)
+- How hypercapnic respiratory failure occurs
+- Next Steps:
+- Differences in the Diagnosis of Hypercapnic Respiratory Failure by Race and Ethnicity
+- Analysis
+- Main result
+- Why?
+
+## Slide outline
+### Slide 1
+- PGR Jan 30: What’s new with CO2Clinical Epidemiology of Hypercapnic Respiratory Failure
+- Presenter: Brian W Locke MS MSCI
+- Assistant Professor of Clinical Investigation
+- Pulmonary and Critical Care
+- Intermountain Medical Center
+- COI: MTN, time-series machine learning on continuous sensor data.
+- Funding:
+- American Thoracic Society Academic Sleep Pulmonary Integrated Research/Clinical Fellowship
+- NIH NHLBI T32 U of U PCCM
+- Intermountain Fund PCCM Seed Grant: Follow-Up Needs after Discharge with Hypercapnia (FUND-Hypercapnia)
+- To be reviewed K23: Bioinformatics Tools to Quantify the Disease Burden Associated with Hypercapnia
+### Slide 2
+- Overarching hypothesis
+- Advice: ‘study what makes you mad’
+- The inpatient to outpatient care transition for patients with hypercapnic respiratory failure is horrible.
+- I suspect we’d achieve better outcomes by
+- systematically identifying patients with hypercapnia
+- Establishing an evidence base for undifferentiated ventilatory failure
+- consistently implementing measures to mitigate their risks.
+### Slide 3
+- Background: Hypercapnic Respiratory Failure
+- Population-standardized prevalence PaCO2 > 45 mmHg after excluding iatrogenic causes:
+- 150 per 100,000 person/year
+- Inpatient ICD code for Hypercapnic Respiratory Failure
+- 23% 30d readmission rate
+- Same as CHF, more than MI
+- Usually (66%) with recurrent hypercapnia
+- Common contributors to Hypercapnic Respiratory Failure:
+- Advanced Age
+- Opiate Use
+- Obesity
+- Advanced Lung Dz
+- Multimorbidity
+### Slide 4
+- Hypercapnia Projects
+- Hypercapnic Respiratory Failure Diagnostic Workups in Utah
+- Racial inequity in diagnosis?
+- Case definitions for hypercapnia are inconsistent
+- Methods of identification: TcCO2 and machine learning.
+### Slide 5
+- Utah Population Database
+### Slide 6
+- All Payor Claims DataUtah licensed payers and Medicaid report information on their members’ eligibilities and paid medical and pharmacy claims.Pre-research request: summary-level data (600$+150/hr)
+- Table 1: Extrapolated hypercapnic respiratory failure 1-yr period-prevalence by diagnosis codes in UT
+- Year
+- Hypercapnia Diagnosis
+- (per 100k persons)
+- 2016
+- 133.5
+- 2017
+- 132.2
+- 2018
+- 143.3
+- 2019
+- 147.6
+- ICD-10-CM Codes for Hypercapnic Respiratory Failure
+- J96.02: Acute Respiratory Failure with Hypercapnia
+- J96.12: Chronic Respiratory Failure with Hypercapnia
+- J96.22: Acute and Chronic Respiratory Failure with Hypercapnia
+- J96.92: Respiratory Failure, unspecified with Hypercapnia
+- E66.2, Obesity with Hypoventilation
+- Utah
+- count
+- Any Diagnosis
+- 4064
+- 4104
+- 4520
+- 4728
+### Slide 7
+- How hypercapnic respiratory failure occurs
+- Apply relevant guideline:
+- CHEST 2023 NMD
+- ATS 2021 Hypercap. COPD
+- ATS 2019 OHS
+- What workup and management is indicated?
+- Hypothesis
+- Reality
+- Implied
+### Slide 8
+- TODO: No text extracted from this slide.
+### Slide 9
+- Next Steps:
+- Individual patient data is in regulatory approval
+- Recreate pre-research analysis, with additional covariates and outcomes
+- Covariates: prior diagnoses, demographics
+- Mediators: DME orders, Medication Fills, Specialist Referrals, Diagnostic Testing
+- Outcomes: Presentation to ED/Urgent, Re-hospitalization, Mortality
+- Linkage to Intermountain Health:
+- cohort creation with lab data (ABG, VBG, Diagnostic Modeling)
+### Slide 10
+- Differences in the Diagnosis of Hypercapnic Respiratory Failure by Race and Ethnicity
+- Diagnosis disparities in hypoxemic respiratory failure are well documented; less is known about hypercapnic respiratory failure
+- Hypothesis: the method of diagnosis (ABG, VBG, or both) of hypercapnic respiratory failure differs between race/ethnicities, which has implications for treatment (device) qualifications
+- TriNetX (aggregated health records from 76 hospitals in the United States)
+- Adult encounters occurring between January 1 and December 31, 2022
+- Ambulatory, emergency department, and hospitalized patients
+- Non-missing race/ethnicity information
+### Slide 11
+- Analysis
+- 1°: Among patients who receive a diagnosis code for hypercapnic respiratory failure based on day-1 evidence,
+- Multinomial logistic regression, 3-outcomes ABG PaCO2 ≥ 45 mmHg only, VBG PCO2 ≥ 50 mmHg only, or ABG & VBG
+- adjust for the type of encounter (ambulatory, emergency, inpatient), age, sex, and region of the U.S. (West, Midwest, South, or Northeast)
+- 2°: Why?
+- Difference in propensity for ABG?
+- Different severity of disease?
+- Different propensity to label as Hypercapnia?
+### Slide 12
+- Main result
+- Day-1 Hypercapnia Evidence
+- Estimate
+- Non-Hispanic White
+- Non-Hispanic Black
+- Hispanic/
+- Latino
+- Non-Hispanic Asian
+- Non-Hispanic AI/AN
+- Non-Hispanic NH/PI
+- ABG only
+- Unadjusted
+- 7,857 (54.4%)
+- 1,579 (45.9%)
+- 488 (45.2%)
+- 160 (50.8%)
+- 51 (38%)
+- 23 (85%)
+- ABG and VBG
+- 4,189 (29.0%)
+- 1080 (31.4%)
+- 381 (35.3%)
+- 104 (33.0%)
+- 62 (47%)
+- 1 (4%)
+- VBG only
+- 2,410 (16.7%)
+- 784 (22.8%)
+- 210 (19.5%)
+- 51 (16.2%)
+- 20 (15%)
+- 3 (11%)
+- Odds Ratio
+- (Adjusted)
+- 1.0 (Ref)
+- 1.76
+- [1.60-1.94]
+- 1.04
+- [0.88-1.23]
+- 1.03
+- [0.75-1.39]
+- 0.8
+- [0.5-1.3]
+- 0.7
+- [0.2-2.3]
+- Average Marginal Effect (Adjusted)
+- 0 (Ref)
+- 8.8%
+- [7.2% to 10.5%]
+- 0.5%
+- [-1.7% to 2.8%]
+- 0.3%
+- [-3.8% to 4.5%]
+- -3%
+- [-9% to 3%]
+- -4.4%
+- [-17% to 8%]
+### Slide 13
+- Why?
+- Propensity for ABG & VBG
+- Different disease severity
+- Propensity for ICD label | CO2
+- Logistic GEE (encounter type, region, age, sex, cat. BMI)
+- Distribution of PCO2 | ABG, VBG
+- Density Plot
+- Logistic GEE (enctounter type, region, PCO2-spline, HCO3-spline)
+### Slide 14
+- Why?
+- Propensity for ABG & VBG
+- Different disease severity
+- Propensity for ICD label | CO2
+- Logistic GEE (encounter type, region, age, sex, cat. BMI)
+- Distribution of PCO2 | ABG, VBG
+- Density Plot
+- Logistic GEE (encounter type, region, PCO2-spline, HCO3-spline)
+### Slide 15
+- Why?
+- Propensity for ABG & VBG
+- Different disease severity
+- Propensity for ICD label | CO2
+- Logistic GEE (encounter type, region, age, sex, cat. BMI)
+- Distribution of PCO2 | ABG, VBG
+- Density Plot
+- Logistic GEE (encounter type, region, PCO2-spline, HCO3-spline)
+### Slide 16
+- Limitations
+- Inability to account for hospital- and provider- level behavior
+- Unable to control for all relevant confounders (eg disease severity)
+- potential for incomplete ascertainment of outcomes.
+- Difference in diagnosis vs Disparity in diagnosis?
+- Does this translate to downstream consequences?
+- Maybe VBG diagnosis is a good thing and device qualifications need to change?
+### Slide 17
+- Take home points
+- Study Question: Are minoritized patients more likely to be diagnosed with hypercapnic respiratory failure on VBG-only evidence?
+- Results: In nationwide aggregated health record data, Black patients with hypercapnic respiratory failure were 8.8% (7.2-10.5%) more likely to be diagnosed with VBG-only evidence. This may result from differing propensities to undergo VBG (higher) and ABG (lower) sampling, rather than differences in disease severity or diagnostic labeling.
+- Interpretation: Where therapeutic interventions rely on results from arterial sampling (e.g. home NIV), Black patients may be at increased risk for lower-quality care.
+### Slide 18
+- The Consistency of Hypercapnic Respiratory Failure Case Definitions in Electronic Health Record Data
+- Hypothesis: case definitions in use identify importantly different patients
+- Literature Review
+- Emulation Dataset
+- Literature reviews of studies of any-cause hypercapnia
+- Assess overlap of the case definitions in TriNetX database
+- 15 studies using 13 case definitions to identify patients with hypercapnia.
+- 3 included elements that couldn’t be emulated in EHR data (screen ABG, NIV on d/c, consultation)
+- N445,686 U.S. adults from 76 institutions who had at least one characteristic that should make a reasonable clinician suspect hypercapnia may be present during 2022
+- Cohen’s kappa (κ, agreement beyond chance)
+### Slide 19
+- Case Definitions for Hypercapnic Resp Failure
+- Case Definition
+- Adler
+- PaCO2 ≥ 47.25 mmHg and either NIV or IMV procedure code
+- Thille
+- PaCO2 ≥ 45 mmHg, arterial pH < 7.35, and either NIV or IMV procedure code
+- Ouanes-Besbes
+- PaCO2 ≥ 45 mmHg and pH < 7.35
+- Calvo
+- PaCO2 > 45 mmHg, arterial pH < 7.35 and a NIV procedure code
+- Bulbul
+- CO2 ≥ 45 mmHg and pH < 7.45
+- Meservey
+- Any diagnosis code for Hypercapnic Respiratory Failure
+- Vonderbank
+- Either a PaCO2 ≥ 45 mmHg or venous CO2 ≥ 45 mmHg and venous pH > 7.35
+- Wilson
+- PaCO2 ≥ 50 mmHg and pH 7.35-7.45
+- Cavalot
+- Either PaCO2 ≥ 45 mmHg and arterial pH ≤ 7.35, or venous CO2 ≥ 50 mmHg and venous pH ≤ 7.34
+- Chung
+- PaCO2 ≥ 45 mmHg and pH ≤ 7.45
+- Median κ 0.35
+### Slide 20
+- Why do the case definitions identify different patients?
+- Some difference in target population
+- Sensitivity of diagnosis codes is low →
+- Restricted cubic splines
+- Method of testing differs (ABG, VBG)
+### Slide 21
+- Why do the case definitions identify different patients?
+- Entire Enriched Cohort
+- Only ABG obtained
+- (first day)
+- Only VBG obtained
+- Both ABG and VBG obtained (first day)
+- N515,286
+- N132,193
+- N94,614
+- N55,049
+- Setting
+- Emergency encounter
+- 33% (171,814)
+- 16% (21,455)
+- 42% (39,816)
+- 14% (7,580)
+- Inpatient encounter
+- 67% (343,559)
+- 84% (110,744)
+- 58% (54,857)
+- 86% (47,484)
+- Critical care billed
+- 23% (118,143)
+- 36% (47,636)
+- 21% (19,528)
+- 48% (26,528)
+- US region
+- South
+- 47% (242,266)
+- 65% (85,849)
+- 30% (27,918)
+- 32% (17,574)
+- Northeast
+- 25% (129,446)
+- 14% (18,937)
+- 49% (46,609)
+- 31% (17,300)
+- Midwest
+- 7% (38,471)
+- 8% (10,013)
+- 9% (8,046)
+- 10% (5,534)
+- West
+- 20% (105,103)
+- 13% (17,394)
+- 13% (12,041)
+- 27% (14,641)
+- Proportion of patients from the enriched sample identified by each case definition
+- Adler
+- 4% (18,118)
+- 8% (10,602)
+- 0% (0)
+- 14% (7,516)
+- Thille
+- 3% (16,263)
+- 7% (9,790)
+- 12% (6,473)
+- Ouanes-Besbes & Bülbül
+- 7% (37,336)
+- 20% (25,812)
+- 21% (11,524)
+- Calvo
+- 1% (6,566)
+- 3% (4,094)
+- 4% (2,472)
+- Meservey
+- 6% (29,009)
+- 8% (11,080)
+- 4% (4,032)
+- 17% (9,196)
+- Vonderbank
+- 17% (86,137)
+- 31% (40,411)
+- 26% (24,267)
+- 39% (21,459)
+- Wilson
+- 10% (13,113)
+- 9% (5,005)
+- Cavalot
+- 11% (58,481)
+- 21% (27,264)
+- 13% (12,555)
+- 34% (18,662)
+- Chung
+- 11% (57,813)
+- 32% (17,402)
+### Slide 22
+- The case definitions identify different patients
+- Case Definition
+- n
+- Female
+- Black
+- HCO3-
+- PaCO2
+- Death (2-mo)
+- Adler
+- PaCO2 ≥ 47.25 mmHg and either NIV or IMV procedure code
+- 18,118
+- 44%
+- 16%
+- 26.6 (±7.3)
+- 66.5 (±23.7)
+- 28%
+- Thille
+- PaCO2 ≥ 45 mmHg, arterial pH < 7.35, and either NIV or IMV procedure code
+- 16,263
+- 42%
+- 24.8 (±6.8)
+- 63.8 (±21.7)
+- Ouanes-Besbes
+- PaCO2 ≥ 45 mmHg and pH < 7.35
+- 37,336
+- 46%
+- 14%
+- 24.8 (±5.9)
+- 60.2 (±19.6)
+- 18%
+- Calvo
+- PaCO2 > 45 mmHg, arterial pH < 7.35 and a NIV procedure code
+- 6,556
+- 50%
+- 17%
+- 27.8 (±6.7)
+- 64.7 (±16.5)
+- 20%
+- Bulbul
+- CO2 ≥ 45 mmHg and pH < 7.45
+- 38,504
+- 47%
+- 25.8 (±5.9)
+- 62.7 (±16.5)
+- Meservey
+- Any diagnosis code for Hypercapnic Respiratory Failure
+- 29,009
+- 27.1 (±7.4)
+- 55.1 (±19.5)
+- 21%
+- Vonderbank
+- Either a PaCO2 ≥ 45 mmHg or venous CO2 ≥ 45 mmHg and venous pH > 7.35
+- 86,137
+- 26.5 (±5.5)
+- 57.1 (±20.4)
+- 13%
+- Wilson
+- PaCO2 ≥ 50 mmHg and pH 7.35-7.45
+- 48%
+- 28.6 (±5.1)
+- 54.9 (±20.3)
+- 12%
+- Cavalot
+- Either PaCO2 ≥ 45 mmHg and arterial pH ≤ 7.35, or venous CO2 ≥ 50 mmHg and venous pH ≤ 7.34
+- 58,481
+- 45%
+- 56.8 (±20.1)
+- Chung
+- PaCO2 ≥ 45 mmHg and pH ≤ 7.45
+- 58.813
+- 26.3 (±6.1)
+- 58.5 (±20.4)
+### Slide 23
+- Take-Home Points
+- Study Question: Do the case definitions for hypercapnic respiratory failure in health record data identify the same, or similar, patients?
+- Results: Applying ten case-definitions from the published literature to a large, aggregated nationwide dataset of health records identified different patients (median kappa of 0.35) who had widely variable characteristics and outcomes.
+- Interpretation: Case definitions for identifying hypercapnic respiratory failure in health record data create substantively different cohorts, which hampers the synthesis of research findings.
+### Slide 24
+- How could we diagnose hypercapnic RF?
+- Analysis
+- Patients
+- Model
+- Discrim.
+- Calibration
+- Overall
+- AUC
+- E:O
+- CITL
+- CS
+- Brier Score
+- Primary
+- ABG
+- LASSO
+- 0.763
+- 0.986
+- 0.028
+- 1.110
+- 0.180
+- RF
+- 0.758
+- 0.969
+- 0.062
+- 1.127
+- 0.184
+- Silver Standard
+- ABG or VBG
+- 0.749
+- 0.925
+- 0.156
+- 1.098
+- 0.190
+- 0.745
+- 0.912
+- 1.190
+- 0.193
+- Inverse Probability Weighted
+- ABG (weighted to full sample)
+- 0.792
+- 0.982
+- 0.041
+- 1.227
+- 0.178
+- 0.782
+- 0.957
+- 0.094
+- 1.251
+- West
+- Midwest
+- South
+- Northeast
+- Training
+- Validation
+- n 16,277
+- n 20,837
+- n 70,921
+- n 23,816
+### Slide 25
+- How could we diagnose hypercapnic RF?
+- SRMA of TcCO2-PaCO2 Agreement studies
+- 7021 paired measurements from 2817 participants in 73 studies
+- Mean bias: 0.09 mmHg lower
+- Pop. Std. dev. (within- and between- study variance): 4.6 mmHg
+- Simulate estimates for all 158k TriNetX patients w/ ABG in 2022:
+- Sens: 84.2%
+- Spec: 91.0%,
+- NPV: 93.0% @ 30.3% prev.
+- PPV: 80.4%. @ 30.3% prev
+- Next: Context specific estimates
+- Validation amongst no-ABG pts.
+### Slide 26
+- Next Steps
+- Link Intermountain Health – Select Health
+- Cost and utilization data
+- Assess patient-, unit-, institution-variation in post-discharge management in the Intermountain Health System
+- Outcomes: Select-Health and APCD
+- UPDB-Intermountain linkage
+- Effect of that variation on ED/readmissions, mortality
+### Slide 27
+- Overdiagnosis: a diagnosis that does not benefit the patient.
+- Fair Umpires: existence and extent of overdiagnosis may be considered using the following questions:
+- Are people diagnosed by diagnostic strategy 2 but not by diagnostic strategy 1 at an increased risk of disease specific clinical outcomes if left untreated compared to people not diagnosable by diagnostic strategy 1 or 2 (prognosis evidence)?
+- Does diagnosis and treatment of people who are detected using diagnostic strategy 2 but not detected using diagnostic strategy 1 result in an increased beneficial reduction in disease specific clinical outcomes that outweighs the ensuing increased risk of harms, compared to no diagnosis or treatment (utility evidence)?
+### Slide 28
+- Credit to the crew
+- Intermountain Research
+- Sam Brown MD MSCI
+- Ithan Peltan MD MSc
+- Holly Frost MD PhD
+- U of U DBMI
+- Joseph Finkelstein MD PhD
+- Ramkiran Gouripeddi MBBS MSc
+- U of U PCCM
+- Barb Jones MD MSCI
+- Jeanette Brown MD PhD
+- Rob Paine MD
+- Dustin Anderson-Bell MD
+- U of U Medical Machine Intelligence Lab
+- Warren Pettine MD
+- Matthias Christensen PhD
+- U of U Epidemiology
+- Benjamin Brintz PhD
+- U of CA Davis PCCM
+- Krishna Sundar MD
+- Email: brian.locke@imail.org
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PGR Jan 30: What’s new with CO2Clinical Epidemiology of Hypercapnic Respiratory Failure
+- Overarching hypothesis
+- Background: Hypercapnic Respiratory Failure
+- Hypercapnia Projects
+- Utah Population Database
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PGR Jan 30: What’s new with CO2Clinical Epidemiology of Hypercapnic Respiratory Failure
+- Overarching hypothesis
+- Background: Hypercapnic Respiratory Failure
+- Hypercapnia Projects
+- Utah Population Database
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +567,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2025-1-30 Locke RIP.pptx](archive/Presentations/2025-1-30%20Locke%20RIP.pptx)
+- [Presentations/2025-1-30 Locke RIP.pptx](../../archive/Presentations/2025-1-30%20Locke%20RIP.pptx)
 
 ## Source materials
-- [Presentations/2025-1-30 Locke RIP.pptx](archive/Presentations/2025-1-30%20Locke%20RIP.pptx)
+- [Presentations/2025-1-30 Locke RIP.pptx](../../archive/Presentations/2025-1-30%20Locke%20RIP.pptx)

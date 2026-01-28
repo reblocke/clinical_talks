@@ -6,33 +6,48 @@ draft: true
 ## What this covers
 - Massive PE:
 - Advanced therapies
-- Thrombophilia workup?
+- Systemic TPA
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Massive PE:
+- Advanced therapies
+- Systemic TPA
+- Catheter treatments
+- Surgical Embolectomy
+- VA ECMO
+- IVC Filter
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Considerations around initial anticoagulant and monitoring : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715843/
+- If a patient receives catheter directed lytics: give heparin on top?
+- Yes, probably - though there has not been a clear trial of how to do this.
+- IMC - follows European cardiology guidelines: https://academic.oup.com/eurheartj/article/41/4/543/5556136
+- Intermediate-High risk: (Not shock but signs of RH strain based on CT, TTE, or Troponin) AC only and monitoring.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. need at least some to prevent clot on the sheath
+2. probably need more, but not clear if you need treatment dose, intermediate dose, or just low dose. Ask pharm and interventionalists.
+3. History of haemorrhagic stroke or stroke of unknown origin
+4. Ischaemic stroke in previous 6 months
+5. Central nervous system neoplasm
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Intermediate-High risk: (Not shock but signs of RH strain based on CT, TTE, or Troponin) AC only and monitoring. Generally only do advanced therapies if they have deranged vital signs (tacky 140+, 100% HFNC, no improvement with heparin and you think it's this). Then, do low dose systemic TPA (alteplase 10mg boluses up to 50mg) a la MOPETT if they are low bleed risk (e.g. Age <65), or mechanical thrombectomy (if age over 65 or contra to TPA).
+- High risk shock with PE, sustained for 15 minutes or requiring pressers for that duration: systemic thrombolysis or catheter thrombolysis. Other options are US-assisted thrombus fragmentation, Suction embolectomy, or mechanical thrombectomy, Surgical embolectomy, VA ECMO.
+- 8 person 1995 RCT is the best evidence (basically no evidence). Meta-analyses only including patients with shock OR death 0.59. In Intermediate-High risk, mortality estimate is OR 1.09.
+- MOPETT: AJC 2013. "Safe Dose" tPA - enrolled 121 patients with large thrombus burden, VS abnormalities but not shock. Alteplase 50mg total (10mg up front, then 40mg), received uninterrupted anticoagulation with maximal rate. But no bleeding.
+- Means of supportive care for refractory obstructive shock. Often, combine with another modality (e.g. thrombectomy.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Thus, generally use Warfarin. (even for non-triple positive, because we don't exactly know why)
+- Cardiolipin ab (IgG and IgM - do NOT test for IgA, not correlated)
+- betaglycoprotein (IgG and IgM - do NOT test for IgA, not correlated)
+- most commonly AT3 deficiency ( normally functions at a low level as the body's natural anticoagulant): can be consumptive (e.g. DIC, long-term heparin use, bypass/ECMO) or production problem (e.g. liver failure). -> can give FFP or antithrombin concentrate (mostly in OR by anesthesiology in cardiac surgery). Beware of rebound once the AT3 comes back up if consumptive process is removed.
+- PEITHO study, NEJM 2014 in intermediate-risk PE using tenecteplase (available in Europe, not here), equivalent to full dose of alteplase (60-100mg) and did not interrupt heparin. Benefit in preventing hemodynamic compensation or rescue thrombolysis. Risk of intracranial and major extra cranial bleeding. Per 100 patients: prevent decomposition in 3, 2 hemorrhagic strokes, 5 major extra cranial bleeding. > sum, do not give.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715843/
+- https://academic.oup.com/eurheartj/article/41/4/543/5556136
 
 ## Source notes
 
@@ -40,4 +55,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/vte.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/vte.md](archive/Clinical%20Practice%20Notes/vte.md)
+- [Clinical Practice Notes/vte.md](../../archive/Clinical%20Practice%20Notes/vte.md)

@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/ACG 2024 Acute Pancreatitis Guideline.pdf](archive/Presentations/Pancreatitis%20Lit/ACG%202024%20Acute%20Pancreatitis%20Guideline.pdf)
+- [Presentations/Pancreatitis Lit/ACG 2024 Acute Pancreatitis Guideline.pdf](../../archive/Presentations/Pancreatitis%20Lit/ACG%202024%20Acute%20Pancreatitis%20Guideline.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/ACG 2024 Acute Pancreatitis Guideline.pdf](archive/Presentations/Pancreatitis%20Lit/ACG%202024%20Acute%20Pancreatitis%20Guideline.pdf)
+- [Presentations/Pancreatitis Lit/ACG 2024 Acute Pancreatitis Guideline.pdf](../../archive/Presentations/Pancreatitis%20Lit/ACG%202024%20Acute%20Pancreatitis%20Guideline.pdf)

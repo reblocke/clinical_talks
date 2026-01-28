@@ -4,19 +4,260 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- If everyone has HFpEF, does anyone?
+- Patient:
+- 2 arguments why HFpEF at pulmonary GR
+- Aims
+- True or False: CPET is gold standard for diagnosing HFpEF?
+- CPET in CHF
+- Abnormalities on TTE are required to diagnose HFpEF?
+- HF2PEF (2022 ACC/AHA CPG)
+- You are evaluating a patient you think has HFpEF. They do not have crackles. How does this change the likelihood they have congestion?
+
+## Slide outline
+### Slide 1
+- If everyone has HFpEF, does anyone?
+- B Locke PGR
+### Slide 2
+- Patient:
+- 65M with 6 months of dyspnea
+- BMI 36
+- Current smoking and prior inhalational drug use
+- Moderate apical paraseptal emphysema; No obstruction on PFTs
+- TTE with no diastolic dysfunction, mild LVH, mild left atrial enlargement
+- No improvement with LABA/LAMA trial
+- CPET:
+- VO2 max ~45% weight normalized predicted
+- VEVCO2 43
+- Maximum HR 110; Significant metabolic acidosis
+- Normal MVV; Low BR
+### Slide 3
+- 2 arguments why HFpEF at pulmonary GR
+- Diagnosis of symptomatic disease
+- 👎: Se (# Patients w/ finding & disease) / (# Patients w/ Finding whether or not they have disease)
+- Consider how we do PFTs
+- Susceptible to subtle spectrum bias
+- 👍: (Likelihood in COPD) / (Likelihood in HFpEF)
+- You have a differential. You want findings that discriminate between the options (NOT findings that separate has disease vs doesn’t have disease)
+- Opinion: 👎 “Reason for Consult: Dyspnea; ….
+- A/P: Not the lungs”
+- If a reason for dyspnea is needed and possible, we should be able to diagnose it regardless where in the chain of respiration the problem occurs.
+- Our expertise is the entire respiratory system
+- Consider Nephrology: Recs re AKI diagnosis
+- COPD
+- PAH
+- HFpEF
+### Slide 4
+- Aims
+- Review diagnostic criteria for HFpEF
+- Review notable (or not) findings in HFpEF
+- What’s up with chronotropic incompetence?
+- What’s up with the wedge?
+- What’s up with the pleural pressure?
+### Slide 5
+- True or False: CPET is gold standard for diagnosing HFpEF?
+- True
+- False
+### Slide 6
+- True or False: CPET is gold standard for diagnosing HFpEF?
+- True
+- False
+- The [ exercise ] RHC directly measures atrial pressures and is considered the criterion standard (100% sensitivity and specificity; C statistic, 1.0) for HFpEF diagnosis
+- We will discuss this more.
+### Slide 7
+- CPET in CHF
+### Slide 8
+- Abnormalities on TTE are required to diagnose HFpEF?
+- True
+- False
+### Slide 9
+- Abnormalities on TTE are required to diagnose HFpEF?
+- True
+- False
+- Requires evidence of increased filling pressures (R atrial pressure, PCWP, or LVEDP) at rest or with exercise. Which can be:
+- TTE
+- Catheterization
+- Or inferred by physical exam/CXR/BNP/H2FPEF score
+- 30% of patients with elevated PCWP have BNP < 100. (“BNP/NT-proBNP assays are insufficient to rule out HFpEF, particularly in younger patients, those with sinus rhythm, and those with obesity and/or normal kidney function.”)
+### Slide 10
+- HF2PEF (2022 ACC/AHA CPG)
+- Rest PCWP 15+ OR Exercise PCWP 25+
+- 60% had HFpEF
+- The odds of HFpEF doubled for each 1-unit score increase
+### Slide 11
+- You are evaluating a patient you think has HFpEF. They do not have crackles. How does this change the likelihood they have congestion?
+- A lot more likely
+- A little more likely
+- No difference
+- Less likely
+- ”[Congestion can be] inferred from physical exam”
+### Slide 12
+- You are evaluating a patient you think has HFpEF. They do not have crackles. How does this change the likelihood they have congestion?
+- A lot more likely
+- A little more likely
+- No difference
+- Less likely
+- ESCAPE Trial: RCT of PA-C guided CHF mgmt vs clinical exam guided.
+- Analysis of the 250 randomized to PA-C
+- Crackles (1/3 of lung field): +LR 1.36, -LR 0.96 for predicting PCWP 22+ mmHg
+- Most patients do not have crackles related to chronic, congested HF. Presence/absence of crackles barely gives any information about congestion.
+- Se + Sp 100% > adds no information
+### Slide 13
+- Why?
+- Stage 1: interstitial fluid (can be up to 500mL with minimal extra pressure). No crackles.
+- Stage 2 Crescentic filling of the alveoli
+- Stage 3 Alveolar Flooding. Crackles
+- Stage 4 Froth in air passages
+### Slide 14
+- Pulmonary Edema: Interstitial & Alveolar
+- Endothelial (vessels-interstitium) Gradient & Permeability: interstitial edema?
+- Epithelial (interstitium-alveoli) Gradient & Permeability: alveolar edema?
+- Inflammation?
+### Slide 15
+- In normal conditions, most fluid returns to the capillaries by starling forces, 18% by lymphatics
+- In edematous states, lymphatics increase 8-10 fold
+- Precapillary vasoconstriction -> divert blood flow away from portions of lung with high fluid flux. This has significant inter-individual variation that may contribute to individuals “prone-ness” to edema formation.
+- Derangements/loss of protective factors can be regional: imaging findings can be “geographic” even when “cardiogenic”
+- Time constant of alveolar flooding: 3 minutes
+- Presentation of HF w Alveolar Edema / HF w/o Alveolar Edema
+### Slide 16
+- The mechanism of dyspnea in HFpEF is that PCWP increases with exertion
+- True
+- False
+### Slide 17
+- HR response to exercise is reduced in patients with HFpEF
+- This was generally considered pathologic
+- Chronotropic incompetence inability to meet predicted maximum heart rate
+- Patients with HFpEF and chronotropic incompetence having a PM implanted were randomized to “Fast” vs ”Regular” pacing with exercise.
+### Slide 18
+- TODO: No text extracted from this slide.
+### Slide 19
+- single-blind, randomized (to nitro or placebo) cross-over trial.
+- Invasive CPET in 30 patients with HFpEF
+- Upright cycling at 20W (not maximal intensity exercise)
+### Slide 20
+- no decrease in PVR from Nitro
+### Slide 21
+- “These findings have important clinical implications and indicate that lowering PCWP does not decrease DOE in patients with HFpEF; rather, lowering PCWP exacerbates DOE, increases ventilation-perfusion mismatch, and worsens ventilatory efficiency during exercise in these patients. This study provides compelling evidence that a high PCWP is likely a secondary phenomenon rather than a primary cause of DOE in patients with HFpEF,”
+- Things that might cause dyspnea in patients with HFpEF:
+- Poor V/Q matching -> increased ventilation requirement
+- Poor circulation -> stagnant hypoxemia -> hyperventilation -> increased ventilation requirement
+- Elevated PCWP -> congestion -> increased respiratory system loads
+- How long does it take for the interstitial edema to change?
+- The combination of these two study suggests:
+- The slow heart rate is probably not often a cause of dyspnea
+- The high filling pressures are (acutely) required for two purposes:
+- They allow for maintenance of CO by allowing for adequate preload
+- They allow for V/Q matching (loss of blood flow to apices?) in the setting of congestion
+### Slide 22
+- If the elevated PCWP is a epiphenomena or a consequence of whatever causes the dyspnea…
+- Adaptive?
+- How often is HFpEF an incidental finding? (They are congested and SOB, but they are not causally related)
+- Traditional Paradigm
+### Slide 23
+- Should RHC measurements be adjusted for intrapleural pressure for HFpEF?
+- Yes/No/Maybe?
+- Notably, more than 80% of patients with HFpEF are obese
+### Slide 24
+- Review: what did the study do?
+### Slide 25
+- What did they find?
+- More obese patients would be candidates for vasodilators
+- More obese patients would not be labeled as having PH.
+- Many obese patients who previously were post-capillary will be undifferentiated (PVR > 2 but < 3, PA > 20, PCWP < 12.
+### Slide 26
+- Lowing afterload (diuretics) aren’t likely to help 1 and 3.
+- Patient (Q3 for all)
+- PAm
+- PCWP (ref atm)
+- Ppl
+- PCWPcorr
+- PVR
+- PAH Class Old
+- PAH Class New
+- 1 – high pl, low rv afterload
+- Low lv preload
+- 35
+- 20
+- 10
+- 5
+- Group 2
+- Group 1
+- 2 – low pl, high rv afterload, high lv preload
+- 0
+- Group 2 (CPC)
+- 3 - high pl, normal RV afterload, low LV preload
+- 25
+- 1.8
+- Group 2 (IPC)
+- No PH [or, presumably HFpEF]
+### Slide 27
+- Pulmonary Hypertension: Do we care about transmural or dynamic pressures? DebatableFor Heart Failure: We care about transmural pressures (for both preload and afterload)
+### Slide 28
+- Does ↑PCWP predict pathology or response?
+- If there is heterogeneity in all of:
+- The pathology leading to symptoms [surrogate for future treatment/research]
+- Response to current treatments for that disease
+- Diuretics will NOT help patients with elevated PCWP due to pleural pressure for e.g.
+- Prognosis for people with the disease
+- Then actually “” is just a bad disease definition
+- What else are disease definitions supposed to accomplish?
+### Slide 29
+- 2 new studies
+- https://x.com/docBLocke/status/1681703444074348544?s20
+- https://x.com/docBLocke/status/1666505807939117060?s20
+### Slide 30
+- Takeaways:
+- Review diagnostic criteria for HFpEF: elevated filling pressures and dyspnea
+- Review notable (or not) findings in HFpEF: crackles minimally helpful
+- What’s up with chronotropic incompetence? Incidental?
+- What’s up with the wedge? Adaptive? Not causal to dyspnea
+- What’s up with the pleural pressure? Transmural pressures diverge
+- Elevated filling pressures and dyspnea is the definition of HFpEF, but it’s not a great definition
+- Disparate pathologies lead to this (obesity, renal disease, OSA…)
+- The elevated filling pressures are probably NOT the cause of symptoms, but an epiphenomenon or adaptive mechanism
+- Symptom/Sign Interpretation: Chronic HF is not a disease of crackles; Diurese then diagnose re: CT abnormalities.
+### Slide 31
+- Patient:
+- CPET:
+- VO2 max ~45% weight normalized predicted; low AT
+- VEVCO2 43
+- Maximum HR 110; Significant metabolic acidosis
+- VE achieved > (normal) MVV; Low (negative) BR; no obstruction pre or post.
+- Interpretation:
+- He has ventilatory limitation due to a high ventilation requirement (inefficient ventilation; probably from HFpEF and emphysema)… but minimal excess respiratory system loads.
+- He has chronotropic incompetence
+- I tried taking of the BB (no indication for it) and some evidence withdrawal helps
+- Maybe an SGLT2 inhibitor (improves QoL and Exertional Capacity in HFpEF)
+- He needs to quit smoking and lose weight… but inhalers?
+### Slide 32
+- There are no pharmacologic treatments that improve dyspnea in HFpEF? T/F
+- True
+- False
+### Slide 33
+- There are no pharmacologic treatments that improve dyspnea in HFpEF? T/F
+- True
+- False
+- Empagliflozin and Dapagliflozin (2 trials; 12,000 patients) reduced HR of re-hospitalization (HR ~0.7) and improved Kansas CM score + 6MW in Dapa case.
+- similar impact on the rate of HF hospitalizations or cardiovascular death regardless of age, sex, EF, presence of diabetes, body mass index, or kidney function (range allowed in the trials: estimated glomerular filtration rate >20-25 mL/min/1.73 m2)
+- Also cardiac rehab.
+### Slide 34
+- TODO: No text extracted from this slide.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- If everyone has HFpEF, does anyone?
+- Patient:
+- 2 arguments why HFpEF at pulmonary GR
+- Aims
+- True or False: CPET is gold standard for diagnosing HFpEF?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- If everyone has HFpEF, does anyone?
+- Patient:
+- 2 arguments why HFpEF at pulmonary GR
+- Aims
+- True or False: CPET is gold standard for diagnosing HFpEF?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +274,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke PGR - HFpEF.pptx](archive/Presentations/Locke%20PGR%20-%20HFpEF.pptx)
+- [Presentations/Locke PGR - HFpEF.pptx](../../archive/Presentations/Locke%20PGR%20-%20HFpEF.pptx)
 
 ## Source materials
-- [Presentations/Locke PGR - HFpEF.pptx](archive/Presentations/Locke%20PGR%20-%20HFpEF.pptx)
+- [Presentations/Locke PGR - HFpEF.pptx](../../archive/Presentations/Locke%20PGR%20-%20HFpEF.pptx)

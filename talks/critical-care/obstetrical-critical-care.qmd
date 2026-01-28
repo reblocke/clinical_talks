@@ -4,24 +4,28 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Airways - 8x higher failure rate (13x fatal) -> generally anesthesia does airway
+- Decreased FRC.
+- Differences:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Airways - 8x higher failure rate (13x fatal) -> generally anesthesia does airway
+- Decreased FRC.
+- Differences:
+- Hemodynamics (increased plasma volume, CO increases 30-50% by SV and HR, SVR decreases, and so normal blood pressure decreases. > consequence is that more blood loss can occur without hemodynamic changes
+- 12-14 weeks and beyond: Aorta and IVC compresses and decreases CO -> L tilt 15-20 degrees to displace the uterus.
+- Respiratory physiology: FRC decreases, O2 consumption increased 20-30%, airway edema -> decreased ability to tolerate apnea. (MV increases due to greater tidal volume; chronic compensated respiratory alkalsosis 30 paco2, HCO3 18-20 is normal > BiPAP? Physiologic rationale. Theoretical risk of aspiration but hasn’t empirically panned out.
+- Thresholds for respiratory support
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Airways - 8x higher failure rate (13x fatal) -> generally anesthesia does airway
+- Hemodynamics (increased plasma volume, CO increases 30-50% by SV and HR, SVR decreases, and so normal blood pressure decreases.
+- > consequence is that more blood loss can occur without hemodynamic changes
+- 12-14 weeks and beyond: Aorta and IVC compresses and decreases CO -> L tilt 15-20 degrees to displace the uterus.
+- Respiratory physiology: FRC decreases, O2 consumption increased 20-30%, airway edema -> decreased ability to tolerate apnea.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Obstetrical Critical Care
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -38,4 +42,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/obstetrical-critical-care.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/obstetrical-critical-care.md](archive/Clinical%20Practice%20Notes/obstetrical-critical-care.md)
+- [Clinical Practice Notes/obstetrical-critical-care.md](../../archive/Clinical%20Practice%20Notes/obstetrical-critical-care.md)

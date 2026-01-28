@@ -4,19 +4,240 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Hypercapnic RF Computable Phenotype Study Design
+- Overall Structure:
+- 1. TriNetX analysis
+- Principal Component Analysis
+- Vs LASSO or Elastic Net Regression?
+- Do we still want to concern ourselves with cohort enrollment primarily?
+- 2. UU Data pull: Next steps
+- Rule vs regression or more advanced models.
+- Enriched sample
+- Issues with generating the enriched sample
+- U of U data request
+
+## Slide outline
+### Slide 1
+- Hypercapnic RF Computable Phenotype Study Design
+- June 27 2022
+### Slide 2
+- Overall Structure:
+- TriNetX: data analysis to assess feasible, data trends, and get preliminary information for power analysis and design (current)
+- Will also run a latent component (or LASSO? Tensor factorialization? Generalized low rankl modeling) analysis to identify predictors of a gold standard definition
+- UU data pull:
+- Enriched cohort of patients (ie. more likely to have hypercapnic respiratory failure, ideally close to balanced)
+- Reference standard determination of 1. Definitive 2. Probable 3. Not Hypercap RF based on information available in the chart. 2 reviewers
+- Systematic Review of inclusion criteria used in studies or predictors of hypercapnic RF -> evaluation of each of these as “features” in the phenotype
+- Evaluate performance of each, and combinations of those criteria
+- Re-extrapolation to TriNetX
+### Slide 3
+- 1. TriNetX analysis
+- The work we’ve been doing:
+- Suggests a problem is present and provides information to get people interested in doing this better (accomplished)
+- Get preliminary data about the structure of data
+- Overlap of methods estimate
+- R^2 of features might be useful for a power calculation (see in a few slides)
+- Last aim: Generate a classifier
+- Reference standard? 1st ABG w/n 24h admission with PaCO2 over 45mmHg (prior to iatrogenic causes, such as sedation/IMV) or diagnostic code of Hypercapnic respiratory failure.
+- Method of optimization? (next slide)
+### Slide 4
+- Principal Component Analysis
+- Dimension reduction: reduce the number of variables as much as possible, while containing most of the information in the original dataset
+- Principal components: combinations that explain the maximal variance.
+- Question: how to handle missing data and informed presence bias?
+- Do we need any pre-determination of what values to include? Ie. derivatives such as prior hospitalization or location of care. Or medications in particular. Will this be “sparse” data?
+- Is our current data-set optimal? Regression only valid in the range of covariates represented. Dimensions excluded by the selection introduced by our data-set
+- Output: feature vector that recasts the data into the principal components
+### Slide 5
+- Vs LASSO or Elastic Net Regression?
+- Both are targeted toward minimizing multi-collinearity
+- Lasso/Ridge/Elastic net preserve interpretability. Lasso does dimension reduction while the others don’t exactly (coeff near 0)
+- PCA can then be used as the basis of regression.
+- LASSO seems like it would be computationally complex without some dimension reduction first?
+- Bootstrap (internal) validation?
+### Slide 6
+- Do we still want to concern ourselves with cohort enrollment primarily?
+- Vs. predicting whether hypercapnia would be present, if checked?
+- This would be implicitly predicting: a.) that a blood gas was checked and b.) that it showed hypercapnia
+- We may not have robust enough data here to do this with the goal of individual patient care influence (e.g. MEWS) – though this could possibly be done with a dataset like MIMIC
+### Slide 7
+- 2. UU Data pull: Next steps
+- For EMR data request:
+- [ ] come up with data request details - base on paper below
+- —ram will look into methods we might have to expedite
+- EMR requests based on diagnoses and give us all the data -
+- —test negative controls. Can use
+- Diagnostic codes, lab values, etc.
+- # of patients included - no limit. But, start from 2015
+- [ ] test run some claims on TriNetX
+- Do amendment of the IRB with the data //Ensure IRB has been approved under the condition that we are going to look at MRNs.
+- - Will submit an amendment, and then submit the request to the EDW
+### Slide 8
+- Rule vs regression or more advanced models.
+- Major Criteria (any of these)
+- First ABG PaCO2 > 45 mmHg
+- Diagnostic code for Hypercapnic RF
+- Etc.
+- Minor Criteria (in combination)
+- …
+- First VBG with PaCO2 over 50
+- Initiation of NIV
+- Diagnostic code for respiratory failure of any type
+- Predisposing Demographic
+- Age over 65
+- BMI over 35
+- HCO3 27+
+- Exclusions (none of these must be present)
+- Criteria w/n 3h of anesthesia
+- Receiving IMV prior to criteria
+### Slide 9
+- Enriched sample
+- Goal: generate a cohort a large portion (the majority) of the patients who wouldn’t conceivably have hypercapnic respiratory failure
+- Would it be possible (or advisable) to over-select non-white participants to more closely approximate non-UT population? Smokers in proportion to US population?
+- E.g.
+- Diagnostic code for respiratory failure
+- Any blood gas obtained during admission
+- Procedure code for starting non-invasive or invasive mechanical ventilation or CPAP
+- BMI over 30 & HCO3 over 25?
+### Slide 10
+- Issues with generating the enriched sample
+- Are we going to introduce selection/collider biases?
+- What is an optimal balance of +Hypercap RF to -Hypercap RF?
+- Is the literature on power calculations around predictive modeling the right literature? E.g. https://www.bmj.com/content/368/bmj.m441
+- Computable phenotype simple prediction model (with binary criteria)?
+- Stata, R “pmsamplesize”; https://riskcalc.org/pmsamplesize/
+- In logistic regression:
+### Slide 11
+- Issues with generating the enriched sample
+- Can use methodology similar to https://doi.org/10.1371/journal.pone.0235574
+- People that aren’t in the “enrichment cohort” are assumed to be true negatives (ie. nothing going for them having it) – this minimizes chart review work
+- [ ] test criteria using TriNetX to ensure that there is no overlap with true positives (by some definition)
+- Over-select on certain variables to make more representative of national population?
+### Slide 12
+- U of U data request
+- Dates of interest? If started in 2015-- 15,000 population
+- # of charts? Est 300 UU patients/month in Venn diagram on TriNetX (extrapolation because no blood gas information)
+- -- 150-300 charts depending on method of sample calculation
+- Timeline for expediting the data request?
+- Internal Medicine?
+- ASPIRE grant moneys
+### Slide 13
+- Study design:
+- Random sample of charts: in each category
+- Review by 2 raters (inter-rater agreement)
+- Reference “Silver Standard” (raters don’t have access to all info needed for reference std)
+- Classification:
+- Definite non-iatrogenic hypercapnic respiratory failure
+- Threshold: you would put this diagnosis in the EMR, we didn’t cause it
+- Probable iatrogenic hypercapnic respiratory failure
+- Probable non-iatrogenic hypercapnic respiratory failure
+- Uncertain hypercapnic respiratory failure
+- Hypercapnic respiratory failure excluded
+### Slide 14
+- Issues with Provider Review “reference std”
+- "Conceptual definitions and operational definitions for study design elements"
+- Exactly what we’re trying to identify: hypercapnic respiratory failure (ie. a blood gas would have shown a PaCO2 over 45 mmHg, had it been checked)
+- that occurred at the time of presentation (ie. prior to iatrogenic causes).
+- No criterion that the hypercapnia directly caused the admission (causality is not knowable given current research)
+- time-line? Criteria for when data-elements must be present wrt diagnosis? E.g.iif BMP is available at admission, but ABG only obtained later.
+- Need a specification of the amount of certainty: e.g. “Definite” I would feel comfortable putting this in the chart as a diagnostic label; probable “I would not label the diagnosis, but it would be more likely than not to be present.”
+- Is there a way to get around the incorporation bias that will result from us using the same criteria as the model to make the "reference standard" determination? (hold out ABG information?)
+### Slide 15
+- Computable Phenotype “feature” selection
+- Considerations from: https://www.atsjournals.org/doi/10.1513/AnnalsATS.202002-141ED#i8 (ATS guidance)
+- Data source: retrospective, secondary use
+- Participant inclusion: enriched data-set
+- Outcome: outcome definitions reviewer criteria
+- Predictors: which possible selectors have been included? Some brief systematic review described to identify ways of inclusion into papers on hypercapnic respiratory failure, or prediction of hypercapnia
+- ---- Ideally, the pre-selection of potential predictors should focus on those variables that, prior to data collection, are known to be related to the prognostic outcome, based on a combination of clinical expertise and evidence from literature, for instance through prognostic factor studies"
+- Model specification/structure: exclusively linear criteria to facilitate interoperability and understandability
+### Slide 16
+- Computable Phenotype examples
+- Individually test the performance of:
+- ABG PaCO2 over 45; Diagnostic Code; other strategies used in prior studies
+- Major Criteria (any of these)
+- First ABG PaCO2 > 45 mmHg
+- Diagnostic code for Hypercapnic RF
+- Etc.
+- Minor Criteria
+- …
+- First VBG with PaCO2 over 50
+- Initiation of NIV
+- Diagnostic code for respiratory failure of any type
+- Predisposing Demographic
+- Age over 65
+- BMI over 35
+- HCO3 27+
+- Exclusions (none of these must be present)
+- Criteria w/n 3h of anesthesia
+- Receiving IMV prior to criteria
+### Slide 17
+- Features: experimental/continuous?
+- Age, BMI? (analogous to age-adjusted Ddimer)
+- Medications? (all data elements need to be reliably obtainable to be useful)
+- E.g. how in COVID (https://github.com/National-COVID-Cohort-Collaborative/PhenotypeDataAcquisition/wiki/Latest-Phenotype)
+- Perhaps in combination with a “Weak positive” criteria:
+- Note: they also have a “NOT” phenotype – would this be useful?
+### Slide 18
+- Pooled-analysis of 5 studies (n335 w/ OHS, n1037 eucapnic obese)
+- Serum HCO3 > 27 mEq/L: +LR 3.74; -LR 0.18
+### Slide 19
+- Utility considerations:
+- Presentation of performance of each component individually (with some representation of who is included and excluded) and a model combining the elements is probably more likely to be useful than a normative “final output” – the user is people who design studies.. Anything that makes the output more “usable” will improve the project.
+### Slide 20
+- Study design:
+- Calculate Se and Sp for Definite and Probable non-iatrogenic hypercapnic respiratory failure with various definitions
+- In proposing multi-criteria
+- Change in AUROC/Precision-recall curve?
+- Net Reclassification Index?
+- Shapley values?
+### Slide 21
+- Validation/Generalizability?
+- Bootstrapped internal validation worthwhile to assess performance? (ie with a prediction model)
+- Generalizability: Regenerate venn-diagram on TriNetX data (nationally representative data)
+- Implication: if patterns of overlap similar, accuracy may be too
+- Also lets us explore the implications some.
+- in particular, trying to guage it's performance in more varied populations.
+- "Bring your own model”? What sort of outputs could we get from this?
+### Slide 22
+- “In acclimatized people, the decrease in [HCO3-] is 1.5 mEq/L per each 1000 m”
+- Change in variance?
+- Local data?
+- Erik Swenson?
+- Information on the elevation of habitation of the world population?
+### Slide 23
+- Anticipated Critiques
+- Is “Hypercapnic Respiratory Failure” too heterogenous to study?
+- Studying ’syndromes’ haven’t been particularly fruitful
+- Proposed paradigm -> moving toward precision in defining the heterogeneity: will it be based on physiologic, epidemiologic, microbiologic criteria?
+- https://www.nature.com/articles/s41591-022-01843-x#Fig1
+- [ ] what ways do I have to increase the rigor / reproducibility of these steps? Obviously, can't make the charts available - but making the features used by the actual model might help?
+- --- want to have enough information that we can re-draw the lines around disease definitions if they change.
+- Re: COVID models: “"Most of these prognostic COVID-19 models, usually with a mortality or clinical deterioration outcome, were judged to be at high risk of bias, for which the main reasons were the use of inappropriate data sources, inadequate low sample sizes, inappropriate statistical model evaluations and overall poor reporting."
+- Idiosyncracies in local coding practices?
+- Intended use: enroll in studies
+- Not: Best-practice alert to consider hypercapnia in an individual patient
+- For cohort studies:
+- For case-control studies: cases need a specific definition to avoid diluting the power
+### Slide 24
+- Electronics 2019, 8, 1235; doi:10.3390/electronics8111235
+### Slide 25
+- Types of “validation”
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Hypercapnic RF Computable Phenotype Study Design
+- Overall Structure:
+- 1. TriNetX analysis
+- Principal Component Analysis
+- Vs LASSO or Elastic Net Regression?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Hypercapnic RF Computable Phenotype Study Design
+- Overall Structure:
+- 1. TriNetX analysis
+- Principal Component Analysis
+- Vs LASSO or Elastic Net Regression?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +254,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Hypercapnia Computable Phenotype design.pptx](archive/Presentations/Hypercapnia%20Computable%20Phenotype%20design.pptx)
+- [Presentations/Hypercapnia Computable Phenotype design.pptx](../../archive/Presentations/Hypercapnia%20Computable%20Phenotype%20design.pptx)
 
 ## Source materials
-- [Presentations/Hypercapnia Computable Phenotype design.pptx](archive/Presentations/Hypercapnia%20Computable%20Phenotype%20design.pptx)
+- [Presentations/Hypercapnia Computable Phenotype design.pptx](../../archive/Presentations/Hypercapnia%20Computable%20Phenotype%20design.pptx)

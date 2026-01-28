@@ -4,19 +4,241 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- How to approach: CODE BLUERAPID RESPONSE
+- What makes codes/RRTs stressful
+- Code Blue: Less Common
+- Learning objectives:
+- What’s the big picture?
+- Team Dynamics
+- ACLS isn’t hard… with some help from your friends
+- You want to immediately establish…
+- Step 1: Are you running this code or not?
+- Step 2. Signal that you will be the point person
+- Step 3: Set the proper tone - constructive
+
+## Slide outline
+### Slide 1
+- How to approach: CODE BLUERAPID RESPONSE
+- Brian Locke
+- Pulm / CC Fellow
+### Slide 2
+- What makes codes/RRTs stressful
+### Slide 3
+- Code Blue: Less Common
+- Academic Medicine86(6):726-730, June 2011.
+### Slide 4
+- TODO: No text extracted from this slide.
+### Slide 5
+- Learning objectives:
+- You should:
+- Have phrases ready to help avoid some of the major team-dynamic problems that occur in RRTs / Codes
+- Understand the key components to creating a productive team dynamic during a code
+- Understand the key decisions that need to be made in a RRT or code
+- Consider a few scenarios you may have seen (or will see)
+### Slide 6
+- What’s the big picture?
+- doi:10.1001/jamainternmed.2019.2420
+- Hello, nice to meet you. Let’s code
+### Slide 7
+- Team Dynamics
+- Tuckman’s stages of group development (1965)
+### Slide 8
+- ACLS isn’t hard… with some help from your friends
+### Slide 9
+- ACLS isn’t hard… with some help from your friends
+### Slide 10
+- You want to immediately establish…
+- Collaboration / Trust
+- Lower the power distance
+- Proper tone
+- Are you the point person (in practice)?
+- Are you running the code/rapid in theory?
+### Slide 11
+- Step 1: Are you running this code or not?
+- "I'm Brian Locke, the resident on the the Code team/RRT. Is anyone running this code?"
+- “OK, I’m running this code”
+- “Can I take over?"
+### Slide 12
+- Step 2. Signal that you will be the point person
+- https://doi.org/10.1016/j.resuscitation.2020.11.018
+### Slide 13
+- Step 3: Set the proper tone - constructive
+- Calm, collected, and in control
+- Modulate your voice; no yelling
+- Coach, don’t reprimand.
+- Give encouragement.
+### Slide 14
+- Step 4: Lower the Power Distance
+- Lead like a president not like a monarch.
+- The first time anyone makes any suggestion that's not ludicrous address them and say: "great point/idea/catch .."
+- “Thinking out loud …”
+### Slide 15
+- PMID: 25977203
+- No MD or Resident in many places
+- The code could run without us– our role is to add value
+- This is very different from our simulations
+### Slide 16
+- Intermission
+- Codes / RRTs are stressful for many reasons.
+- The most common way for them to go wrong are problems with social dynamics, not with medical decision making
+- To avoid the biggest pitfalls:
+- Establish who is the leader, first by designation then by action
+- Signal that you want people’s input
+- Direct the group like a coach, don’t rule like a queen/king
+- Use your social capital on things that matter
+### Slide 17
+- You want to immediately establish…
+- Collaboration / Trust
+- Are you open to input?
+- Proper tone
+- Are you the point person (in practice)?
+- Are you running the code/rapid in theory?
+- Where to use your social capital?
+### Slide 18
+- What is the big picture?
+- In a Code:
+- If they don’t have a pulse, someone is compressing the chest with high quality CPR. NO significant breaks.
+- Minimize pauses to necessary position changes, pulse checks, and a little wiggle room to the Lucas or intubation (but only a little)
+- shock them if they have a shockable rhythm
+### Slide 19
+- What is the big picture?
+- Rapid Response:
+- Is this really a code blue?
+- will it be in the next 10 minutes? Do I need airway people here?
+- Do they need to be in an ICU?
+- eyeball the patient, ask orientation questions, 1 set of vitals, what led to the RRT. 10 minutes, maximum
+- Yes: Do we need to do anything to stabilize them before they go to the ICU?
+- No: What immediate workup or stabilization do they need? Hand off to primary team
+### Slide 20
+- Scenarios:
+- What have you seen?
+### Slide 21
+- Scenarios:
+- Patient is 90 years old, has a single BP of 75/60. Is mentating ok, making good urine, lactate is normal. RRT is called. You see that the blood pressure cuff is clearly too large. You have them swap it out and the measured blood pressure is now normal without intervention.
+- How do you address the RN that called the RRT?
+### Slide 22
+- Scenarios
+- Try your best not to implicitly snark people for ‘over-reacting’. Why?
+- People at lower levels of training are going to be less accurate at identifying big problems.
+- To avoid errors of not calling a code/RRT, we need to tolerate errors of calling excessive codes/RRTs
+### Slide 23
+- Scenarios:
+- A patient with ESRD is in dialysis and codes. Staff seems them slump over and CPR is started immediately (<1 minute).
+- During the 1st round of CPR the patient appears to try to push themselves up but remains unresponsive during the ½ second the compressor takes to regain composure.
+- “Should we stop compressions?”
+### Slide 24
+- Scenarios:
+- A patient with ESRD is in dialysis and codes. Staff seems them slump over and CPR is started immediately (<1 minute).
+- During the 1st round of CPR the patient appears to try to push themselves up but remains unresponsive during the ½ second the compressor takes to regain composure.
+- “Should we stop compressions?”
+- Perfusion / ROSC
+### Slide 25
+- Scenarios:
+- A patient with ESRD is in dialysis and codes. Staff seems them slump over and CPR is started immediately (<1 minute).
+- During the 1st round of CPR the patient appears to try to push themselves up but remains unresponsive during the ½ second the compressor takes to regain composure.
+- CPR continues as per ACLS for 30 minutes. You sense murmurs about when you should ”call the code” …
+### Slide 26
+- How long should resuscitation efforts go?
+- “A cut-off time of 15 min, 20 min and 60 min, respectively, captures 90%, 95% and 99% of the 30-day survivors.” PMID: 30138650
+- Unlike OHCA, IHCA brain injury is not as closely correlated with CPR time.
+- Should depend more on pre-arrest status
+### Slide 27
+- Scenarios:
+- A patient with ESRD is in dialysis and codes. Staff seems them slump over and CPR is started immediately (<1 minute).
+- During the 1st round of CPR the patient appears to try to push themselves up but remains unresponsive during the ½ second the compressor takes to regain composure.
+- CPR continues as per ACLS for 30 minutes. You decide this patient is unlikely to recover. How do you stop the code?
+### Slide 28
+- Scenarios:
+- A patient with ESRD is in dialysis and codes. Staff seems them slump over and CPR is started immediately (<1 minute).
+- During the 1st round of CPR the patient appears to try to push themselves up but remains unresponsive during the ½ second the compressor takes to regain composure.
+- CPR continues as per ACLS for 30 minutes. You decide this patient is unlikely to recover. How do you stop the code?
+### Slide 29
+- How I do it:
+- Summarize what you have done
+- Voice any uncertainties
+- Ask if anyone has any ideas
+- Pause
+- I think we should stop
+- Does anyone have any objections? vs We have done everything we could
+- Stop compressions and stop ventilation
+- Then what?
+### Slide 30
+- When to declare death?
+- Longest reported time between asystole & flat MAP and auto-ROSC? 4:20
+- “The International Guidelines for Determination of Death at 2 to 5 minutes of observation”
+### Slide 31
+- Debrief
+- Thank you everyone for their efforts.
+- “We’ll debrief in 5 (or 15) minutes at the nursing station”
+- How do you run the debrief? (you run the debrief)
+### Slide 32
+- Debrief
+- Goals:
+- Discuss events leading to the event
+- Recognizing things that went well and didn’t go well to improve in the future
+- Identify systems issues
+### Slide 33
+- Debrief: Hot vs Cold
+- Goals:
+- Discuss events leading to the event
+- Recognizing things that went well and didn’t go well to improve in the future
+- Identify systems issues
+- Not debriefing normalizes a horrible situation
+- Odds are it was either:
+- Someone’s first code
+- Someone feels responsible
+- Recognize the gravity of what just happened.
+### Slide 34
+- Scenarios:
+- Code Blue.
+- Pulse check
+- What do you do?
+### Slide 35
+- Scenarios
+### Slide 36
+- Scenarios:
+- A patient is in profound shock from GI bleeding. RRT called due to MEWS score of 8. There is ongoing bleeding. Transfer to ICU is initiated.
+- Initial VS are HR 150 and BP 70/30. Then, HR 160 and BP 60/30. Then your colleague can’t feel the femoral pulse so you start compression. After 1L of fluid and 1 prbc unit is pressured bagged in the patient regains a pulse.
+- When you arrive at the ICU – the MICU fellow gives you snark “was this really an arrest”? What do you think?
+### Slide 37
+- Mechanisms of PEA
+- Electromechanical Dissociation
+- Think of what would happen if the heart muscles, but not the nerves, run out of ATP (or O2, or any other reagent)
+- The extreme of shock
+- BY DEFINITION: this is shock so severe you can’t palpate a pulse. No BP criteria is needed
+- Beware of an art line telling you they have a BP of 40/20. If you can’t feel the pulse, that is not sufficient to perfuse and you should start compressions.
+### Slide 38
+- Forget the H’s and T’s
+- Littman Approach
+- Left column (narrow QRS) requires a mechanical fix
+- Right column requires a medical fix
+- doi: 10.1159/000354195
+### Slide 39
+- TAKE HOME POINTS
+- “I’m <Name>, the resident on the code team. Who is running this code?” “OK, I’m running this code” or ”Can I take over?”
+- Stand at the foot of the bed. Don’t move. Don’t do tasks.
+- Set the tone; give encouragement to sharing information/suggestions
+- Keep the big picture in mind and use your social capital there:
+- Code: High quality compressions; shock if shockable
+- RRT: Is this a code? Does this patient need to go to the ICU?
+### Slide 40
+- Questions?
+- Brian.locke@hsc.Utah.edu
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- How to approach: CODE BLUERAPID RESPONSE
+- What makes codes/RRTs stressful
+- Code Blue: Less Common
+- Learning objectives:
+- What’s the big picture?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- How to approach: CODE BLUERAPID RESPONSE
+- What makes codes/RRTs stressful
+- Code Blue: Less Common
+- Learning objectives:
+- What’s the big picture?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +255,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke IRR 2022 RRT and Code presentation.pptx](archive/Presentations/Locke%20IRR%202022%20RRT%20and%20Code%20presentation.pptx)
+- [Presentations/Locke IRR 2022 RRT and Code presentation.pptx](../../archive/Presentations/Locke%20IRR%202022%20RRT%20and%20Code%20presentation.pptx)
 
 ## Source materials
-- [Presentations/Locke IRR 2022 RRT and Code presentation.pptx](archive/Presentations/Locke%20IRR%202022%20RRT%20and%20Code%20presentation.pptx)
+- [Presentations/Locke IRR 2022 RRT and Code presentation.pptx](../../archive/Presentations/Locke%20IRR%202022%20RRT%20and%20Code%20presentation.pptx)

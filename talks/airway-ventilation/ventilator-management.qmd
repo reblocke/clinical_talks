@@ -9,30 +9,49 @@ draft: true
 - Modes:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- History
+- Physiology:
+- Modes:
+- AC-VC vs AC-VC+
+- Obesity, Driving Pressure, and Stress Index
+- Pes
+- Stress Index
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Invention of Ventilation: Vesalius in 16th century (animals).
+- Modern positive pressure ventilation: Ibsen did tracheostomy (+1500 medical students bagging for 165000 hours) to lower mortality in paralytic polio from 87% to 40%.
+- Incidentally, this is also the invention of the ICU.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1918826/pdf/procrsmed00411-0124.pdf
+- Last fifty years in mechanical ventilation:
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Displacement of the tube
+2. Obstruction
+3. Patient ( PE, Pulm Edema, PTX, Abd Compartment Synd)
+4. Equipment (oxygen, tubing)
+5. Stacking (breaths)
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Changes in circulation (e.g. going toward 0 in obstructive shock)
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- PEEP (high PEEP table if P:F < 200 ARDS. Pro: better oxygenation, avoid atelectatrauma. Con: baroatrauma and reduced preload. If O2 increases patient had recruitable lung. If not, the rest of lung will see more baro-stress.)
+- FiO2 - ideally reduce to <60% to avoid oxygen toxicity.
+- ##Adjusting ventilation: Goal is to maintain an acceptable (not normal) blood gas, in general tolerating some abnormality of blood gas to avoid VILI (this is permissive hypercapnia, thought based on no evidence to be OK to pH 7.2).
+- Idea - attempting to avoid over distention or under-distention. Ideally, a straight line (on ACVC with square waveform and paralyzed). If upward inflection - over distention. If downward deflection - under-distention.
+- Application? Diaphragm 'protection' attempting to neither use to little nor too much patient effort. Pmus 5-10 and Pocc 8 to 20 cmh2o have been proposed as a sweet spot. Idea is to apply proper Pvent to avoid over or under Pmus.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1918826/pdf/procrsmed00411-0124.pdf
+- https://journals.lww.com/ccmjournal/fulltext/2021/04000/fiftyyearsofmechanicalventilation1970sto.2.aspx
+- https://photos.collectednotes.com/photos/5187/41cc47fe-512d-4ffd-916a-66a160c78459
+- https://photos.collectednotes.com/photos/5187/4c9a7124-44e3-4644-baee-289b5ee86ed7
+- https://photos.collectednotes.com/photos/5187/9e5c8c03-b877-4252-a3da-4a2849c7853e
+- https://photos.collectednotes.com/photos/5187/70e0bf1d-d6a4-4bbe-83c9-7e970bb6fff0
+- https://photos.collectednotes.com/photos/5187/416f4b65-d4ec-4763-a542-41b7a8bd60ff
+- https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201707-553CC
+- https://criticalcarenow.com/2021/01/11/peak-airway-pressure-why-the-fuss/
+- https://pubmed.ncbi.nlm.nih.gov/8275740/
 
 ## Source notes
 
@@ -40,4 +59,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/ventilator-management.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ventilator-management.md](archive/Clinical%20Practice%20Notes/ventilator-management.md)
+- [Clinical Practice Notes/ventilator-management.md](../../archive/Clinical%20Practice%20Notes/ventilator-management.md)

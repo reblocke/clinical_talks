@@ -4,33 +4,46 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Preschock normotensive Hypoperfusion
+- Preshock hypotensive normoperfusion
+- LV-dominant
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Preschock normotensive Hypoperfusion
+- Preshock hypotensive normoperfusion
+- LV-dominant
+- RV-dominant
+- Bi-V CS
+- E: extremis
+- D: deteriorating/Doom - c, but not responding
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Categorizing shock: !alt
+- Based on invasive hemodynamic parameters.
+- Note: ESCAPE trial - decompensated HF - RCT with no benefit to RHC/Swan, however not in shock patients.
+- Some subsequent retrospective data that does suggest a benefit.
+- Cardiac Power Output: MAP & CO / 451.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Preschock normotensive Hypoperfusion
+2. Preshock hypotensive normoperfusion
+3. LV-dominant
+4. RV-dominant
+5. Bi-V CS
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- Preshock hypotensive normoperfusion
+- C: Classic cardiogenic shock - hypotension
+- B: beginning cardiogenic shock - relative hypotension or compensatory tachycardia without hypo perfusion.
+- A: pre-shock/ at risk
+- Categorizing shock: !alt
 
 ## Common pitfalls
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/2ba49f2a-c6e1-4f30-9853-1737a0560615
+- https://photos.collectednotes.com/photos/5187/c241b54b-59a9-451e-9bd2-aaf2827cfa7e
 
 ## Source notes
 
@@ -38,4 +51,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/cardiogenic-shock.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/cardiogenic-shock.md](archive/Clinical%20Practice%20Notes/cardiogenic-shock.md)
+- [Clinical Practice Notes/cardiogenic-shock.md](../../archive/Clinical%20Practice%20Notes/cardiogenic-shock.md)

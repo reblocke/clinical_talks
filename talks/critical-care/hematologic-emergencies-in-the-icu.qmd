@@ -9,27 +9,34 @@ draft: true
 - DIC
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Acute Promyelocytic Luekemia
+- Leukostasis
+- DIC
+- SVC
+- Cord Compression
+- TLS
+- Cytokine Release Syndrome
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Often leukopenic (due to fragile cells) vs hyperleukocytosis in other AML, present in DIC/ecchymosis/severe coagulopathy.
+- (note: differentiate from hyperviscosity syndrome caused by hyper-proteinemia)
+- Definition: 25% increase from baseline of K, Phos, Uric or 25% decrease of Ca
+- Go to the binder and call oncology
+- ATRA, low risk so makes sense to treat if ambiguous and not excluded.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. ATRA, low risk so makes sense to treat if ambiguous and not excluded.
+2. Beware of ATRA differentiation syndrome -> capillary leak physiology. Treat with dexamethasone
+3. ATRA induced leukocytosis -> differentiation leads to high WBC. Add doxorubicin
+4. Psuedotumor cerebri
+5. Hyperleukocytosis over 100k
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Beware of ATRA differentiation syndrome -> capillary leak physiology. Treat with dexamethasone
+- avoid diuretics, PRBCs -> increase viscocity
 
 ## References
 TODO: Add landmark references or guideline citations.
@@ -40,4 +47,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/hematologic-emergencies-in-the-icu.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/hematologic-emergencies-in-the-icu.md](archive/Clinical%20Practice%20Notes/hematologic-emergencies-in-the-icu.md)
+- [Clinical Practice Notes/hematologic-emergencies-in-the-icu.md](../../archive/Clinical%20Practice%20Notes/hematologic-emergencies-in-the-icu.md)

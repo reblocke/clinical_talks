@@ -4,19 +4,60 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Does PP tell influence the likelihood of preload responsiveness?
+- Pressure in Right Atrium (mmHg)
+- Considerations in Tamponade and Asthma
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
+- Venous return does not increase further due to venous collapse
+-  Actual CO and RApressure that results
+- Right Ventricle Starling Curve
+
+## Slide outline
+### Slide 1
+- Does PP tell influence the likelihood of preload responsiveness?
+- Considerations in Tamponade and Asthma
+### Slide 2
+- Pressure in Right Atrium (mmHg)
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
+- Venous return does not increase further due to venous collapse
+-  Actual CO and RApressure that results
+- Right Ventricle Starling Curve
+### Slide 3
+- Pressure in Right Atrium (mmHg)
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
+- Venous collapse happens at higher RA pressure due to elevated Ppericardium
+- Right Ventricle Starling Curve
+- Pulsus Paradoxus in Tamponade
+- Fluids increase mean systemic filling pressure, and thereby increase CO where venous return plateaus
+- Large change in CO
+### Slide 4
+- Pressure in Right Atrium (mmHg)
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
+- Venous return already elevated due to below atmospheric intra-thoracic pressure from respiratory efforts (up to -30 cmH2O)
+- Fluids only move RApressure and CO operating point further onto flattened portion of RV starling curve
+- Right Ventricle Starling Curve – flattened due to increased afterload/PVR due to elevated lung volumes
+- Pulsus Paradoxus in Asthma
+- Small (if any – depending where exactly Starling curve flattens) change in CO
+- Limitation: Guyton curves use gauge pressure, whereas relevant pressure in Asthma are transmural pressures because intrathoracic pressure is negative during inspiration, may be positive on expiration if air trapping
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Does PP tell influence the likelihood of preload responsiveness?
+- Pressure in Right Atrium (mmHg)
+- Considerations in Tamponade and Asthma
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Does PP tell influence the likelihood of preload responsiveness?
+- Pressure in Right Atrium (mmHg)
+- Considerations in Tamponade and Asthma
+- Cardiac Output (L/min)
+- Mean systemic filling pressure
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +74,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Guyton Asthma PP.pptx](archive/Presentations/Guyton%20Asthma%20PP.pptx)
+- [Presentations/Guyton Asthma PP.pptx](../../archive/Presentations/Guyton%20Asthma%20PP.pptx)
 
 ## Source materials
-- [Presentations/Guyton Asthma PP.pptx](archive/Presentations/Guyton%20Asthma%20PP.pptx)
+- [Presentations/Guyton Asthma PP.pptx](../../archive/Presentations/Guyton%20Asthma%20PP.pptx)

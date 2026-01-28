@@ -4,19 +4,84 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- How do you decide when prone positioning is not working?
+- Do blood gasses predict response?
+- Deadspace fraction?
+- Perhaps driving pressure change is better? MARS study
+- Who cares? Just do what the trials did
+- RCT’s test hypotheses about mean treatment effects
+- Yet, that’s not how we use trials
+- https://www.slideshare.net/StephenSenn1/real-world-modified
+- So what theory do we have?
+- [ ] https://link.springer.com/article/10.1007/s00134-020-06306-w: Review of this topic by Guerin, Albert, et al.
+- https://www.atsjournals.org/doi/10.1164/rccm.201311-2056LE
+- Re-analysis of PROSEVA: paired blood gasses
+
+## Slide outline
+### Slide 1
+- How do you decide when prone positioning is not working?
+### Slide 2
+- Do blood gasses predict response?
+- https://www.atsjournals.org/doi/10.1164/rccm.201311-2056LE
+- Re-analysis of PROSEVA: paired blood gasses
+- No association between O2 or PaCO2 response
+- “We conclude that the increase in survival seen in patients with ARDS who receive prone ventilation does not depend on whether the change in position improves gas exchange and infer that it results from the ability of prone positioning to reduce VILI.”
+### Slide 3
+- Deadspace fraction?
+- Gattinoni et al. [35] showed that subjects who had evidence of a decreased VDphys in the prone position based on a decrease in PaCO2 had lower mortality (mortality at day 28 was 35.1 % versus 52.2 %, relative risk 1.48 with confidence intervals 1.07–2.05, p 0.01)
+- Gattinoni L, Vagginelli F, Carlesso E, Taccone P, Conte V, Chiumello D, et al. Decrease in PaCO2 with prone position is predictive of improved outcome in acute respiratory distress syndrome. Crit Care Med. 2003;31(12):2727–33.
+### Slide 4
+- Perhaps driving pressure change is better? MARS study
+- https://erj.ersjournals.com/content/52/suppl62/PA327.abstract
+### Slide 5
+- Who cares? Just do what the trials did
+- Sometimes conflicting goals
+### Slide 6
+- RCT’s test hypotheses about mean treatment effects
+- http://validtrials.info/sct2016/slides/
+- Charlie Casper PhD
+- Not to estimate effect sizes
+- FDA cares about hypotheses.
+- We care about individual patient
+- Treatment responses
+### Slide 7
+- Yet, that’s not how we use trials
+- Average Treatment Effect → Individual Prediction about treatment response. How?
+- Venn: “It is obvious that every individual thing or event has an indefinite number of properties or attributes observable in it, and might therefore be considered as belonging to an indefinite number of different classes of things…”
+- How do we draw the line defining diseases? Infinite number of possibilities
+- How do we determine which patients are “like” the ones that benefited from ARMA and Wake Up & Breathe
+- Reference class problem: who is likely to benefit from the intervention of the trial?
+- The more precise the reference class, the lower the power for inference
+- Requires a theory to explain treatment responses to ’generalize’
+- Evidence-based medicine: Inclusion criteria Defines reference class
+- Anyone who could be included in will, on average, be expected to benefit
+- “Model Free” assumption, but clearly not optimal. Inclusion criteria are (often) not based on pathophysiology (ARDS…),
+- yet a fundamental assumption of modern medicine is that pathophysiology that can be understand can be manipulated to our benefit.
+- we make hypotheses and inferences about what we think leads to the response based on physiology. Are these correct, and does decision-making based on this thinking improve outcomes? Hope so, but it’s almost always not demonstrable.
+### Slide 8
+- https://www.slideshare.net/StephenSenn1/real-world-modified
+### Slide 9
+- So what theory do we have?
+- Oxygen parameters continue to not exert much influence
+- Driving pressure seems to be related in non-proning ARDS adjustments: DOI: 10.1513/AnnalsATS.202007-862OC
+### Slide 10
+- [ ] https://link.springer.com/article/10.1007/s00134-020-06306-w: Review of this topic by Guerin, Albert, et al.
+- [ ] http://rc.rcjournal.com/content/62/8/1097.short review of gas exchange and proning.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- How do you decide when prone positioning is not working?
+- Do blood gasses predict response?
+- Deadspace fraction?
+- Perhaps driving pressure change is better? MARS study
+- Who cares? Just do what the trials did
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- How do you decide when prone positioning is not working?
+- Do blood gasses predict response?
+- Deadspace fraction?
+- Perhaps driving pressure change is better? MARS study
+- Who cares? Just do what the trials did
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +98,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/When to stop proning.pptx](archive/Presentations/When%20to%20stop%20proning.pptx)
+- [Presentations/When to stop proning.pptx](../../archive/Presentations/When%20to%20stop%20proning.pptx)
 
 ## Source materials
-- [Presentations/When to stop proning.pptx](archive/Presentations/When%20to%20stop%20proning.pptx)
+- [Presentations/When to stop proning.pptx](../../archive/Presentations/When%20to%20stop%20proning.pptx)

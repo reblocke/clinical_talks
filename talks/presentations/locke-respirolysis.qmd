@@ -4,19 +4,380 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Drive to Breathe in (COVID) ARDS
+- Case: 66M with COVID-ARDS
+- Roadmap
+- Respiratory Drive
+- Chemoreflex (central and peripheral)
+- Dyspnea
+- Neuromechanical Dissociation– Air Hunger?
+- Pmus : Vt
+- 1. Unassisted breathing. Brain curve wants 55L due to dissociation of curves. ‘Can’t breathe’
+- Why care about respiratory drive? 3 Goals of Vent Management
+- Consequences: ↑drive to breathe and ↓ Vt
+- Management: Breath Stacking
+
+## Slide outline
+### Slide 1
+- Drive to Breathe in (COVID) ARDS
+- Brian Locke, MD
+- PGR, Feb 10 2022
+### Slide 2
+- Case: 66M with COVID-ARDS
+- Day 14 of symptoms, 7 of hospitalization, 5 of intubation
+- On ACVC+ (aka PRVC), 70% FiO2 (improving from 100%), 10 PEEP, RR 18 (set) 24 (delivered)
+- Sedation: Fentanyl 125 mcg/hr gtt; Propofol 35 mcg/hr. Was on Nimbex last 2 nights and was proned. Now trying to lighten sedation.
+- On exam: accessory muscle use, RASS: -4 (Deep Sedation)
+- The ventilator waveforms suggested work shifting to the patient
+- Next Step?
+### Slide 3
+- Roadmap
+- Drive to Breathe & Dyspnea
+- Model to understand chemoreflex, air hunger, and ventilatory support
+- Epistemological Field Trip: ARDS trials
+- Methods of approximating drive to breathe
+- Relationship of drive to breathe and sedation
+- ------
+- Next time: assessing air hunger; relationship to PICS
+### Slide 4
+- Respiratory Drive
+- Intensity of output from the neural centers to the muscles of breathing
+- Does not always go along with tachypnea
+- In health: directly relates to electrical activity in motor neurons, diaphragm, and transdiaphragmatic pressure (or pressure developed by all inspiratory muscles, Pmus)
+### Slide 5
+- Chemoreflex (central and peripheral)
+- Cortical feedback (can override autonomic control – voluntary apnea)
+- Pain, anxiety. Also, wakefulness drive to breath
+- Cortical brain injury hyperventilation, brain stem injury hypoventilation.
+- Metabolic rate
+- Direct inputs, not really known how much this determines breathing rate independent of chemoreflex.
+- Explains why PaCO2 doesn’t initially increase at the start of exercise.
+### Slide 6
+- Dyspnea
+- Sensation of breathing discomfort
+- Air Hunger: unsatisfied inspiration
+- Excessive respiratory effort
+- Tightness
+- NOT equivalent to high respiratory drive
+- 2 components:
+- Physiologic
+- Affective (cognitive perception, symptom)
+### Slide 7
+- Neuromechanical Dissociation– Air Hunger?
+- Brain Curve: changes if flow-generation pathway were intact
+- Ventilation Curve: actual flow generation
+- Brain curve Ventilation Curve in health
+- Dissociation between the neural output and the achieved ventilation: can’t breathe
+- Neuromuscular dysfunction (neuron/NMJ disease, respiratory muscle injury, disrupted length-tension relationship)
+- Loads on the respiratory system
+- Steady state occurs at the intersection of the ventilation curve (not brain curve) and the metabolic parabola.
+- High drive vent curve – metabolic parabola intersection (4) is higher than the PaCO2 desired by the brain (1)
+- Ventilation curve can be on either side of the brain curve with mechanical ventilation
+### Slide 8
+- Pmus : Vt
+- Ptot Pmus + Pvent ( V̇R )+ (𝚫VERS)
+- Spontaneous breathing:
+- greater Pmus → greater Vt
+- ACVC:
+- Pmus : Vt unrelated(ish) Vt targeted
+- Pvent is adjusted so that Ptot stays same
+- PS:
+- parallel but upshifted ventilation line (due to constant pressure)
+### Slide 9
+- TODO: No text extracted from this slide.
+### Slide 10
+- 1. Unassisted breathing. Brain curve wants 55L due to dissociation of curves. ‘Can’t breathe’
+- 2. Intubated, AC/VC, relieving some work of breathing.
+- Brain curve wants 35L/min (decreased dissoc. by 43%)
+- 3. Intubated, AC/VC, increased settings so that Vent is
+- giving exactly what the brain wants.
+- (Decreased 80% from intubation)
+- 4. Intubated, AC/VC – ventilating beyond what the patient needs. Will go apneic if taken off control mode.
+- Apneic threshold
+### Slide 11
+- Why care about respiratory drive? 3 Goals of Vent Management
+- Safety
+- Comfort
+- Liberation
+- Breath-Stacking
+- Work shifting
+- P-SILI?
+- Ventilator / Flow Dis-synchrony
+- Agitation
+- Sleep Quality (Overventilated)
+- Diaphragmatic Myotrauma
+### Slide 12
+- Consequences: ↑drive to breathe and ↓ Vt
+- Double Trigger → Second Breath before 1st exhaled
+- Cause: the patient’s brain stem wants a larger/longer inspiration than the vent gives.
+- Low tidal volume is NOT the brainstem’s response to high drive to breath
+- Problem: Much more than 8 ml/kg IBW lung distention -> VILI
+### Slide 13
+- Management: Breath Stacking
+- Treatment options: SCCM guidelines recommend:
+- Increase vent inspiratory time
+- increase tidal volume
+- Increase sedation
+- Neuromuscular blockade if needed
+- Approach might differ depending on duration of ARDS
+### Slide 14
+- Work shifting: Ptotal Pvent + Pmus
+- How much of the work of breathing is done by the ventilator? Depends on:
+- Drive to breath
+- Respiratory efficiency
+- Vent settings (flow starvation?)
+- In AC/VC: work shifting deflection in the pressure curve
+- Severe if drops below the PEEP
+- In PC/VC: work shifting deflection in the volume/flow curve
+### Slide 15
+- Case: What about PRVC / ACVC+?
+- PRVC / ACVC+: Pressure Control with adaptive targeting
+- If Vt is exceeded, next breath delivered with lower Pvent → target the set VC
+- Good flow synchrony – RT’s like this (and it’s a good thing)
+- Work shifting? Two scenarios:
+- Respiratory mechanics are improving
+- less vent support -> move toward weaning
+- Resp mechanics bad, but drive to breath is high
+- Vt can be exceeded because we are ventilating with lower Vt than brainstem wants
+- Less vent support -> more work shifted to patient. Opposite of what we want
+- More of the work is shifted onto the patient
+- Ventilator pressures are lower, but transpulmonary pressure is not
+### Slide 16
+- VC+/PRVC: Neuromechanical dissociation
+- VC+/PRVC:
+- Improving
+- Vt is exceeded, two scenarios
+### Slide 17
+- TODO: No text extracted from this slide.
+### Slide 18
+- PRVC / ACVC+: simulation
+- VC-CMV ACVC
+- PC-CMVa PRVC / ACVC+
+- PC-CMVs ACPC
+- PC-CSVr proportional assist/NAVA
+### Slide 19
+- Who cares? Just do what the trials did
+- Sometimes conflicting goals
+### Slide 20
+- RCT’s test hypotheses about mean treatment effects
+- http://validtrials.info/sct2016/slides/
+- Charlie Casper PhD
+- Not to estimate effect sizes
+- FDA cares about hypotheses.
+- We care about individual patient
+- Treatment responses
+### Slide 21
+- Yet, that’s not how we use trials
+- Average Treatment Effect → Individual Prediction about treatment response. How?
+- Venn: “It is obvious that every individual thing or event has an indefinite number of properties or attributes observable in it, and might therefore be considered as belonging to an indefinite number of different classes of things…”
+- How do we draw the line defining diseases? Infinite number of possibilities
+- How do we determine which patients are “like” the ones that benefited from ARMA and Wake Up & Breathe
+- Reference class problem: who is likely to benefit from the intervention of the trial?
+- The more precise the reference class, the lower the power for inference
+- Requires a theory to explain treatment responses to ’generalize’
+- Evidence-based medicine: Inclusion criteria Defines reference class
+- Anyone who could be included in will, on average, be expected to benefit
+- “Model Free” assumption, but clearly not optimal. Inclusion criteria are (often) not based on pathophysiology (ARDS…),
+- yet a fundamental assumption of modern medicine is that pathophysiology that can be understand can be manipulated to our benefit.
+- we make hypotheses and inferences about what we think leads to the response based on physiology. Are these correct, and does decision-making based on this thinking improve outcomes? Hope so, but it’s almost always not demonstrable.
+### Slide 22
+- In sum,
+- ARMA: benefit mediated by protecting the lung by limiting large tidal volumes and large transpulmonary pressures
+- Wake up & Breathe: benefit mediated by avoiding deep sedation and allowing patients to breathe
+- Thus,
+- Strategies improving those goals are expected to help patients (unless they cause some other adverse effect)
+### Slide 23
+- Assessment of respiratory drive
+- Can’t directly measure:
+- All the following are measures of ventilatory output. Thus, they will be inaccurate of there is some problem between
+- P0.1 – change in pressure against an occluded airway
+- Diaphragm Motor output: EAdi
+- Diaphragm US
+- Pmus during inspiration
+### Slide 24
+- Eadi – Diaphragm motor output
+- Surface electrodes or esophageal catheter
+- Closest to the brain in the pathway
+- Validated in:
+- Healthy volunteers – correlates directly with Ve
+- ECCO2R – Eadi decreases in proportion to CO2 removal
+- No (known) normal values – only tells trends
+- Specific to diaphragm, not recruitment of other muscules.
+### Slide 25
+- Pdi (transdiaphragm: Eso – Gastric) & Pmus (all resp)
+- dPdi / dt rate of pressure – quantifies respiratory drive as long as the pathway is intact
+- 5 cm H2O / second normal in a healthy person
+- Elevated must have high drive
+- Low either low drive, or neuromuscular/diaphragm dysfunction
+- Healthy Pmax 100 cmH2O (pleural pressure ~100cmH2O below atm)
+- In health – can sustain 50-60% of max pressure indefinitely (higher leads to fatigue).
+- Presumably lower threshold in illness
+- Transpulmonary pressures quite high -> P-SILI?
+### Slide 26
+- P0.1: Airway occlusion pressure
+- Drop in airway pressure Paw in 100 ms of inspiratory effort against an occluded airway.
+- Normal P0.1 0.5-1.5 cmH2O
+- Above 3.5 in IMV high drive (validated against esophageal pressure probes)
+- May underestimate drive in neuromuscular dysfunction, intrinsic peep, flow problems
+- Significant breath to breath variation -> average 3-4 measurements.
+- Can do on Puritan Bennett 980
+### Slide 27
+- TODO: No text extracted from this slide.
+### Slide 28
+- TODO: No text extracted from this slide.
+### Slide 29
+- TODO: No text extracted from this slide.
+### Slide 30
+- High Drive: What is our goal with sedation?
+- Blunting of the respiratory drive: opioids, sedatives, and NMBs (although NMBs aren’t actually blocking the drive, just the output)
+- Sedation: influences cortical inputs to drive to breath, AND may influence drive to breath directly
+### Slide 31
+- Opiate Induced Resp Depression
+- Mu receptor mediates pain relief and depression of respiration (normal RR drops first, then tidal volume reduced – HCVR and HVR reduced)
+- Partial agonists have a reduced effect on breathing
+- Equianalgesic doses of various opiates have same effect – though rapidity of onset determines whether apnea is caused, or just hypoventilation.
+- Degree of response is state dependent (co-ingestions, sex, physiologic state)
+### Slide 32
+- Case resolution
+- ACVC+ → ACVC
+- Flow: 70
+- Vt 6 → 8 ml/kg IBW
+- Allowed for normal acceptable appearance, resolution of work shifting by waveforms, though still sedated too deeply to report dyspnea.
+### Slide 33
+- Takeaways
+- When lung protective ventilation and light sedation conflict, it often manifests as double triggering or work shifting.
+- We should avoid PRVC / ACVC+ whenever we are trying to use sedatives to reduce work of breathing – or else the mode is working against us, even if the vent pressures decrease.
+- Deep sedation does not assure a decreased drive to breathe; there are several options to assess this – P0.1 is easiest.
+- Topic for next time: relation of drive to breathe and patient comfort and Post-ICU syndrome
+### Slide 34
+- TODO: No text extracted from this slide.
+### Slide 35
+- Low drive -
+- “They keep going apneic when we try to put them on PS”
+- - if they are doing this, they are likely over-ventilated and are prone to disrupted sleep. Hypopneas won’t necessarily alarm the ventilator. [ ] look into ACVC data, or does it all come from PS? All PS. Don’t see this as much as I’d expect given altitude our threshold buffer is smaller.
+- -- not pathology, happens in everyone with vigorous enough PS
+- -- sleep-onset central apnea occurs in a large minority of people https://www.e-jsm.org/journal/view.php?number91
+- Sedation
+- Metabolic alkalosis respiratory alkalosis?
+- Brainstem injury – how frequently does this happen from stroke? [ ] look in to this
+### Slide 36
+- Complete vs partial neuromuscular blockade?
+- Or intermittent
+### Slide 37
+- Revisiting dyspnea:
+- Sedation – and possibly opiates:
+- May be helpful for the affective component of dyspnea
+- ?translate to reduced PICS / PTSD?
+- Probably not all that effective for relieving the inspiratory neural drive
+- Perhaps not changing respiratory mechanics as much as we think we are?
+- Are we underusing paralytic for this purpose?
+- (in a way, that’s what ROSE trial tested)
+### Slide 38
+- Ethical issue: when mechanics and symptoms conflict?
+### Slide 39
+- Why do we have air hunger?
+- E.g. blood flow is regulated outside of our consciousness to meet local demand; cardiac output is increased outside consciousness, etc.
+- Breathing is different- we have some voluntary control. Why?: diving animals; speech; food intake
+### Slide 40
+- Compr Physiol11:1449-1483, 2021.
+- Air hunger conscious appreciation of uncomfortable urge to breathe
+- Factors increasing air hunger: hypercapnia, hypoxia, exercise, acidosis.
+- Factors reducing air hunger: tidal expansion of lungs
+- Air hunger minute ventilation < desired minute ventilation.
+- “The defining experimental paradigm to evoke air hunger is to elevate the drive to breathe while restricting the ability to increase ventilation”
+- Drive to breathe increased by modulating inhaled gas concentrations: Fio2 is week, FiCO2 is strong (esp if vent restricted). Acidosis works but uncontrollable; same with exercise.
+- Restriction of ventilation: external wraps, impedence via mouthpiece of mask, breath hold (limit has been shown to interolable air hunger)
+- Free breathing no restriction – have to use natural limits, which can only result in mild air hunger due to exp. Of lung
+- Copy of motor activity in medullariy respiratory centers projects on sensory cortex – then compared to signals of tidal lung inflation from pulmonary stretch receptors.
+### Slide 41
+- Note: the requirement that for brain death to have occurred, there has to be no breath efforts
+- Is built on the assumption that brainstem / chemoreflex is one of the most reliable indicators of some ”life” remaining.
+### Slide 42
+- ”The patient looks uncomfortable”
+- “Or, I had to go up on the sedation”
+- Observation (confounded) data suggests:
+- 25% of all patients have dis-synchrony
+- 50% who are the vent more than a day will.
+- They do worse. Maybe even worse mortality
+### Slide 43
+- https://doi.org/10.1164/rccm.202201-0078ED
+- Editorial for DyStress study (cited later)
+- “Nevertheless, dyspnea among critically ill patients has been shown to be the most distressing of ten symptoms studied (4) and has been found to afflict a significant percentage of patients during mechanical ventilation (5).“
+- “Dyspnea historically has been associated with increased work of breathing and the now decades old concept of length-tension inappropriateness (7)... The reality is that the origins of dyspnea are more complicated; the breathing discomfort may arise from stimulation of pulmonary and vascular receptors, chemoreceptors, and other factors that may be the source of the discomfort and/or enhance the drive to breathe”
+- “Furthermore, dyspnea is worsened when the output of the ventilatory system, e.g., tidal volume and inspiratory flow, is not consistent with the expected or desired output. This concept has been termed neuromechanical uncoupling or efferent-reafferent dissociation (8,9).
+### Slide 44
+- Clinical exam? [ ] summarize comments
+- RR insensitive (no change until 3-4 fold increase) Nunns?
+- Dyspnea if they can tell you
+- Accessory muscule use, diaphoresis, tachycardia (gets used by nurses)
+- All exam signs are blunted in neuromuscular disease or injury.
+### Slide 45
+- Dyspnea Assessment – [ ] split into different talk?
+- Caregiver performance
+- Nurse performance
+- Reference standard: patient report (MICU patients who could communicate)
+### Slide 46
+- 30 intubated patients able to communicate at 1 center
+- Patients: dyspnea, 0-10 on a visual scale
+- Within 15 minutes: RT, RN, and MD estimated discomfort. Reported cues:
+- RTs: ventilator flow patterns &facial expression
+- RNs: heart rate, resp rate
+- MDs: facial expression, nasal flaring, restlessness, accessory muscles.
+### Slide 47
+- Batman Begins (2005)
+- Administrator Crane aka Scarecrow
+- Villain trick: sprays gas that makes people lose their mind in fear
+### Slide 48
+- Urbach-Wiethe Disease: bilateral amygdala damage due to fat deposits.
+- Patient S.M.: No conditioning to aversive stimuli, no fear in life-threatening situations, no recognition of fear in others
+- 35% Inhaled CO2 challenge
+- Provoked panic attack
+- First sensation of fear sense childhood
+- Reproduced in others with U-W Disease
+### Slide 49
+- Air Hunger: panic independent of amygdala
+- Widely understood that the distress of breathlessness is different:
+- Waterboarding / asphyxiation as torture
+- 55 survivors of torture: asphyxiation strongest predictor of PTSD
+- No ceiling effect (risk of PTSD) to repeat episodes – nearly unique
+- 279 survivors of torture in Eastern block: most unpredictable (uncontrollability leads to hopelessness), second most aversive (only after rape)
+### Slide 50
+- DyStress – REVA Network prospective cohort
+- 2016-2018; N612. Patients requiring 24+ hrs of IMV, enrolled once able to communicate. Assessed daily
+- 762 assessed but not enrolled – mostly couldn’t communicate.
+- Exposure: “Are you having trouble breathing now”, 0-10 VAS to quantify
+- Choose between: air hunger, excessive respiratory effort. Also, anxiety+pain
+- Outcomes: 34% dyspnea @ enrollment (71% air hunger), severity 5
+- ICU LOS: 6d vs 6d for dyspneic and non-dyspneic
+- 90d interview: PTSD – 29% vs 13%; rate highest in patients choosing “Air Hunger”
+- Independently associated in multivariable model (OR 2.47) account for other chars
+- Limitation: unknown if the rate of dyspnea (or recollection) is ↑ or ↓ in patients unable to communicate.
+### Slide 51
+- Dyspnea in sedated?
+- sedation may give an external appearance of respiratory comfort, but
+- falsely reassuring (32, 46)
+- 32. Decavèle M, Similowski T, Demoule A. Detection and management of dyspnea in mechanically ventilated patients. Curr Opin Crit Care 2019;25:86–94.
+### Slide 52
+- Dyspnea (specifically, air hunger) is uniquely aversive, hard to identify, and probably associated with PICS / Post-ICU PTSD
+### Slide 53
+- Resp Care Review on the subject
+- DOI: 10.4187/respcare.10075
+- Also ERJ review (2022) on COPD and Drive to Breath / Reasons NIV might work
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Drive to Breathe in (COVID) ARDS
+- Case: 66M with COVID-ARDS
+- Roadmap
+- Respiratory Drive
+- Chemoreflex (central and peripheral)
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Drive to Breathe in (COVID) ARDS
+- Case: 66M with COVID-ARDS
+- Roadmap
+- Respiratory Drive
+- Chemoreflex (central and peripheral)
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +394,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - Respirolysis 1-20-22.pptx](archive/Presentations/Locke%20-%20Respirolysis%201-20-22.pptx)
+- [Presentations/Locke - Respirolysis 1-20-22.pptx](../../archive/Presentations/Locke%20-%20Respirolysis%201-20-22.pptx)
 
 ## Source materials
-- [Presentations/Locke - Respirolysis 1-20-22.pptx](archive/Presentations/Locke%20-%20Respirolysis%201-20-22.pptx)
+- [Presentations/Locke - Respirolysis 1-20-22.pptx](../../archive/Presentations/Locke%20-%20Respirolysis%201-20-22.pptx)

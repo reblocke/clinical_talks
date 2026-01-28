@@ -9,21 +9,26 @@ draft: true
 - Classification:
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Anatomic
+- Etiology
+- Classification:
+- Workup:
+- Smoking-Related ILD
+- ILA - Interstitial Lung Abnormality
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- aka diffuse parenchymal lung diseases
+- NEJM 2020 review: https://www.nejm.org/doi/pdf/10.1056/NEJMra2005230
+- An Official American Thoracic Society Clinical Practice Guideline: The Clinical Utility of Bronchoalveolar Lavage Cellular Analysis in Interstitial Lung Disease
+- Not all causes fibrosis
+- Allergic: HP, Eos pna Non-allergic: sarcoidosis, PLCH, ARDS, Alveolar proteinosis, RB-ILD, LAM Functional: aspiration/GERD associated pneumonitis
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. alveolar - DIP, All proteinosis, COP
+2. bronchiolocentric - HP, PLHC, sarcoid?
+3. Perivascular and lymphatic - LAM, LIP
+4. Panlobular - IPF
+5. ILD related to primary pulm disorder (e.g. sarcoidosis, PAP, LAM, eosinphilic pneumonia)
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +37,10 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.nejm.org/doi/pdf/10.1056/NEJMra2005230
+- https://www.atsjournals.org/doi/pdf/10.1164/rccm.201202-0320ST
+- https://photos.collectednotes.com/photos/5187/33e64ec5-7036-4387-be14-ea2eb46ae25f
+- https://photos.collectednotes.com/photos/5187/2e38b851-47e2-48a0-9036-da08fbc7397d
 
 ## Source notes
 
@@ -40,4 +48,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/ild.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ild.md](archive/Clinical%20Practice%20Notes/ild.md)
+- [Clinical Practice Notes/ild.md](../../archive/Clinical%20Practice%20Notes/ild.md)

@@ -4,19 +4,308 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Spirometric Obstruction COPD Diagnosis
+- Most COPD diagnoses are wrong.
+- Misdiagnosis
+- What is obstruction?
+- Dichotomizing a continuous measure
+- Over-diagnose the old, under-diagnose the young?
+- Or < 0.7 if using GOLD
+- Example 1
+- Example 2
+- Example 3
+
+## Slide outline
+### Slide 1
+- Spirometric Obstruction COPD Diagnosis
+- Brian Locke MD MSCI
+- Assistant Professor of Research
+- Department of Pulmonary and Critical Care
+- Intermountain Medical Center
+- Disclosures:
+- Research support from the Intermountain Fund, American Thoracic Society, NIH
+- Equity in theMTN.ai , time-series machine learning for patient monitoring
+### Slide 2
+- TODO: No text extracted from this slide.
+### Slide 3
+- Most COPD diagnoses are wrong.
+- Misdiagnosed
+### Slide 4
+- Misdiagnosis
+### Slide 5
+- What is obstruction?
+- Starling Resistor
+- Flow-volume loop
+- Effort-independent
+- Spirogram
+### Slide 6
+- TODO: No text extracted from this slide.
+### Slide 7
+- Dichotomizing a continuous measure
+- Obstruction FEV1/FVC < 0.70
+- Obstruction FEV1/FVC < LLN
+- for age, sex, height
+- Not “<70% predicted”!
+### Slide 8
+- Over-diagnose the old, under-diagnose the young?
+### Slide 9
+- Or < 0.7 if using GOLD
+### Slide 10
+- Example 1
+- 30-year-old male; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 3.5L
+- 81.0%
+- 3.36
+- FEV1
+- 2.75
+- 68.5%
+- 2.84
+- FEV1/FVC
+- 0.714
+- 84.5%
+- 0.74
+- Obstruction (GOLD)?
+- Obstruction (GLI)?
+### Slide 11
+- Example 1
+- 30-year-old male; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 3.5L
+- 81.0%
+- 3.36
+- FEV1
+- 2.75
+- 68.5%
+- 2.84
+- FEV1/FVC
+- 0.714
+- 84.5%
+- 0.74
+- Obstruction (GOLD)? No (above 0.7)
+- Obstruction (GLI)? Yes (below 0.74)
+### Slide 12
+- Example 2
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 3.5L
+- 116%
+- 1.91
+- FEV1
+- 2.75
+- 120%
+- 1.42
+- FEV1/FVC
+- 0.714
+- 92.3%
+- 0.639
+- Obstruction (GOLD)?
+- Obstruction (GLI)?
+### Slide 13
+- Example 2
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 3.5L
+- 116%
+- 1.91
+- FEV1
+- 2.75
+- 120%
+- 1.42
+- FEV1/FVC
+- 0.714
+- 92.3%
+- 0.639
+- Obstruction (GOLD)? No (Above 0.7)
+- Obstruction (GLI)? No (Above 0.639)
+### Slide 14
+- Example 3
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 1.8L
+- 65%
+- 1.91
+- FEV1
+- 1.25
+- 60%
+- 1.42
+- FEV1/FVC
+- 0.69
+- 89.7%
+- 0.639
+- Obstruction (GOLD)?
+- Obstruction (GLI)?
+### Slide 15
+- Example 3
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 1.8L
+- 65%
+- 1.91
+- FEV1
+- 1.25
+- 60%
+- 1.42
+- FEV1/FVC
+- 0.69
+- 89.7%
+- 0.639
+- Obstruction (GOLD)? Yes (below 0.7)
+- Obstruction (GLI)? No (above 0.64)
+- (has restriction, FVC < 1.91)
+### Slide 16
+- Post-Bronchodilator vs Bronchodilator Response
+- BD-response (10%+) or not has NO ROLE IN DIAGNOSING COPD OR ASTHMA
+- Not predictive of COPD vs Asthma
+- Does portend worse trajectory
+### Slide 17
+- Example 4
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 1.8L
+- 65%
+- 1.91
+- 2.0L
+- 71%
+- FEV1
+- 1.25
+- 60%
+- 1.42
+- 1.4L
+- 67%
+- 1.42L
+- FEV1/FVC
+- 0.69
+- 89.7%
+- 0.639
+- 0.71
+- 92%
+- Post-BD Obstruction (GOLD)?
+- Post-BD Obstruction (GLI)?
+### Slide 18
+- Example 4
+- 80-year-old female; 5 ft 6
+- Pre
+- %Predicted
+- LLN
+- Post
+- FVC
+- 1.8L
+- 65%
+- 1.91
+- 2.0L
+- 71%
+- FEV1
+- 1.25
+- 60%
+- 1.42
+- 1.4L
+- 67%
+- 1.42L
+- FEV1/FVC
+- 0.69
+- 89.7%
+- 0.639
+- 0.71
+- 92%
+- Post-BD Obstruction (GOLD)? No
+- Post-BD Obstruction (GLI)? No
+- (has PRISM)
+### Slide 19
+- TODO: No text extracted from this slide.
+### Slide 20
+- Summary (Part 1)
+- Obstruction occurs because after the initial burst, we don’t volitionally control our exhalation speed – depends on lung mechanics
+- An FEV1/FVC that is too low defines obstruction
+- The exact threshold is arbitrary, debatable
+- Post-BD FEV1/FVC defines diagnoses, but BD response has no role in diagnosis.
+### Slide 21
+- What’s the weakest link?
+### Slide 22
+- Implication: impaired lung function doesn’t always cause dyspnea (on exertion)
+- Warning: air hunger is extremely aversive; people will modify their behavior to avoid it and not realize they have excess dyspnea on exertion.
+### Slide 23
+- COPD: chronic bronchitis or emphysema
+- Chronic Bronchitis
+- COPD
+- Emphysema
+- Post-BD Airway Obstruction
+- ???
+### Slide 24
+- COPD: chronic bronchitis or emphysema
+- Post-BD Airway Obstruction
+- COPD
+- Emphysema
+- Chronic Bronchitis
+- Chronic Bronchitis: cough with expectorated sputum on a regular basis for 3-months per year over a 2-year period in the absence of another condition that explains the symptoms.
+- Emphysema: alveolar destruction that leads to loss of elastic recoil of the lung (slower emptying), reduced gas diffusing capacity.
+- - Emphysema without obstruction: ”Pre-COPD”
+- COPD: Post-BD Airway Obstruction in the presence of irreversible damage
+### Slide 25
+- Scenario 1:
+- 50F with prior smoking history (15 years) presents to clinic with shortness of breath limiting her exertion. PFTs show post-BD obstruction on PFTs. There is a positive BD response.
+- What data can you gather to tell if the patient has COPD or Asthma?
+### Slide 26
+- Scenario 1:
+- Comorbidities (eczema, allergic rhinitis, EoE/GERD)
+- Presence (or absence) of detectable emphysema
+- DLCO (often high in asthma, low in COPD)
+- Day-to-day variation (esp with exposures)
+- BD-response (10%+) or not has NO ROLE IN DIAGNOSING COPD OR ASTHMA
+- Not predictive of COPD vs Asthma
+- Does portend worse trajectory
+### Slide 27
+- Scenario 1:
+- 65M current smoker presents w 7d of worsening shortness of breath and productive cough. No prior PFTs. Is this an acute exacerbation of COPD?
+- In patients with hypercapnic respiratory failure…
+### Slide 28
+- TODO: No text extracted from this slide.
+### Slide 29
+- Questions?
+- Email: brian.locke@imail.org
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Spirometric Obstruction COPD Diagnosis
+- Most COPD diagnoses are wrong.
+- Misdiagnosis
+- What is obstruction?
+- Dichotomizing a continuous measure
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Spirometric Obstruction COPD Diagnosis
+- Most COPD diagnoses are wrong.
+- Misdiagnosis
+- What is obstruction?
+- Dichotomizing a continuous measure
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +322,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/spiro_copd_noon_conf_2025.pptx](archive/Presentations/spiro_copd_noon_conf_2025.pptx)
+- [Presentations/spiro_copd_noon_conf_2025.pptx](../../archive/Presentations/spiro_copd_noon_conf_2025.pptx)
 
 ## Source materials
-- [Presentations/spiro_copd_noon_conf_2025.pptx](archive/Presentations/spiro_copd_noon_conf_2025.pptx)
+- [Presentations/spiro_copd_noon_conf_2025.pptx](../../archive/Presentations/spiro_copd_noon_conf_2025.pptx)

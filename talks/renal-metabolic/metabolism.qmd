@@ -4,30 +4,36 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- 30 - 60 mg of fixed acid is removed in kidney
+- 14,000 mg of volatile acid is removed by the lungs
+- Convective / Bulk-flow trasport: tidal movement of fluid (gas) through the airways and circular flow of fluid from the heart to the peripheral and back again.
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- 30 - 60 mg of fixed acid is removed in kidney
+- 14,000 mg of volatile acid is removed by the lungs
+- Convective / Bulk-flow trasport: tidal movement of fluid (gas) through the airways and circular flow of fluid from the heart to the peripheral and back again.
+- Diffusive transport: from alveoli in to blood, and from capillaries into tissues.
+- Energy expenditure (kcal/d) [(VO2 3.941) + (VCO2 1.11) + (uN2 217) 1440.
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- VO2 (aka metabolic rate) Qt (aka CO by fick) C(a-v)O2 (aka o2 extraction) S(a-v)O2 10 Hgb)
+- Schematically: 2 types of transport enable respiration, which can be conceptualized as movement of O2 from ambient pO2 to low pO2 mitochondria (mitochondrial pO2 0.1-2 mmHg, but can't be clinically assessed)
+- Director Calorimetry measure heat produced (via thermally sealed chamber)
+- Indirect Calorimetry estimate heat produced by measuring O2 consumed and CO2 produced (because C6H12O6 + 6O2 -> 6CO2 + 6H2O + heat)
+- UN2 urinary nitrogen component, often ignored b/c less than 4% of energy generally.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. 30 - 60 mg of fixed acid is removed in kidney
+2. 14,000 mg of volatile acid is removed by the lungs
+3. Convective / Bulk-flow trasport: tidal movement of fluid (gas) through the airways and circular flow of fluid from the heart to the peripheral and back again.
+4. Diffusive transport: from alveoli in to blood, and from capillaries into tissues.
+5. Energy expenditure (kcal/d) [(VO2 3.941) + (VCO2 1.11) + (uN2 217) 1440.
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- Note: practical limitation - VO2 Vi(FiO2) - Ve(FeO2), but practically measuring FiO2 when over 60% predisposes to moer error so generally indirect calorimetry will be less acurate for Fio2 over 60% (or, of course, if FiO2 is changing)
 
 ## References
 TODO: Add landmark references or guideline citations.
@@ -38,4 +44,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/metabolism.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/metabolism.md](archive/Clinical%20Practice%20Notes/metabolism.md)
+- [Clinical Practice Notes/metabolism.md](../../archive/Clinical%20Practice%20Notes/metabolism.md)

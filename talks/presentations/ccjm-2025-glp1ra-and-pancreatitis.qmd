@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/CCJM 2025 GLP1ra and pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/CCJM%202025%20GLP1ra%20and%20pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/CCJM 2025 GLP1ra and pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/CCJM%202025%20GLP1ra%20and%20pancreatitis.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/CCJM 2025 GLP1ra and pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/CCJM%202025%20GLP1ra%20and%20pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/CCJM 2025 GLP1ra and pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/CCJM%202025%20GLP1ra%20and%20pancreatitis.pdf)

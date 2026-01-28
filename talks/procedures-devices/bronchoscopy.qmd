@@ -5,23 +5,28 @@ draft: true
 
 ## What this covers
 - Bronchoalveolar lavage for pneumonia in immunocompromised patients
+- https://pubmed.ncbi.nlm.nih.gov/31541573/ In hematopoietic stem cell transplant recipients - discordant results occurred in 42 of 115 paired upper and lower respiratory viral multiplex samples. 17 of the 42 were positive in LRT but negative in URT.
+- Adenovirus, Human metapneumovirus, rhinovirus, and parainfluenza were discordant. RSV was concordant.
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Bronchoalveolar lavage for pneumonia in immunocompromised patients
+- https://pubmed.ncbi.nlm.nih.gov/31541573/ In hematopoietic stem cell transplant recipients - discordant results occurred in 42 of 115 paired upper and lower respiratory viral multiplex samples. 17 of the 42 were positive in LRT but negative in URT.
+- Adenovirus, Human metapneumovirus, rhinovirus, and parainfluenza were discordant. RSV was concordant.
+- https://pubmed.ncbi.nlm.nih.gov/24977681/
+- "FOB with BAL can be completed in severely thrombocytopenic patients with a minimally increased risk of bleeding, and thrombocytopenia should not be considered a contraindication to performing this procedure [5]. There are no data to suggest that FOB with BAL has a higher risk of bleeding in coagulopathic patients or in those receiving anticoagulation, and these conditions should not preclude the procedure being performed [6].
+- The incidence of severe complications during bronchoscopy is 0.637%
+- A differential count with greater than 50% neutrophils may be indicative of acute lung injury or bacterial infection, whereas BAL lymphocytosis suggests granulomatous lung disease, viral infection, or interstitial lung disease [8].
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- https://pubmed.ncbi.nlm.nih.gov/31541573/ In hematopoietic stem cell transplant recipients - discordant results occurred in 42 of 115 paired upper and lower respiratory viral multiplex samples.
+- 17 of the 42 were positive in LRT but negative in URT.
+- Adenovirus, Human metapneumovirus, rhinovirus, and parainfluenza were discordant.
+- https://pubmed.ncbi.nlm.nih.gov/24977681/
+- "FOB with BAL can be completed in severely thrombocytopenic patients with a minimally increased risk of bleeding, and thrombocytopenia should not be considered a contraindication to performing this procedure [5].
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Bronchoscopy
+2. Bronchoalveolar lavage for pneumonia in immunocompromised patients
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +35,9 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://pubmed.ncbi.nlm.nih.gov/31541573/
+- https://pubmed.ncbi.nlm.nih.gov/24977681/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6739192/
 
 ## Source notes
 
@@ -38,4 +45,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/bronchoscopy.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/bronchoscopy.md](archive/Clinical%20Practice%20Notes/bronchoscopy.md)
+- [Clinical Practice Notes/bronchoscopy.md](../../archive/Clinical%20Practice%20Notes/bronchoscopy.md)

@@ -4,19 +4,289 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- The Other M.R.
+- Case & Journal Club
+- GERD… 2 problems in practice
+- Roadmap to Journal Club
+- Causal Diagrams
+- by far the most common word used linking exposures and outcomes was “associate”;
+- Find Aggregious example
+- Asthma and reflux are associated.
+- Traditional conception of an RCT:
+- In defense of Meta-analyses:
+- GINA 2022
+- Argument of a(n observational) study
+
+## Slide outline
+### Slide 1
+- The Other M.R.
+- GERD, Asthma and, Study Designs
+- Brian Locke MD
+- PCCM Fellow, MSCI student, T32... person
+### Slide 2
+- Case & Journal Club
+- 65M with new onset asthma as proven by highly variable episodes of wheezing, reversible obstruction on PFTs with high DLCo, no notable CT findings, and both improvement with treatments (pred, ICS) and non-improvement with non-treatment.
+- Why did he get asthma?
+- Low Eos and IgE, but did acquire a cat
+- Some chronic rhinosinusitis
+- Owns a lawn spraying company
+- Mild OSA
+- Has heartburn that goes away with TUMS
+### Slide 3
+- GERD… 2 problems in practice
+- Wason's 2-4-6 task
+- The goal is to guess the pattern
+- You say any sequence of 3 numbers and I’ll say yes or no whether it fits the pattern.
+- “4-6-8” Yes, “10-12-14” Yes, “-3- -1- 1” Yes, “10-20-30” Yes, “2-5-8” Yes
+- “Positive Bias”: look for evidence supporting our theory
+- Falsification: reliable if it withstands attempts to disprove
+- Are there any clinical findings that tell us definitively that reflux isn’t the cause of asthma?
+- Empiric trials: harder to separate signal from noise the more variable an outcome is (Asthma is defined by variability)
+- Barnum Statements:
+- Basis of astrology, cold reading, etc. Statements that seem very personal but are generically applicable.
+- You have a great need for other people to like and admire you.
+- You have a tendency to be critical of yourself.
+- 3. You sometimes have reflux after eating spicy food.
+### Slide 4
+- Roadmap to Journal Club
+- How do we know things:
+- RCTs
+- Observational Research
+- Instrumental Variable Analysis
+- Mendelian Randomization
+- Study Ahn et al (AJRCCM 2023)
+### Slide 5
+- Causal Diagrams
+- Terminology: we are interested of the effect of an exposure (E) on an outcome (O)
+- Causal diagram: Directed Acyclic Graph
+- “Associated with…”: ‘weasel word’
+- “Coffee intake is associated with longevity. You should drink more coffee”
+### Slide 6
+- by far the most common word used linking exposures and outcomes was “associate”;
+- although few studies explicitly declared an interest in estimating causal effects, the majority used language that moderately or strongly implied causality;
+- while approximately a third of articles issued action recommendations, the vast majority of these were found to imply that causality had been inferred;
+- causal language in action recommendations ratings tended to be stronger than the language in linking sentences; and
+- although many studies used disclaimers warning readers against making causal inferences, an implicit interest in causality was apparent from common discussions of causal mechanisms and widespread adjustment for confounding
+### Slide 7
+- Find Aggregious example
+- And track down VP’s data on nutritional studies
+### Slide 8
+- Asthma and reflux are associated.
+### Slide 9
+- Traditional conception of an RCT:
+- Test of a hypothesis: Is there evidence to reject the null?
+- Fisher: not to estimate the size of the effect – only is there evidence for !Null
+- Randomize, analyze all by ITT principle, complete adh. & ascertainment
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- In defense of Meta-analyses:
+- Next time? Any takers
+- I’d argue that for most problems in pulmonary critical care, the best source of evidence is the best meta-analysis, not the best individual trial.
+- The way trials are currently funded leads to them being systematically underpowered and not fit to answer the relevant question.
+- GIGO is a problem, but it’s less of one than you might think
+### Slide 12
+- TODO: No text extracted from this slide.
+### Slide 13
+- GINA 2022
+- “In patients with confirmed asthma, GERD should be considered as a cause of a dry cough; however there is no value in screening patients with uncontrolled asthma for GERD (Evidence A)”
+- Benefits of PPI appear to be limited to patients with both symptomatic reflux and nocturnal respiratory symptoms.
+### Slide 14
+- Argument of a(n observational) study
+- There are for possible reasons for an association:
+- Causation
+- Observation bias or information bias:
+- Systematic error distorting the exposure-outcome relationship
+- Confounding
+- Chance
+- Disjunctive syllogism: “When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.” Arthur Conan Doyle
+- Find everything that causes a change in P(Exposure) and P(Outcome)
+- aka a confounder
+- Use one of several methods to control (‘adjust’) for those variables
+- Matching, Restriction, stratification, multivariable regression, etc
+### Slide 15
+- Assumptions of ‘controlling for confounders’
+- For regression modeling to accurately estimate causal effect:
+- No unmeasured (unaccounted for) confounders.
+- Confounder-Exposure and Confounder-Outcome relationships properly modeled.
+- These assumptions cannot be directly verified.
+- Research will be dubious if:
+- If the strength of confounders is strong in comparison to the main effect
+- Or if the confounders are hard to accurately measure
+- Their relationships are confusing (e.g. nonlinear)
+- Attempts to address: sensitivity analyses, negative ‘control’ outcomes
+- Problem?
+- Problem
+### Slide 16
+- Examples:
+- Collider: The exposure and the outcome both effect a third variable (the collider; name: 2 arrows on the DAG collide). Introduces bias if collider controlled
+- Intuition: Say an C can only happen by either A or B but not the combination A+B (or that’s rare). The controlling C -> negative association between A and B
+- C: Harvard admission; A: Smarts; B: Athletics. -> Matriculants either smart or athletic (inversely related)
+- Take-away: putting all the possible confounders in a regression model and hoping for the best not going to work.
+### Slide 17
+- What is an instrument
+- What is an instrument? Something that “vibrates” the likelihood of exposure but have no other reason it’d be related to the outcome.
+- The instrument is only related to the outcome via the exposure.
+- No common cause of the instrument and the outcome.
+- IF you are interested in the size of the effect (not just yes/no), an additional assumption: distribution of effect modifiers is the same among exposed and unexposed.
+- Stronger relationship to exposure More powerful instrument
+### Slide 18
+- Why is this useful?
+- Assumptions:
+- Traditional Study: Exposure is unconfounded
+- Instrumental Variable Study: Instrument is unconfounded.
+- What did we gain? The actual relationships may be very different
+- “Evidence triangulation”: If the effect estimate is similar under different assumptions -> evidence in favor of the causal effect
+- vs repeating studies continent on the same assumptions
+### Slide 19
+- Examples of instruments
+- Randomization (ultimate instrument)
+- Only can be associated with the outcome via the exposure (no other way the coin flip could influence the outcome)
+- Cannot have a common cause with the outcome (by definition, it’s random)
+- Intention to treat: effect of randomization on the outcome
+- The marginal effect of the policy on the group; needs fewest assumptions
+- IV effect estimate: estimated effect of the treatment for people who were treated because of their random assignment.
+- People who would not have been treated in the control but are treated in the active arm. “Compliers”, “Marginal Patients”
+- Assumption: effect modifiers do not differ between compliers and non-compliers
+### Slide 20
+- 3 European countries without colon cancer screening; randomized 84585 patients 55-64 y/o to a single invitation to colon cancer screening.
+- 42% underwent screening (compared, ~60% in USA)
+- ITT: RR Colon Cancer Mortality 0.90 (CI 0.64-1.16)
+- (10y outcomes reported; powered for 15y outcomes)
+### Slide 21
+- Example:
+- Instrument: Bed Strain
+- Exposure: time to ICU admit
+- Bed Strain does influence admit speed
+- Assumptions:
+- There are no common cause of bed strain and admit speed
+- Bed strain only influence mortality through time to ICU admit
+### Slide 22
+- Example: Genetic Assortment
+- Genes assort randomly-ish, from either parent
+- If those genes are associated with an exposure (e.g. LDL level, coffee intake, alcohol intake, predisposition to exercise), they may fit the definition of an instrument for some outcomes:
+- Relavence: Predictor of exposure (can be assessed numerically)
+- No common cause of the instrument and the outcome.
+- To the extent genetic assortment is random – it’s impossible. No reverse causation
+- Independence: Allele frequencies can differ by, say, race (confounders). Or, be in linkage disequilibrium with other alleles that influence outcome risk.
+- All of the association with the outcome is mediated by the exposure.
+- Exclusion Restriction: No Horizontal Pleiotropy (influence multiple pathways)
+### Slide 23
+- Why Now? Bio GWAS
+- Genome-Wide Association Studies (GWAS)
+- Genetic sequencing (SNPs)
+- Clinical information
+- 500,000 individuals (each)
+### Slide 24
+- Mendelian Randomization
+- Regression using genetic loci (SNPs) to predict ‘exposure’ risk.
+- Instrument “genetic predisposition to the exposure”.
+- This step verifies how “strong” the instrument is
+- weak low power; violation in IV assumptions have bigger effect.
+- Evaluate the instrument [predicted genetic risk of exposure] to correlation with the outcome
+- The two steps can be done in different datasets (‘two sample MR’)
+- GWAS studies: effect of each polymorphism on an outcome (UK Biobank, Finn)
+- Effect of each polymorphism on the ‘treatment’/exposure
+### Slide 25
+- Coffee Intake
+- Conventional Analysis Assumptions:
+- People who drink coffee are similar in risk of mortality to people who don’t, except for the coffee
+- Dubious: Rich people with white color jobs drink coffee.
+- Mendelian Randomization Assumptions:
+- Genetic predisposition (e.g. caffeine metabolism variants) not in linkage disequilibrium with other alleles predicting mortality; the variants that influence coffee consumption don’t influence mortality through another pathway
+- Maybe? But VERY different than the type of assumptions for the observational cohort.
+### Slide 26
+- Alcohol
+- Conventional Analysis
+- Assumptions: People who drink alcohol are like people who don’t (except for in the ways we can measure and control for) in terms of CAD risk.
+- Mendelian Randomization
+- Assumptions: Alleles that influence predisposition to alcohol intake (think: alcohol dehydrogenase variants) are random and don’t influence CAD through other mechanisms
+### Slide 27
+- (+)control: LDL Cholesterol -> CAD
+- Countless RCTs prove interventions that lower LDL lower CAD risk
+- RCTs of raising HDL failed, despite promising observational data
+### Slide 28
+- Exercise
+- Conventional Analysis
+- Assumptions:
+- Reverse causation
+- Mendelian Randomization
+### Slide 29
+- GERD, on asthma? AJRCCM 2023
+### Slide 30
+- Observational study: JACI 2019
+- National sample (Korea), 2002-2013; Cox-proportional hazards model (control for the covariates: age, urban/rural, income, CCI, depression, COPD, OSA, BMI)
+- Incident asthma is more common (HR 1.46; 95CI 1.42-1.49) in patients with GERD compared to those without GERD
+- Incident GERD is more common (HR 1.36; 95XCI 1.33-1.39) in patients with asthma compared to those without asthma
+- Incident disease: reverse causation
+- Confounders? (healthcare exposure, etc.)
+### Slide 31
+- Mendelian Randomization:
+- Step 1: Generate associations between genetic variants (SNPs) with GERD
+- Genome-wide association study with 71,522 cases and 261,079 controls
+- Evaluate for linkage disequilibrium among candidates using HapMap 3 (Independence Assumption)
+- Evaluate the strength of association and remove SNPs that would be weak instruments, meaning they don’t change p(GERD) much
+- Use regression to “genetic predisposition to GERD” value (the IV)
+- 21 GERD-associated SNPs in the GWAS summary statistics that were sufficiently strong. (Relevance assumption)
+- Importantly, these genes are NOT associated with asthma risk in the entire population.
+- Should be >10
+### Slide 32
+- Mendelian Randomization: Results
+- Step 2: Perform the IV analysis
+- 3 different methods for exactly how you combine the instrumental variables and evaluate for pleiotropy (Exclusion Restriction)
+- If you have GERD from genetic predisposition, your risk of asthma is increased by 21% (OR, 1.21; 95% CI, 1.09–1.35).”
+### Slide 33
+- Results: no reverse causation
+- Genetic Predisposition to GERD -> Asthma
+- odds ratio [OR], 1.21; 95% confidence interval [CI], 1.09–1.35
+- Genetic Predisposition to Asthma -> GERD
+- OR, 1.06; 95% CI, 1.03–1.09
+- Genetic Predisposition to Atopic Dermatitis (AD) -> GERD
+- OR 1.01 95 CI 0.97-1.06
+- Genetic Predisposition to GERD -> AD
+- GERD also increased risk of AD (OR, 1.21; 95% CI, 1.07–1.37;
+- Genetic Predisposition to Asthma -> AD
+- OR, 1.46; 95% CI, 1.34–1.59;
+- Genetic Predisposition to AD -> Asthma
+- odds ratio [OR], 1.34; 95% confidence interval [CI], 1.24–1.45;
+### Slide 34
+- Study Conclusions
+- Supports causal link between GERD and Asthma:
+- Both arise from the foregut: are people proposed to GERD proposed to asthma or does GERD (reflux->acidification) cause Asthma?
+- Also supports bi-directional causation between Atopic Dermatitis and Asthma
+- Atopic march (AD->asthma) and…. ??? (Asthma->AD)
+- Or, is this evidence of the assumptions not holding?
+- For magnitude: absence of effect modification can’t be verified
+- All the same concerns about information bias, generalization same.
+- Biobanks: Northern Europeans.
+### Slide 35
+- Returning to the case…
+- Not 100% sure what caused his asthma
+- Moderately well controlled on high dose ICS/LABA – still some limitations to things like skiing but no exacerbations in last year.
+- Not occupational asthma (still bad during seasons he isn’t spraying). RADS possible(?).
+- On PPI, still has symptoms … but would they be worse without?
+- Decided not to eliminate the cat.
+### Slide 36
+- Links
+- Paper: AJRCCM Mendelian Randomization Analysis Reveals a Complex Genetic Interplay among Atopic Dermatitis, Asthma, and Gastroesophageal Reflux Disease https://www.atsjournals.org/doi/epdf/10.1164/rccm.202205-0951OC?roletab
+- BMJ 2018: Reading Mendelian randomization studies: a guide, glossary, and checklist for clinicians https://www.bmj.com/content/362/bmj.k601
+- JAMA 2019: Guide to Statistics in Medicine: Instrumental Variables to Address Bias https://jamanetwork.com/journals/jama/fullarticle/2732940
+- AJRCCM 2018 Control of Confounding and Reporting of Results in Causal Inference Studies. Guidance for Authors from Editors of Respiratory, Sleep, and Critical Care Journals https://www.atsjournals.org/doi/10.1513/AnnalsATS.201808-564PS
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- The Other M.R.
+- Case & Journal Club
+- GERD… 2 problems in practice
+- Roadmap to Journal Club
+- Causal Diagrams
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- The Other M.R.
+- Case & Journal Club
+- GERD… 2 problems in practice
+- Roadmap to Journal Club
+- Causal Diagrams
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +303,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PGR Instruments and Mendel copy.pptx](archive/Presentations/PGR%20Instruments%20and%20Mendel%20copy.pptx)
-- [Presentations/PGR Instruments and Mendel.pptx](archive/Presentations/PGR%20Instruments%20and%20Mendel.pptx)
+- [Presentations/PGR Instruments and Mendel copy.pptx](../../archive/Presentations/PGR%20Instruments%20and%20Mendel%20copy.pptx)
+- [Presentations/PGR Instruments and Mendel.pptx](../../archive/Presentations/PGR%20Instruments%20and%20Mendel.pptx)
 
 ## Source materials
-- [Presentations/PGR Instruments and Mendel copy.pptx](archive/Presentations/PGR%20Instruments%20and%20Mendel%20copy.pptx)
-- [Presentations/PGR Instruments and Mendel.pptx](archive/Presentations/PGR%20Instruments%20and%20Mendel.pptx)
+- [Presentations/PGR Instruments and Mendel copy.pptx](../../archive/Presentations/PGR%20Instruments%20and%20Mendel%20copy.pptx)
+- [Presentations/PGR Instruments and Mendel.pptx](../../archive/Presentations/PGR%20Instruments%20and%20Mendel.pptx)

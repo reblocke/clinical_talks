@@ -4,19 +4,304 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- SEEK Board Review 10-13-21
+- Other options?
+- Cp-Kpn (Carbapenemase-producing Klebsiella Pneumoniae)
+- How does Ceftazidime-Avibactam work?
+- What is ceftaroline and how is it used?
+- What are the types of beta-lactamases?
+- GNR Bacteremia with CTX resistance – abx?
+- Methotrexate, HyperCa neurotoxicity
+- Sarcoidosis Small Fiber Neuropathy
+
+## Slide outline
+### Slide 1
+- SEEK Board Review 10-13-21
+- Locke
+### Slide 2
+- TODO: No text extracted from this slide.
+### Slide 3
+- TODO: No text extracted from this slide.
+### Slide 4
+- Other options?
+### Slide 5
+- Cp-Kpn (Carbapenemase-producing Klebsiella Pneumoniae)
+- KPC is a type of beta-lactamase encoded on plasmids
+- Carbapenems are beta-lactams
+- KPC also confers resistance to cefepime, quinolones, TMP-SMX
+- KPC has been found in Klebsiella and PsA
+- Nosocomial; selection thought to have resulted from failure to clean medical equipment (repeat broad spectrum antibiotic exposures)
+### Slide 6
+- How does Ceftazidime-Avibactam work?
+### Slide 7
+- How does Ceftazidime-Avibactam work?
+- Ceftazidime – 3rd gen ceph but + ~85% PsA coverage, poor anaerob coverage.
+- Avibactam – beta-lactamase inhibitor (broader than tazobactam)
+- Other options:
+- Meropenem-Vaborbactam, colistin (polymixins)
+### Slide 8
+- What is ceftaroline and how is it used?
+### Slide 9
+- What is ceftaroline and how is it used?
+- 5th generation Cephalosporin with MRSA/VRSA activity and good gram positive activity. GNR coverage is similar to CTX
+- Hydrolyzed by KPC
+### Slide 10
+- What are the types of beta-lactamases?
+- ESBL
+- Carbapenemases (subtype of ESBL)
+- AmpC (inducible, subtype of ESBL)
+- How to recognize:
+- GNR – resistant to CTX
+- +/-S to Cefepime (reported)
+- S to meropenem
+- R to Erta/Mero
+- SPACE/SPICE-M organism – will appear susceptible but in fact will not be. Can be CTX sensitive on report.
+- Treatment
+- Cefepime if susceptible, Mero if not.
+- NOT Zosyn.
+- Ceftaz-Avibact;
+- Mero-Vaborbact;
+- Colistin
+- Carbapenem (induces, but not hydrolyzed); Cefepime (doesn’t induce much. But is hydrolyzed so can be ok). NOT Zosyn, CTX.
+- Serratia marcescens, Providencia, PsA, Citrobacter, Enterobacter (40%), Morganella morganii
+### Slide 11
+- GNR Bacteremia with CTX resistance – abx?
+### Slide 12
+- GNR Bacteremia with CTX resistance – abx?
+- NOT AmpC in this study (unless also present with another ESBL, 10%)
+### Slide 13
+- TODO: No text extracted from this slide.
+### Slide 14
+- TODO: No text extracted from this slide.
+### Slide 15
+- Methotrexate, HyperCa neurotoxicity
+- Weekly MTX: Headache, fatigue, malaise, impaired ability to concentrate
+- CNS folate metabolism disruption.
+- Can get acute stroke/seizure-like presentation, but more common with high (chemo) or intrathecal dosing.
+- Hypercalcemia: anxiety, irritability, depression, cognitive impairment
+- confusion, stupor, and coma if severe
+### Slide 16
+- Sarcoidosis Small Fiber Neuropathy
+- Destruction of thin myelinated and unmyelinated fibers (nociception, heat, autonomic function)
+- +Allodynia
+- Autonomic dysfunction rarely occurs alone.
+- Exclude DM, B12 def, thyroid
+- NCS is normal; biopsy specific but not sensitive.
+- Incidence not well known
+- Unique: Resistant to pred & methotrexate - ?IVIG and TNF-alpha; symptom management (capsaicin)
+### Slide 17
+- TODO: No text extracted from this slide.
+### Slide 18
+- TODO: No text extracted from this slide.
+### Slide 19
+- How does Dabigatran work?
+### Slide 20
+- How does Dabigatran work?
+- Direct thrombin inhibitor
+- Not Xa inhibitor!
+- Direct
+- Indirect
+- (mediated by ATIII)
+- Xa inhibition
+- Rivaroxaban
+- Apixaban
+- Edoxaban
+- Enoxaparin
+- Fondaparinux
+- Thrombin inhibition
+- Dabigatran
+- Bivalrudin
+- Argatroban
+- Unfractionated Heparin
+### Slide 21
+- TODO: No text extracted from this slide.
+### Slide 22
+- Heparin
+- Thrombin + Xa inhib
+- Protamine
+- Time based:
+- Immediate 1U/100U hep
+- …
+- 120 minutes 0.25u/100u hep
+- Enoxaparin/Dalteparin
+- Thrombin inhib
+- <4h – 1mg per 1mg
+- 4-8 – 0.5 mg per 1mg
+- Fondaparinux
+- 4F-PCC
+- 50u/kg
+- Dabigatran
+- Idaracizumab
+- 5 grams IV
+- Apixaban
+- Xa inhib
+- 4F-PCC or Andexanet
+- 50 u/kg; 400mg then 4mg/min
+- Rivaroxaban
+- 50 units/kg; 800 u then 8mg/min
+- Edoxaban
+- 4F-PCC (not andexanet)
+- 50 units/kg
+- Warfarin
+- Vit-k epoxide-reductase inhib
+- Vit K; FFP; 4F-PCC
+- Vit K: 2.5-10 mg (use INR)
+- FFP: 15 ml/kg
+- PCC: 2-4 25u/kg, 4-6 35u/kg, 6+ 50u/kg
+### Slide 23
+- Idarucizumab (Praxbind)
+- Dabigatran (Pradaxa) – eliminated by the kidneys
+- Fab fragment (antibody) that binds dabigatran w/ 350x better affinity than thrombin.
+### Slide 24
+- Andaxant Alfa
+- Decoy Xa (molecular similar) – Xa inhibitors bind to it instead
+- Unlike factor Xa, it does not convert prothrombin to thrombin
+- Tested in (direct) Xa inhibitors – Edoxaban, Apixaban, Rivaroxaban
+- Probably works in enoxaparin too, but not formally evaluated
+### Slide 25
+- Protamine
+- Big positively charged molecule – forms a stable salt with negatively charged heparin
+- If given alone, protamine is an anticoagulant
+- If given w/ heparin – will pair up and make the salt.
+- Also pairs up with enoxaparin/dalteparin, but not quite so effectively.
+### Slide 26
+- 4F – PCC (K-Centra)
+- Prothrombin complex concentrate
+- Factors 10, 9, 7, 2; and protein C and S.
+- Smaller volume infusion than FFP (15-20mL/kg)
+### Slide 27
+- Your patient is bleeding; found down. Lab test to assess AC?
+- Apixaban: Anti-Xa levels
+- Dabigatran: Thrombin time, aPTT. NOT INR
+- Edoxaban: Anti-Xa levels, INR
+- Rivaroxaban: Anti-Xa levels, INR (50% will have anticoag w/ normal) -> not sufficient to exclude.
+### Slide 28
+- TODO: No text extracted from this slide.
+### Slide 29
+- TODO: No text extracted from this slide.
+### Slide 30
+- TODO: No text extracted from this slide.
+### Slide 31
+- TODO: No text extracted from this slide.
+### Slide 32
+- Path
+- Tb – caseating granulomas
+- Yeast forms:
+- Cocci – large spherules
+- Histo – small round spherules within macrophages
+- Blasto – thick capsule, daughter-buds with broad base
+- Crypto – similar, but thin base
+- Sporothrix – small, cigar shaped.
+### Slide 33
+- TODO: No text extracted from this slide.
+### Slide 34
+- Locations
+### Slide 35
+- Locations
+- Histo
+- Blasto
+- Cocci
+### Slide 36
+- Dimorphic fungi
+- Blasto – never colonizer; mainly endemic Ohio and Mississippi river valleys -> grows in moist, decaying organic matter; outbreaks after floods.
+- Route: inh. All get PNA, then 20% skin, 5% bone, 2% cns
+- 4-8 weeks since inh.
+- Blast: asymptomatic, pneumonia, extrapulmonary disease
+- Ampho (if severe) -> Itra
+### Slide 37
+- Treatments
+- Coccidiomycosis
+- Fluconazole (Ampho if severe)
+- Blastomycosis
+- Itraconazole (Ampho if severe)
+- Histoplasmosis
+### Slide 38
+- TODO: No text extracted from this slide.
+### Slide 39
+- TODO: No text extracted from this slide.
+### Slide 40
+- Primary graft dysfunction
+- Within 72h of transplant usually. Assessed at 24/48/72h
+- Ischemia reperfusion -> ARDS presentation (Diffuse alveolar damage)
+- Dx of exclusion of other causes of ‘ARDS’, PCWP for congestion, TEE for pulm venous stenosis.
+- Predisposing conditions
+- Donor: smoking and aspiration/trauma/undersize
+- Surgery: cardiopulmonary bypass, large volume transfusion, delayed closure, prolonged ischemic times, increased reperfusion fio2
+- Recipient: abnormal body weight, pulm htn, COPD/CF
+- Supportive care, LTVV, Abx, iNO/PG, ECMO.
+- Retransplant bad outcomes, not done.
+### Slide 41
+- PGD consequences
+- Increased mortality at 1 year
+- Increased risk of developing BO-type CLAD
+- CLAD chronic lung allograft dysfunction
+- BO bronchiolitis obliterans syndrome
+- No increase in risk of future acute cellular rejection or infection
+- Not clear if humoral rejection risk influenced
+### Slide 42
+- TODO: No text extracted from this slide.
+### Slide 43
+- TODO: No text extracted from this slide.
+### Slide 44
+- What things cause PaO2-SpO2 gap?
+### Slide 45
+- What things cause PaO2-SpO2 gap?
+- SpO2 absorption spectrum @ 660 and 940 nm.
+- Hemoglobinopathy changes absorption spectrum
+- iStat sometimes don’t actually do co-oximetry – they calculate a predicted oxygen saturation.
+- Need “co-oximetry” - measure oxy-, deoxy-, carboxy-, and methemoglobin
+### Slide 46
+- Hemoglobinopathies
+- Sickle hb no change in absorption spectrum
+- Carboxyhemoglobinemia
+- Methemoglobinemia
+- 95-100% apparent SpO2
+- 85% apparent SpO2
+- COHb O2Hb
+- Met-Hb blue absorption
+### Slide 47
+- Physiology
+- Oxidizing agent (electron acceptor) takes Fe++ (Ferrous) to Fe+++ (Ferric) metHb
+- Normally, reducing agent (CyB5R) converts it back
+- Met-Hb, like CO-Hb, binds O2 more tightly. Shifts O2-hb to the left
+- SpO2 based only on the color of the molecule
+- O2 Physiology identical to COHb
+### Slide 48
+- Why did this patient get Met-Hb?
+- Oxidizing Agents:
+- Dapsone
+- Antimalarials (CQ, Quinones)
+- Topical anesthetics
+- iNO, nitrites, nitrates
+- Anilene Dyes
+- Metoclopramide
+### Slide 49
+- How to treat?
+- Reducing Agents:
+- Methylene blue -> cofactor in Fe+++ to Fe++ transition.
+- Beware in G6PD deficiency this won’t work.
+### Slide 50
+- What is Sodium nitrite/thiosulfate used for?
+- Cyanide poisoning options:
+- Hydroxycoabalmin – first line, directly binds. 70mg/kg. Interferes w Co-ox
+- Induction of methemoglobinemia with amyl/sodium nitrite, which can then be reduced. Don’t do this if CO-Hb/Smoke (further reduce O2-Hb availability)
+- Sulfur donors e.g. sodium thiosulfate turn cyanide to thiocynates which are renally eliminated.
+- 1 and 3 are recommended.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- SEEK Board Review 10-13-21
+- Other options?
+- Cp-Kpn (Carbapenemase-producing Klebsiella Pneumoniae)
+- How does Ceftazidime-Avibactam work?
+- What is ceftaroline and how is it used?
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- SEEK Board Review 10-13-21
+- Other options?
+- Cp-Kpn (Carbapenemase-producing Klebsiella Pneumoniae)
+- How does Ceftazidime-Avibactam work?
+- What is ceftaroline and how is it used?
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +318,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Boared Review Locke 10-13-21.pptx](archive/Presentations/Boared%20Review%20Locke%2010-13-21.pptx)
+- [Presentations/Boared Review Locke 10-13-21.pptx](../../archive/Presentations/Boared%20Review%20Locke%2010-13-21.pptx)
 
 ## Source materials
-- [Presentations/Boared Review Locke 10-13-21.pptx](archive/Presentations/Boared%20Review%20Locke%2010-13-21.pptx)
+- [Presentations/Boared Review Locke 10-13-21.pptx](../../archive/Presentations/Boared%20Review%20Locke%2010-13-21.pptx)

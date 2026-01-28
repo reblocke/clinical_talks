@@ -4,19 +4,605 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Disturbances of Water and Sodium
+- Roadmap
+- How does hyponatremia cause problems?
+- Hyponatremia: Resident-level algorithm
+- Hyponatremia: Fellow-level algorithm
+
+## Slide outline
+### Slide 1
+- Disturbances of Water and Sodium
+- Brian Locke, MD
+- 2022 Fellow Bootcamp
+### Slide 2
+- Roadmap
+- Disorders of Water
+- Hyponatremia
+- Fellow-level schema
+- When to use DDAVP clamp
+- Hypernatremia
+- Why all our ARDS patients are hypernatremia and why Orme’s approach works
+- Disorders of Sodium
+- Congestion
+- Diuresis vs Natriuresis
+- Inadequate dosing of lasix
+- When to stop
+### Slide 3
+- How does hyponatremia cause problems?
+- Why does DKA cause “hyponatremia” on labs, but symptoms of “hypernatremia” (thirst/dehydration, AMS)
+### Slide 4
+- How does hyponatremia cause problems?
+- Osmolarity: number of particles in 1L ( that drops the freezing point 1.86 Kelvin; independent of size/weight of particles)
+- Osmolality: number of particles of 1kg of solvent.
+- Tonicity: effective osmolality of solutes that can act across a semi-permeable membrane
+- Osm: property of particle in solution; Tonicity property of solution in relationship to a semipermeable membrane (cell membrane)
+- Na+: exerts osmotic pressure
+- Glu: moves across semipermeable membranes w/ insulin – transient (usually)
+- Urea, ethanol, lactate: passively moves across semipermeable membrane: no osmotic pressure
+### Slide 5
+- Hyponatremia: Resident-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- Serum Osm
+### Slide 6
+- Hyponatremia: Resident-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Serum Osm
+- Urine Osm
+- Serum too dilute, urine should be ultra-dilute
+### Slide 7
+- Hyponatremia: Resident-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (0.75l/hr max UOP)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (100 mOsm-> 2L max)
+- Impaired Range (~100 mOsm/kg)
+- AKI, CKD, Old Age…
+- Serum Osm
+- Urine Osm
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 8
+- Hyponatremia: Resident-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (0.75l/hr max UOP)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (100 mOsm-> 2L max)
+- Impaired Range (~100 mOsm/kg)
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Serum Osm
+- Urine Osm
+- Urine Na
+- (Why not FENa?)
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 9
+- Hyponatremia: Resident-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (0.75l/hr max UOP)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (100 mOsm-> 2L max)
+- Impaired Range (~100 mOsm/kg)
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- Serum Osm
+- Urine Osm
+- Urine Na
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 10
+- TODO: No text extracted from this slide.
+### Slide 11
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Are they hyperosmolar?
+- Lab error? (lipemic, m-prot)
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- Clinical Situation (IVIG?)
+- Low USpec Grav: specific, not sensitive
+- What happened with 1L NS in ED?
+### Slide 12
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- What happened with 1L NS in ED?
+- 1542 MEqmOsm Na Cl allows 6L free water loss if ADH gone
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 13
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- What happened with 1L NS in ED?
+- 1542 MEqmOsm Na+Cl allows 6L free water loss if ADH gone!
+- What if ADH to cause min Uosm:
+- 150? 300? 600?
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 14
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- What happened with 1L NS in ED?
+- 1542 MEqmOsm Na+Cl allows 6L free water loss if ADH gone!
+- What if ADH to cause min Uosm:
+- 150? (2L, Na up) 300? (1L, na unchanged) 600? (500 cc, na down)
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 15
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- What will happen if we restore EABV to kidneys?
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 16
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- What will happen if we restore EABV to kidneys?
+- All the way off: 6L of UOP for 1L NS
+- Part of the way off: 1L-5L off
+- Uosm, Una reflect a physiologic state, not a diagnosis – can cycle them
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+- Δ Urine Osm
+- Δ Urine Na
+### Slide 17
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- Your intern gave 1L IVF and the patient’s UOP is now 400 cc/hr. What category were they in?
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 18
+- Hyponatremia: Fellow-level algorithm
+- Na+ low enough to care?
+- Kidneys appropriate?
+- ADH present
+- No ADH present
+- Uosm: 50 – 1200 mOsm/kg
+- < 50 osm per L H2O
+- Polydipsia (H2O up)
+- Beer: EtOH, C6H12O6
+- Tea/Toast (osm down)
+- Impaired Range
+- AKI, CKD, Old Age…
+- Appropriate?
+- Not Appropriate:
+- SIADH etc.
+- ADH like a vasopressor (decreased EABV)
+- Hypovolemic
+- Hypervolemic
+- Maldistributed
+- Your intern gave 1L IVF and the patient’s UOP is now 400 cc/hr. What category were they in?
+- How could we stop this?
+- Do not wait for next Na
+- 60kg -> 600 mOsm/d solute
+- 50 mOsm: max 12L
+- 1200 mOsm: min 0.5L
+### Slide 19
+- DDAVP clamp:
+- ALL of the risk of over-correction comes from solute being given when ADH is low ( body can now dump free water at Uosm 50 osm/L)
+- Adrogue-Madias equation: 1L NS in 70kg w/ Na 105 -> 107.5
+- 2 options:
+- D5W to match the urine output (that’s a lot of D5; ‘iatrogenic polydipsia’)
+- Give ADH back (useful whenever UOP high or might become high)
+- DDAVP 2 mcg IV q8hr, continued until Na at target
+- Give 3% Saline to increase
+- Do nothing to keep unchanged
+- Give D5w to decrease
+### Slide 20
+- Hyponatremia: summary
+- Tools for residents: Serum Osm, Urine Osm, Urine Na (FENa)
+- Tools for fellows: UOP, response to solutes, clinical circumstance, cycling the labs prn
+- If the ED gave 1L IVF and the [Na] didn’t budge or worsened:
+- SIADH etc., or appropriate ADH presence from hypervol/maldistributed
+- If the ED gave 1L IVF and the patient is making more than 250+ cc/hr
+- They either had no ADH to start, or reason for ADH is gone (hypovol)
+- Start DDAVP 2 mcg IV q8h
+### Slide 21
+- Hypernatremia
+- 60kg -> 600 mOsm/d solute; 50 mOsm: max 12L; 1200 mOsm/L: min 0.5L
+- With normal solute intake and less than 500cc water, you’d get hypernatremic
+- If you have Diabetes Insipidus, your maximum concentration drops. If max Uosm 600 mOsm/L, then <1L leads to hypernatremia. If Uosm 300, <2 L leads to hypernatremia, etc.
+- High urine output, CNS tumor, long term lithium and hypernatremic? Check Uosm
+- 1200 mOsm minimum of 1L of maximally concentrated UOP
+### Slide 22
+- Does someone who eats 2g of Na/d drink the same H2O as someone who eats 4g of Na/d?
+- Yes – at steady state – in out.
+- Over a large range of sodium intake, urine production and thus fluid intake will be constant
+- More natriuresis occurs in people who eat more salt.
+### Slide 23
+- Physiology Review
+- Large bolus of free water?
+- ADH shuts off. Kidneys produce dilute urine. Electrolytes and volume status unchanged.
+- For avg (10 mOsm/kg/day) diet, ADH fully off 50 mmol/L (maximally dilute) 70 kg person > 700 mmol load > 50 mmol/L excretion > 14L of free water can be excreted per day without perturbing sodium balance.
+- Large bolus of sodium?
+- Maximal natriuresis ~280 mmol/L (2x serum, roughly).
+- Why? There is NO active sodium excretion along the nephron
+### Slide 24
+- The nephron doesn't have a dedicated method to excrete sodium.
+- Instead, the kidneys concentrate urine by increasing urea concentration in the medulla.
+- Counter-intuitively, to maintain osmolality the major mechanism after an ingestion of salt is not thirst, but free water re-absorption in the kidney (ie. concentration of urine)
+- It takes time to generate this gradient
+- Kidneys retain water (with ADH) to maintain [Na] in serum in the interim
+- Glucocorticoid driven catabolism to generate urea
+- Increase urea in the renal medullary interstitium
+- Increase osmotic gradient to reabsorb free water
+### Slide 25
+- If someone who normally eats low Na diet eats high Na diet, do they drink more water?
+- Healthy people randomized to either low sodium (0.5 g) to regular (3.2g) diet, then swap
+- After increased Na load: takes ~3-5 days to reach a new steady state with kidney able to match Na load
+- On the first day: only half of excess Na load excreted
+- The positive sodium balance caused fluid retention and an increase in body weight of over 1 kg.
+- No difference in fluid intake (free-water reabsorption makes up difference)
+### Slide 26
+- Na and fluid loading in the ICU
+- 1L of NaCl 3.5gm (154 mmol Na) ~7 gm NaCl
+- Consider COVID-ARDS:
+- ~750 cc/d NS from Ketamine, 350 cc/d from Fentanyl 100 cc/d ciastricurium, 200 from CTX
+- ~4g of sodium just from sedation and NMB
+### Slide 27
+- ADH is also a weak Anti-natriuretic Hormone
+- Healthy volunteers drank either:
+- Low hydration: free water 0.25 mL/kg q30m (35 mL/hr for 70kg) or
+- High hydration: water 2.0 mL/kg q30m ( 288 mL/h for 70kg).
+- Then received 250cc 2% NaCl
+- High hydration: excrete the extra sodium immediately.
+- Low hydration cannot (ADH crosstalk, maximal concentration ability of kidneys)
+- Meaning: the kidneys CANNOT create low free water, high Na urine
+### Slide 28
+- Physiology Review:
+- The kidneys have mechanisms to quickly adjust free water clearance.
+- The kidney does not have a fast mechanism to increase natriuresis – it takes several days and catabolism to achieve this.
+- Limitation in free water hampers natriuresis due to ADH crosstalk.
+- While the kidney is adapting to a new baseline sodium intake, fluid retention occurs in the kidney (regardless how much fluid they drink).
+- Therefore, it is very hard to achieve balanced I/O during salt loading
+### Slide 29
+- Bad ARDS Circle of Life
+- Many Drips
+- (in NS)
+- Lasix & no
+- free H2O
+- Fluid Overload
+- Hypernatremia
+### Slide 30
+- Single-day, point prevalence survey: 46 Australian and New Zealand ICUs on 21 September 2011
+- Median sodium admin: 224.5 mmol (IQR, 144.9-367.6 mmol). 2.8 mmol/kg (IQR, 1.6-4.7 mmol/kg).
+- Patients Day 2-10 of ICU admission:
+- maintenance or replacement intravenous (IV) infusions, 69.3mmol; 30.9% of all sodium sources;
+- IV fluid boluses, 36.5 mmol; 16.3%;
+- IV drug boluses, 27.6 mmol; 12.3%;
+- enteral nutrition, 26.5 mmol; 11.8%;
+- IV drug infusions, 19.3 mmol; 8.6%;
+- IV flushes, 16.6mmol; 7.4%;
+- blood products, 13.5 mmol; 6%;
+- IV antimicrobials, 11.2mmol; 5%;
+- parenteral nutrition, 4.3 mmol; 1.9%.
+- Median 5 grams of Na per day
+- Double the usual intake
+### Slide 31
+- Why do we dissolve medications in NaCl?
+- ICUs have pre-mixed versions of medications to deliver quickly (ie. antibiotics, fentanyl)
+- Some meds are sodium salts ( any negative ion paired with a sodium cation) – generally more soluble in water than the acid form
+- A few medications must be given in NS
+- It’s the default
+### Slide 32
+- TODO: No text extracted from this slide.
+### Slide 33
+- Clinical impact - TOPMAST trial
+- Blind randomization of 70 patients undergoing major thoracic surgery to [Na] 154 mmol/L vs [Na] 54 mmol/L fluid
+- Primary: Net fluid balance: Na154 +4.5L vs Na54 3.12L despite identical fluid infused
+- Secondary:
+- Pulmonary Edema: Na154 17%, Na54 3%
+- Electrolyte abnormalities:
+- Na154 – n3 had Na above 145.
+- N24 had Cl- above ULN
+- Na54 – n4 patients had Na
+- below 135.
+### Slide 34
+- The patient is hypernatremic and congested:
+- Reduce Na intake (The Orme approach- is the patient on Nepro?)
+- Wait – their kidneys will adapt in 3-5 days
+- Give them more D5w – this will allow natriuresis by decreasing ADH
+- Maybe we should default to meds in D5w instead of NS?
+- If you give 2L D5w… say next day the ins 3L, outs 3L – have you made progress? Stay tuned…
+### Slide 35
+- Bad ARDS Circle of Life
+- Many Drips
+- (in NS)
+- Lasix & no
+- free H2O
+- Fluid Overload
+- Hypernatremia
+- Use D5W instead
+- Driven By Na Overload
+- Liberal free water can allow natriuresis
+### Slide 36
+- Congestion
+- Disorders of H2O homeostasis: Hypernatremia and Hyponatremia
+- Disorders of Na homeostasis: Congestion and Hypovolemia
+- Yet
+- On rounds, we present “(mLs) in and out” and not ”Na in and Na out”
+- Why?
+### Slide 37
+- “Despite hospitalization for HF being exceptionally common, expensive, and morbid, we have not a single Class I Level of Evidence: A guideline recommendation to guide our care of these patients”
+### Slide 38
+- A patient is congested: what initial orders are important?
+- Na restriction of 2g per day? Yes or No
+- Fluid restriction of 2L per day? Yes or No
+- Strict I/Os and Daily weights? Yes or No
+### Slide 39
+- Salt and Fluid Restriction
+### Slide 40
+- Salt and Fluid Restriction causes… thirst
+### Slide 41
+- What is the problem with I/O and Kg?
+- Assumptions:
+- For I/O to be a surrogate of net natriuresis:
+- [Na] intake constant
+- D5 / NS
+- [UNa] constant
+- Breaking phenomenon
+- Recording is accurate.
+- In reality, it is not
+### Slide 42
+- Natriuresis varies widely during diuresis
+- Why might the Na concentration of urine vary between patients?
+- Depends on ADH presence (among other other reasons).
+- Tight water restriction ADH increase, natriuresis unchanged.
+- Loose water restriction ADH decrease, natriuresis unchanged
+### Slide 43
+- Urine composition by time
+- “the sodium content of diuretic-induced urine is highly variable and correlates only modestly with fluid and weight loss”
+### Slide 44
+- Braking Phenomenon (of natriuresis)
+- Assume a patient makes no dietary changes
+- Sodium clearance increases with ECF (true)
+- Off diuretics, a patient takes in 3g of Na in 24h. They are at steady state. 3g of Na must be excreted in 24h. They are congested.
+- If you start a diuretic, initially their ECF is unchanged (congested), but natriuresis increases.
+- They eventually reach a new steady state (inout), but at a lower ECF
+### Slide 45
+- Discordant Diuresis and Natriuresis
+- Net Na drops a little
+- Net Na drops a lot
+- Net I/O drops a little
+- Not much response, normal [UNa]
+- Good natriuresis, high [UNa]
+- Net I/O drops a lot
+- Good diuresis,
+- Low [UNa]
+- Good response, normal [Una]
+### Slide 46
+- Natriuresis based decongestion
+- Simple: Spot urine Na > 100 2h after dose was probably effective (will lead to net 2g+ natriuresis in BID dosing)
+- Complex:
+### Slide 47
+- Does it work?
+- NCT04481919 RCT with hard outcome end-points ongoing
+### Slide 48
+- TODO: No text extracted from this slide.
+### Slide 49
+- How to dose:
+- 1. DOSE trial: 2.5x home dose and IV
+- 2. Assess:
+- UOP should be 150 hr+ within 2h of IV dose (don’t wait 6 to see)
+- UNa should be 50-70+
+- Why are you not giving a higher dose?
+- Would respond to
+- low dose
+- Needs high dose
+- Give low dose
+- 
+- Delayed in needed care
+- Give high dose
+- What’s the harm?
+### Slide 50
+- Toxicity without volume depletion?
+- 1985: Patient with oliguric AKI were given “1 g furosemide was given as a single injection over four hours. In the test group, frusemide was then continued either intravenously or orally in a dose of 3 g/24 hr until a urine output of 200 ml/hr was sustained or until the plasma creatinine fell …The serious complication of deafness occurred in two of 28 patients and in one of them this was permanent.”
+- 2021: Yale Diuretic Protocol: “automated, nurse-driven, and called for administration of 2 to 12.5 mg IV bumetanide up to 3 times daily.” “rapidly escalated toward a peak of 1,500 mg IV furosemide equivalents per day that was reached in the first 2 days of the protocol in 86% of patients.” “No cases of ototoxicity (n409)
+- Meta-analysis: OR 3 of developing ototoxicity when dose excess 1 GRAM daily (~40 mg/hr)
+- NOT A NEPHROTOXIN
+### Slide 51
+- “Suspect near euvolemia due to contraction alkalosis”
+- Loop diuretics create Chloride (and Sodium)-Rich urine
+- Loosing Cl- rich, ‘bicarbonate poor’ urine will lead to development of alkalosis at ANY extracellular volume.
+- Pendrin: Chloride – Bicarbonate exchanger to maintain neutrality
+- Not “contraction” (albumin will not fix it), but “chloride depletion” (saline will).
+### Slide 52
+- Diurese until sCr clearly increases: No intrinsic renal injury from diuretic caused creatinine increase
+### Slide 53
+- Congestion: Review
+- Realize that I/O’s are a surrogate for what we care about (Na flux)
+- Salt and Fluid restrictions are TWDFNR in patients with normal [Na+]
+- Give higher doses of loop diuretics
+- Do not use elevated [HCO3-] as a reason to stop diuresing
+### Slide 54
+- Key References
+- Hyponatremia:
+- https://www.coreimpodcast.com/2021/02/10/5-pearls-on-hyponatremia-episode-1/
+- Desmopressin to Prevent Rapid Sodium Correction in Severe Hyponatremia: A Systematic Review: DOI: 10.1016/j.amjmed.2015.04.040
+- Hypernatremia:
+- Fluid-induced harm in the hospital: look beyond volume and start considering sodium. From physiology towards recommendations for daily practice in hospitalized adults: https://doi.org/10.1186/s13613-021-00851-3
+- Congestion:
+- The use of diuretics in heart failure with congestion - a position statement from the Heart Failure Association of the European Society of Cardiology: https://onlinelibrary.wiley.com/doi/10.1002/ejhf.1369
+- It Is Chloride Depletion Alkalosis, Not Contraction Alkalosis: https://doi.org/10.1681/ASN.2011070720
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Disturbances of Water and Sodium
+- Roadmap
+- How does hyponatremia cause problems?
+- Hyponatremia: Resident-level algorithm
+- Hyponatremia: Fellow-level algorithm
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Disturbances of Water and Sodium
+- Roadmap
+- How does hyponatremia cause problems?
+- Hyponatremia: Resident-level algorithm
+- Hyponatremia: Fellow-level algorithm
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +619,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - Summer Bootcamp H2O and Na.pptx](archive/Presentations/Locke%20-%20Summer%20Bootcamp%20H2O%20and%20Na.pptx)
+- [Presentations/Locke - Summer Bootcamp H2O and Na.pptx](../../archive/Presentations/Locke%20-%20Summer%20Bootcamp%20H2O%20and%20Na.pptx)
 
 ## Source materials
-- [Presentations/Locke - Summer Bootcamp H2O and Na.pptx](archive/Presentations/Locke%20-%20Summer%20Bootcamp%20H2O%20and%20Na.pptx)
+- [Presentations/Locke - Summer Bootcamp H2O and Na.pptx](../../archive/Presentations/Locke%20-%20Summer%20Bootcamp%20H2O%20and%20Na.pptx)

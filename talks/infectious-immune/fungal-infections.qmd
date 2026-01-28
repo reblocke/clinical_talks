@@ -9,21 +9,27 @@ draft: true
 - Histoplasma Capsulatum
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Dimorphic Fungal Infections
+- Coccidiodes Imitis / Posadacii
+- Histoplasma Capsulatum
+- Blastomyces Dermitidis
+- Paracoccidiodes Brasilensis
+- Taloromyces (Penicillium)
+- Aspergillus
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Mold form and yeast form
+- mold cold (nature, 25-30c)
+- Yeast in the beast (in organism, 37c)
+- Endemic fungi natural habitat is limited to a given region
+- Desert regions - classically in Arizona and San Joaquin valley, but does have outbreaks into southern utah
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Pneumonia is predominant (may have joint- 'desert rheumatism' and rash: erythema nodosum or multiform)
+2. eosinophilia.
+3. some day EIA for antigens may be more widely use
+4. serology - cocci antibody panel (has all 3 of: ELISA, immunofixation/immunodiffusion, complement fixation which gives you a way to monitor response. ELISA has lots of false positivities, particularly with IgM - which is cross reactive)
+5. culture (grows within 1 week) - reverts back to yeast form so can be infectious. very specific (no 'contaminants')
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -32,7 +38,11 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://photos.collectednotes.com/photos/5187/255fc22a-ebc6-4c14-abb1-6331f2a1f686
+- https://www.idsociety.org/practice-guideline/coccidioidomycosis/
+- https://photos.collectednotes.com/photos/5187/cce8671d-1f69-43c8-971b-f408c18eef90
+- https://photos.collectednotes.com/photos/5187/301f39b0-5268-4a2c-9ebf-4ad3744df0df
+- https://photos.collectednotes.com/photos/5187/d9418552-2f1f-4bc4-bc4d-af3aaacd7df2
 
 ## Source notes
 
@@ -40,4 +50,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/fungal-infections.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/fungal-infections.md](archive/Clinical%20Practice%20Notes/fungal-infections.md)
+- [Clinical Practice Notes/fungal-infections.md](../../archive/Clinical%20Practice%20Notes/fungal-infections.md)

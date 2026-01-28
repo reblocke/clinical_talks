@@ -4,19 +4,426 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- PCCGR Aug 12, 2025: Update on Hypercapnic Respiratory Failure Care at Intermountain
+- Agenda
+- Hypercapnic Respiratory Failure:
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Goal PaCO2
+- PAO2 FiO2 (PB-47)—(PaCO2/R)  O2 17.8 mmHg lower at 4500ft
+- Hypercapnic Respiratory Failure management is a large, tractable, & neglected problem
+- Hypercapnic Respiratory Failure is Common
+
+## Slide outline
+### Slide 1
+- PCCGR Aug 12, 2025: Update on Hypercapnic Respiratory Failure Care at Intermountain
+- Brian W Locke MD MSCI
+- Assistant Professor
+- Shock Trauma ICU and Schmidt Chest Clinic
+- Pulmonary and Critical Care, Intermountain Medical Center
+- COI: Mountain Biometrics (time-series machine learning on continuous sensor data)
+- Funding for this work:
+- American Thoracic Society Academic Sleep Pulmonary Integrated Research/Clinical Fellowship
+- NIH NHLBI T32 University of Utah PCCM
+- Intermountain Fund PCCM Seed Grant: Follow-Up Needs after Discharge with Hypercapnia (FUND-Hypercapnia)
+- Partial support for datasets within the Utah Population Database provided by the Huntsman Cancer Institute (HCI) & HCI Cancer Center Support grant P30 CA2014 from the National Cancer Institute
+- Notebook on Hypercap. R.F.
+### Slide 2
+- Agenda
+- 01
+- The problem: Hypercapnic Respiratory Failure Management…🤷‍♂️
+- 02
+- Intermountain Hypercapnic Respiratory Failure Research Agenda
+- 03
+- Intermountain Hypercapnic Respiratory Failure Clinical Agenda
+- 04
+- New National Coverage Determinations for DME
+### Slide 3
+- Hypercapnic Respiratory Failure:
+- Hypercapnia is a finding; Failure indicates failed homeostasis
+- Finding: Hypercapnia PaCO2 ≥ expected range
+- 45 mmHg (at sea level); 41-42 mmHg in SLC
+- Threshold based on abnormality (like FEV1), not consequence (like blood pressure)
+- Failure: a syndrome (pattern of signs/symptoms)
+- “Failure” implies failed homeostasis – an imbalance between VCO2 and Va
+- Not explainable by metabolic alkalosis (respiratory success)
+- There’s no operational definition beyond hypercapnia
+### Slide 4
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 ∝𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑊𝑎𝑠𝑡𝑒𝑑+ 𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑃𝑎𝐶𝑂2 𝑇𝑎𝑟𝑔𝑒𝑡∗
+- Demand and Supply
+- Demand depends on V̇CO₂, Vd/Vt, target PaCO₂;
+- Supply depends on muscle capacity, mechanics, control stability, loads.
+- Supply-Demand mismatch respiratory failure
+### Slide 5
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Variable
+- Vd
+- VCO2
+- Goal PaCO2
+- Pathophys.
+- Deadspace Fraction
+- Met. Rate & Resp Quot.
+- Compen-sation
+- Examples
+- PE, Parenchymal Lung, Anatomic
+- Overdose,
+- Overfeeding, Obesity
+- Met. Acidosis/Alkalosis
+- 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 ∝𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑊𝑎𝑠𝑡𝑒𝑑+ 𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑃𝑎𝐶𝑂2 𝑇𝑎𝑟𝑔𝑒𝑡∗
+### Slide 6
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Variable
+- Vd
+- VCO2
+- Goal PaCO2
+- Muscle Capacity
+- Control Stability
+- Respiratory System Loads
+- Pathophys.
+- Deadspace Fraction
+- Met. Rate & Resp Quot.
+- Compen-sation
+- Strength, Mech Advantage
+- Chemoreflex & breath generator
+- Resistive,
+- Elastic,
+- Threshold/Inertial
+- Examples
+- PE, Parenchymal Lung, Anatomic
+- Overdose,
+- Overfeeding, Obesity
+- Met. Acidosis/Alkalosis
+- NMD, COPD, Pleural Dz
+- Opiates,
+- Sleep
+- COPD, CHF, OHS
+- 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 ∝𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑊𝑎𝑠𝑡𝑒𝑑+ 𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑃𝑎𝐶𝑂2 𝑇𝑎𝑟𝑔𝑒𝑡∗
+### Slide 7
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Variable
+- Vd
+- VCO2
+- Goal PaCO2
+- Muscle Capacity
+- Control Stability
+- Respiratory System Loads
+- Pathophys.
+- Deadspace Fraction
+- Met. Rate & Resp Quot.
+- Compen-sation
+- Strength, Mech Advantage
+- Chemoreflex & breath generator
+- Resistive,
+- Elastic,
+- Threshold/Inertial
+- Examples
+- PE, Parenchymal Lung, Anatomic
+- Overdose,
+- Overfeeding, Obesity
+- Met. Acidosis/Alkalosis
+- NMD, COPD, Pleural Dz
+- Opiates,
+- Sleep
+- COPD, CHF, OHS
+- 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 ∝𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑊𝑎𝑠𝑡𝑒𝑑+ 𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑃𝑎𝐶𝑂2 𝑇𝑎𝑟𝑔𝑒𝑡∗
+- Req.
+- Max.
+- Ventilatory frailty endotypes
+- Baseline Req Max
+- Predisposed to ↑ Req
+- Predisposed to ↓ Max
+### Slide 8
+- Goal PaCO2
+- 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 ∝𝑉𝑒𝑛𝑡𝑖𝑙𝑎𝑡𝑖𝑜𝑛 𝑊𝑎𝑠𝑡𝑒𝑑+ 𝑇𝑖𝑠𝑠𝑢𝑒 𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝐶𝑂2𝑃𝑎𝐶𝑂2 𝑇𝑎𝑟𝑔𝑒𝑡∗
+- Q: Why is the goal PaCO2 roughly 40 mmHg, and not higher?
+- pH can be maintained at any PaCO2 with a certain HCO3-
+- The process of adaptation is poorly understood… likely relates to the cost of less oxygen buffer vs. costs of breathing
+- Persistent severe hypercapnia is only possible since supp O2
+- Coma in polio (1952) was “cerebrelia” - thought to be viral encephalitis – actually discovered to be hypercapnic RF.
+### Slide 9
+- PAO2 FiO2 (PB-47)—(PaCO2/R)  O2 17.8 mmHg lower at 4500ft
+- Hypercapnia in SLC
+- SpO2 is routinely obtained in clinical practice, PaCO2 (or TcCO2) is not
+- SLC  earlier identification
+### Slide 10
+- Hypercapnic Respiratory Failure management is a large, tractable, & neglected problem
+### Slide 11
+- Hypercapnic Respiratory Failure is Common
+- Population-standardized period prevalence of PaCO2 ≥ 45 mmHg (excluding iatrogenic causes):
+- 150 per 100,000 person/year
+- Reference: Decompensated Cirrhosis 94.9 (US, 2017) per 100,000 person-year
+### Slide 12
+- Hypercapnic Respiratory Failure is Common
+- Denver VA. 277 consec admits BMI ≥ 35, all received ABG → 31% PaCO2 ≥ 42 mmHg
+- Ascertainment
+- Population-standardized period prevalence of PaCO2 ≥ 45 mmHg (excluding iatrogenic causes):
+- 150 per 100,000 person/year
+- Reference: Decompensated Cirrhosis 94.9 (US, 2017) per 100,000 person-year
+### Slide 13
+- Hypercapnic Respiratory Failure is Common
+- Table 2
+- 2016
+- 2017
+- 2018
+- 2019
+- Any ICD, Period Prevalence (n)
+- 4064
+- 4104
+- 4520
+- 4728
+- Cases per 100,000 (Utah pop.)
+- 133.5
+- 132.2
+- 143.3
+- 147.6
+### Slide 14
+- Hypercapnic Respiratory Failure is Common
+- Ascertainment
+- “The Consistency of Hypercapnic Respiratory Failure Case Definitions in Electronic Health Record Data”, Locke …. Peltan, Brown, CHEST (2025)
+- Table 2
+- 2016
+- 2017
+- 2018
+- 2019
+- Any ICD, Period Prevalence (n)
+- 4064
+- 4104
+- 4520
+- 4728
+- Cases per 100,000 (Utah pop.)
+- 133.5
+- 132.2
+- 143.3
+- 147.6
+### Slide 15
+- Hypercapnic Respiratory Failure is Prognostically Important
+- Inpatient ICD code for Hypercapnic Respiratory Failure @ U of VT
+- 23% 30d readmission rate
+- Same as CHF, more than MI
+- Usually (66%) with recurrent hypercapnia
+### Slide 16
+- Hypercapnic Respiratory Failure is Prognostically Important
+- De-identified, patient-level data
+- Federated Health Record Data
+- 80 US Healthcare Orgs
+- Dx code: Hypercapnic Respiratory Failure in 2022 (n29,009)
+- Age (years)
+- 64 (±15)
+- Arterial PCO2
+- 55.1 (±19.5)
+- Serum Bicarbonate (measured)
+- 27.1 (±7.4)
+- Died (1 month)
+- 13% (3,876)
+- Died (2 months)
+- 21% (6,089)
+- Month of Death
+- 1 (0,2)
+- Months to death or censoring
+- 9 (2,13)
+- EHR-recorded death
+- 30% (8,725)
+- Decompensated Cirrhosis
+- TriNetX database
+### Slide 17
+- Hypercapnic Respiratory Failure is Prognostically Important
+- AIM-HIGH (Artificial Intelligence for Modifiable Health Indicators in Groups with High needs). w/
+- David Hedges, PhD
+- Rylan Fowers, PhD
+- Sam Brown, MD MSc
+### Slide 18
+- Therapeutic options exist:
+### Slide 19
+- Therapeutic options exist:
+- Overall, OSA is identified in ICU patients with hypercapnic respiratory failure at a roughly 5-fold higher rate (63%–88% [4 studies]) when sleep testing is performed compared to when clinicians’ assessment
+- of the cause is used (12%, 1 study).
+### Slide 20
+- TODO: No text extracted from this slide.
+### Slide 21
+- Why a CRF subspecialty (now)?
+- Rationale:
+- ~300 HMV providers in U.S.
+- Shared therapeutic paradigms between causes (e.g. NIV, weight loss)
+- Distinct Skillset (vent management)
+- Structured care processes (e.g. DME needs, RT support, home monitoring)
+### Slide 22
+- Holes in the post-discharge hypercapnic respiratory failure evidence base stymy effective care
+### Slide 23
+- Two problems:
+- 1. Patients in real life often have multiple contributing causes for their hypercapnia
+- All Recognized Cases
+- (Multifactorial Causes,
+- Relapsing-Recurrent)
+- ???
+- Chronic ↑CO2 COPD
+- Obesity Hypovent
+- ALS
+### Slide 24
+- Two problems:
+- 2. Hypercapnic respiratory failure often precedes diagnosis of the causative disease
+- Outpatient Diagnosis
+- Disease Worsens or exacerbates
+- Hypercapnic Resp. Failure
+- Stabilized
+- No established Diagnosis
+- Presentation with hypercapnia
+- Stabilized; outpt. workup ordered
+- Initial outpt. management?
+- Management as per guideline
+- Transition in care
+- Reliable?
+### Slide 25
+- Low diagnostic testing rates
+- Testing for most common causes of hypercapnia (e.g. spirometry, sleep testing) occurs after hospitalization.
+- Diagnostics require special resources, referrals, and high patient engagement; barriers may reduce workup completion rates.
+- Workup should, presumably, include tests for the commonest causes.
+- Identified Hypercapnia
+- Appropriate diagnostic testing
+- ± Qualification for treatments
+- Effective management
+### Slide 26
+- Utah All Payor Claims and Health Facilities Databases
+- All hospitalizations (90 % commercially-insured, ≈ 70 % other care from ’15-’19
+- Inpatient & Emergency Encounters with Hypercapnic Resp. Failure ICD-10-CM
+- CO₂-PATH (Post-Acute Trajectories of Hypercapnia) Cohort
+### Slide 27
+- Post-discharge workflow:
+- Discharge after Hypercapnia
+- Discharging Provider Prescribes HMV
+- DME Company Receives Order
+- Discharging Provider Refers to PDNs
+- DME Company Sends RT for Setup
+- Discharging Provider orders Sleep Referral
+- DME RT educates family
+- Scheduled with Pulm Provider
+- In-lab PSG ordered
+- PFTs before provider visit
+- PSG Completed
+- Discuss with Sleep provider
+- Discuss with Pulm provider
+- Many(!) opportunities for pathway to de-rail
+### Slide 28
+- Clinical Implications → Ongoing Research Efforts:
+- Current burden of disease and health system performance needs further benchmarking
+- Patients with hypercapnic respiratory failure by ICD, ABG, VBG → testing, emergency care, and mortality rates across the state (CO₂-PATH Cohort)
+- Risk-based, rather than diagnosis-based, referral method likely optimal to allow expedited workup and empiric management when needed
+- Testing needs; qualification criteria; early post-discharge coordination.
+- Risk stratification (cost, utilization) of patients with hypercapnic respiratory failure who receive care at Intermountain via Select Health (AIM-HIGH)
+### Slide 29
+- Chronic Resp. Failure @ Schmidt: capacity and referral gates
+- Three referral streams:
+- High-risk post-discharge (via PDNs)
+- Internal clinic referrals/comgmt potential NIV starts
+- Neuromuscular disorders clinic
+- Additional potential sources:
+- PMR, post-acute facilities, Re-triage from Sleep.
+- Tele pulmonary / Remote?
+- Referral criteria? (~500 ICD; 4000 blood gas yearly system-wide)
+- How to refer: iCentra/Epic message (Brian Locke) or brian.locke@imail.org
+- 50ish patients managed.
+- PDNs: Claire Davies and Megan Hepworth
+- ~1 clinic per week & add’n PDN visits
+### Slide 30
+- 64F w/ BMI 38, “COPD”– no testing. Readmit. Tx for ‘PNa/AECOPD/CHF’ PaCO2 95. HCO3- 38. What device can we get?
+### Slide 31
+- Devices for home non-invasive ventilation:
+- Respiratory Assist Devices (RAD)
+- Home Mechanical Ventilator (HMV)
+- HCPCS code E470 (spontaneous) or E0471 (backup rate)
+- HCPCS code E0465, E0466, E0467
+- BPAP, BPAP-ST, VAPS
+- Add: Adjustable EPAP (AVAPS-AE), mouthpiece vent, HFNO, trach vent.
+- Pressure max ~25-30 cmH2O
+- Pressure max ~50-60 cmH2O
+- Requires outlet
+- Battery power
+- Remote setting adjustment
+- No remote setting adjustment
+- E.g. Aircurve ST, Aircurve STA, Luna G3
+- Trilogy (EVO), Astral , Vivo, Luisa, VOCSN
+- Rent-to-own
+- Rent
+- No home support
+- Home RT support
+- Mean IPAP in contemporary COPD trials mid 20s.
+### Slide 32
+- Prior National Coverage Determination: RADs
+### Slide 33
+- New NCD for RADs
+- NMD: No change
+- “COPD” Outpatient
+- “COPD” on Discharge
+- Chronic Respiratory Failure Dx [“COPD” includes all non OSA hypercap]. No PFTs required
+- Acute on Chronic Respiratory Failure Dx. No PFTs required
+- PaCO2 ≥ 52 mmHg 2+ weeks after hosp or without exac of symptoms
+- document full settings of RAD use within 24h of discharge
+- Sleep apnea is not the sole cause. No PSG or ONO required.
+- RAD needed to avoid symptoms or rapid PaCO2 rise
+- Q6month Continued Usage Criteria: confirm medically necessary, avg 5h/24hr usage, and any of improved (CO2, exacerbations, symptoms)
+### Slide 34
+- Prior National Coverage Determination: HMVs
+- Patient has a NMD, Thoracic Restrictive Disease, or Chronic Respiratory Failure from COPD
+- Where “the condition is life-threatening where interruption of respiratory support would quickly lead to serious harm or death.”
+- Unlike RADs, no definitions of medical conditions or what constitutes life-threatening were given
+### Slide 35
+- New NCS for HMVs
+- “COPD” Outpatient
+- “COPD” on Discharge
+- Qualify for RAD + 1 of:
+- Acute on Chronic Respiratory Failure Dx with PaCO2 52 mmHg
+- Need volume targeted mode
+- IPAP must be over 20 cmH2o
+- Failure of RAD to improve symptoms, CO2, or exacerbations
+- HMV needed to avoid symptoms or rapid PaCO2 rise
+- “capabilities exceed RAD” (e.g. vol targeted)
+- Need FiO2 > 36% (~4L)
+- 8+ hr/day use
+- Need battery
+- document full settings of HMV use within 24h of discharge
+- Q6month Continued Usage Criteria: confirm medically necessary, avg 5h/24hr usage, and any of improved (CO2, exacerbations, symptoms)
+### Slide 36
+- With research support from:
+- The Intermountain Foundation
+- ATS ASPIRE Fellowship
+- NIH/NHLBI T32 University of Utah PCCM
+- Partial support for all datasets within the Utah Population Database provided by:
+- U of Utah Huntsman Cancer Institute (HCI)
+- HCI Cancer Center Support grant P30 CA2014 from the National Cancer Institute
+- Clinical Support from
+- PDNs (Claire Davies and Megan Hepworth)
+- Schmidt Chest Clinic
+- Intermountain Health:
+- Ithan Peltan, MD MSc
+- Sam Brown, MD MSc
+- Select Health:
+- Rylan Fowers, PhD
+- David Hedges, PhD
+- Utah Population Database:
+- Myke Madsen, MStat
+- Marie Gibson, CCRP
+- University of Utah:
+- Ram Gouripeddi, MBBS MSc
+- Jeanette Brown MD PhD
+- Joseph Finkelstein MD PhD
+- University of California, Davis:
+- Krishna Sundar, MD
+- Contact: brian.locke@imail.org or EHR message
+- Notebook LM on Hypercap. R.F.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- PCCGR Aug 12, 2025: Update on Hypercapnic Respiratory Failure Care at Intermountain
+- Agenda
+- Hypercapnic Respiratory Failure:
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Goal PaCO2
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- PCCGR Aug 12, 2025: Update on Hypercapnic Respiratory Failure Care at Intermountain
+- Agenda
+- Hypercapnic Respiratory Failure:
+- 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑺𝒖𝒔𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒊𝒐𝒏 𝐹(𝑀𝑢𝑠𝑐𝑙𝑒 𝐶𝑎𝑝𝑎𝑐𝑖𝑡𝑦, 𝐶𝑜𝑛𝑡𝑟𝑜𝑙 𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦, 𝑅𝑒𝑠𝑝𝑖𝑟𝑎𝑡𝑜𝑟𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 𝐿𝑜𝑎𝑑𝑠)
+- Goal PaCO2
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +440,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke PCCGR 2025-8-12.pptx](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Locke%20PCCGR%202025-8-12.pptx)
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/~$Locke PCCGR 2025-8-12.pptx](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/~%24Locke%20PCCGR%202025-8-12.pptx)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke PCCGR 2025-8-12.pptx](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Locke%20PCCGR%202025-8-12.pptx)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/~$Locke PCCGR 2025-8-12.pptx](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/~%24Locke%20PCCGR%202025-8-12.pptx)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke PCCGR 2025-8-12.pptx](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Locke%20PCCGR%202025-8-12.pptx)
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/~$Locke PCCGR 2025-8-12.pptx](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/~%24Locke%20PCCGR%202025-8-12.pptx)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Locke PCCGR 2025-8-12.pptx](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Locke%20PCCGR%202025-8-12.pptx)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/~$Locke PCCGR 2025-8-12.pptx](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/~%24Locke%20PCCGR%202025-8-12.pptx)

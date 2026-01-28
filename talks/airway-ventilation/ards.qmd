@@ -9,30 +9,41 @@ draft: true
 - Prone Positioning
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Ventilation Strategy:
+- Diuresis in ARDS
+- Prone Positioning
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- In Salt Lake City (correction for atmospheric pressure - based on intermountain group work):
+- Briel et al: High PEEP (to recruit more lung, still keep Pplat < 30) decreased mortality in moderate ARDS.
+- Especially beneficial in patients with low compliance.
+- How does PEEP increase oxygenation?
+- Reduces the fraction of intrapulmonary shunting by splinting open (and thus, allowing ventilation) in more lung units.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. severe ARDS P/F < 85
+2. moderate ARDS 85 < P/F < 170
+3. mild ARDS 170 < P/F < 255
+4. Down: bronchopleural fistula, preload dependence/ under-resuscitated, right heart failure (PEEPR heart afterload), one lung
+5. Up: obesity/abd compartment/chest restriction
 
 ## Red flags / when to escalate
-- TODO: List red flags that require urgent escalation.
+- ###FACCT trial and FACCT-lite FACCT trial: multicenter 2x2 RCT, n1000 of intubated patients with ARDS who had a CVC or PA Cath. Randomized to a target CVP of <4 mmHg vs 8-12 in patients not in shock (by MAP over 60/UOP of .5ml per kg per min/poor perfusion - also randomized to CVC vs PA Cath, no differences).
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- -Can just use the PEEP tables, since nothing else has been shown to work better in all comers and this is easy. But, when you have to troubleshoot (and the patient is deeply sedated) -Can do a CPAP 40 for 40s recruitment maneuver, lower fio2, then start dropping PEEP -Theoretically, could look at a Pressure (x) and Volume (y) curve inspiratory limb, and target the ventilation to be in the range of maximum slope increase (avoide pressure dropping to de-recruit lungs, or extra pressure once all are inflated). However, PEEP 0 and maximal distention / inflection way too high (as well as expiratory mechanics differing on exp limb) make this unreliable.
+- ###Permissive Hypercapnia Allowing respiratory acidosis to avoid injurous vent settings (Vt 6+ ml/kg pbw > volutrauma, PPlat over 30 mmHg > barotrauma).
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://jamanetwork.com/journals/jama/fullarticle/185447
+- https://photos.collectednotes.com/photos/5187/0d1448ac-c62c-45df-b908-b77dbfe9405e
+- https://criticalcarenow.com/2020/11/16/driving-pressure-peep-titration/
+- http://rc.rcjournal.com/content/65/5/583/tab-pdf
+- https://photos.collectednotes.com/photos/5187/b78ed211-9d3d-4024-bfb5-77227bb033ae
+- https://www.nejm.org/doi/full/10.1056/nejmsa1410639
+- https://www.nejm.org/doi/pdf/10.1056/NEJMoa062200
+- https://pubmed.ncbi.nlm.nih.gov/25599463/
+- https://www.atsjournals.org/doi/full/10.1164/rccm.201311-2056LE
 
 ## Source notes
 

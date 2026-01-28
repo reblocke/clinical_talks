@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM 2021 Compensated Hypercapnia Morbidity.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/AJRCCM%202021%20Compensated%20Hypercapnia%20Morbidity.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM 2021 Compensated Hypercapnia Morbidity.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/AJRCCM%202021%20Compensated%20Hypercapnia%20Morbidity.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM 2021 Compensated Hypercapnia Morbidity.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/AJRCCM%202021%20Compensated%20Hypercapnia%20Morbidity.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/AJRCCM 2021 Compensated Hypercapnia Morbidity.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/AJRCCM%202021%20Compensated%20Hypercapnia%20Morbidity.pdf)

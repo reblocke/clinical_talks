@@ -4,24 +4,32 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Are patients with cirrhosis who have an increased INR at decreased risk of clot?
+- Are patients with a higher INR at increased risk of bleed? Does lowering their INR decrease their risk of bleed?
+- What information does a TEG give you?
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Are patients with cirrhosis who have an increased INR at decreased risk of clot?
+- Are patients with a higher INR at increased risk of bleed? Does lowering their INR decrease their risk of bleed?
+- What information does a TEG give you?
+- How do you interpret a TEG?
+- platelet < 50 -> tracryse platelets
+- Fibrinogen < 100 -> tranfuse cryo
+- INR > 1.5 -> transfuse FFP
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Patients with cirrhosis have increased risk of both arterial and venous thrombosis
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5710331/
+- 1.6 million medicare beneficiaries who had cirrhosis were at increased risk of ICH (HR 1.9), SAH (HR 2.4) and ischemic stroke (HR 1.3) after controlling for stroke risk factors and demographic.
+- https://pubmed.ncbi.nlm.nih.gov/19098856/
+- Danish nationwide case (cirrhosis, n100,000) control (cohort matched on demographics and known clot risk factors, n500,000): excluding cancer, trauma, surgery, pregnancy in 90d.
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Are patients with cirrhosis who have an increased INR at decreased risk of clot?
+2. Are patients with a higher INR at increased risk of bleed? Does lowering their INR decrease their risk of bleed?
+3. What information does a TEG give you?
+4. How do you interpret a TEG?
+5. platelet < 50 -> tracryse platelets
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +38,16 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5710331/
+- https://pubmed.ncbi.nlm.nih.gov/19098856/
+- https://photos.collectednotes.com/photos/5187/9cfdb540-987a-464a-8c11-f0438ccbe2b4
+- https://journals.lww.com/ajg/Abstract/2017/02000/ChangingConceptsofCirrhoticCoagulopathy.18.aspx
+- https://pubmed.ncbi.nlm.nih.gov/21298360/
+- https://pubmed.ncbi.nlm.nih.gov/7249879/
+- https://photos.collectednotes.com/photos/5187/9d7cd69f-78f6-48ed-9c4f-a89d1f2d6238
+- https://www.journalofhospitalmedicine.com/jhospmed/article/228324/hospital-medicine/things-we-do-no-reasontm-routine-correction-elevated-inr
+- https://photos.collectednotes.com/photos/5187/f2d1b365-8fcd-474f-b793-c9c3823932c7
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3551567/
 
 ## Source notes
 
@@ -38,4 +55,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/cirrhosis-in-the-icu.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/cirrhosis-in-the-icu.md](archive/Clinical%20Practice%20Notes/cirrhosis-in-the-icu.md)
+- [Clinical Practice Notes/cirrhosis-in-the-icu.md](../../archive/Clinical%20Practice%20Notes/cirrhosis-in-the-icu.md)

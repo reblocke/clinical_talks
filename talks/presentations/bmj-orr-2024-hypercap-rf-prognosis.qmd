@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BMJ ORR 2024 - Hypercap RF prognosis .pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/BMJ%20ORR%202024%20-%20Hypercap%20RF%20prognosis%20.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BMJ ORR 2024 - Hypercap RF prognosis .pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/BMJ%20ORR%202024%20-%20Hypercap%20RF%20prognosis%20.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BMJ ORR 2024 - Hypercap RF prognosis .pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/BMJ%20ORR%202024%20-%20Hypercap%20RF%20prognosis%20.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/BMJ ORR 2024 - Hypercap RF prognosis .pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/BMJ%20ORR%202024%20-%20Hypercap%20RF%20prognosis%20.pdf)

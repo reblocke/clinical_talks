@@ -9,30 +9,42 @@ draft: true
 - Seldinger Technique
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- CVC choice
+- US Guidance principles
+- Seldinger Technique
+- Prior to sterile:
+- Once sterile
+- Needle Access
+- Insert Guidewire
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Particularly for dialysis lines: important to have long enough to reach RA:
+- Malpositioning is probably not all that important: https://pubmed.ncbi.nlm.nih.gov/18326129/
+- ###Right Internal Jugular
+- Place in 15-20 degree trendelenburg if possible to enlarge vein / decrease risk of air embolus
+- ####Confirmation XRay: catheter tip at or slightly above level of carina (minimize atrial arrhythmias / myocardial wall erosion)
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. In elective placement: ?INR 2.5, Plt 40 -> consider products. (Consider other reasons for platelet dysfunction, e/o for transfusion in liver patients). However, in the ICU: risk/benefit matters more.
+2. consent
+3. chlorhexadine wipe x3
+4. central line kit (sterile drape, 25 guage needle, 5 ml syringe, saline flush, 22 gauge finder needle, introducer needle, guidewire, dilator, No 11 blade, Suture (3-0 or 4-0, nylon or silk))
+5. ultrasound machine and sterile probe covor
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
 
 ## Common pitfalls
-- TODO: Capture common errors or missed steps.
+- hold guidewire and thread catheter over the guidewire (if triple, shortest and brown port is where the guidewire will come out). Do not insert catheter in to skin until wire has come out the port.
+- puncture skin 2-4cm, vessel 1-2 cm below inguinal ligament to avoid bowel perf or external iliac puncture (which can cause retroperitoneal bleeding)
+- Femoral line avoidance is based on old data - probably safe a underused nowadays https://acphospitalist.org/archives/2018/08/perspectives-avoiding-the-femoral-vein-in-central-venous-cannulation-an-outdated-practice.htm
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://pubmed.ncbi.nlm.nih.gov/22497790/
+- https://europepmc.org/article/MED/11526263
+- https://pubmed.ncbi.nlm.nih.gov/18326129/
+- https://acphospitalist.org/archives/2018/08/perspectives-avoiding-the-femoral-vein-in-central-venous-cannulation-an-outdated-practice.htm
+- https://journals.lww.com/ccmjournal/Abstract/2021/02000/ThePracticeandComplicationsofMidline.33.aspx
 
 ## Source notes
 
@@ -40,4 +52,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/central-venous-catheters.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/central-venous-catheters.md](archive/Clinical%20Practice%20Notes/central-venous-catheters.md)
+- [Clinical Practice Notes/central-venous-catheters.md](../../archive/Clinical%20Practice%20Notes/central-venous-catheters.md)

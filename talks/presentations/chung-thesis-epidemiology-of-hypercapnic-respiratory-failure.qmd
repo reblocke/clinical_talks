@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)
 
 ## Source materials
-- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)
+- [Presentations/PCCGR Aug 2025 Hypercapnia Update/Hypercap-Bot/Chung Thesis - Epidemiology of Hypercapnic Respiratory Failure.pdf](../../archive/Presentations/PCCGR%20Aug%202025%20Hypercapnia%20Update/Hypercap-Bot/Chung%20Thesis%20-%20Epidemiology%20of%20Hypercapnic%20Respiratory%20Failure.pdf)

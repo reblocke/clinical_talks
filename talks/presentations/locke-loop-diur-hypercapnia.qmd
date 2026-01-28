@@ -4,19 +4,216 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Do loop diuretics cause hypercapnic respiratory failure?
+- Outline
+- If the R ‘sprocket’ (lung) turns too slowly relative to the R sprocket (muscle), CO2 build up in the blood
+- General hypothesis: Loop diuretic prescription causes hypercapnic respiratory failure in patients with certain predisposing conditions.
+- Design Considerations
+- Population
+- Exposure: receipt of loop diuretics
+- Primary Outcome
+- Data Source (and population)
+- Study Design
+- Data Analysis
+- Confounding
+
+## Slide outline
+### Slide 1
+- Do loop diuretics cause hypercapnic respiratory failure?
+- Brian Locke, MD
+- Intermediate Epidemiology
+- 12-7-2021
+### Slide 2
+- Outline
+- Background
+- General hypothesis / Specific Hypothesis
+- Design considerations
+- Population
+- Exposure of interest
+- Outcomes
+- Data source (and population)
+- Study design
+- Data analysis
+- Anticipated limitations
+### Slide 3
+- If the R ‘sprocket’ (lung) turns too slowly relative to the R sprocket (muscle), CO2 build up in the blood
+- This is hypercapnic respiratory failure
+- Similar: ‘hypoventilation’
+- There are 2 types of causes:
+- The lung ventilation is severely broken (sprocket can’t turn fast)
+- The ‘controller’ doesn’t crank up the speed of the sprocket.
+- Patients with Hypercapnia
+- How does the brainstem know how fast to turn the sprocket?
+- CO2, pH, and O2 in the blood
+- Loop diuretics increase pH
+- The metabolic rate (L sprocket)
+- Sleep (decrease), Anxiety (increase)
+### Slide 4
+- General hypothesis: Loop diuretic prescription causes hypercapnic respiratory failure in patients with certain predisposing conditions.
+- to
+- Operational hypothesis: New or increased loop diuretic prescription on discharge from a hospitalization for hypercapnic respiratory failure is independently associated with increased risk of readmission for hypercapnic respiratory failure within 30 days
+### Slide 5
+- Design Considerations
+- There is a physiologic rationale for why loop diuretics might cause hypercapnic respiratory failure, but no empirical evidence.
+- I hypothesize they do. What study design has the best chance of demonstrating a causal relationship, if one exists?
+- Challenges:
+- Hypercapnic respiratory failure is uncommon and can be acute or chronic.
+- The symptoms are variable, and the diagnosis is frequently missed.
+- Each case of hypercapnic respiratory failure may have several necessary causes.
+- Prior research exclusively focused on sufficient causes
+- Perhaps effect modification?
+- Patients who develop hypercapnic respiratory failure have many comorbidities that may act as confounders
+- Loop diuretic
+- Obstructive Lung disease
+- Untreated sleep apnea
+- Obesity Hypoventilation
+- Syndrome
+- vs
+### Slide 6
+- Population
+- If this effect (loop diuretic → hypercapnia) exists, who would it be most apparent in?
+- High risk of developing hypercapnic respiratory failure
+- Patients with reliable data completeness
+- Ideally, a relatively homogenous population
+- Proposal: Adult patients with an admission for hypercapnic respiratory failure
+### Slide 7
+- Exposure: receipt of loop diuretics
+- Furosemide (40mg) Torsemide (20mg) Bumetanide (2mg)
+- Physiologic rationale suggests higher dose higher risk of hypercapnia
+- Rx: temporary (usually in the hospital) or chronic (outpatient)
+- Indication for prescription? Given for hypervolemia (swelling)
+- People with worse tendency for swelling probably have higher risk for readmission
+- We’d like to compare people who differ only in their diuretic prescription
+- For the unexposed group: when might they have been exposed? (rx’d)
+- Proposal: New or increased loop diuretic on discharge from the index hospitalization with hypercapnia
+### Slide 8
+- Primary Outcome
+- Hypercapnic respiratory failure is often not correctly diagnosed.
+- ICD codes are not reliable2
+- Diagnostic testing only in certain situations (hospital admission or sleep apnea evaluation)
+- How long would the loop diuretic effect take?
+- Readmission rates are high1
+- Proposal: Time to readmission with
+- any respiratory failure (ICD code)
+- and blood gas with CO2 over 45 mmHg.
+### Slide 9
+- Data Source (and population)
+- Veterans Affairs
+- TriNetX
+- Medicare Claims
+- UPDB w Linkage
+- Defined Population
+- +++
+- -
+- ++
+- Generalizability
+- + (demographics)
+- - (elevation, demographics)
+- Lab completeness
+- +
+- Diagnosis completeness
+- Pharmacy completeness
+- - / ?
+- Ease of access to data
+- Sample Size
+- Proposal: among Veterans who receive care at VHA hospitals.
+### Slide 10
+- Study Design
+- Cohort Study
+- Case-control study
+- Evaluate multiple outcomes?
+- +
+- -
+- Evaluate multiple exposures?
+- Efficiency
+- Mitigated by EHR data-source
+- Other outcomes of importance:
+- Time to readmission with any type of respiratory failure
+- If ’harm’ is outweighed by other benefits, not so important.
+- Time to readmission for any cause
+- Secondary: 30-day outcome assessments to allow comparability with prior literature and quality metrics.
+- Proposal: cohort study with exposure group defined by increase (or new) loop diuretic Rx on discharge
+### Slide 11
+- Data Analysis
+- Outcome measure: Hazard Rate Ratio of Readmission or Death
+- ‘Survival’ defined as neither readmitted nor dead.
+- Rationale:
+- exact timing of effect is not known (has never been previously demonstrated), thus choosing a given time-point runs the risk of failing to find a real effect due to inappropriate time of outcome assessment.
+- Risk of readmission may vary over time (high initially? lower as time passes?)
+### Slide 12
+- Confounding
+- Many confounders and possible effect modifiers
+- Add BNP to the below list
+- Proposal: Multivariable analysis using log-binomial regression (for RR)
+- Propensity score / Inverse probability of treatment weighting ? Likely to have many outcome events per covariate. Thus, no data reduction techniques
+- Entire Cohort
+- Risk
+- No Diuretic Increase
+- (95% CI)
+- Diuretic Increase
+- Unadjusted RR
+- Adjusted RR
+- 30d readmission with hypercapnic respiratory failure
+- ( to )
+- 30d readmission with any respiratory failure
+- 30d readmission of any cause
+### Slide 13
+- Power / Sample size feasibility
+- Desired alpha: 0.05, Desired power: 0.80
+- Expected 30d readmission rate in non-diuretic increase arm? 16%1
+- Anticipated exposure rate (increase in diuretics)? 15%3-4
+- Lowest clinically meaningful relative risk reduction? 20%
+- Stata: sampsi 0.16 0.128, power(0.8) ratio(5.667)
+- Loop diuretic increase at index hospitalization discharge: n1117
+- No loop diuretic increase at index hospitalization discharge: n6331
+- Doable with a nationwide dataset
+- Number of patients meeting various definitions of hypercapnic respiratory failure from TriNetX over 3 years
+### Slide 14
+- Limitations
+- Missing values? Hospitalizations (outcome) expected to be completely ascertainable, but the presence/absence of covariates might not
+- Residual confounding? Predisposition to fluid overload likely to influence both likelihood of loop diuretic prescription and risk of readmission. Hard to quantify directly (CHF diagnosis as surrogate)
+- Sensitivity analysis? E-value?
+- Applicability to other patients with hypercapnia who have not been hospitalized? Would need separate study focusing on outpatient prescriptions.
+### Slide 15
+- Summary
+- To investigate this relationship, we propose a retrospective cohort study of patients in the Veterans Healthcare Administration (VA) admitted for hypercapnic respiratory failure. We will determine the 30-day readmission rate with hypercapnic respiratory failure among individuals who receive a discharge prescription for a new or increased dose of a loop diuretic with those who do not.
+- Hypothesis: We hypothesize that new or increased loop diuretic dose on discharge from an admission with hypercapnic respiratory failure will lead to an increased risk of readmission with the same condition within 30 days.
+- Aim: We will compare readmission rate within 30 days for hypercapnic respiratory failure among patients whose index admission discharge prescription for a loop diuretic is increased with patients whom the discharge prescription is unchanged or decreased. As a sub-aim, we will also evaluate whether the rate of rehospitalization with any type of respiratory failure or the rate of rehospitalization for any cause differs between the two groups.
+### Slide 16
+- References
+- Meservey, A. J., Burton, M. C., Priest, J., Teneback, C. C., & Dixon, A. E. (2020). Risk of readmission and mortality following hospitalization with hypercapnic respiratory failure. Lung, 198(1), 121-134.
+- Locke B. W., Sundar K. M., Brown J. M., Gouripeddi R. “Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different Cohorts”. Unpublished data. Submitted to American Thoracic Society 2022 Conference.
+- Alshibani, M., Alshehri, S., Alyazidi, W., Alnomani, A., Almatruk, Z., & Almeleebia, T. (2020, July). The Impact of Discharged Loop Diuretic Dose to Home Dose on Hospital Readmissions in Patients with Acute Decompensated Heart Failure: A Retrospective Cohort Study. In The heart surgery forum (Vol. 23, No. 4, pp. E470-E474).
+- DeVore, A. D., Hasselblad, V., Mentz, R. J., O'Connor, C. M., Armstrong, P. W., McMurray, J. J., ... & Hernandez, A. F. (2015). Loop diuretic dose adjustments after a hospitalization for heart failure: insights from ASCEND‐HF. European journal of heart failure, 17(3), 340-346.
+### Slide 17
+- Subsequent evidence accumulated: Verbraecken and McNicholas: Respiratory mechanics and ventilatory control in overlap syndrome and obesity hypoventilation. Respiratory Research 2013 14:132.doi:10.1186/1465-9921-14-132 https://link.springer.com/content/pdf/10.1186/1465-9921-14-132.pdf
+- Deficient bicarbonate excretion (?equivalent, overzealous chloride secretion) could explain a tendancy to retain HCO3 and blunt ventilatory response[100, 171, 168]
+- 100 - 100. Piper AJ: Obesity hypoventilation syndrome – the big and the breathless. Sleep Med Rev 2011, 15:79–89.
+- 171 - 171. Berger KI, Goldring RM, Rapoport DM: Obesity hypoventilation syndrome. Semin Respir Crit Care Med 2009, 30:253–261.
+- 168 - 168. Norman RG, Goldring RM, Clain JM, Oppenheimer BW, Charney AN, Rapoport DM, Berger KI: Transition from acute to chronic hypercapnia in patients with periodic breathing: predictions from a computer model. J Appl Physiol 2006, 100:1733–1741
+- “Chronic daytime hypercapnia would emerge if both the acute ventilatory compensation for transient nocturnal hypercapnia is compromised, as well as the bicarbonate excretion, as might be seen under condition of hypoxia (f.i. chest infection), diuretic therapy, or heart failure [170,178]. This makes both patient categories more susceptible to acute ventilatory failure [126].
+- 126. BaHamman A: Acute ventilatory failure complicating obesity hypoventilation: update on a ‘critical care syndrome’. Curr Opin Pulm Med 2010, 16:543–551.
+- 170. Gifford AH, Leitter JC, Manning HL: Respiratory function in an obese patient with sleep-disordered breathing. Chest 2010, 138(3):704–715.
+- 178. Chau EHL, Lam D, Wong J, Mokhlesi B, Chung F: Obesity hypoventilation syndrome. A review of epidemiology, pathophysiology, and perioperative considerations. Anesthesiology 2012, 17(1):188–205.
+### Slide 18
+- Other new data: https://www.nejm.org/doi/pdf/10.1056/NEJMoa2203094 ADVOR Trial
+- Lasix + acetazolamide vs Lasix alone
+- ?any difference in readmission or rates of hypercapnia?
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Do loop diuretics cause hypercapnic respiratory failure?
+- Outline
+- If the R ‘sprocket’ (lung) turns too slowly relative to the R sprocket (muscle), CO2 build up in the blood
+- General hypothesis: Loop diuretic prescription causes hypercapnic respiratory failure in patients with certain predisposing conditions.
+- Design Considerations
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Do loop diuretics cause hypercapnic respiratory failure?
+- Outline
+- If the R ‘sprocket’ (lung) turns too slowly relative to the R sprocket (muscle), CO2 build up in the blood
+- General hypothesis: Loop diuretic prescription causes hypercapnic respiratory failure in patients with certain predisposing conditions.
+- Design Considerations
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +230,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - Loop diur hypercapnia 12-7-21.pptx](archive/Presentations/Locke%20-%20Loop%20diur%20hypercapnia%2012-7-21.pptx)
+- [Presentations/Locke - Loop diur hypercapnia 12-7-21.pptx](../../archive/Presentations/Locke%20-%20Loop%20diur%20hypercapnia%2012-7-21.pptx)
 
 ## Source materials
-- [Presentations/Locke - Loop diur hypercapnia 12-7-21.pptx](archive/Presentations/Locke%20-%20Loop%20diur%20hypercapnia%2012-7-21.pptx)
+- [Presentations/Locke - Loop diur hypercapnia 12-7-21.pptx](../../archive/Presentations/Locke%20-%20Loop%20diur%20hypercapnia%2012-7-21.pptx)

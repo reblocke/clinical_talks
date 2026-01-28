@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/PGR 2023-1-12 sims.do](archive/Presentations/PGR%202023-1-12%20sims.do)
+- [Presentations/PGR 2023-1-12 sims.do](../../archive/Presentations/PGR%202023-1-12%20sims.do)
 
 ## Source materials
-- [Presentations/PGR 2023-1-12 sims.do](archive/Presentations/PGR%202023-1-12%20sims.do)
+- [Presentations/PGR 2023-1-12 sims.do](../../archive/Presentations/PGR%202023-1-12%20sims.do)

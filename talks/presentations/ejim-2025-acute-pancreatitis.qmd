@@ -33,7 +33,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Pancreatitis Lit/EJIM 2025 Acute Pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/EJIM%202025%20Acute%20Pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/EJIM 2025 Acute Pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/EJIM%202025%20Acute%20Pancreatitis.pdf)
 
 ## Source materials
-- [Presentations/Pancreatitis Lit/EJIM 2025 Acute Pancreatitis.pdf](archive/Presentations/Pancreatitis%20Lit/EJIM%202025%20Acute%20Pancreatitis.pdf)
+- [Presentations/Pancreatitis Lit/EJIM 2025 Acute Pancreatitis.pdf](../../archive/Presentations/Pancreatitis%20Lit/EJIM%202025%20Acute%20Pancreatitis.pdf)

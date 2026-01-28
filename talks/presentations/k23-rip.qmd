@@ -4,19 +4,453 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- K 23 Application OutlineUnrecognized Inpatient Hypercapnic Respiratory Failure
+- NIH Grants 101
+- Career Development (K) Award Criteria:
+- SPECIFIC AIMS
+- Overview:
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- Why is this worth establishing?
+- RESEARCH APPROACH
+- Importance of the Problem
+- Expected Contribution / Innovation
+- Aim 1: Local Validation of Less-Invasive Hypercapnia Verification
+
+## Slide outline
+### Slide 1
+- K 23 Application OutlineUnrecognized Inpatient Hypercapnic Respiratory Failure
+- Brian Locke MD
+- RIP Oct 12, 2023
+- This research was supported by the National Institutes of Health under Ruth L. Kirschstein National Research Service Award 5T32HL105321 from the NIH,
+- and The American Thoracic Society Academic Sleep and Pulmonary Integrated Research/Clinical Fellowship (ASPIRE) Program
+### Slide 2
+- NIH Grants 101
+- Programming training grants (T32): Granted to programs (PI Paine)
+- Individual fellowship grants (F31-3): (individual, pre- and postdoc)
+- Career development grants (K08 and K23): 30% success
+- Established investigator grants (R01..): 10% success
+- Funding deadlines for (new) K-awards: Mid Feb, Mid June, Mid Oct
+### Slide 3
+- Career Development (K) Award Criteria:
+- NIH goal: support early-career investigators to allow them to become independent investigators competitive for major grant support.
+- Criteria:
+- Candidate (not discussing today)
+- Team: Mentors/Co-mentors/Consultants/Collaborators
+- Research Plan
+- Career development plan, career goals, and objectives.
+- Environment + Institutional Commitment to the Candidate (not discussed today)
+### Slide 4
+- SPECIFIC AIMS
+### Slide 5
+- Overview:
+- Hypercapnic Respiratory Failure is associated with high readmission rates, symptom burden, and mortality risk.
+- Hypercapnic respiratory failure results from many contemporary health threats: obesity, opiate use, advanced lung disease, and multimorbidity.
+- Diagnosis of Hypercapnic respiratory failure requires a painful and infrequently obtained diagnostic test (ABG).
+- Limited evidence suggests clinicians frequently fail to identify patients with hypercapnia, even in the inpatient setting (a particularly high-risk group after discharge)
+- This is a problem for both clinical care and research
+### Slide 6
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- 3 aims
+- Aim 1: How to find them?
+- Aim 2: How many are out there?
+- Aim 3: Might it matter?
+- Hypothesis
+- Less invasive methods of blood CO2 assessment (TcCO2, VBG, Risk Stratification) can identify hypercapnia with sufficient accuracy to estimate prevalence.
+- There is a sizable prevalence of unrecognized hypercapnia among hospitalized patients.
+- Inpatients who were predicted, but not identified, to have hypercapnic respiratory failure based on data elements from the health record, are at high risk of readmission.
+- Barrier
+- TcCO2, VBG, and bicarbonate are perceived as problematic for individual patient use.
+- ABGs a selectively and unreliably obtained in clinical practice, and cannot be indiscriminately obtained for research
+- Prior work showing high readmission rates only assess patients who have been identified as hypercapnic.
+- Insight
+- Scatter, without bias, can still allow estimation of prevalence
+- Risk modeling allows for stratified sampling better efficiency.
+- ABG PaCO2 is an imperfect reference standard
+- Approach
+- Obtain paired ‘samples’ with ordered ABGs (inpatient).
+- Non-invasively sample (with TcCO2, or VBG) patients predicted to have a certain strata of risk.
+- Among patients with an admission for hypercapnia that is identified, how many had preceding admissions likely to have hypercapnia?
+### Slide 7
+- Why is this worth establishing?
+- Owing to the conditions the lead to hypercapnic respiratory failure, the prevalence is almost certainly increasing.
+- Limited and indirect evidence suggests we do a poor job identifying these patients
+- Many patients are first identified at a decompensation event
+- Effective therapy Exists
+- Research tools to establish the burden of disease (prevalence, attributable risks) have not yet been developed.
+- Doing so will enable several lines of research: diagnostic pathway benchmarking, population health, diagnosis->management benchmarking
+### Slide 8
+- RESEARCH APPROACH
+### Slide 9
+- Importance of the Problem
+- 2022: Liverpool AUS, 1 regional hospital services the entire district
+- Identified by initial ABG (w/n 24h) PaCO2 over 45, excluded iatrogenic causes/sedation. N891 people
+- Normalized rates of hypercapnia to population demographics
+- 150 per 100,000 person/year
+- Acidosis in 55%.
+- Comparison: GBD estimate of Decompensated Cirrhosis: 132 per 100,000 person/year
+- Limitation: ABG required
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+### Slide 10
+- Expected Contribution / Innovation
+- Arterial blood gas sampling is currently required to to diagnose hypercapnic respiratory failure.
+- To be included in a study, you must be diagnosed
+- Some approaches, like VBG, are currently widely used but not validated.
+- ABGs are painful, only give a snapshot, and must be actively considered by the clinician
+- Thus, alternative methods of identifying patients may improve the patient experience, the reliability of diagnostic modalities, and the representativeness of research.
+- Innovation: utilizing risk modeling (Bayes theorem) derived from big data, we can more efficiently sample and better estimate population prevalence.
+### Slide 11
+- Aim 1: Local Validation of Less-Invasive Hypercapnia Verification
+- TcCO2 Sentec: Validated for use NMD follow-up, PICU
+- 95% Agreement with PaCO2: +/- 6 mmHg, Bias +0.1 mmHg
+- Conway et al. Thorax 2019. SRMA 44 Studies (n1786)
+- TriNetX Research Network
+- All ABGs obtained at 70 health systems (n10 million)
+- Expected distribution of PaCO2 among people who get ABG
+- Expected: Se: 89%, Sp: 92%
+- 50: Correct 97%, Wrong 3%: weight: 1.81%
+- 49: Correct 93%, Wrong 7%: weight: 1.98%
+- 48: Correct 88%, Wrong 12%: weight: 2.39%
+- 47: Correct 80%, Wrong 20%: weight: 2.47%
+- 46: Correct 69%, Wrong 31%: weight: 2.92%
+- 45: Correct 57%, Wrong 43%: weight: 3.11%
+- SENSITIVITY
+- SPECIFICITY
+- 44: Correct 57%, Wrong 43% 3.56%
+- 43: Correct 69%, Wrong 31% weight 3.73
+- 42: Correct 80%, Wrong 20% weight 4.16%
+- 41: Correct 88%, Wrong 12% weight 4.25%
+- 40: Correct 93%, Wrong 7% weight 4.58%
+- 39: Correct 97%, Wrong 3%: weight 4.59%
+### Slide 12
+- Aim 1: Local Validation of Less-Invasive Hypercapnia Verification
+- Design: Paired, within-subjects samples
+- Outcomes:
+- ABG-TcCO2
+- Bland Altman Analysis (Bias, Agreement)
+- Sensitivity, Specificity
+- Prediction modeling:
+- Discrimination (correctly order risk? AUC)
+- Calibration (if 25% chance CO2>45, is it really 25%?)
+- Sample Size: n65 -> 0.8 power for limits of agreement (edge of 95CI) ~8
+### Slide 13
+- Aim 1: Local Validation of Less-Invasive Hypercapnia Verification
+- Why validate locally? (there are already 44! studies)
+- Agreement (with ABG) dependent on technique in Conway SRMA
+- Allows feasibility testing (consenting), external validation, & performance benchmarking (calibration?) of EHR-based risk stratification.
+- How will this fail?
+- Enrollment time-pressure, batched in early AM
+- Low patient (surrogate) ability to consent
+- Retroactive consent?
+- TcCO2 doesn’t work well
+- Methodology audit
+- VBG assessment
+- Predictive modeling doesn’t work well
+### Slide 14
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Missing data: if everyone had an ABG, you could just count.
+- Insight: If you can predict a.) who gets an ABG b.) who will have hypercapnic given they get an ABG > who has hypercapnia
+- Must use data elements that are commonly present
+- Can this be done?
+- All TriNetX encounters (ambulatory, emergency, inpatient) for which a reasonable clinician would consider hypercapnic respiratory failure:
+- Dx code resp failure, predisposing condition, ABG/VBG checked, BMI>40
+### Slide 15
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Jan-Dec 2022:
+- 32% (64,500) showing PaCO2 > 45 mmHg
+- Total
+- No ABG Obtained
+- ABG Obtained
+- N879,019
+- N675,620
+- N203,399
+- Ambulatory
+- 39% (343,699)
+- 50% (334,457)
+- 5% (9,242)
+- Emergency
+- 20% (175,792)
+- 22% (146,066)
+- 15% (29,726)
+- Inpatient
+- 41% (359,528)
+- 29% (195,097)
+- 81% (164,431)
+- Flipped optimal use from previously validated use (OHS)
+- Spectrum effect: more ways for FN
+- What factors influence performance?
+- Note: ‘compensation status’ is self-referential.
+- Remember: ‘Boston Rules’ are a model…
+### Slide 16
+- Aim 2: How much unrecognized hypercapnia is out there?
+- What factors are independently associated with better discrimination?
+- Threshold independent
+- AUC: “if you choose a random patient with Hypercapnia, what is the chance they will have a higher a higher HCO3- than someone without”
+- ???
+### Slide 17
+- Aside: What threshold should you use?
+- Statistics alone cannot tell you
+- You need to weight the relative importance of false positives vs. false negatives
+- There is no data to guide the trade-off
+- HCO3-
+- Threshold
+- Ambulatory
+- Emergency
+- Inpatient
+- Critical Care
+- Se
+- Sp
+- ≥24 mEq/L
+- 86.3
+- 47.6
+- 82.6
+- 47.1
+- 73.4
+- 60.4
+- 65.0
+- 67.5
+- ≥25 mEq/L
+- 78.8
+- 61.3
+- 77.0
+- 58.6
+- 65.4
+- 71.2
+- 57.1
+- 76.9
+- ≥26 mEq/L
+- 70.0
+- 74.3
+- 69.4
+- 70.2
+- 56.7
+- 80.6
+- 49.2
+- 84.6
+- ≥27 mEq/L
+- 60.5
+- 84.5
+- 60.8
+- 79.0
+- 48.2
+- 87.4
+- 41.8
+- 89.9
+- ≥28 mEq/L
+- 50.7
+- 91.5
+- 52.3
+- 86.6
+- 40.4
+- 92.1
+- 35.0
+- 93.6
+- ≥29 mEq/L
+- 95.8
+- 43.8
+- 91.6
+- 34.0
+- 95.2
+- 29.5
+- 96.0
+- ≥30 mEq/L
+- 31.9
+- 97.9
+- 35.8
+- 95.1
+- 28.5
+- 97.1
+- 24.9
+- 97.4
+### Slide 18
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Empirically, HCO3- discriminates better between CO2>45 and not when patients are on loop diuretics.
+- This mirrors theories about pathogenesis of OHS
+- And suggests diuretics cause some OHS
+- We are bad at reasoning from physiology
+- No Hypercapnia:
+- Loop HCO3 (orange)
+- > No loop HCO3 (blue)
+- W/ Hypercapnia:
+- Loop HCO3 (red)
+- >> No loop HCO3 (green)
+### Slide 19
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Can you add more elements?
+- Location of care
+- HCO3
+- K
+- …..
+### Slide 20
+- Aim 2: How much unrecognized hypercapnia is out there?
+- What other elements
+- PCA
+- Age
+- Location
+- Sex
+- Outpatient COPD med
+- Lactate
+- Etc.
+- LASSO
+### Slide 21
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Nowbar et al. 2004: All BMI ≥35 kg/m2 admitted to inpatient medicine service at the Denver VA. Everyone (n277) gets an ABG. 31% had hypercapnia. Only 1/3 of those had therapy started (teams were told)
+- Only study I am aware of that did not rely on clinician gestalt to obtain ABG
+- Old, how much iatrogenic?, unique population.
+- Other, indirect estimates?
+- Marik et al 2013, Journal of Intensive Care Medicine: patients with malignant OHS ”…had been admitted to our hospital on average 6 times over the previous 2 years; 75% had been erroneously diagnosed and treated for chronic obstructive pulmonary disease (COPD)/asthma and 86% had been treated with diuretics for congestive cardiac failure”
+- Outside of obesity?
+### Slide 22
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Design:
+- Within 24 hours from admit
+- Stratified sampling by decile of predicted likelihood of hypercapnia
+- Overall prevalence estimate weighted [by overall hospital] average of decile prevalences.
+- Stratified sampling improves efficiency
+- Apply TcCO2
+- Sample Size Calculation:
+- Complex but doable
+- Upper bound unstratified: n200 would give 5% 95CI width at expected prevalence of 2.5%
+### Slide 23
+- Aim 2: How much unrecognized hypercapnia is out there?
+- Outcomes:
+- Estimated in-hospital prevalence
+- % recognized(?) – should information be shared with teams?
+- (or, vs historical control)
+- How will this fail?
+- Several pieces of data will update power calc (distribution of predicted hypercapnia deciles, bias/agreement of TcCO2)
+- Can I access EHR data fast enough?
+- Hawthorne effect?
+- What if TcCO2 isn’t good enough? (VBG?)
+- Elevation adjustment? Due to hypoxemia, do they get identified earlier?
+### Slide 24
+- Aim 3: Might it matter?
+- Current reference standard? Is PaCO2 above 45 mmHg (classification)
+- Alternative (better) reference standard for ventilatory failure?
+- Predicting future risk of insufficient ventilation
+- Predicting differential treatment response (will they get better I I help their ventilation?)
+- If you expand the type of patients diagnosed, do you dilute the importance of the finding?
+- Everyone (probably) gets identified if their hypercapnia is severe enough
+- Analogous to Cancer Screening: Lead time bias? Will Rogers Phenomenon?
+### Slide 25
+- Aim 3: Might it matter?
+- Rigor of the supporting research:
+- Marik et al. 2013: patient diagnosed with OHS are repeatedly admitted and missed diagnosed prior to their ultimate recognition
+- Single center with non-representative enrollment (only obese patients)
+- Meservey et al 2020. and Vonderbank et al 2021: readmission rates are high after diagnosis (~1/3 of patients) - likely because the pipeline from identification to treatment is very unreliable.
+- This only studies patients who are identified as hypercapnic
+- Cavalot et al 2022: across etiologies (enrolled in an emergency department), patients with hypercapnia (by ABG) have worse outcomes than patients without
+- Not matched for other prognostic indicators
+### Slide 26
+- Aim 3: Might it matter?
+- Study Design:
+- Retrospective EHR-based review
+- Dataset: Longitudinal, ideal self-contained system
+- Exposures of interest:
+- Hypercapnic Respiratory Failure by ICD code
+- Hypercapnic Respiratory Failure by ABG (or by VBG) & not ICD code
+- Predicted Risk of Hypercapnic Respiratory Failure by commonly obtained data-elements
+- Effect modifier: PAP/NIV therapy
+- Outcome: Hazard of death or rehospitalization with hypercapnia
+- Expected finding:
+- ICD code (untreated) > ICD code (treated) ? Blood gas confirmed > Highly Likely to have hypercapnia
+### Slide 27
+- Aim 3: Might it matter?
+- Why might this fail?
+- ABG often not present in datasets reliably
+- Data cleaning by center?
+- May be too hard to determine who gets (outpatient) treatment
+- Easier Alternative: among patients admitted with recognized hypercapnia, how many preceding admissions were likely to have had hypercapnia by risk modeling?
+- Anticipated effect (for power) might be updated by Aim 2
+### Slide 28
+- TODO: No text extracted from this slide.
+### Slide 29
+- Why do this in UT?
+- We’re the only group (that I’m aware of) doing statistical modeling that will enable to do this efficiently
+- We have institutional experience with TcCO2 [Jeanette, PICU]
+- Resources and track-record of successful bioinformatics application….
+- [In 1960]… The most prominent of these was based out of the University of Utah and the Latter-day Saints (LDS) Hospital in Salt Lake City. There, Homer Warner, together with his col. leagues Allan Pryor and Reed Gardner, began building what would arguably become the most successful health information infrastructure in the country …Warner and his colleagues grew interested in the possibility of applying ideas about Bayes's theorem and conditional probabilities to actual clinical data. They quickly settled on congenital heart disease as their test domain.
+- …
+- The team thus assembled a database: a matrix that included incidence information on about fifty-seven symptoms and thirty-five diseases. Warner translated this mathematical approach for implementation on a digital electronic computer. ….
+- The group found that, in a sample of seventy-four patients with congenital heart disease, the diagnostic performance of the computer was on par with that of physicians who had seen the same patients. The results grabbed national attention. "Computer Is Found Useful in Heart Disease," the New York Times reported.
+- The findings also put wind in the sails of Warner's larger research enterprise at Utah. Before long, Warner's narrow focus on cardiac diagnosis broadened. The project that started in the Cardiovascular Laboratory soon spread outward, evolving into a larger health information system called Health Evaluation through Logical Processing (HELP). By the late 1960s, HELP had been adopted widely across the LDS Hospital
+### Slide 30
+- Future Directions
+- What studies would this set the stage for?
+- Construct more representative cohort of inpatients with hypercapnia:
+- What comorbidities do they have? What is their prognosis?
+- Allow surveillance of rates of hypercapnia
+- Does it change with air quality? (e.g. U of U / IMC admission by air quality
+- Is it increasing overall?
+- Does more aggressive case-finding improve outcomes? [randomize to BPA of hypercapnia-alert?]
+### Slide 31
+- OVERALL: There is a significant burden of unrecognized hypercapnia among hospitalized patients.
+- 3 aims
+- Aim 1: How to find them?
+- Aim 2: How many are out there?
+- Aim 3: Might it matter?
+- Hypothesis
+- Less invasive methods of blood CO2 assessment (TcCO2, VBG, Risk Stratification) can identify hypercapnia with sufficient accuracy to estimate prevalence.
+- There is a sizable prevalence of unrecognized hypercapnia among hospitalized patients.
+- Inpatients who were predicted, but not identified, to have hypercapnic respiratory failure based on data elements from the health record, are at high risk of readmission.
+- Barrier
+- TcCO2, VBG, and bicarbonate are perceived as problematic for individual patient use.
+- ABGs a selectively and unreliably obtained in clinical practice, and cannot be indiscriminately obtained for research
+- Prior work showing high readmission rates only assess patients who have been identified as hypercapnic.
+- Insight
+- Scatter, without bias, can still allow estimation of prevalence
+- Risk modeling allows for stratified sampling better efficiency.
+- ABG PaCO2 is an imperfect reference standard
+- Approach
+- Obtain paired ‘samples’ with ordered ABGs (inpatient).
+- Non-invasively sample (with TcCO2, or VBG) patients predicted to have a certain strata of risk.
+- Among patients with an admission for hypercapnia that is identified, how many had preceding admissions likely to have hypercapnia?
+### Slide 32
+- Career Development Plan
+- Mentored
+- Didactic
+- Experiences
+- ‘Academic Stewardship’
+- MDCRC6270 – Applied Modern Causal Inference
+- PHS7035 – Theory of Modern Causal Inference
+- PHS7045 – Advanced Programming in R and the CHPC
+- MDCRC6375 - Advanced Methods in Dissemination and Implementation Science
+- SCCM Datathon (MIMIC-IV etc.)
+- U of U DELPHI / Data Carpentry workshops
+- ASPIRE Webinars
+- Society Committees(?)
+### Slide 33
+- Upcoming talks
+- Oct 20
+- Capstone Presentation, December 6th
+### Slide 34
+- Background:
+- Health-record data elements
+- Transcutaneous CO2 Monitoring
+- Venous Blood Gas
+- Commonly obtained clinical features markedly change the pre-test probability of hypercapnia.
+- Allows non-invasive/painless assessment, though not clinically used.
+- Frequently obtained in Emergency Departments and used to suggest, though often not definitively diagnose, hypercapnia
+- 95% Agreement with ABG: +/- 6 mmHg
+- Bias ~0.1 mmHg
+- Systematically biased toward elevated PaCO2, amount may be somewhat predictable from physiology.
+- Performance not previously validated in most causes of hypercapnic respiratory failure.
+- Accuracy is believed to be insufficient for clinical use in individual
+- May be inaccurate in patients with the highest need for accurate diagnosis (e.g. poor perfusion)
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- K 23 Application OutlineUnrecognized Inpatient Hypercapnic Respiratory Failure
+- NIH Grants 101
+- Career Development (K) Award Criteria:
+- SPECIFIC AIMS
+- Overview:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- K 23 Application OutlineUnrecognized Inpatient Hypercapnic Respiratory Failure
+- NIH Grants 101
+- Career Development (K) Award Criteria:
+- SPECIFIC AIMS
+- Overview:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +467,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/2023-10-6 K23 RIP.pptx](archive/Presentations/2023-10-6%20K23%20RIP.pptx)
+- [Presentations/2023-10-6 K23 RIP.pptx](../../archive/Presentations/2023-10-6%20K23%20RIP.pptx)
 
 ## Source materials
-- [Presentations/2023-10-6 K23 RIP.pptx](archive/Presentations/2023-10-6%20K23%20RIP.pptx)
+- [Presentations/2023-10-6 K23 RIP.pptx](../../archive/Presentations/2023-10-6%20K23%20RIP.pptx)

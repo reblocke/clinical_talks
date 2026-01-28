@@ -4,24 +4,32 @@ draft: true
 ---
 
 ## What this covers
-- TODO: Summarize key sections from the source notes.
+- Sweep gas flow rate: controls CO2
+- Speed of pump - ECMO Flow rate: controls O2
+- FDo2 Of sweep gas: controls O2
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Sweep gas flow rate: controls CO2
+- Speed of pump - ECMO Flow rate: controls O2
+- FDo2 Of sweep gas: controls O2
+- Inflow and outflow catheters are too close
+- ECMO flow rate is too high.
+- Sweep gas flow interruption: often interruption in equipment, leads to circuit apnea.
+- Membrane lung failure: gas phase or blood phase failure
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Basics: https://www.atsjournals.org/doi/full/10.34197/ats-scholar.2020-0077VO
+- Pathologic recirculation: Blood goes from the outflow track (in SVC) back in to IVC and into the inflow track.
+- This leads to ineffective circulation to the body and hypoxemia.
+- Monitor pre- and post- blood gas for
+- What to do with the ventilator?
 
 ## Approach
-1. TODO: Outline the initial assessment or decision point.
-2. TODO: Outline the next diagnostic or management step.
-3. TODO: Outline follow-up or escalation criteria.
+1. Sweep gas flow rate: controls CO2
+2. Speed of pump - ECMO Flow rate: controls O2
+3. FDo2 Of sweep gas: controls O2
+4. Inflow and outflow catheters are too close
+5. ECMO flow rate is too high.
 
 ## Red flags / when to escalate
 - TODO: List red flags that require urgent escalation.
@@ -30,7 +38,7 @@ draft: true
 - TODO: Capture common errors or missed steps.
 
 ## References
-TODO: Add landmark references or guideline citations.
+- https://www.atsjournals.org/doi/full/10.34197/ats-scholar.2020-0077VO
 
 ## Source notes
 
@@ -38,4 +46,4 @@ TODO: Add landmark references or guideline citations.
 {{< include "../../archive/Clinical Practice Notes/ecmo.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ecmo.md](archive/Clinical%20Practice%20Notes/ecmo.md)
+- [Clinical Practice Notes/ecmo.md](../../archive/Clinical%20Practice%20Notes/ecmo.md)

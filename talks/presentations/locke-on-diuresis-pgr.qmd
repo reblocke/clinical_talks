@@ -4,19 +4,244 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- On Diuresis
+- Criteria to evaluate the potential impact of work in an area
+- Criteria to evaluate the potential impact of a line of inquiry
+- Case Presentation
+- Admitted to ICU
+- Diagnosis: Acute on Chronic Hypercapneic and Hypoxemic Respiratory Failure
+- “Despite hospitalization for HF being exceptionally common, expensive, and morbid, we have not a single Class I Level of Evidence: A guideline recommendation to guide our care of these patients”
+- A brief review of pathophysiology of congestion
+- 4 Issues in Diuresis, revisited
+- How do you choose your initial Lasix dose?
+
+## Slide outline
+### Slide 1
+- On Diuresis
+- PGR 3/4/21
+### Slide 2
+- On Diuresis
+- PGR 3/4/21
+- Brian Locke, MD
+### Slide 3
+- Criteria to evaluate the potential impact of work in an area
+### Slide 4
+- Criteria to evaluate the potential impact of a line of inquiry
+### Slide 5
+- Case Presentation
+- 51M with COPD (FEV1 55% predicted, F/F 67% predicted), morbid obesity, T2DM, HFpEF, untreated severe OSA, pulmonary hypertension (mPAP 40, PCWP 15) and chronic hypercarbic and hypoxemic respiratory failure (4L), and alcohol+nicotine use d/o’s
+- Presented with abdominal and scrotal edema over 1-2 weeks
+- VS: T 37.0C, HR 118, Resp 20, BP 166/85, 95% on 5L O2, BMI 55.7
+- Admitted to medicine. Diuresed 1-2L daily. Not getting out of bed.
+- “Suspect near euvolemia due to contraction alkalosis”
+- Transferred to MICU 3 days into hospitalization due to hypoxemia requiring HFNC 70%.
+### Slide 6
+- Admitted to ICU
+- In ED: CBC normal except macrocytosis 102.3. CMP normal except CO2 40 (sCr 0.77)
+- On transfer to ICU: 7.43 / 80.5 / 71 on 15L. Measured HCO3 45
+- TTE shows RVSP 69, dilated 3.4 cm IVC. RV enlargement (RVIDD 6cm) with maintained contractile function (TAPSE 2.1cm). LV relatively normal left side function and filling pressure. No shunt by bubble.
+### Slide 7
+- Diagnosis: Acute on Chronic Hypercapneic and Hypoxemic Respiratory Failure
+- Major Malfunction: Congestion
+- What do we do now?
+### Slide 8
+- “Despite hospitalization for HF being exceptionally common, expensive, and morbid, we have not a single Class I Level of Evidence: A guideline recommendation to guide our care of these patients”
+### Slide 9
+- “Despite hospitalization for HF being exceptionally common, expensive, and morbid, we have not a single Class I Level of Evidence: A guideline recommendation to guide our care of these patients”
+### Slide 10
+- A brief review of pathophysiology of congestion
+- Kidneys are under-perfused (Decreased EABV)
+- Na delivery to macula densa decreases
+- RAAS activity increases (‘neurohormonal activation’) and Na absorption is increased as the kidneys mistakenly interpret underperfusion as hypovolemia
+- ECF fluid expansion (interstitial and intravascular) and edema occurs.
+- If hypoperfusion is profound enough, the body releases ADH to sacrifice tonicity (Na) to maintain volume, and hyponatremia can develop
+### Slide 11
+- 4 Issues in Diuresis, revisited
+- How Do We Arrive at a Loop Diuretic Dose?
+- What else can we do to help?
+- How Do We Arrive at a goal?
+- How do we know when to stop?
+### Slide 12
+- How do you choose your initial Lasix dose?
+- Home dose 2.5 and IV (DOSE trial)
+- 1 mg/kg IV Lasix
+- Age + BUN Lasix dose
+- Doesn’t matter, just make sure you adjust
+### Slide 13
+- Furosemide Pharmacokinetics
+- Act from LUMEN of nephron on thick ascending limb of Loop and macula densa.
+- Natriuretic threshold ~
+- GFR (delivery)
+- Vd (increased in hypoalb)
+### Slide 14
+- GFR estimate in Critical illness
+- Predictive equations compared to iohexol dose derived GFR measurement in unselected ICU patients
+- Kinetic and creatinine clearance measurement are BOTH still off
+- not just lack of steady state.
+### Slide 15
+- N of 1 Trial
+- Due to unpredictability – very difficult to predict ahead of time
+- Wait 6 hours? Lasix duration of action is actually shorter
+- Last six hours depends on ”absorption limited pharmacokinetics”.
+- Shorter in IV
+- Wait 2 hours for a response
+- Give a dose. If no response in 2 hours, double the dose.
+### Slide 16
+- Loop diuretic physiology – symptoms not sufficient to guide decongestion
+- Furosemide reduces preload immediately due to venodilation – before diuretic effect starts.
+- Temporal Changes in Mean Left Ventricular Filling Pressure, Calf Venous Capacitance, and Total Urine Output after Intravenous Furosemide. Dikshit K et al. N Engl J Med 1973;288:1087-1090
+### Slide 17
+- Toxicity without volume depletion?
+- 1985: Patient with oliguric AKI were given “1 g furosemide was given as a single injection over four hours. In the test group, frusemide was then continued either intravenously or orally in a dose of 3 g/24 hr until a urine output of 200 ml/hr was sustained or until the plasma creatinine fell …The serious complication of deafness occurred in two of 28 patients and in one of them this was permanent.”
+- 2021: Yale Diuretic Protocol: “automated, nurse-driven, and called for administration of 2 to 12.5 mg IV bumetanide up to 3 times daily.” “rapidly escalated toward a peak of 1,500 mg IV furosemide equivalents per day that was reached in the first 2 days of the protocol in 86% of patients.” “No cases of ototoxicity (n409)
+- Meta-analysis: OR 3 of developing ototoxicity when dose excess 1 GRAM daily (~40 mg/hr)
+- NOT A NEPHROTOXIN
+### Slide 18
+- 4 Issues in Diuresis, revisited
+- How Do We Arrive at a Loop Diuretic Dose?
+- What else can we do to help?
+- How Do We Arrive at a goal?
+- How do we know when to stop?
+### Slide 19
+- What other initial orders are important?
+- Strict I/Os and Daily weights? Yes or No
+- Fluid restriction of 2L per day? Yes or No
+- Na restriction of 2g per day? Yes or No
+### Slide 20
+- Salt and Fluid Restriction
+### Slide 21
+- Salt and Fluid Restriction causes… thirst
+### Slide 22
+- 4 Issues in Diuresis, revisited
+- How Do We Arrive at a Loop Diuretic Dose?
+- What else can we do to help?
+- How Do We Arrive at a goal?
+- How do we know when to stop?
+### Slide 23
+- What is your goal in the next 24 hours?
+- The intern suggests 40 IV Lasix. You suggest first coming up with a goal first, then a dosing strategy to meet that goal:
+- 2-3L net negative in the next 24h
+- 2-3 kg negative in the next 24h
+- 100 mmol Na negative in the next 24h
+- 3+ L net negative in the next 24h
+- 3+ kg net negative in the next 24h
+- 150 mmol Na negative in the next 24h
+### Slide 24
+- Return to case:
+- We relaxed his fluid restriction and he drank 5L, made 5L of urine with no weight change.
+- Did we just waste a day?
+### Slide 25
+- What is the problem with I/O and Kg?
+- Resource intensive (charting I/Os)
+- Inaccurate
+- It’s a surrogate for Natriuresis
+- Depends in a constant UNa concentration
+- Assumptions
+- Mmol Natriuresis (what we care about)
+- <–concentration of UrineNa-->
+- volume of Urine
+- <–weight or tracking recording-->
+- change (what we act on)
+### Slide 26
+- Natriuresis varies widely during diuresis
+- Why might the Na concentration of urine vary between patients?
+- Depends on ADH presence (among other other reasons).
+- Tight water restriction ADH increase, natriuresis unchanged.
+- Loose water restriction ADH decrease, natriuresis unchanged
+### Slide 27
+- Urine composition by time
+- “the sodium content of diuretic-induced urine is highly variable and correlates only modestly with fluid and weight loss”
+### Slide 28
+- Braking Phenomenon (of natriuresis)
+- Assume a patient makes no dietary changes
+- Sodium clearance increases with ECF (true)
+- Off diuretics, a patient takes in 3g of Na in 24h. They are at steady state. 3g of Na must be excreted in 24h. They are congested.
+- If you start a diuretic, initially their ECF is unchanged (congested), but natriuresis increases.
+- They eventually reach a new steady state (inout), but at a lower ECF
+### Slide 29
+- Discordant Diuresis and Natriuresis
+- Net Na drops a little
+- Net Na drops a lot
+- Net I/O drops a little
+- Not much response, normal [UNa]
+- Good natriuresis, high [UNa]
+- Net I/O drops a lot
+- Good diuresis,
+- Low [UNa]
+- Good response, normal [Una]
+### Slide 30
+- Natriuresis based decongestion
+- Simple: Spot urine Na > 100 2h after dose was probably effective (will lead to net 2g+ natriuresis in BID dosing)
+- Complex:
+### Slide 31
+- Does it work?
+- NCT04481919 RCT with hard outcome end-points ongoing
+### Slide 32
+- 4 Issues in Diuresis, revisited
+- How Do We Arrive at a Loop Diuretic Dose?
+- What else can we do to help?
+- How Do We Arrive at a goal?
+- How do we know when to stop?
+### Slide 33
+- “Suspect near euvolemia due to contraction alkalosis”
+- Loop diuretics create Chloride (and Sodium)-Rich urine
+- Loosing Cl- rich, ‘bicarbonate poor’ urine will lead to development of alkalosis at ANY extracellular volume.
+- Pendrin: Chloride – Bicarbonate exchanger to maintain neutrality
+- Not “contraction” (albumin will not fix it), but “chloride depletion” (saline will).
+### Slide 34
+- Diurese until sCr clearly increases
+### Slide 35
+- Decision Tree
+- Is this patient still decongested?
+- Expected value of:
+- A: win, continue diuresis
+- B: sCr bump, no long-term harm
+- C: Early discharge, increased readmission and morbidity
+- D: win, no diuresis
+- Thus, our threshold should be very far toward continuing diuresis (treatment)
+### Slide 36
+- Case Resolution
+- Diuresed from 355 lbs to 307 lbs at discharge – did not have symptoms or chemistry evidence of adequate decongestion at this time.
+- Inpatient mask fit allowed for tolerance of CPAP inpatient, which was continued on discharge.
+### Slide 37
+- Take home points:
+- The numbers we follow give false assurance
+- Natriuresis is more important than I/O or Kg, which are inaccurate surrogates
+- Consider a spot urine Na if unsure if diuretic plan is working
+- Don’t wait 6 hours to redose Lasix if it’s not working. 2h is enough
+- Fluid (and Na) restrictions probably don’t help us decongest
+- Give more Lasix
+- Don’t stop diuresing until it’s OBVIOUS they are dry
+### Slide 38
+- References:
+- Ellison, D. H. (2019). Clinical pharmacology in diuretic use. Clinical Journal of the American Society of Nephrology, 14(8), 1248-1257
+- Sangla, F., Marti, P. E., Verissimo, T., Pugin, J., de Seigneux, S., & Legouis, D. (2020). Measured and Estimated Glomerular Filtration Rate in the ICU: A Prospective Study. Critical Care Medicine, 48(12), e1232-e1241.
+- Brisco, M. A., Zile, M. R., Hanberg, J. S., Wilson, F. P., Parikh, C. R., Coca, S. G., ... & Testani, J. M. (2016). Relevance of changes in serum creatinine during a heart failure trial of decongestive strategies: insights from the DOSE trial. Journal of cardiac failure, 22(10), 753-760.
+- Ambrosy, A. P., Cerbin, L. P., Armstrong, P. W., Butler, J., Coles, A., DeVore, A. D., ... & Mentz, R. J. (2017). Body weight change during and after hospitalization for acute heart failure: patient characteristics, markers of congestion, and outcomes: findings from the ASCEND-HF trial. JACC: Heart Failure, 5(1), 1-13.
+- Luke, R. G., & Galla, J. H. (2012). It is chloride depletion alkalosis, not contraction alkalosis. Journal of the American Society of Nephrology, 23(2), 204-207.
+- Aliti, G. B., Rabelo, E. R., Clausell, N., Rohde, L. E., Biolo, A., & Beck-da-Silva, L. (2013). Aggressive fluid and sodium restriction in acute decompensated heart failure: a randomized clinical trial. JAMA internal medicine, 173(12), 1058-1064.
+- Verbrugge, F. H., Nijst, P., Dupont, M., Penders, J., Tang, W. W., & Mullens, W. (2014). Urinary composition during decongestive treatment in heart failure with reduced ejection fraction. Circulation: Heart Failure, 7(5), 766-772.
+- Hodson, D. Z., Griffin, M., Mahoney, D., Raghavendra, P., Ahmad, T., Turner, J., ... & Testani, J. M. (2019). Natriuretic response is highly variable and associated with 6-month survival: insights from the ROSE-AHF trial. JACC: Heart Failure, 7(5), 383-391.
+- Rao, V. S., Ivey-Miranda, J. B., Cox, Z. L., Riello, R., Griffin, M., Fleming, J., ... & Testani, J. M. (2021). Natriuretic equation to predict loop diuretic response in patients with heart failure. Journal of the American College of Cardiology, 77(6), 695-708.
+- https://www.coreimpodcast.com/2020/06/24/5-pearls-on-inpatient-heart-failure/
+### Slide 39
+- POSTSCRIPT: ADVOR TRIAL NEJM 2022
+- https://www.nejm.org/doi/pdf/10.1056/NEJMoa2203094
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- On Diuresis
+- Criteria to evaluate the potential impact of work in an area
+- Criteria to evaluate the potential impact of a line of inquiry
+- Case Presentation
+- Admitted to ICU
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- On Diuresis
+- Criteria to evaluate the potential impact of work in an area
+- Criteria to evaluate the potential impact of a line of inquiry
+- Case Presentation
+- Admitted to ICU
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +258,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx](archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21%20Compressed.pptx)
-- [Presentations/Locke - On Diuresis - PGR 3-4-21.pptx](archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21.pptx)
+- [Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx](../../archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21%20Compressed.pptx)
+- [Presentations/Locke - On Diuresis - PGR 3-4-21.pptx](../../archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21.pptx)
 
 ## Source materials
-- [Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx](archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21%20Compressed.pptx)
-- [Presentations/Locke - On Diuresis - PGR 3-4-21.pptx](archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21.pptx)
+- [Presentations/Locke - On Diuresis - PGR 3-4-21 Compressed.pptx](../../archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21%20Compressed.pptx)
+- [Presentations/Locke - On Diuresis - PGR 3-4-21.pptx](../../archive/Presentations/Locke%20-%20On%20Diuresis%20-%20PGR%203-4-21.pptx)

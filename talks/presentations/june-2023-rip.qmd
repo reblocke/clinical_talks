@@ -4,19 +4,896 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Project Potpourri
+- Roadmap
+- Does PA size predict mortality?
+- PA diameter
+- Unadjusted
+- Confounding can cause:
+- PA:AA
+- 10 years of follow-up too short in young people?
+- Conclusions
+- Total
+- The Association of Weight Loss from Antiobesity Medications or Bariatric Surgery and Apnea-Hypopnea Index in Obstructive Sleep Apnea: A Systematic Review and Meta-Regression
+- Wisconsin sleep cohort
+
+## Slide outline
+### Slide 1
+- Project Potpourri
+- B Locke
+- RIP
+- Supported by the National Institutes of Health under Ruth L. Kirschstein National Research Service Award 5T32HL105321 from the NIH and ATS ASPIRE program
+### Slide 2
+- Roadmap
+- PA size and Mortality
+- SRMA of Medical & Surgical Weight Loss for OSA
+- Central Sleep Apnea CPAP prescribing ()
+- Computable Phenotype for Hypercapnia
+### Slide 3
+- Does PA size predict mortality?
+- Does PA size add information beyond demographics?
+- Does PA size add information beyond what the ED might know?
+- PA diameter
+- PA:AA
+- Men
+- Women
+- Threshold
+- 29 mm
+- 27 mm
+- 0.9
+### Slide 4
+- PA diameter
+- PA:AA
+- Men
+- Women
+- Threshold
+- 29 mm
+- 27 mm
+- 0.9
+- Old: It is uncommon to see values more extreme than this in healthy patients (classification)
+- New: Values more extreme than this identify someone at risk of having or developing a problem (prediction)
+- What makes a finding abnormal?
+- Ideal: Values more extreme than this identify someone who benefits from intervention (prediction)
+### Slide 5
+- Unadjusted
+- Adjusted for Age + Sex
+### Slide 6
+- Confounding can cause:
+- A spurious relationship
+- A spurious non-relationship
+- Total
+- Normal PA:AA (<0.9)
+- Increased PA:AA (0.9+)
+- N990
+- N651
+- N339
+- Age (by decade)
+- <30 years
+- 15% (147)
+- 9% (58)
+- 26% (89)
+- 30-40 years
+- 17% (165)
+- 14% (89)
+- 22% (76)
+- 40-50 years
+- 17% (169)
+- 19% (121)
+- 14% (48)
+- 50-60 years
+- 16% (159)
+- 18% (118)
+- 12% (41)
+- 60-70 years
+- 15% (145)
+- 18% (114)
+- 9% (31)
+- 70+ years
+- 21% (205)
+- 23% (151)
+- 16% (54)
+- Normal PAd
+- Enlarged PAd
+- N714
+- N276
+- 18% (128)
+- 7% (19)
+- 19% (135)
+- 11% (30)
+- 18% (126)
+- 16% (43)
+- 16% (116)
+- 13% (96)
+- 18% (49)
+- 16% (113)
+- 33% (92)
+### Slide 7
+- PA:AA
+- PAd
+### Slide 8
+- 10 years of follow-up too short in young people?
+### Slide 9
+- Conclusions
+- When comparing people of the same age/sex, both PAd and PA:AA predict a higher mortality risk
+- PAd has a threshold; PA:AA is (log)linearly worse at higher ratio
+- PA:AA is strongly confounded by age → young people seem to have larger PA:AA without apparent excess risk when mildly elevated
+- Threshold for abnormal PA:AA should be higher in younger adults
+- (Yet) Unresolved Questions:
+- Is excess risk mediated by pulmonary vascular mechanisms?
+- Other outcomes besides death? (ER, Hospitalization) Who gets further workup and how do they do?
+- Can you use this information to target intervention? (e.g. PH referral)
+- Can data be combined for better prediction?
+- OR of TR Jet Vel. 2.8+ w/n 90d if PA enlarged
+- Unadjusted
+- Adjusted: Age, Sex
+### Slide 10
+- Total
+- Normal AA
+- Enlarged AA
+- N990
+- N732
+- N258
+- Age (by decade)
+- <30 years
+- 15% (147)
+- 19% (142)
+- 2% (5)
+- 30-40 years
+- 17% (165)
+- 20% (149)
+- 6% (16)
+- 40-50 years
+- 17% (169)
+- 19% (141)
+- 11% (28)
+- 50-60 years
+- 16% (159)
+- 14% (103)
+- 22% (56)
+- 60-70 years
+- 15% (145)
+- 12% (91)
+- 21% (54)
+- 70+ years
+- 21% (205)
+- 14% (106)
+- 38% (99)
+### Slide 11
+- The Association of Weight Loss from Antiobesity Medications or Bariatric Surgery and Apnea-Hypopnea Index in Obstructive Sleep Apnea: A Systematic Review and Meta-Regression
+- Brian W. Locke M.D.; Ainhoa Gomez Lumbreras M.D., Ph.D.; Chia Jie Tan PhD.; Teerawat Nonthasawadsri PharmD; Sajesh Veettil MSPharm, PhD; Chanthawat Patikorn PharmD; Nathorn Chaiyakaunapruk PharmD, PhD
+- Under Review: JAMA NO
+### Slide 12
+- Wisconsin sleep cohort
+- A 10% weight loss predicted a 26% (95% CI, 18%-34%) decrease in the AHI.
+- 74 RCTs. PAP improves:
+- ESS
+- Sleep QOL
+- Overall HrQOL
+- There is not evidence PAP improves:
+- Mortality
+- MI/CVA events
+- ~70% w/ OSA are obese
+- 5% (gen obese pop) lose >10%BW
+- Consider pharmacologic (BMI>27) and surgical (BMI>35) weight loss options & still overweight
+### Slide 13
+- Proportion >10% BWL
+- Mean %BWL
+- Gastric Bypass
+- 96-99%
+- 25-30%
+- Tirzepitide
+- 83.5%
+- 20.9%
+- Semaglutide
+- 69.3%
+- 10.8%
+- CMS National Coverage of Determination (NCD) – cannot pay for anti-obesity medications. (since 1993)
+- Heritability of obesity: 40-70%
+- Heritability of LDL levels: 22-91%
+- If LDL levels were visible and having low LDL were desirable/high-status, would we have the same restriction on statins?
+- Prejudice→
+### Slide 14
+- PubMed, Embase Ovid, and Cochrane Central
+- Design: RCTs, no blinding req.
+- Intervention: surgical or medical weight loss interventions
+- Comparator: placebo, no treatment, or standard of care.
+- Outcome: Must report percentage weight loss and AHI difference from randomization to one month or longer follow-up
+- Analysis: Meta-regression
+### Slide 15
+- 1st Author
+- Year
+- Country
+- Centers
+- Intervention
+- N
+- Comparison
+- % Female by arm
+- Age by arm
+- Follow-up (mo)
+- Hypopnea Definition
+- Sleep Study
+- Overall risk of bias
+- Surgery
+- Bakker32
+- 2017
+- USA
+- 2
+- LGB
+- 28
+- CPAP
+- 21
+- 43 : 43
+- 50.7±9.2 : 46.3±10.5
+- 18
+- AASM 1999
+- PSG
+- Some concerns
+- Dixon35
+- 2012
+- Austrila
+- 7
+- LAGB
+- 30
+- Conventional Weight Loss Program
+- 43 : 40
+- 47.4±8.8 : 50.0± 8.2
+- 24
+- Not specified, but required to be the same on reassessment
+- Feigel-Gullier34
+- 2015
+- France
+- 1
+- 33
+- Intensive Nutritional Care
+- 47 : 25
+- 46.9±8.6:50.1±7.4
+- 36
+- French Guidelines (as of 1999)
+- High Risk
+- Furlan33
+- 2021
+- Brazil
+- Roux-en-Y Bypass
+- Usual Care
+- 13
+- 92 : 69
+- 40[36-49]:48[39-53]
+- AASM 2012
+- HSAT
+- Pharmacologic
+- Blackman36
+- 2016
+- USA & Canada
+- 40
+- Liraglutide 3 mg
+- 180
+- Placebo
+- 179
+- 28 : 28
+- 48.6±9.9: 48.4±9.5
+- 8
+- AASM 2007
+- Low Risk
+- Chen41
+- 2020
+- China
+- Exenatide
+- 22
+- Insulin
+- 55 : 52
+- 51.14±15.25
+- 55.35±11.83
+- 3
+- Not Reported
+- Eskandari37
+- 2013
+- Sweden
+- Zonisamide
+- 16
+- 0 : 13
+- 55±10:53±14
+- ROMANCE38,42
+- N/A
+- UK
+- Liraglutide 3 mg ±CPAP
+- 66
+- Placebo ±CPAP
+- 58 : 52
+- 54.5[45-61]:53.5[49-57]
+- 26
+- Tang39
+- 2019
+- Dapagliflozin and Metformin
+- Glimepiride and Metformin
+- 45 : 35
+- 56.1±7.2:57.9±10
+- 6
+- Chinese Medical Society
+- Winslow40
+- 2010
+- Phentermine-ER/Topiramate
+- 23
+- 59 : 35
+- 53.4±7.0:51.4±5.7
+### Slide 16
+- 10 eligible trials (n843 patients) were included. Four (n200) assessed bariatric surgery and 6 (n643) assessed pharmacologic interventions over a median follow-up of 13 months (interquartile range 6 to 26 months).
+### Slide 17
+- Decrease of 0.45 (95% CI: 0.18-0.73 events/hour) events per hour for each 1% body weight loss
+- Corresponds to a 1.84% AHI change (95% CI: 0.34-3.33%)
+### Slide 18
+- %Change in AHI
+- Change in ESS
+### Slide 19
+- Conclusions
+- Novelty: can predict how much AHI improvement to expect from anti-obesity interventions
+- Prior observational data: subject to confounding by the cause of weight loss
+- This data: still subject to study-level confounders (selection into study; distribution of endotypes)
+- Intervention
+- Estimated Weight Loss
+- Source
+- Expected Improvement: AHI (events/hr)
+- Expected Improvement: AHI (%)
+- Vertical sleeve gastrectomy
+- 25%
+- Heymsfield and Wadden 2017 NEJM Review22
+- AHI -15.2 (95 CI -9.80 to -20.61 events/hr)
+- 51.8% improvement [24.1 – 79.5%]
+- Tirzepatide
+- 20.9%
+- SURPASS Trial23
+- AHI -13.3 events/hr [-8.9 to -17.7]
+- 44.3% improvement [22.0 – 66.4%]
+- Semaglutide
+- 10.8%
+- AGA 2022 guideline24
+- -8.74 events/hr (95 CI -6.22 to -11.2 events/hr)
+- 25.7% improvement [14.4 – 37.0%]
+- Could inform practice / policy.
+- More robustly: could inform trial design.
+- Surmount-OSA (Eli Lilly): 90% power for 50% AHI reduction. ETA 1 year.
+### Slide 20
+- Predictors of Initial CPAP Prescription and Subsequent Course in Patients with Central Sleep Apneas.
+- Brian W. Locke MD, Jeffrey Sellman MD, Jonathan McFarland DO, Francisco Uribe MD, Kimberly Workman RPSGT,
+- Krishna M. Sundar, MD
+### Slide 21
+- Causes of Central Sleep Apnea
+- High loop gain from high controller gain
+- High loop gain from high plant gain
+- Failure of rhythm generation
+- CPAP often lowers controller gain: addressing (intermittent) hypoxemia
+- CPAP often lowers plant gain: improving hypercapnia
+- Individual Events:
+- Proportion of Events:
+- Pure
+- Central
+- Pure Obstructive
+### Slide 22
+- Modeled clinicians implied prediction (independent predictors of decision to prescribe CPAP)
+- Modeled independent predictors of outcomes
+- Research Question: do clinicians accurately predict who will respond favorably to a trial of CPAP?
+- Operationalization: are predictors of receiving (or not receiving) a trial of CPAP also the predictors of failing a trial of CPAP when it is tried?
+### Slide 23
+- TODO: No text extracted from this slide.
+### Slide 24
+- Rational decision-making when you can’t predict perfectly:
+- Outcome →
+- CPAP adequate if trialed
+- CPAP not adequate if trialed
+- Prediction ↓
+- CPAP trialed
+- True Positive
+- False Positive
+- CPAP not trialed
+- False Negative
+- True Negative
+- ??
+- Harms of the two types of errors
+- “False Positive “ (trialed CPAP, didn’t work)
+- “False Negative” (didn’t trial CPAP, would have worked)
+- Delayed effective treatment
+- Patients less likely to adhere to PAP if it has previously failed them
+- More expensive
+- Requires more expertise
+- May be harmful in some settings (SERVE-HF)
+- Optimal “threshold” (minimum predicted probability of CPAP failing where it Is still worthwhile to try) depends on how bad False Positive is relative to False negative.
+- Is it plausible that the optimal threshold varies by characteristics? Yes, for some…
+### Slide 25
+- Other findings:
+- Inverse-probability of CPAP weighting adjustment leads to no major change ( more on this later)
+- However, if patients who received CPAP are different in unmeasured characteristics (HCSR, etc.) then groups aren’t validly comparable.
+- Total
+- Diagnosed by PSG
+- Diagnosed by HSAT
+- p-value
+- N588
+- N426
+- N162
+- …
+- Neurologic Causes
+- 19% (114)
+- 21% (89)
+- 15% (25)
+- 0.13
+- Cardiac Causes
+- 27% (158)
+- 27% (113)
+- 28% (45)
+- 0.76
+- Medication Etiology
+- 11% (67)
+- 14% (58)
+- 6% (9)
+- 0.006
+- Primary CSA
+- 1.5% (9)
+- 1.2% (5)
+- 2.5% (4)
+- 0.25
+- Treatment-Emergent
+- 35% (207)
+- 37% (157)
+- 31% (50)
+- 0.17
+- OSA-Associated Centrals
+- 14% (82)
+- 10% (43)
+- 24% (39)
+- <0.001
+- Results
+- No CPAP Rx
+- 27% (159)
+- 31% (133)
+- 16% (26)
+- Rx CPAP, Adequate
+- 38% (226)
+- 34% (145)
+- 50% (81)
+- Rx CPAP, Inadequate
+- 35% (203)
+- 35% (148)
+- 34% (55)
+### Slide 26
+- Conclusions:
+- Providers decisions about whether to trial CPAP appear to correctly weight some features (e.g. Opiates, % CSA) but incorrectly weight others (Age, OSA-associated centrals)
+- Optimal rates of CPAP trial are TBD, but nudges might offer improvements.
+- Outcome assumes providers/patients continue therapy benefiting them…
+- When HSAT (unexpectedly) identifies CSA, CPAP is often trialed and often effective)
+- Baclofen- or Opiate-related centrals respond poorly to treatment, even when they constitute <50% events
+- Perhaps should be considered CSA, even when not meeting dx criteria
+### Slide 27
+- Computable Phenotypes for Identifying Hypercapnic Respiratory Failure
+- Brian W Locke MD, Wayne Richards MSc, Jeanette K Brown MD PhD, Ramkiran Gouripeddi MBBS MSc, Krishna M Sundar MD
+- Problems with retrospective EHR-based research: Missing Data, Time/Event determination (immortal time), Observational nature (residual confounding; multiple comparisons), Disease Identification (enrollment, covariates, outcomes)
+- Contrast: Prospective cohort with systematic assessment and verification of diagnostic labels… (Asthma, COPD, OHS, OSA)
+- Computable phenotype: an algorithms to identify specific types of patients
+- Simple: e.g. inclusion criteria to a study
+- Complex: use additional data elements (demographics, meds), natural-language processing, etc.
+### Slide 28
+- Why not just include patients w PaCO2 > 45? (or an ICD code for hypercapnic respiratory failure?)
+- ABGs are variably obtained in clinical practice: less reliable in usual care than enrollment criteria
+- People who get ABGs are different from people who don’t
+- Practice varies widely by setting
+- Symptoms are variable, the diagnosis is missed in the majority of cases
+- (Nowbar 2004; Nowalk 2023 SLEEP Abstract)
+- Study Aim
+- Efficacy Trial
+- Determine Burden of Disease
+- Improve Processes of Care
+- Ideal Characteristic
+- Select a population with severe disease, homogeneous in characteristic that predicts treatment responsiveness
+- Capture all patients who suffer from the adverse consequences of hypercapnic respiratory failure
+- Identify all patients who will benefit from instituting certain management pathways
+- Example
+- Severe COPD, no other cause of CO2, severe air trapping, PaCO2 > 52 mmHg
+- More sensitive definition?
+- (If only use PaCO2, you will miss patients and skew toward people with classic/severe presentation)
+- What is the national re-admission rate?
+- How common are admission with hypercapnia?
+- Does PM 2.5 influence?
+### Slide 29
+- Needs: initial decompensation → treatment
+- Presentation With Hypercapnia
+- Hypercapnia is common, highly morbid, and likely increasing in frequency (obesity, opiates, multimorbidity)
+- Correctly Recognized?
+- Causes Correctly Diagnosed?
+- Is there data to guide treatment?
+- Is it logistically possible?
+- Does it happen?
+- Inpt Hypercapnia is frequently missed in practice
+- Many patients do not receive definitive testing
+- We don’t know what to do for many (most?) patients with hypercapnia
+- Device qualification restrictions.
+- Requires coordination between Inpt  Outpt. Consider CHF (CMS f/u after discharge)
+- Marik, JICM 2012: 75% miss rate.
+- Nowbar, AJM 2004
+- OSA in 5-15% vs 50-80%
+- No good estimate? (NMD/Rest, COPD, OHS, OVS)
+- No good estimate?
+### Slide 30
+- Proposed framework:Sufficient vs Component Causes (Rubin)
+- Obesity
+- Untreated
+- Sleep Apnea
+- COPD
+- Loop diuretic
+- Opiates
+- Sufficient cause: a set of factors that will cause disease when present
+- End-stage COPD with hyperinflation
+- Component cause: a factor that, if not present, no disease would occur
+- Untreated OSA, metabolic alkalosis, chronic opiate use
+- Hypothetical patient with hypercapnic respiratory failure
+### Slide 31
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- Met. Alk loop diur
+- COPD
+- Trial Data
+- +Guidelines
+- Wait 2-4 wks
+- OHS
+- Observational Data
+- +Guideline
+- Start Immediately
+- Overlap Sydnrome
+- Undifferentiated
+- No tx data
+- Limited epi data
+- Swap any combination of:
+- Muscular weakness
+- Obesity
+- Opiate use
+- Lung disease
+- Etc.
+- ???
+- Post-Admission for Hypercapnic Respiratory Failure Management
+### Slide 32
+- Study
+- Definition Used
+- Aim
+- Meservey et al 2020. USA (Vermont)
+- DOI: 10.1007/s00408-019-00300-w
+- 18 y/o+ admitted (either ICU or floor) with diagnostic code for hypercapnic respiratory failure
+- What features of patients admitted for hypercapnic respiratory failure predict readmission?
+- Chung et al, AUS, 2021 DOI: DOI: 10.1164/rccm.202108-1912LE
+- Identified by initial ABG PaCO2 over 45, excluded iatrogenic causes/sedation.
+- What is the population prevalence of hypercapnia from any cause? Also, subsequent publication evaluating comorbidity prevalence.
+- Vonderbank et al 2020. Germany
+- DOI: 10.2147%2FOAEM.S242075
+- All patients with dyspnea or pulm disease admitted to hospital received capillary blood gas (some screening with VBG) ; PaCO2 45 mmHg.
+- Is hypercapnia predictive of mortality at a specialty hospital?
+- Mini-Systematic Review: (Reviewed in singlicate)
+- EMBASE search for human cohort studies: “hypercapnic respiratory failure” “hypercarbic respiratory failure” “hypoventilation” “respiratory acidosis” and all EMTREE subtypes.
+- AS Review – AI-assisted systematic review
+- 9455 → 10 studies evaluating prevalence, comorbidity profile, post-discharge prognosis discharge of patients with hypercapnic respiratory failure
+- van de Schoot, R. et al. An open source machine learning framework for efficient and transparent systematic reviews.
+- Nat Mach Intell
+- DOI:10.1038/s42256-020-00287-7
+### Slide 33
+- Prevalence of OSA
+- Study
+- Definition Used
+- Aim
+- Thille et al 2018 France
+- DOI: 10.1007/s00134-017-4998-3
+- ICU; pH<7.35 & PaCO2 45+; treated with NIV or IMV; survivors
+- What is the prevalence of undiagnosed OSA among survivors of Hypercapnic RF?
+- Ouanes-Besbes et al. 2021, Tunisia PubMed: 33171053
+- Admitted to ICU 2015-2018, PaCO2 > 45mmHg, pH < 7.35. No prior OSA syndrome diagnosis.
+- Adler et al. 2017, Switzerland
+- DOI: 10.1164/rccm.201608-1666OC
+- Recruited at ICU discharge after surviving: primary admission for Resp failure, PaCO2 > 47.5 mmHg and requiring NIV or IMV
+- What is the prevalence of comorbidities, including OSA, among survivors of Hypercapnic RF?
+### Slide 34
+- Evaluation of Subgroup by Compensation Status
+- Study
+- Definition Used
+- Aim
+- Compensated Hypercapnia
+- Wilson et al., 2021. USA (Michigan)
+- PubMed: 33951397
+- 18+, hospitalized w/ ABG showing CO2 over 45 and pH 7.35-7.45
+- Prognostic Significance of Compensated Hypercapnia
+- Bulbul et al. 2014. Turkey.
+- doi: 10.4103/1817-1737.128851
+- Hospitalized adults with PaCO2 over 45, no acidosis, and breathing room air
+- What comorbidities occur with inpatient, compensated hypoventilation
+- Marik 2016. USA (Virginia)
+- DOI: 10.1002/osp4.27
+- Age 18-90; BMI ≥ 40 kg m2; daytime PaCO2 > 45 mmHg, admission HCO3 > 28 mEq L−1.
+- Excluded: intrinsic lung disease; thoracic MSK/NMD; 20+ pack year smoking, COPD
+- What is the prevalence of undiagnosed Obesity Hypoventilation among hospitalized adults?
+- Respiratory Acidosis
+- Cavalot et al 2021, Toronto DOI: 10.1080/15412555.2021.1990240
+- ABG with pH < 7.35 and PaCO2 > 45 mmHg OR VBG pH 7.34 and PvVO2 > 50 mmHg & presence of respiratory symptoms (CEDIS codes).
+- Exclude CF, NM dz, ILD, thoracic dz, lung ca, CNS dz, Overdose, or trach
+- 1 year re-admission rate for patients presenting with acute respiratory acidosis
+### Slide 35
+- Methods: Data source
+- De-identified, patient-level data (not PHI, though recommended to be treated as such)
+- Federated data from medical center EHRs
+- 80 Healthcare Organizations; mostly (but not exclusively) AMCs
+- 80+ gb of data.
+- 1.2 Billion ‘facts’ in medications alone.
+- Center for High Performance Computing protected environment
+- Data Available
+- Data unavailable
+- Demographics
+- Diagnosis
+- Medications
+- Procedures
+- Labs
+- Cancer registry (NAACCR)
+- Allergies
+- Death Records (in progress)
+- Some notes
+- Diagnostic reports
+- DICOM image objects
+- Providers
+- Departments/clinics
+### Slide 36
+- Methods: Data Processing
+- Mechanisms of Data Incompleteness:
+- E.g. Diagnoses
+- For a given encounter, the institution must have submitted some data (any data) for each of the data elements requested.
+- Data validation measures:
+- Positive controls: e.g if dx of Pna, expect abx Rx
+- Negative controls: <BMI 30 in OHS
+- True (patho)physiologic state
+- What the clinician recognizes
+- What the clinician documents
+- What information is structured
+- What data is aggregated in TriNetX
+- Problem for our study
+- Missing data here is part of what we want to study
+### Slide 37
+- Overlap between definitions
+### Slide 38
+- COPD, Very Severe
+- PaCO2 52 mmHg
+- BMI 45 kg/m2
+- AHI 50 event/hr
+- PaCO2 50 mmHg
+- COPD, mod severe
+- AHI 50 events/hr
+- AHI 10 events/hr
+- Met. Alk loop diur
+- COPD
+- Trial Data
+- +Guidelines
+- Wait 2-4 wks
+- OHS
+- Observational Data
+- +Guideline
+- Start Immediately
+- Overlap Sydnrome
+- Undifferentiated
+- No tx data
+- Limited epi data
+- Swap any combination of:
+- Muscular weakness
+- Obesity
+- Opiate use
+- Lung disease
+- Etc.
+- ???
+- Post-Admission for Hypercapnic Respiratory Failure Management
+- ICD Hypercap code and ABG CO2 > 45
+- ICD Hypercap code and only VBG w CO2 > 48
+- N19,093
+- N10,018
+- Age
+- 63 (±15)
+- 61 (±16)
+- Location
+- midwest
+- 21% (3,919)
+- 13% (1,331)
+- northeast
+- 25% (4,705)
+- 21% (2,143)
+- south
+- 46% (8,806)
+- 32% (3,233)
+- west
+- 9% (1,663)
+- 33% (3,311)
+- BMI
+- 30 (±8)
+- 32 (±9)
+- CHF
+- 26% (4,913)
+- 18% (1,789)
+- 33% (6,300)
+- 30% (2,974)
+- Neuromuscular Disease
+- 3% (655)
+- 5% (452)
+- OSA
+- 25% (4,854)
+- 34% (3,381)
+### Slide 39
+- Intuition: use common data elements to accurately infer missing data elements
+- May be missing because they are not tracked in the dataset
+- E.g. National Inpatient Sample: ICD, procedures, and Demographics
+- May be missing because they were not obtained/recorded by the clinician
+- Desired Specs:
+- REALLY simple: Usable by researchers (available as ShinyApp on my github). No ML
+- Usable on different data-sets:
+- e.g. NHIS (ICD codes & demographics only), health record data (more data elements)
+- Probabilistic: Give either a categorical (v. low, low, high, v. high) or numerical prediction.
+- Some tasks warrant high specificity; others high sensitivity. Allows researcher discretion
+### Slide 40
+- HCO3- ≥ 27 mEq/L
+- (& K ≥ 4.0 mEq/L)
+- HCO3- < 27 mEq/L
+- (or K < 4.0 mEq/L)
+- PaCO2 ≥ 45 mmHg
+- True Positive
+- False Negative
+- PaCO2 < 45 mmHg
+- False Positive
+- True Negative
+- ABG and BMP obtained on the same day
+- TriNetX: inception to now (~2018)
+- Categorize by level of care of encounter (Ambulatory, ED, Inpatient, ICU)
+- Categorize by whether they had received a diagnosis for CHF, COPD, OSA, Neuro, Opiate Use
+- n242,298 with paired ABG-BMP
+- Age
+- 65±19 years
+- Female
+- 47%
+- Race/Ethnicity
+- 17% Black
+- 62% White
+- 22% (n53,3k)
+- HCO3- ≥ 27 mEq/L & K+ ≥ 4.0 mEq/L
+- 15% (n36.3k)
+- 23% (n55.7k)
+- Accuracy of ↑HCO3- only to predict ↑PaCO2
+- Spectrum Bias; Thresholds
+### Slide 41
+- Adding potassium ≥ 4.0 mEq/L criterion
+- Accuracy of ↑HCO3- only to predict ↑PaCO2
+### Slide 42
+- SRMA: Use of HCO3- in a outpatient sleep study center: different characteristics.
+### Slide 43
+- Can you combine different data-elements?
+- Aim: identify hypercapnia to a certain threshold probability
+- Bayes theorem:
+- LR represents informativeness of a test
+- (↑)Pretest (↓)LR (no 𝚫) Posttest
+- Regardless of specific threshold
+- To assess accuracy: need a “ground truth”: What to use when ABG not obtained?
+- Many conditions: ”clinician review”, not possible nor feasible
+- Proposal: Inverse probability of ABG weigting.
+### Slide 44
+- 35
+- 55
+- P(Hypercap | Blue) 1/3
+- P(Hypercap | Red) 2/3
+- CO2
+- Inverse Probability (of Testing) Weighting to create a pseudopopulation approximating if everyone had an ABG
+- To simplify, imagine everyone is either not-hypercapnic (PaCO2 35) or hypercapnic (PaCO2 55)
+### Slide 45
+- 35
+- 2/3
+- 55
+- 1/3
+- P(ABG | Blue) 2/3
+- P(ABG | Red) 1/3
+- P(Hypercap | Blue) 1/3
+- P(Hypercap | Red) 2/3
+- CO2
+- P(ABG)
+- Inverse Probability (of Testing) Weighting to create a pseudopopulation approximating if everyone had an ABG
+- To simplify, imagine everyone is either not-hypercapnic (PaCO2 35) or hypercapnic (PaCO2 55)
+- Imagine we know (or perfectly model) the propensity of different types of people to get ABGs
+### Slide 46
+- 35
+- 2/3
+- 55
+- 1/3
+- P(ABG | Blue) 2/3
+- P(ABG | Red) 1/3
+- P(Hypercap | Blue) 1/3
+- P(Hypercap | Red) 2/3
+- CO2
+- P(ABG)
+- Who actually gets an ABG?
+- (in real life, there would be some noise)
+### Slide 47
+- 35
+- 2/3
+- 55
+- 1/3
+- P(ABG | Blue) 2/3
+- P(ABG | Red) 1/3
+- P(Hypercap | Blue) 1/3
+- P(Hypercap | Red) 2/3
+- CO2
+- P(ABG)
+- Unweighted Analysis
+- 2 of 18 have documented CO2 > 45
+- Calculated Relative Risk: 1
+- Actual Relative Risk: 2
+### Slide 48
+- 35
+- 2/3
+- 55
+- 1/3
+- P(ABG | Blue) 2/3
+- P(ABG | Red) 1/3
+- P(Hypercap | Blue) 1/3
+- P(Hypercap | Red) 2/3
+- CO2
+- P(ABG)
+- Weighted Analysis
+- Weight Inverse of propensity
+- Blue 1.5
+- Red 3
+- Actual Relative: 2
+### Slide 49
+- ‘Silver’ Standard: Inverse Probability (of ABG) Weighted PaCO2
+- Intuition behind the propensity weighted ‘pseudopopulation’:
+- If a patient has the finding, but was unlikely to get the test: there are probably many more out there that aren’t captured.
+- It is a valid approximation to the extent that:
+- Observations are independent and identically distributed 👍
+- Overlap: some possibility that each patients might have/not get an ABG 👍
+- Conditional independence: after account for all the covariates, there is no longer an association between the P(ABG) and P(PaCO2 > 45) 👎
+- To the extent we can capture the reasons for chance variation in the propensity score, it will improve estimation of the features associated with hypercapnia (if an ABG had been checked in everyone)
+### Slide 50
+- LASSO Ordinal logistic regression(s)
+- Problem: many possible predictors: which ones do you choose?
+- Take a set of ~10-15 physio/sociologically plausible predictors
+- LASSO: most parsimonious set of predictors to allow for a categorical probabilistic assessment of hypercapnia (within 24h of admission) if it were checked.
+- Separate model for diagnostic codes only (expect lower discriminative ability)
+- Separate model including lab values (EHR data-set)
+- Very High Probability (90%+) of hypercapnic RF
+- Age
+- BMISex
+- Dx Hypercap. RF?
+- Dx Any Resp Failure?
+- COPD?
+- Etc..
+- HCO3
+- Cl-
+- VBG? PCO2; pH
+- ABG? PCO2; pH
+- …
+- (API & published regression equation)
+### Slide 51
+- Will it work? Validation
+- Retrospective Validation in an independent data set (Acute, Chronic)
+- Collaborators EHR, or MIMIC etc.
+- Retrospective Validation at U of U with elevation correction
+- Prospective K23 Grant Application: obtain SennTec TcCO2 (95% LOA: +/- 7mmHg) on a random sample of patients admitted and predicted to various levels of PaCO2 probability. 3 Aims Addressed
+- Does the identification algorithm work?
+- What happens to the hypercapnic patients? (cohort, care processes)
+- How well do clinicians do at identification? (and does it matter?)
+- Grant Writing Fall 2023; Aim for Feb 2024 NIH Grant Cycle
+### Slide 52
+- Questions? Comments
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Project Potpourri
+- Roadmap
+- Does PA size predict mortality?
+- PA diameter
+- Unadjusted
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Project Potpourri
+- Roadmap
+- Does PA size predict mortality?
+- PA diameter
+- Unadjusted
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +910,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/June 2023 RIP copy.pptx](archive/Presentations/June%202023%20RIP%20copy.pptx)
-- [Presentations/June 2023 RIP.pptx](archive/Presentations/June%202023%20RIP.pptx)
+- [Presentations/June 2023 RIP copy.pptx](../../archive/Presentations/June%202023%20RIP%20copy.pptx)
+- [Presentations/June 2023 RIP.pptx](../../archive/Presentations/June%202023%20RIP.pptx)
 
 ## Source materials
-- [Presentations/June 2023 RIP copy.pptx](archive/Presentations/June%202023%20RIP%20copy.pptx)
-- [Presentations/June 2023 RIP.pptx](archive/Presentations/June%202023%20RIP.pptx)
+- [Presentations/June 2023 RIP copy.pptx](../../archive/Presentations/June%202023%20RIP%20copy.pptx)
+- [Presentations/June 2023 RIP.pptx](../../archive/Presentations/June%202023%20RIP.pptx)

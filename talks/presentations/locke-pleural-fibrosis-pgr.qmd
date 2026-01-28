@@ -4,19 +4,394 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Acute on Chronic…Pleural?...Failure
+- About Me
+- Learning Objectives
+- Case presentation
+
+## Slide outline
+### Slide 1
+- Acute on Chronic…Pleural?...Failure
+- Brian Locke, MD
+### Slide 2
+- About Me
+### Slide 3
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 4
+- Case presentation
+- 85M – evaluated for 2 years of slowly progressive shortness of breath
+- initially with vigorous exercise, but continued to jog, ski
+- now to the point of being winded with changing rooms.
+- very orthopneic
+- unintentional 30 lb weight loss
+- no cough
+- no fevers, chills
+- Case Summary: 85M
+- 2y progressive SOB
+### Slide 5
+- Case presentation
+- 2008: Hodgkin’s Lymphoma: 6 rounds of ABVD. Bleomycin in last 2 cycles drop in DLCo and fevers. 36 Gy of radiation to mediastinum. Surveillance scans w no recurrent tumor in chest/pelvis.
+- 2016: CAD, STEMI, PCI to LAD and RCA (nonculprit). Subsequent ICM, LVEF 45, mod MR
+- HTN, melanoma-in-situ, BPH, HLD
+- Meds: rosuvastatin, carvedilol, ASA, lisinopril
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+### Slide 6
+- Case presentation
+- Retired lawyer (real-estate and business)
+- Served in Army – was stationed in Germany.
+- Lives in Wasatch Front with wife, has for essentially entire life.
+- Lifetime nonsmoker, non-drinker. No drugs.
+- No recent travel.
+- No relevant family history.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+### Slide 7
+- Case presentation
+- VS: 112/68, Pulse 87, T 36.5, RR 14, BMI 21
+- Exam: No LAD, speaking in full sentences, diminished BS in R base, CTA, 3/6 systolic murmur, no edema
+- US: simple effusions: small on left, moderate on R
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions
+### Slide 8
+- Case presentation
+- CT Scan:
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions
+### Slide 9
+- Case presentation
+- Diagnostic and Therapeutic thoracentesis:
+- “Using ultrasound guidance, thoracentesis performed with the insertion of the catheter and 600 mL of blood-tinged fluid was drained. Opening pressure was +4 cm water. Pressure dropped over the last 30 ml of drainage to a closing pressure of -30 cm water”
+- LDH 387, glu 106, prot 3.7, no malignant cells, RBC 90k (+clots), 89% lymphs
+- Some improvement in symptoms.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 10
+- Case presentation
+- Differential?
+- Next Step?
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 11
+- TODO: No text extracted from this slide.
+### Slide 12
+- Case presentation
+- Differential?
+- Complication related to prior chemotherapy? Bleomycin toxicity (lung, heart)
+- Complication of prior mediastinal radiation (both medial sections of lung in the field)?
+- Unrecognized asbestos exposure?
+- Recurrence (~30% if high risk, 10% if low. W/n first 2 years) or secondary cancer (leading cause of death in survivors)?
+- Next Step?
+- Repeat thora, or VATS
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 13
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 14
+- Asbestos-related Pleuropulmonary Disease
+- Asbestosis (pneumoconiosis, lung disease)
+- Only associated with occupational exposure.
+- Benign Asbestos Pleural Effusion (BAPE)
+- Exudative, bloody, 1/3 with elevated eosinophils
+- Pleural Plaques (seen in 60%, next slide)
+- Diffuse Pleural Thickening (seen in 5-14%)
+- Unilateral, involves lung apex and costophrenic recess
+- Might be a result of recurrent BAPE
+- Can involve visceral pleural
+- Can lead to Restriction / symptoms
+- Asbestos-related pleural fibrosis
+- Mesothelioma
+- Associated with both occupational exposure and background
+### Slide 15
+- Pleural Plaques:
+- Asbestos-related pleural plaques: high specificity when sharp, elevated opacity of the parietal pleura with a surface of several square centimeters and a thickness varying from several millimeters to 1 cm.
+- 20-30 year latency
+- Occur on the parietal surface, posterior rib space 6-9, sparing the costophrenic angle. Many are NOT calcified
+- Asymptomatic
+- Do not need to be followed: no malignant potential. However, they are a marker of increased risk
+- Non-Asbestos causes of pleural plaques
+- Pleural tumor (mets, mesothelioma)
+- Granulomatous disease such as pleural Tb
+- Prior empyema
+- Prior hemothorax
+- BMJ 2013;346:e8376
+### Slide 16
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 17
+- Complications of HL and treatment
+- Ng AK et al. N Engl J Med 2010;363:664-675.
+- Radiation
+- Radiation lung-injury -> fibrosis, cicatrization bronchiectasis
+- Recall, organizing pneumonia
+- Injury to thoracic duct?
+- ABVD (primarily, bleomycin)
+- 10-53% pulm complications (dep on def)
+- Fatal 4-5%, functional impairment 15-18%
+- RFs: Age, Smoking, FiO2, Radiation, Dose/etc.
+- Bleo-Pneumonitis, Bleo-HP, EP-DAD (Acute)
+- Fibrosis UIP/NSIP/Unclassifiable (Indolent)
+- Pleuroparenchymal fibroelsatosis
+### Slide 18
+- Case presentation
+- VATS, decortication findings
+- Fluid analysis similar
+- Pleural peel decortication: fibrous pleuritis (visceral and pleural biopsies). No malignancy. No asbestos fibers. Cx negative
+- Parietal pleura very thick, rock hard. Scattered calcified plaques, gelatinous visceral pleural peel.
+- RML and RLL entrapment – only 75-80% expansion after debridement
+- PleurX placement (and chest tube)
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 19
+- Case presentation
+- VATS, decortication: findings
+- Fluid analysis similar
+- F pleural peel decortication: fibrous pleuritis (visceral and pleural biopsies). No malignancy. Cx negative
+- PleurX placement
+- Parietal pleura very thick, rock hard. Scattered calcified plaques, gelatinous pleural peel.
+- RML and RLL entrapment – only 75-80% expansion after debridement
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 20
+- Case presentation
+- Differential now? Fibrous Pleuritis…
+- Medical thorascopy: 90% sensitivity for malignancy
+- No asbestos fibers, no known exposure
+- What makes some pleural inflammation organize into a fibrous process?
+- RA-associated effusions will, SLE-related effusions will not
+- Not all inadequately drained hemothoraces organize. Some post-infectious fibrous peel’s regress.
+- Hypothesized to relate to extent of mesothelial injury, specific inflammatory mediators that sustain the response (Tissue Factor, VEGF), and amount of fibrinogen in the fluid
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+### Slide 21
+- TODO: No text extracted from this slide.
+### Slide 22
+- Case presentation
+- Post-op course: persistent air leak (3-weeks).
+- SOB not improving. Desat to 88% with exertion (O2 written)
+- PleurX removed 6 weeks post-op
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+### Slide 23
+- Case presentation
+- Post-op course: persistent air leak (3-weeks).
+- SOB not improving. Desat to 88% with exertion (O2 written)
+- PleurX removed 6 weeks post-op
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+### Slide 24
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 25
+- What do we call this now?
+- Non-expandable lung
+- 1. endobronchial lesion and collapse
+- 2. chronic atelectasis (chronic atelectasis, the lung may re-expand over several days as long as the underlying lung parenchyma is devoid of significant fibrosis)
+- 3. Visceral pleural restriction due to pleural disease.
+### Slide 26
+- Visceral Pleural Restriction
+- Trapped lung a diagnosis (of exclusion)
+- fibrous visceral pleural peel in the absence of active pleural inflammation.
+- Either transudate or protein discordant exudate.
+- The mechanical effect of the fibrous peel is the problem. Can be solved by decortication.
+- Essentially caused by defective healing.
+- Entrapped lung fibrous pleural peel secondary to active inflammation
+- May or may not be expandable
+- The active inflammation is the primary problem (treatment must address that)
+### Slide 27
+- Case presentation
+- Progressive dyspnea, now at rest. Wearing 2L O2 24h. Presents to ER for epistaxis.
+- Additional 20 lb weight loss.
+- Exam: AF, Pulse 99, BP 99/74, RR 40, BMI 19.3
+- 2-word dyspnea, accessory muscle use, no
+- adventitious breath sounds, no edema. AOx4
+- ABG 7.376 / 56.5 /86.9 (2L)
+- CBC: Hgb 10, WBC 6. CMP: HCO2 28, sCr 0.75. All the rest normal.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+- Progressive dyspnea and wt loss
+### Slide 28
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 29
+- Why is this patient short of breath?
+### Slide 30
+- Why is this patient short of breath?
+### Slide 31
+- Case presentation
+- TTE: 26% LVEF w global hypokinesis, Severe TR, Mod MR, IVC collapsible
+- LHC/RHC: Small ramus CTO, no other occlusive dz. RA 2 mmHg, PA 43/14 (24), PCWP 9, CI 2.94.
+- EKG: LVH, normal amplitude.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+- Hypercapnic respiratory failure
+### Slide 32
+- TODO: No text extracted from this slide.
+### Slide 33
+- Case presentation
+- Thoracentesis: L side: 10cc aspirated (unable to do more) – 33k RBCs, 83% lymphs, pH 7.36. Flow and cytology negative.
+- R side: 150cc aspirated (pH 7.2, same as L)
+- ESR 91, CRP 11.5
+- ANA 1:320 speckled cytoplasmic titer, reflex ab panel negative. RF 12 (normal), CCP 27 (wk +). Anti-PR3 weak positive.
+- K and L light chains elevated, ratio mildly elevated. SPEP without M-prot.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+- Hypercapnic respiratory failure
+### Slide 34
+- Case presentation
+- Workup:
+- Pleural fluid
+- L side: 10cc aspirated (unable to do more) – 33k RBCs, 83% lymphs, pH 7.36, no monoclonal
+- R side: 150cc aspirated (pH 7.2, otherwise the same)
+- CCP of fluid 24 (mildly elevated)
+- CT Abd with an ambiguous liver lesion.
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+- Hypercapnic respiratory failure
+### Slide 35
+- TODO: No text extracted from this slide.
+### Slide 36
+- Case presentation
+- Remaining course:
+- Empiric CTX vs liver abscess
+- Empiric methylpred vs autoimmune process
+- Worsening respiratory failure prompting ICU transfer
+- Transfer to comfort care, passes away.
+- Son in law “Please extend our family’s appreciation to your entire team”
+- Limited thoracic autopsy authorized, still pending
+- Case Summary: 85M
+- 2y progressive SOB
+- Hx Hodgkins Lymph. STEMI 2016, LVEF 45 mod MR.
+- L > R effusions, calcified pleural plaques. Bloody exudate w/o malignant cells.
+- Entrapped Lung, fibrous pleuritis. No asbestos, no malig
+- No R lung expansion 6 weeks PleurX.
+- Hypercapnic respiratory failure
+### Slide 37
+- Case presentation
+- Proof of concept
+### Slide 38
+- Learning Objectives
+- Review the presentation of asbestos-related pleuropulmonary disease
+- Discuss cardiopulmonary complications of Hodgkin’s Lymphoma and its treatment
+- Explain the difference between types of non-expanding lung
+- Review mechanisms of ventilatory failure
+- Bonus round: Physiology of dyspnea in pleural effusions
+### Slide 39
+- References
+- Maskell, Nick. "British thoracic society pleural disease guidelines-2010 update." (2010): 667-669.
+- Downer, Nicola J., Nabeel J. Ali, and Iain TH Au-Yong. "Investigating pleural thickening." Bmj 346 (2013).
+- Ng, Andrea K., et al. "Case 24-2010: A 56-Year-Old Woman with a History of Hodgkin's Lymphoma and Sudden Onset of Dyspnea and Shock." New England Journal of Medicine 363.7 (2010): 664-675.
+- Ogilvie, A. G. "Final results in traumatic haemothorax: A report of 230 cases." Thorax 5.2 (1950): 116.
+- Harris RJ, Kavuru MS, Mehta AC, Medendorp SV, Wiedemann HP, Kirby TJ, et al. The impact of thoracoscopy on the management of pleural disease. Chest 1995;107:845-52.
+- Hansen M, Faurschou P, Clementsen P. Medical thoracoscopy, results and complications in 146 patients: a retrospective study. Respir Med 1998;92:228-32.
+- Doelken, Peter. "Clinical implications of unexpandable lung due to pleural disease." The American journal of the medical sciences 335.1 (2008): 21-25.
+- Hu, Kurt, et al. "Pleural manometry: Techniques, applications, and pitfalls." Journal of Thoracic Disease 12.5 (2020): 2759.
+- Heidecker J, Huggins JT, Sahn SA, et al. Pathophysiology of pneumothorax following ultrasound-guided thoracentesis. Chest 2006;130:1173–84.
+- Kapitan, Kent S. "Ventilatory failure. Can you sustain what you need?." Annals of the American Thoracic Society 10.4 (2013): 396-399
+- Miller, Albert, Alvin S. Teirstein, and Irving J. Selikoff. "Ventilatory failure due to asbestos pleurisy." The American journal of medicine 75.6 (1983): 911-919.
+### Slide 40
+- How do pleural effusions cause dyspnea?
+- This comes up endlessly on consults – it’s assumed that if the effusion is there and can be drained, it should be for symptomatic relief
+- And particularly, how does a non-expandable lung cause dyspnea?
+### Slide 41
+- Pleural Effusions in General
+- Gas exchange – shunting. Thora -> 18% P:F ratio improvement in ventilated patients (at 24h, more than immediate) by shunt redution. Instilling saline in pig pleura makes them hypoxemic.
+- Improvement inversely correlates with pleural elastance.
+- Our patient was not hypoxemic
+- Mechanical: pleural drainage results in deflation of the thoracic cage, and thus improvement in lung volumes.
+### Slide 42
+- Pleural Effusions in General
+- Gas exchange – shunting. Thora -> 18% P:F ratio improvement in ventilated patients (at 24h, more than immediate) by shunt redution. Instilling saline in pig pleura makes them hypoxemic.
+- Improvement inversely correlates with pleural elastance.
+- Our patient was not hypoxemic
+- Mechanical: pleural drainage results in deflation of the thoracic cage, and thus improvement in lung volumes.
+- Large effusions can limit CO in exercise (diastolic collapse)
+- Diaphragm – flattening of diaphragm? Pendulum breathing? (would improve supine)
+- Restriction (visceral pleura rind)
+### Slide 43
+- How does trapped lung cause dyspnea?
+- Restriction
+- Why did IPC not improve symptoms? “Symptomatic improvement with thoracentesis suggests efforts to reduce pleural fluid accumulation will provide continued symptomatic relief.” If it does not help.. Other causes of dyspnea should be investigated.
+- )
+- Adhesion of the parietal and diaphragmatic pleura in the zone of apposition of the diaphragm to the chest wall could restrict the ability of the diaphragm to shorten, and could, by limiting separation of the diaphragm and lower rib cage, limit the ability of the rib cage to expand
+- “trapped lung”: trapped lung do not have symptoms referable to the pleural effusion, although some patients complain of shortness of breath due to a restrictive ventilatory defect
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Acute on Chronic…Pleural?...Failure
+- About Me
+- Learning Objectives
+- Case presentation
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Acute on Chronic…Pleural?...Failure
+- About Me
+- Learning Objectives
+- Case presentation
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,7 +408,7 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/Locke - Pleural Fibrosis PGR.pptx](archive/Presentations/Locke%20-%20Pleural%20Fibrosis%20PGR.pptx)
+- [Presentations/Locke - Pleural Fibrosis PGR.pptx](../../archive/Presentations/Locke%20-%20Pleural%20Fibrosis%20PGR.pptx)
 
 ## Source materials
-- [Presentations/Locke - Pleural Fibrosis PGR.pptx](archive/Presentations/Locke%20-%20Pleural%20Fibrosis%20PGR.pptx)
+- [Presentations/Locke - Pleural Fibrosis PGR.pptx](../../archive/Presentations/Locke%20-%20Pleural%20Fibrosis%20PGR.pptx)

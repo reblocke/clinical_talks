@@ -4,19 +4,476 @@ draft: true
 ---
 
 ## Summary
-TODO: Summarize the slide/PDF content once curated.
+- Brian Locke R.I.P. May/2022
+- Overall research hypotheses:
+- How common are admissions with hypercapnia?
+- Hypercapnia
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Preliminary Results
+- ABG
+- For accurate determination of
+- Computable Phenotype
+
+## Slide outline
+### Slide 1
+- Brian Locke R.I.P. May/2022
+### Slide 2
+- Overall research hypotheses:
+- Surprisingly little is known about the epidemiology Hypercapnic Respiratory Failure
+- Yet, the limited evidence suggests high morbidity and mortality
+- Broad “syndrome” definitions are most useful for improving processes of care, yet no effective processes of care exist for hypercapnic respiratory failure.
+- ’Surviving Sepsis’, LTVV, GDMT, etc….
+- There is an unmet need to understand:
+- Who these patients are, what is the personal/societal burden, who should be studied for management strategies.
+### Slide 3
+- How common are admissions with hypercapnia?
+- New in 2022: Liverpool AUS, 1 regional hospital services the district
+- Identified by initial ABG (w/n 24h) PaCO2 over 45, excluded iatrogenic causes/sedation. N891 people, 1135 blood gasses (repeat hosp.)
+- Normalized rates of hypercapnia to population demographics
+- 150 per 100,000 person/year, Acidosis in 55%.
+- Compared to Age 45-54:
+- RR 55-64: 2.1
+- RR 65-74: 6.2
+- RR 75-84: 15.7
+- RR 85-94: 26.2
+### Slide 4
+- How common are admissions with hypercapnia?
+- New in 2022: Liverpool AUS, 1 regional hospital services the district
+- Identified by initial ABG (w/n 24h) PaCO2 over 45, excluded iatrogenic causes/sedation. N891 people, 1135 blood gasses (repeat hosp.)
+- Normalized rates of hypercapnia to population demographics
+- 150 per 100,000 person/year, Acidosis in 55%.
+- Compared to Age 45-54:
+- RR 55-64: 2.1
+- RR 65-74: 6.2
+- RR 75-84: 15.7
+- RR 85-94: 26.2
+### Slide 5
+- Hypercapnia
+- Are admissions with hypercapnia becoming more common?
+- Obesity Rates- USA
+- ICD Code for PE
+- This method will not work for hypercapnia
+- Maybe?
+### Slide 6
+- Admitted (ICU or floor) with one of the following diagnostic codes:
+- J96.02 (acute hypercapnic respiratory failure)
+- J96.22 (acute and chronic respiratory failure with hypercapnia)
+- J96.92 (respiratory failure unspecified with hypercapnia)
+- J96.12 (chronic respiratory failure with hypercapnia)
+- E66.2 (morbid obesity with hypoventilation)
+- 30d Readmission rate: 23% (2/3 recurrence)
+- ~ CHF. > than MI, AECOPD, PNa
+- Admitted to hospital (Floor or ICU) with ABG showing PaCO2 over 45 mmHg and pH 7.35-7.45
+- COPD (2/3)
+- No COPD (1/3)
+- AHI Median
+- [IQR]
+- 31.9
+- [14.3, 45.6]
+- 66.0
+- [48.0, 83.8]
+- AHI > 5 present
+- 66%
+- 94%
+- AHI > 15 present
+- 51%
+- 81%
+- 1. Admitted to the ICU
+- 2. PaCO2 greater than 47.25 mmHg
+- 3. Procedure code for non-invasive ventilation or invasive mechanical ventilation initiation
+- Admissions with hypercapnia indicate high risk of morbidity; may be driven by treatable conditions
+### Slide 7
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke
+- Krishna Sundar
+- Jeanette Brown
+- Ramikiran Gouripeddi
+### Slide 8
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+- Hypothesis 1: The methods used in prior studies of hypercapnic respiratory failure (billing code-, procedural code-, and blood-gas-based criteria) identify different patients.
+- Outcome: Relative Sensitivity; Positive Predictive Agreement
+- Hypothesis 2: The cohorts created by these differ methods differ in risk for outcomes of interest, which hampers interpretation of these studies.
+- Outcome: distribution of age, ethnicity, BMI, and frequency of coexisting diagnoses (OSA, opiate use disorder, COPD, CHF, and neuromuscular disease)
+- 69 Million MRNs aggregated from 50 academic medical centers
+- Deidentified patient level data, including admissions, diagnoses, medications, procedures, and lab values.
+- Missing data?
+### Slide 9
+- Preliminary Results
+- ICD Group:
+- Relative sensitivity (vs ABG): 19.8%
+- Positive Predictive Agreement (vs ABG): 47.0%
+- NIV Group:
+- Relative sensitivity (vs ABG): 15.2%
+- Positive Predictive Agreement (vs ABG): 45.2%
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 10
+- ABG
+- Group
+- ICD
+- NIV
+- Age
+- 62±18
+- 65±16
+- 62±17
+- % Female
+- 46%
+- 51%
+- 42%
+- % white
+- 66%
+- 71%
+- 65%
+- % Black
+- 18%
+- 19%
+- 17%
+- BMI
+- 30.4±8.3
+- 33.1±10.3
+- 29.1±8.2
+- % with CHF
+- 37%
+- 30%
+- % with COPD
+- 31%
+- 14%
+- % Opiate UD
+- 6%
+- 3%
+- % Sleep Apnea
+- 23%
+- 24%
+- 10%
+- Remaining Analyses:
+- Stratification by time of ABG
+- Data integrity checks:
+- Require each type of info from source during admission
+- Sensitivity analysis among patients with all 3 data-types
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 11
+- For accurate determination of
+- Trends in hypercapnic respiratory failure incidence
+- Frequency of different comorbidities or component causes
+- Morbidity and mortality associated with hypercapnia
+- Who should be included in future studies to determine frequency benefit from treatment
+- ... method of patient identification likely matters
+- Questions?
+- …next steps
+- Common Methods of Identifying Hypercapnic Respiratory Failure Produce Meaningfully Different CohortsBrian Locke, Krishna Sundar, Jeanette Brown, Ramikiran Gouripeddi
+### Slide 12
+- Computable Phenotype
+- How should we identify patients for these studies?
+- Pretest Information Post-test confidence
+- Definition: electronic cohort definition for enrolling patients
+- Can use machine learning or other complex algorithms
+- Or, can be human understandable (understandable, trustable, generalizable)
+- Hypothetical example
+- Include if any of the following
+- Exclude if any of the following
+- First ABG PaCO2 > 45 mmHg
+- Receiving IMV prior to blood gas
+- Serum HCO3 over 27 and BMI over 35
+- Within 3 hours of anesthesia
+- ICD code for hypercapnic RF
+- ICD code for any resp failure, VBG with PaCO2 > 50 and SO2 over 50%
+- Etc..
+### Slide 13
+- Study design:
+- IRB approved
+- Request EDW data on all patients admitted (2015- ) meeting any of the following enrichment criteria:
+- Diagnostic code for respiratory failure
+- Blood gas obtained during admission
+- Procedure code for starting non-invasive or invasive mechanical ventilation or CPAP
+- BMI over 30 & HCO3 over 25?
+### Slide 14
+- Study design:
+- Random sample of charts: in each category
+- Review by 2 raters (inter-rater agreement)
+- Reference “Silver Standard”
+- Classification:
+- Definite non-iatrogenic hypercapnic respiratory failure
+- Probable iatrogenic hypercapnic respiratory failure
+- Probable non-iatrogenic hypercapnic respiratory failure
+- Uncertain hypercapnic respiratory failure
+- Hypercapnic respiratory failure excluded
+### Slide 15
+- Study design:
+- Calculate Se and Sp for Definite and Probable non-iatrogenic hypercapnic respiratory failure with various definitions
+- # of charts? Est 300 UU patients/month in Venn
+- -- 15,000 population, 95% CI, 5% margin and 10% expected proportion with ‘true’ hypercapnia
+- 120 charts to review.
+- Generalizability: Regenerate venn-diagram on TriNetX data (nationally representative data)
+- Implication: if patterns of overlap similar, accuracy may be too
+### Slide 16
+- Caveats:
+- Will inter-rater agreement be sufficient?
+- Do we know what the concept should mean?
+- Is “Hypercapnic Respiratory Failure” too heterogenous to study?
+- Studying ’syndromes’ haven’t been particularly fruitful
+- Intended use: enroll in studies
+- Not: Best-practice alert to consider hypercapnia in an individual patient
+- Is UT generalizable to everywhere else?
+- What ‘features’ should we use to generate the rules?
+- Age? (analogy: Age-adjusted D-dimer, similar epidemiology)
+- [HCO3-]? …
+### Slide 17
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+### Slide 18
+- Pooled-analysis of 5 studies (n335 w/ OHS, n1037 eucapnic obese)
+- Serum HCO3 > 27 mEq/L: +LR 3.74; -LR 0.18
+### Slide 19
+- “In acclimatized people, the decrease in [HCO3-] is 1.5 mEq/L per each 1000 m”
+- Change in variance?
+### Slide 20
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- ERS 2018: Obesity-related hypoventilation paradigm
+### Slide 21
+- Changes in Bicarbonate in Patients at Risk for Obesity Hypoventilation Undergoing Bariatric SurgeryBrian Locke, Conrad Addison, Somya Mishra, Krishna Sundar
+- Hypothesis 1: [HCO3-] has low enough biologic variation to functional usable surrogate for nocturnal CO2 retention peri-bariatric surgery
+- Outcome: intra-patient variability in measurement, frequency of metabolic disturbances
+- Hypothesis 2: Δ[HCO3-] has construct validity as an index of response to interventions that decrease nocturnal CO2 loading
+- Δ[HCO3-] will be higher in patients who lose more weight, or who adhere to CPAP.
+### Slide 22
+- Methods
+- Retrospective Cohort
+- Patients: Adult patients undergoing bariatric surgery at U of Utah (2011-2016): n358 had surgery, n122 included Exclusions:
+- n167 no testing or adherence data at our institution; 1 w/ AHI < 5
+- n68 (36%) meds influencing acid-base; 6 on multiple:
+- n15 on chronic opiates
+- n26 on loop diuretic
+- n22 on topiramate
+- Data: extracted from EHR. Evaluated at pre-op, 6, 12, 24, 36, 48, 60-mo post-op
+- Key exposure (time-varying): Weight (Excess Body Weight Lost; IBW BMI 22)
+- Key exposure (time-invariant): average PAP adherence taken from available remote-tracking flowsheets.
+- Outcome: Serum [HCO3-]
+### Slide 23
+- Total
+- Male
+- Female
+- p-value
+- N122
+- N30
+- N92
+- Age at surgery
+- 44.0 (37.0-55.0)
+- 42.5 (38.0-54.0)
+- 44.5 (36.0-56.0)
+- 0.80
+- BMI (kg/m^2) at surgery
+- 43.0 (39.8-47.8)
+- 41.9 (39.9-45.9)
+- 43.3 (39.8-48.6)
+- 0.21
+- Weight category
+- 0.91
+- Obesity (30-35)
+- 2% (3)
+- 3% (1)
+- 2% (2)
+- Severe Obesity (35-40)
+- 26% (32)
+- 27% (8)
+- 26% (24)
+- Severe Obesity (40+)
+- 70% (86)
+- 67% (20)
+- 72% (66)
+- Missing
+- 1% (1)
+- 0% (0)
+- Charlson Comorbidity Index at baseline
+- 2.0 (1.0-4.0)
+- 2.5 (1.0-3.0)
+- 0.38
+- Ever prescribed oxygen?
+- 33% (40)
+- 23% (7)
+- 36% (33)
+- 0.20
+- Sleep study available?
+- 81% (99)
+- 70% (21)
+- 85% (78)
+- 0.072
+- Diagnostic AHI (events/hr)
+- 23.1 (13.5-47.4)
+- 33.1 (18.5-59.5)
+- 20.4 (12.0-39.5)
+- 0.050
+- OSA Severity
+- 0.30
+- Mild
+- 23% (28)
+- 20% (6)
+- 24% (22)
+- Moderate
+- 20% (24)
+- 17% (5)
+- 21% (19)
+- Severe
+- 30% (36)
+- 43% (13)
+- 25% (23)
+- 28% (34)
+- 30% (28)
+- Any CPAP use in followup?
+- 72% (88)
+- 80% (24)
+- 70% (64)
+- 0.27
+- CPAP use 70%+ nights?
+- 25% (31)
+- 20% (18)
+- 0.009
+- Percentage of excess body weight lost at lowest weight during follow-up
+- 0.51 (0.40-0.69)
+- 0.56 (0.42-0.70)
+- 0.51 (0.38-0.67)
+- 0.28
+- HCO3 prior to surgery
+- 22.0 (21.0-24.0)
+- 22.5 (21.0-24.5)
+- 22.0 (21.0-23.5)
+- 0.17
+- sCr before surgery
+- 0.8 (0.8-0.9)
+- 0.9 (0.8-1.0)
+- 0.043
+- Presence of ERS stage 2 or higher OHS
+- 17% (21)
+- 15% (14)
+- 0.31
+### Slide 24
+- Hypothesis 1: [HCO3-] is a usable surrogate for nocturnal CO2 retention peri-bariatric surgery
+- 36% excluded for competing metabolic disturbances
+- Intraclass Correlation Coefficient % of variability explained by who is getting the blood draw (allowing for linear trend): 0.37 (95% CI 0.28-0.47)
+### Slide 25
+- Hypothesis 2: Δ[HCO3-] will be higher in patients who lose more weight or who adhere to CPAP.
+### Slide 26
+- Hypothesis 2: Δ[HCO3-] will be higher in patients who lose more weight or who adhere to CPAP.
+### Slide 27
+- Hypothesis 2: Δ[HCO3-] will be higher in patients who lose more weight or who adhere to CPAP.
+### Slide 28
+- Problem: Regression to the mean
+- 3 Ways to address:
+- Control group
+- Multiple baseline measurements
+- Use ANCOVA (aka linear regression) with baseline [HCO3-] as a predictor
+- where is the correlation between X and Y (0.31). How we use this depends on what data we have and how reliably we can estimate the elements of the equation.
+### Slide 29
+- Linear mixed(—effect) modeling
+- Regression: take some input variables→ predict an outcome ([HCO3-])
+- Idea: Use if data is clustered (repeat measures on the same person, each person belongs to a group, etc.)
+- Regression prediction has an error compared to observed (‘residual’) – break that down into: how far the person is (on avg) away from the sample mean, and how abnormal the individual measurement is from the persons average. What you get:
+- The influence of each of the predictors, accounting for the grouping.
+- Repeated measures of same person are not independent (ICC: 0.37)
+- Inter-
+- Intra-
+### Slide 30
+- Linear mixed model Inputs:Baseline [HCO3-], Age, Gender, %Nights w/ PAP use, Diagnostic AHI, Excess Body Weight LossMissing data: multiple Imputation with chained equationsInteractions between AgeGender (menopause), Diag AHICPAP Use, HCO3- dichotomized: no effect.
+- Marginal Effect: how much does [HCO3-] change during follow-up if you change the predictor variable, holding everything else constant?
+- Predictor
+- Marginal Effect
+- (mEq/L of [HCO3])
+- 95% CI
+- P-value
+- Starting [HCO3-] per mEq/L
+- 0.22
+- 0.081 to 0.35
+- P 0.002
+- Months post-op (per 6 mo)
+- 0.11
+- -0.017 to 2.30
+- P 0.09
+- Age (per decade)
+- 0.35
+- -0.003 to 0.076
+- P 0.07
+- Female gender
+- -0.39
+- -1.49 to 0.71
+- P 0.48
+- Compliance (per 10% nights used)
+- -0.0050
+- -0.13 to 0.11
+- P 0.94
+- Excess body weight lost (per 10%)
+- 0.071
+- -0.13 to 0.27
+- P 0.47
+- Diagnostic AHI (per 10 events/hr)
+- -0.032
+- -0.18 to 0.12
+- P 0.68
+### Slide 31
+- Hypothesis 2: Δ[HCO3-] will be higher in patients who lose more weight or who adhere to CPAP.
+- No. Why not?
+- Not very much OHS in our group
+- Elevation? Even with generous correction of 27 → 25 mEq/L (0.55-1.5 mEq/L per 3281 ft above sea level)
+- Mostly pre-menopausal females; Progesterone protective?
+- Some already optimized on PAP prior to enrollment? (wouldn’t influence non-adherers)
+- Competing metabolic acid-base disturbances?
+- Need stratification by type of weight loss surgery (some chart review)
+- Maybe the ERS framework is not accurate?
+- ERS Classification of OHS:
+- At risk
+- No Δ V̇
+- No Δ
+- Stage 1
+- Night ↓V̇
+- Stage 2
+- ↑HCO3-
+- Stage 3
+- Day↓V̇
+- ↑PaCO2
+- Stage 4
+### Slide 32
+- Summary and Next Steps
+- Barriers to HCO3- usability to track hypoventilation peri-bariatric surgery:
+- ~1/4 to 1/3 on meds expected to interfere with relationship.
+- Significant variability between measurement of same person.
+- Did not follow expected trends in improvement among a young, mostly female cohort at altitude with minimal compensatory alkalosis.
+- Stratify by surgery
+- Venue? Letter to editor?
+### Slide 33
+- Implications for broader research aims?
+- HCO3- by type of hypercapnic respiratory failure?
+- Pattern of CO2 loading may differ.
+- HCO3- may not be as good in acutely decompensated respiratory failure (compared to stably diagnosed OHS)
+### Slide 34
+- Useful References
+- TriNetX / EMR Phenotype
+- Bicarbonate in Bariatric Surgery
+### Slide 35
+- Challenges to this work:
+- Is hypercapnic respiratory failure a useful ‘syndrome’ epidemiologically?
+- It clearly is important diagnostically
+- Are different causes of hypercapnic respiratory failure more similar, or less?
+### Slide 36
+- Possible next steps:
+- Is hypercapnic respiratory failure becoming more common?
+- What are the most common causes of hypercapnic respiratory failure?
+- Possible study design:
+- What proportion of hypercapnia include OSA as a contributing cause?
+- Does ambient air pollution increase the risk of hypercapnic respiratory failure
+- Can you extract clinically salient aspects of hypercapnic respiratory failure – can’t breathe won’t breathe – from the chart.
+- Subphenotyping: best when supported by plausible mechanisms.
+
 
 ## Learning objectives
-- TODO: Define the core learning goals for this topic.
-- TODO: Identify 3–7 key takeaways for residents.
-- TODO: Clarify what decisions this talk supports.
+- Brian Locke R.I.P. May/2022
+- Overall research hypotheses:
+- How common are admissions with hypercapnia?
+- Hypercapnia
+- Admitted (ICU or floor) with one of the following diagnostic codes:
 
 ## Bottom line / summary
-- TODO: Summarize the highest-yield point.
-- TODO: Summarize the second-highest-yield point.
-- TODO: Summarize the third-highest-yield point.
-- TODO: Summarize the fourth-highest-yield point.
-- TODO: Summarize the fifth-highest-yield point.
+- Brian Locke R.I.P. May/2022
+- Overall research hypotheses:
+- How common are admissions with hypercapnia?
+- Hypercapnia
+- Admitted (ICU or floor) with one of the following diagnostic codes:
 
 ## Approach
 1. TODO: Outline the initial assessment or decision point.
@@ -33,9 +490,9 @@ TODO: Summarize the slide/PDF content once curated.
 TODO: Add landmark references or guideline citations.
 
 ## Slides and assets
-- [Presentations/RIP 5-21-22.pptx](archive/Presentations/RIP%205-21-22.pptx)
-- [Presentations/RIP 5-26-22.pptx](archive/Presentations/RIP%205-26-22.pptx)
+- [Presentations/RIP 5-21-22.pptx](../../archive/Presentations/RIP%205-21-22.pptx)
+- [Presentations/RIP 5-26-22.pptx](../../archive/Presentations/RIP%205-26-22.pptx)
 
 ## Source materials
-- [Presentations/RIP 5-21-22.pptx](archive/Presentations/RIP%205-21-22.pptx)
-- [Presentations/RIP 5-26-22.pptx](archive/Presentations/RIP%205-26-22.pptx)
+- [Presentations/RIP 5-21-22.pptx](../../archive/Presentations/RIP%205-21-22.pptx)
+- [Presentations/RIP 5-26-22.pptx](../../archive/Presentations/RIP%205-26-22.pptx)
