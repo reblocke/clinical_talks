@@ -37,7 +37,7 @@ TODO: Add landmark references or guideline citations.
 ## Source notes
 
 ### ARDS
-{{< include "archive/Clinical Practice Notes/ards.md" >}}
+{{< include "../../archive/Clinical Practice Notes/ards.md" >}}
 
 ## Source materials
-- [Clinical Practice Notes/ards.md](archive/Clinical%20Practice%20Notes/ards.md)
+- [Clinical Practice Notes/ards.md](../../archive/Clinical%20Practice%20Notes/ards.md)
