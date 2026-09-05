@@ -1,16 +1,9 @@
 # Clinical Talks — Codex instructions
 
 ## Project intent
-This repository is a Quarto-based set of resident-facing **Clinical Talks**: one topic per page, rendered as an HTML site (and optionally PDF).
+Maintain the existing resident-facing Clinical Talks Quarto site, with one topic per page. The initial port from `intro_clin_research` is complete; use that sibling only as a reference when a requested change needs it.
 
-### Primary goal (initial port)
-Port the **structure** (project layout, Quarto configuration, build/deploy conventions) from the sibling repository `intro_clin_research` into this repository, but retitle the project to **Clinical Talks** and convert the chapter concept into **topic pages** (content can be left as `TODO:` placeholders).
-
-### Secondary goal (subsequent prompts)
-Use materials in `archive/` to:
-- infer/curate an information architecture (topics → subtopics),
-- generate talk pages from source notes,
-- create internal links, navigation labels, and a lightweight taxonomy.
+For content-generation work, `archive/` supplies source notes, `include/source-notes/` contains normalized copies, and `content/manifest.yml` / `content/chapters.yml` record page and navigation mappings. The commands under “Generate / update talk pages” in `README.md` can overwrite generated sections; inspect the affected source and requested scope before invoking them.
 
 ## Authority hierarchy
 Resolve ambiguity/conflicts in this order:
@@ -25,7 +18,7 @@ Resolve ambiguity/conflicts in this order:
   - Do not delete, rewrite, or “clean up” archive files.
   - Prefer copying excerpts into `.qmd` pages while keeping originals intact.
 - Prefer **small, reviewable diffs** over broad refactors.
-- Do **not** run commands that change remote state (no `git push`, no `gh`, no release publishing) unless explicitly asked.
+- Do not change remote state, push, or publish releases unless explicitly asked. Read-only repository inspection is allowed.
 - Keep **network access off** by default. Do not fetch external content unless asked.
 
 ## Quarto + content conventions
@@ -62,27 +55,14 @@ Use `TODO:` explicitly whenever a section is intentionally incomplete.
 - Static assets go in `images/` (and/or `include/` if used by the template).
 - `archive/` should be excluded from rendering except for explicit links.
 
-## Workflow expectations (how to work in this repo)
-1. Start by checking `git status`. If it isn’t clean, **summarize** and stop unless instructed otherwise.
-2. Prefer working on a feature branch for non-trivial changes.
-3. Implement the **smallest working Quarto site** first (then expand):
-   - Title: **Clinical Talks**
-   - `index.qmd` landing page that explains what this is
-   - A handful of placeholder topic pages that render successfully
-4. Validate locally:
-   - `quarto check` (if available)
-   - `quarto render`
-5. End each milestone with:
-   - a short summary of what changed and why,
-   - verification commands run + outcomes,
-   - a pointer to “Next steps” (optionally in `docs/TODO.md`).
+## Workflow
+- Inspect the working state and preserve unrelated edits. Continue within the requested scope; ask only when target changes conflict or a material decision is unresolved.
+- An implementation request includes local source edits, relevant rendering/inspection, and fixing regressions caused by the change. Do not stop after the first implementation if those steps remain.
+- For prose edits, inspect the affected page and links and run `git diff --check`. Render the affected `.qmd` page when content or layout changes need visual verification.
+- For site configuration, navigation, or shared-template changes, use `quarto check` and `quarto render`, then inspect affected pages and navigation in the browser. Keep publishing separate from local validation.
+- Use generation scripts only for requested generation work; ordinary page edits do not require rebuilding the source manifest or repopulating all talks.
 
-## Definition of done (for the initial port)
-- `quarto render` completes successfully.
-- Site title is **Clinical Talks**.
-- Navigation includes topic pages and builds without broken references.
-- `archive/` remains intact and unmodified.
-- `README.md` includes:
-  - how to preview/build,
-  - how to add a new talk page,
-  - where source materials live (`archive/`).
+## Definition of done
+- Requested pages/configuration are updated and applicable local checks pass; report missing Quarto/runtime prerequisites explicitly.
+- Affected navigation and links work; `archive/` remains intact.
+- Update `README.md` when preview/build commands, adding-talk instructions, or source locations change.
